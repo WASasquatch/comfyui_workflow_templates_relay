@@ -347,7 +347,7 @@ class Catalog:
                     )
             L += [""]
 
-        packs = sorted(set(t.get("requiresCustomNodes") or []) | set(wf.get("custom_nodes") or []), key=str.lower)
+        packs = sorted(set(t.get("requiresCustomNodes") or []) | set(wf.get("custom_nodes") or []), key=lambda s: (s.lower(), s))
         if packs:
             L += ["## Custom nodes required", ""]
             L += [f"- [{p}](https://registry.comfy.org/nodes/{p})" for p in packs]
@@ -443,14 +443,14 @@ class Catalog:
 
     def render_grouped(self, title: str, intro: str, groups: dict[str, list], link_fmt=None) -> str:
         L = [f"# {title}", "", "[← Catalog](README.md)", "", intro, ""]
-        keys = sorted(groups, key=lambda k: (-len(groups[k]), k.lower()))
+        keys = sorted(groups, key=lambda k: (-len(groups[k]), k.lower(), k))
         L += ["| | Templates |", "|---|---|"]
         L += [f"| [{cell(k)}](#{slugify(k)}) | {len(groups[k])} |" for k in keys]
         L += [""]
         for k in keys:
             heading = link_fmt(k) if link_fmt else cell(k)
             L += [f'<a id="{slugify(k)}"></a>', "", f"## {heading}", ""]
-            for t in sorted(groups[k], key=lambda t: (t.get("title") or t["name"]).lower()):
+            for t in sorted(groups[k], key=lambda t: ((t.get("title") or t["name"]).lower(), t["name"])):
                 L.append(f"- [{cell(t.get('title') or t['name'])}]({self.link(t, 'catalog')}) — {cell(t['_category']['title'])}")
             L += [""]
         return "\n".join(L)
@@ -577,7 +577,7 @@ class Catalog:
                 page=f"catalog/{t['_page']}",
                 workflowUrl=f"{self.raw}/{t['name']}.json" if t["_has_json"] else None,
                 thumbnails=[f"{self.raw}/{f}" for f in self.thumbs(t)],
-                customNodes=sorted(set(t.get("requiresCustomNodes") or []) | set(wf.get("custom_nodes") or [])),
+                customNodes=sorted(set(t.get("requiresCustomNodes") or []) | set(wf.get("custom_nodes") or []), key=lambda s: (s.lower(), s)),
                 modelFiles=wf.get("models") or [],
                 nodeTypes=dict(sorted((wf.get("node_types") or {}).items())),
             )
