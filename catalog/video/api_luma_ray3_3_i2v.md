@@ -1,6 +1,6 @@
 # Luma Ray 3.2: Image to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_luma_ray3_3_i2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_luma_ray3_3_i2v-1.webp" width="360" alt="Luma Ray 3.2: Image to Video api_luma_ray3_3_i2v-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_luma_ray3_3_i2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Luma |
 | Tags | Image to Video, API |
 | Type | API |

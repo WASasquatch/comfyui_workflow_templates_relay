@@ -1,6 +1,6 @@
 # Surface Normal Estimation: Marigold V2
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_marigold_v2_surface_normal_estimation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_marigold_v2_surface_normal_estimation-1.webp" width="360" alt="Surface Normal Estimation: Marigold V2 image_marigold_v2_surface_normal_estimation-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_marigold_v2_surface_normal_estimation-2.webp" width="360" alt="Surface Normal Estimation: Marigold V2 image_marigold_v2_surface_normal_estimation-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_marigold_v2_surface_normal_estimation` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Marigold v2 |
 | Tags | Normal Estimation, Int8 |
 | Type | open source |

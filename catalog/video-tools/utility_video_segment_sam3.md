@@ -1,6 +1,6 @@
 # Video Segmentation: SAM3
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_video_segment_sam3)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_video_segment_sam3-1.webp" width="360" alt="Video Segmentation: SAM3 utility_video_segment_sam3-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility_video_segment_sam3` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | SAM3 |
 | Tags | Element Segmentation |
 | Type | open source |

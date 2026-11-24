@@ -1,6 +1,6 @@
 # Image Restoration: SUPIR
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_image_upscale_supir)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_image_upscale_supir-1.webp" width="360" alt="Image Restoration: SUPIR utility_image_upscale_supir-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_image_upscale_supir-2.webp" width="360" alt="Image Restoration: SUPIR utility_image_upscale_supir-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility_image_upscale_supir` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | SUPIR |
 | Tags | Image Upscale |
 | Type | open source |

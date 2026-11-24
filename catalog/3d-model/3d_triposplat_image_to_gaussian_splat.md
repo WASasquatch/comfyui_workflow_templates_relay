@@ -1,6 +1,6 @@
 # TripoSplat: Image to Gaussian Splat
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=3d_triposplat_image_to_gaussian_splat)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_triposplat_image_to_gaussian_splat-1.webp" width="360" alt="TripoSplat: Image to Gaussian Splat 3d_triposplat_image_to_gaussian_splat-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `3d_triposplat_image_to_gaussian_splat` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | TripoSplat |
 | Tags | 3D, Image to 3D |
 | Type | open source |

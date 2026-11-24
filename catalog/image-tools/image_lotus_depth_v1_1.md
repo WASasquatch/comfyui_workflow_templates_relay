@@ -1,6 +1,6 @@
 # Depth Estimation: Lotus
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_lotus_depth_v1_1)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_lotus_depth_v1_1-1.webp" width="360" alt="Depth Estimation: Lotus image_lotus_depth_v1_1-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_lotus_depth_v1_1-2.webp" width="360" alt="Depth Estimation: Lotus image_lotus_depth_v1_1-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_lotus_depth_v1_1` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | SD1.5, Stability |
 | Tags | Image, Text to Image |
 | Type | open source |

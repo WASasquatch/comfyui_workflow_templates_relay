@@ -1,6 +1,6 @@
 # HY 3D 2.0 MV
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=3d_hunyuan3d_multiview_to_model)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_hunyuan3d_multiview_to_model-1.webp" width="360" alt="HY 3D 2.0 MV 3d_hunyuan3d_multiview_to_model-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_hunyuan3d_multiview_to_model-2.webp" width="360" alt="HY 3D 2.0 MV 3d_hunyuan3d_multiview_to_model-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `3d_hunyuan3d_multiview_to_model` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | Hunyuan3D, Tencent |
 | Tags | 3D, Image to 3D |
 | Type | open source |

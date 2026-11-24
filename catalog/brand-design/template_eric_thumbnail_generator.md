@@ -1,6 +1,6 @@
 # YouTube Thumbnail Generator
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_eric_thumbnail_generator)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_eric_thumbnail_generator-1.webp" width="360" alt="YouTube Thumbnail Generator template_eric_thumbnail_generator-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_eric_thumbnail_generator` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | API, Image, Image Edit |
 | Type | API |

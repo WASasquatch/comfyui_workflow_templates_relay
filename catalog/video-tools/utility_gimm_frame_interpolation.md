@@ -1,6 +1,6 @@
 # Frame Interpolation: GIMM-VFI
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_gimm_frame_interpolation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_gimm_frame_interpolation-1.webp" width="360" alt="Frame Interpolation: GIMM-VFI utility_gimm_frame_interpolation-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_gimm_frame_interpolation-2.webp" width="360" alt="Frame Interpolation: GIMM-VFI utility_gimm_frame_interpolation-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_gimm_frame_interpolation` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | None |
 | Tags | Frame Interpolation, Video |
 | Type | open source |

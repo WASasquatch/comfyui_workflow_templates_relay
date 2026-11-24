@@ -1,6 +1,6 @@
 # MoGe: Perspective Geometry Estimation
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=3d_moge_perspective_to_mesh)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_moge_perspective_to_mesh-1.webp" width="360" alt="MoGe: Perspective Geometry Estimation 3d_moge_perspective_to_mesh-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `3d_moge_perspective_to_mesh` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | MoGe |
 | Tags | 3D, Image to 3D |
 | Type | open source |

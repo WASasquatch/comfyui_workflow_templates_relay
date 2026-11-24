@@ -1,6 +1,6 @@
 # Relight: Beeble SwitchX
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_beeble_switchx_image_edit)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_beeble_switchx_image_edit-1.webp" width="360" alt="Relight: Beeble SwitchX api_beeble_switchx_image_edit-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_beeble_switchx_image_edit` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | SwitchX |
 | Tags | API, Relight, Image Edit |
 | Type | API |

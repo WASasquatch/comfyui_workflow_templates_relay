@@ -1,6 +1,6 @@
 # Video Upscale: RelayVSR 2x
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_relayvsr_video_x2_upscale)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_relayvsr_video_x2_upscale-1.webp" width="360" alt="Video Upscale: RelayVSR 2x utility_relayvsr_video_x2_upscale-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_relayvsr_video_x2_upscale` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | RelayVSR |
 | Tags | Video Upscale, 2x, Restoration |
 | Type | open source |

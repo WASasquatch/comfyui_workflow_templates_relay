@@ -1,6 +1,6 @@
 # Bria: Guided Background Removal
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bria_guided_remove_background)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_guided_remove_background-1.webp" width="360" alt="Bria: Guided Background Removal api_bria_guided_remove_background-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_guided_remove_background-2.webp" width="360" alt="Bria: Guided Background Removal api_bria_guided_remove_background-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_bria_guided_remove_background` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | BRIA |
 | Tags | API, Image, Remove Background |
 | Type | API |

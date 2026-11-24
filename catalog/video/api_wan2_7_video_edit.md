@@ -1,6 +1,6 @@
 # Wan2.7: Video Edit
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_wan2_7_video_edit)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan2_7_video_edit-1.webp" width="360" alt="Wan2.7: Video Edit api_wan2_7_video_edit-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan2_7_video_edit-2.webp" width="360" alt="Wan2.7: Video Edit api_wan2_7_video_edit-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_wan2_7_video_edit` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.7 |
 | Tags | API, Video, Video Edit |
 | Type | API |

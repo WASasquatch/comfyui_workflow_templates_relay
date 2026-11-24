@@ -1,6 +1,6 @@
 # MOSS-Image Base: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_moss_image_base_t2i)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_base_t2i-1.webp" width="360" alt="MOSS-Image Base: Text to Image image_moss_image_base_t2i-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_moss_image_base_t2i` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | MOSS-Image |
 | Tags | Text to Image |
 | Type | open source |

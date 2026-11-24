@@ -1,6 +1,6 @@
 # SAM 3D Body: 3D Human Mesh Extraction From Video
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_sam3d_body)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_sam3d_body-1.webp" width="360" alt="SAM 3D Body: 3D Human Mesh Extraction From Video utility_sam3d_body-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_sam3d_body` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | SAM 3D Body |
 | Tags | 3D |
 | Type | open source |

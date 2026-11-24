@@ -1,6 +1,6 @@
 # Mai Image 2.6 Flash: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_openrouter_mai_image_26_flash)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_mai_image_26_flash-1.webp" width="360" alt="Mai Image 2.6 Flash: Text to Image api_openrouter_mai_image_26_flash-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_openrouter_mai_image_26_flash` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Mai Image 2.6 |
 | Tags | API, Text to Image |
 | Type | API |

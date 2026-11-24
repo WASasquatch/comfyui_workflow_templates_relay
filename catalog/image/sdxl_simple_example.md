@@ -1,6 +1,6 @@
 # SDXL Simple
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=sdxl_simple_example)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sdxl_simple_example-1.webp" width="360" alt="SDXL Simple sdxl_simple_example-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `sdxl_simple_example` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | SDXL, Stability |
 | Tags | Text to Image, Image |
 | Type | open source |

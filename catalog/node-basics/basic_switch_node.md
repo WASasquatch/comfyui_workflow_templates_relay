@@ -1,6 +1,6 @@
 # Switch Node
 
-[← Node Basics](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Node Basics](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=basic_switch_node)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/basic_switch_node-1.webp" width="360" alt="Switch Node basic_switch_node-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `basic_switch_node` |
 | Category | Foundation › Node Basics |
-| Media type | image |
+| Output | image |
 | Models | Z-Image-Turbo |
 | Tags | Node Basics |
 | Type | open source |

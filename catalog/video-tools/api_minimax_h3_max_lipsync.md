@@ -1,6 +1,6 @@
 # Lip Sync: MiniMax H3 Max
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_minimax_h3_max_lipsync)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_lipsync-1.webp" width="360" alt="Lip Sync: MiniMax H3 Max api_minimax_h3_max_lipsync-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_minimax_h3_max_lipsync` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | MiniMax H3 |
 | Tags | API, Lip Sync, Video |
 | Type | API |

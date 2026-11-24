@@ -1,6 +1,6 @@
 # ByteDance: Seed 2.0
 
-[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bytedance_seed)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seed-1.webp" width="360" alt="ByteDance: Seed 2.0 api_bytedance_seed-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_bytedance_seed` |
 | Category | Foundation › LLM |
-| Media type | image |
+| Output | llm |
 | Models | Seed 2.0 |
 | Tags | API, Text Generation |
 | Type | API |

@@ -1,6 +1,6 @@
 # Storyboard To Video - Seedance 2.0
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_seedance2_storyboard_to_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_seedance2_storyboard_to_video-1.webp" width="360" alt="Storyboard To Video - Seedance 2.0 template_seedance2_storyboard_to_video-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_seedance2_storyboard_to_video` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Seedance 2.0 |
 | Tags | API, Image to Video |
 | Type | API |

@@ -1,6 +1,6 @@
 # AIrt MAchIne
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_mjm_airt_machIne)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_mjm_airt_machIne-1.webp" width="360" alt="AIrt MAchIne templates_mjm_airt_machIne-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_mjm_airt_machIne` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.2, Z-Image-Turbo |
 | Tags | FLF2V, Text to Image |
 | Type | open source |

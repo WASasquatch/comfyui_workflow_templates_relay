@@ -1,6 +1,6 @@
 # Chatter Box: Voice Cloning Audio Conversion
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio-chatterbox_vc)
 
 [▶ audio-chatterbox_vc-1.mp3](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio-chatterbox_vc-1.mp3)
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `audio-chatterbox_vc` |
 | Category | Foundation › Audio |
-| Media type | audio |
+| Output | audio |
 | Models | Chatter Box |
 | Tags | Audio, Audio Editing, Voice Cloning |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Product Ad Cinematic Sequence Generator
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_sferro21_product_ad.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sferro21_product_ad.app-1.webp" width="360" alt="Product Ad Cinematic Sequence Generator template_sferro21_product_ad.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_sferro21_product_ad.app` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | API, Image Edit, Style Transfer |
 | Type | API |

@@ -1,6 +1,6 @@
 # HY 3D: 3D Parts Decomposition
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_hunyuan3d_part)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_hunyuan3d_part-1.webp" width="360" alt="HY 3D: 3D Parts Decomposition api_hunyuan3d_part-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_hunyuan3d_part` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | Hunyuan3D |
 | Tags | 3D, API |
 | Type | API |

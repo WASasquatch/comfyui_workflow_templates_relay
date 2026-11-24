@@ -1,6 +1,6 @@
 # ACE Step v1 Text to Song
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio_ace_step_1_t2a_song)
 
 [▶ audio_ace_step_1_t2a_song-1.mp3](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_t2a_song-1.mp3)
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `audio_ace_step_1_t2a_song` |
 | Category | Foundation › Audio |
-| Media type | audio |
+| Output | audio |
 | Models | ACE-Step |
 | Tags | Text to Audio, Audio |
 | Type | open source |

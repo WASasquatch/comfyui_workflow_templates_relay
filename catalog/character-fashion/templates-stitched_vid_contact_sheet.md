@@ -1,6 +1,6 @@
 # Character & Outfit to Fashion Video
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-stitched_vid_contact_sheet)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-stitched_vid_contact_sheet-1.webp" width="360" alt="Character & Outfit to Fashion Video templates-stitched_vid_contact_sheet-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-stitched_vid_contact_sheet` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Google Gemini Image, Nano Banana Pro, Google, Kling, Kling O1, OpenAI |
 | Tags | Image to Video, FLF2V, API |
 | Type | API |

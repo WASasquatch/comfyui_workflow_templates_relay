@@ -1,6 +1,6 @@
 # Outpaint to Any Aspect Ratio - Nano Banana Pro
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_outpaint_to_any_aspect_ratio_nano_banana_pro)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_outpaint_to_any_aspect_ratio_nano_banana_pro-1.webp" width="360" alt="Outpaint to Any Aspect Ratio - Nano Banana Pro template_outpaint_to_any_aspect_ratio_nano_banana_pro-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_outpaint_to_any_aspect_ratio_nano_banana_pro` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | API, Outpainting |
 | Type | API |

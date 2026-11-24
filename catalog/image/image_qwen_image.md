@@ -1,6 +1,6 @@
 # Qwen-Image: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_qwen_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image-1.webp" width="360" alt="Qwen-Image: Text to Image image_qwen_image-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_qwen_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image |
 | Tags | Image, Text to Image |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Nano Banana Pro
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_nano_banana_pro)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_pro-1.webp" width="360" alt="Nano Banana Pro api_nano_banana_pro-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_pro-2.webp" width="360" alt="Nano Banana Pro api_nano_banana_pro-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_nano_banana_pro` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Google, Nano Banana Pro |
 | Tags | API, Image, Image Edit |
 | Type | API |

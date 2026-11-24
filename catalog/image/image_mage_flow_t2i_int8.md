@@ -1,6 +1,6 @@
 # Mage-Flow: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_mage_flow_t2i_int8)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_mage_flow_t2i_int8-1.webp" width="360" alt="Mage-Flow: Text to Image image_mage_flow_t2i_int8-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_mage_flow_t2i_int8` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Mage-Flow |
 | Tags | Text to Image, Int8 |
 | Type | open source |

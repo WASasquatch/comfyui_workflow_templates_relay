@@ -1,6 +1,6 @@
 # Prompt Multi Batch Generation
 
-[← Node Basics](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Node Basics](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_purz_batch_generation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_batch_generation-1.webp" width="360" alt="Prompt Multi Batch Generation templates_purz_batch_generation-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_purz_batch_generation` |
 | Category | Foundation › Node Basics |
-| Media type | image |
+| Output | image |
 | Models | Z-Image-Turbo |
 | Tags | Batch Generation, Image |
 | Type | open source |

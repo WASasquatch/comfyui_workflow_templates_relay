@@ -1,6 +1,6 @@
 # Sonilo Music 1.5: Lyrics to Song
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_sonilo_music1_5)
 
 [▶ api_sonilo_music1_5-1.mp3](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_music1_5-1.mp3) <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_music1_5-1.webp" width="360" alt="Sonilo Music 1.5: Lyrics to Song api_sonilo_music1_5-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_sonilo_music1_5` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | Sonilo |
 | Tags | API, Audio, Music, Text to Music |
 | Type | API |

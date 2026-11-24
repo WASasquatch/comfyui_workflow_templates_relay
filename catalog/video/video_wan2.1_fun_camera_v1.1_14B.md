@@ -1,6 +1,6 @@
 # Wan 2.1 Fun Camera 14B
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_wan2.1_fun_camera_v1.1_14B)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2.1_fun_camera_v1.1_14B-1.webp" width="360" alt="Wan 2.1 Fun Camera 14B video_wan2.1_fun_camera_v1.1_14B-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `video_wan2.1_fun_camera_v1.1_14B` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1, Wan |
 | Tags | Video, Image to Video |
 | Type | open source |

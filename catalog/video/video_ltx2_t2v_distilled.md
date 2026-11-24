@@ -1,6 +1,6 @@
 # LTX-2 Text to Video (Distilled)
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_ltx2_t2v_distilled)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_t2v_distilled-1.webp" width="360" alt="LTX-2 Text to Video (Distilled) video_ltx2_t2v_distilled-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_ltx2_t2v_distilled` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | LTX-2, Lightricks |
 | Tags | Text to Video, Video |
 | Type | open source |

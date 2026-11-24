@@ -1,6 +1,6 @@
 # LTX-2.3 IC-LoRA: Reference Sheet Control
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_ltx2_3_ic_lora_ingredients)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_ic_lora_ingredients-1.webp" width="360" alt="LTX-2.3 IC-LoRA: Reference Sheet Control template_ltx2_3_ic_lora_ingredients-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_ltx2_3_ic_lora_ingredients` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | video |
 | Models | LTX-2.3 |
 | Tags | Reference to Video |
 | Type | open source |

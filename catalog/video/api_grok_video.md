@@ -1,6 +1,6 @@
 # Grok: Video generation
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_grok_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_video-1.webp" width="360" alt="Grok: Video generation api_grok_video-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_grok_video` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Grok |
 | Tags | Video, Image to Video, Text to Video, API |
 | Type | API |

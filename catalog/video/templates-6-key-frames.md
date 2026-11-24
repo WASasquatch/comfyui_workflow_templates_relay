@@ -1,6 +1,6 @@
 # Multi-Keyframe Video Stitching
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-6-key-frames)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-6-key-frames-1.webp" width="360" alt="Multi-Keyframe Video Stitching templates-6-key-frames-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-6-key-frames` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.2 |
 | Tags | FLF2V, Image to Video |
 | Type | open source |

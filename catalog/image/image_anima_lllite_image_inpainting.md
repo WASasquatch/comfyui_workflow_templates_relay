@@ -1,6 +1,6 @@
 # Anima Lllite: Image Inpainting
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_anima_lllite_image_inpainting)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_anima_lllite_image_inpainting-1.webp" width="360" alt="Anima Lllite: Image Inpainting image_anima_lllite_image_inpainting-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_anima_lllite_image_inpainting-2.webp" width="360" alt="Anima Lllite: Image Inpainting image_anima_lllite_image_inpainting-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_anima_lllite_image_inpainting` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Anima |
 | Tags | Anime, Inpainting |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Inflation Lora Character Expansion Effect Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_ingi_infl8)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_ingi_infl8-1.webp" width="360" alt="Inflation Lora Character Expansion Effect Video templates_ingi_infl8-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_ingi_infl8-2.webp" width="360" alt="Inflation Lora Character Expansion Effect Video templates_ingi_infl8-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_ingi_infl8` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | wan2.2 Animate |
 | Tags | Video, Image to Video |
 | Type | open source |

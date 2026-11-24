@@ -1,6 +1,6 @@
 # Image to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_ohneis_i2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_ohneis_i2v-1.webp" width="360" alt="Image to Video templates_ohneis_i2v-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_ohneis_i2v-2.webp" width="360" alt="Image to Video templates_ohneis_i2v-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_ohneis_i2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Kling 2.6, Nano Banana Pro, Z-Image-Turbo |
 | Tags | API, Image to Video, Text to Image, Video |
 | Type | API |

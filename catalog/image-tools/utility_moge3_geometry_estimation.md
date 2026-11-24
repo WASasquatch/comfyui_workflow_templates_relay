@@ -1,6 +1,6 @@
 # Geometry Estimation: MoGe 3
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_moge3_geometry_estimation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_moge3_geometry_estimation-1.webp" width="360" alt="Geometry Estimation: MoGe 3 utility_moge3_geometry_estimation-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_moge3_geometry_estimation-2.webp" width="360" alt="Geometry Estimation: MoGe 3 utility_moge3_geometry_estimation-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_moge3_geometry_estimation` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | MoGe |
 | Tags | Depth Estimation, Normal Estimation |
 | Type | open source |

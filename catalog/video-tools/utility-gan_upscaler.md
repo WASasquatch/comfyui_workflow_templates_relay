@@ -1,6 +1,6 @@
 # Video Upscale: Real-ESRGAN
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility-gan_upscaler)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-gan_upscaler-1.webp" width="360" alt="Video Upscale: Real-ESRGAN utility-gan_upscaler-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-gan_upscaler-2.webp" width="360" alt="Video Upscale: Real-ESRGAN utility-gan_upscaler-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility-gan_upscaler` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Real-ESRGAN |
 | Tags | Video Upscale, API |
 | Type | open source |

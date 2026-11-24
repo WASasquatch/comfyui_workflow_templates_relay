@@ -1,6 +1,6 @@
 # Kling O1: Video Edit
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_kling_omni_edit_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_omni_edit_video-1.webp" width="360" alt="Kling O1: Video Edit api_kling_omni_edit_video-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_omni_edit_video-2.webp" width="360" alt="Kling O1: Video Edit api_kling_omni_edit_video-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_kling_omni_edit_video` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Kling |
 | Tags | Video, API, Video Edit, Text to Video, Image to Video |
 | Type | API |

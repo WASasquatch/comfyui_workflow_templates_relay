@@ -1,6 +1,6 @@
 # Pika H3 Flex: Text to Video (API)
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_pika_h3_flex_t2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pika_h3_flex_t2v-1.webp" width="360" alt="Pika H3 Flex: Text to Video (API) api_pika_h3_flex_t2v-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_pika_h3_flex_t2v` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Pika H3 Flex, MiniMax H3 |
 | Tags | API, Text to Video, Video |
 | Type | API |

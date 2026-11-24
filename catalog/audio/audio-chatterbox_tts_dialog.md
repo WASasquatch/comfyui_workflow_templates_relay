@@ -1,6 +1,6 @@
 # Chatter Box: Multi-Speaker Conversation with Cloned Voices
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio-chatterbox_tts_dialog)
 
 [▶ audio-chatterbox_tts_dialog-1.mp3](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio-chatterbox_tts_dialog-1.mp3)
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `audio-chatterbox_tts_dialog` |
 | Category | Foundation › Audio |
-| Media type | audio |
+| Output | audio |
 | Models | Chatter Box |
 | Tags | Audio, Text to Speech, Voice Cloning |
 | Type | open source |

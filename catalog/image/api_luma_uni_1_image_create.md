@@ -1,6 +1,6 @@
 # Luma UNI-1: Image Creation
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_luma_uni_1_image_create)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_luma_uni_1_image_create-1.webp" width="360" alt="Luma UNI-1: Image Creation api_luma_uni_1_image_create-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_luma_uni_1_image_create` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Luma UNI-1 |
 | Tags | API, Image, Style Reference |
 | Type | API |

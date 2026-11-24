@@ -1,6 +1,6 @@
 # Single Image to Multiple Consistent Shots
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-multiple_consistent_shots-nb_pro)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-multiple_consistent_shots-nb_pro-1.webp" width="360" alt="Single Image to Multiple Consistent Shots templates-multiple_consistent_shots-nb_pro-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-multiple_consistent_shots-nb_pro` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | API, Image Edit, Character Reference |
 | Type | API |

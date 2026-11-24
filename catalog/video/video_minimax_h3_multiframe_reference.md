@@ -1,6 +1,6 @@
 # MiniMax H3: Multiframe Reference
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_minimax_h3_multiframe_reference)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_multiframe_reference-1.webp" width="360" alt="MiniMax H3: Multiframe Reference video_minimax_h3_multiframe_reference-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_minimax_h3_multiframe_reference` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | MiniMax H3 |
 | Tags | Reference to Video, Int8 |
 | Type | open source |

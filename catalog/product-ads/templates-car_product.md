@@ -1,6 +1,6 @@
 # 1 Image to Car Product Shots
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-car_product)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-car_product-1.webp" width="360" alt="1 Image to Car Product Shots templates-car_product-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-car_product` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | Kling, Seedream |
 | Tags | API, FLF2V, Image to Video |
 | Type | API |

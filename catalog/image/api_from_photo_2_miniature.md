@@ -1,6 +1,6 @@
 # Photo to Blueprint to Model
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_from_photo_2_miniature)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_from_photo_2_miniature-1.webp" width="360" alt="Photo to Blueprint to Model api_from_photo_2_miniature-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_from_photo_2_miniature` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Nano Banana Pro, Google |
 | Tags | API, Image Edit, Image, 3D |
 | Type | API |

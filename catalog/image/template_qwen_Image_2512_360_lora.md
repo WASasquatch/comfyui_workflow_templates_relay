@@ -1,6 +1,6 @@
 # Qwen Image 2512: 360 Panorama Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_qwen_Image_2512_360_lora)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_Image_2512_360_lora-1.webp" width="360" alt="Qwen Image 2512: 360 Panorama Image template_qwen_Image_2512_360_lora-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_qwen_Image_2512_360_lora` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image 2512 |
 | Tags | Text to Image, LoRA |
 | Type | open source |

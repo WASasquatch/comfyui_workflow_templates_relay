@@ -1,6 +1,6 @@
 # Pose Detection: SDPose Multi-Person
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_sdpose_multi_person_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_sdpose_multi_person_video-1.webp" width="360" alt="Pose Detection: SDPose Multi-Person utility_sdpose_multi_person_video-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_sdpose_multi_person_video` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | SDPose-OOD |
 | Tags | Pose Map |
 | Type | open source |

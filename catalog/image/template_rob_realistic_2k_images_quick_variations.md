@@ -1,6 +1,6 @@
 # Realistic 2k Images - Quick Variations
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_rob_realistic_2k_images_quick_variations)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_rob_realistic_2k_images_quick_variations-1.webp" width="360" alt="Realistic 2k Images - Quick Variations template_rob_realistic_2k_images_quick_variations-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_rob_realistic_2k_images_quick_variations-2.webp" width="360" alt="Realistic 2k Images - Quick Variations template_rob_realistic_2k_images_quick_variations-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_rob_realistic_2k_images_quick_variations` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Grok, Z-Image-Turbo |
 | Tags | API, Image Upscale, Text to Image |
 | Type | API |

@@ -1,6 +1,6 @@
 # Seed Audio 1.0: Text + Audio to Audio
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bytedance_seed_audio1_0_ta2a)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seed_audio1_0_ta2a-1.webp" width="360" alt="Seed Audio 1.0: Text + Audio to Audio api_bytedance_seed_audio1_0_ta2a-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_bytedance_seed_audio1_0_ta2a` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | Seed Audio 1.0 |
 | Tags | API, Audio, Audio Editing |
 | Type | API |

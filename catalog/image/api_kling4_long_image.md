@@ -1,6 +1,6 @@
 # Kling 4.0: Long Image (Webpage)
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_kling4_long_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_long_image-1.webp" width="360" alt="Kling 4.0: Long Image (Webpage) api_kling4_long_image-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_kling4_long_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Kling, Kling 4.0 |
 | Tags | API, Image, Long Image, Web Design |
 | Type | API |

@@ -1,6 +1,6 @@
 # Sync 3: Talking Image
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_sync_so_talking_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sync_so_talking_image-1.webp" width="360" alt="Sync 3: Talking Image api_sync_so_talking_image-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_sync_so_talking_image` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Sync 3 |
 | Tags | API, Lip Sync |
 | Type | API |

@@ -1,6 +1,6 @@
 # Image Upscale: Nano Banana Pro
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_nanobanana_pro_ai_image_fix)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_ai_image_fix-1.webp" width="360" alt="Image Upscale: Nano Banana Pro utility_nanobanana_pro_ai_image_fix-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_ai_image_fix-2.webp" width="360" alt="Image Upscale: Nano Banana Pro utility_nanobanana_pro_ai_image_fix-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_nanobanana_pro_ai_image_fix` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Google, Nano Banana Pro |
 | Tags | API, Image Upscale |
 | Type | API |

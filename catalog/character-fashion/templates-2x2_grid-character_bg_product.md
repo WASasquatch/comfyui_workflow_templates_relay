@@ -1,6 +1,6 @@
 # Fashion Editorial Shots
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-2x2_grid-character_bg_product)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-2x2_grid-character_bg_product-1.webp" width="360" alt="Fashion Editorial Shots templates-2x2_grid-character_bg_product-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-2x2_grid-character_bg_product` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro, Google, Google Gemini Image |
 | Tags | API, Image Edit |
 | Type | API |

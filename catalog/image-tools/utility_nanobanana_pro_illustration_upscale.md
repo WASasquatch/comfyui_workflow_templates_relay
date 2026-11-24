@@ -1,6 +1,6 @@
 # Image Upscale: Nano Banana Pro Illustration
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_nanobanana_pro_illustration_upscale)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_illustration_upscale-1.webp" width="360" alt="Image Upscale: Nano Banana Pro Illustration utility_nanobanana_pro_illustration_upscale-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_illustration_upscale-2.webp" width="360" alt="Image Upscale: Nano Banana Pro Illustration utility_nanobanana_pro_illustration_upscale-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_nanobanana_pro_illustration_upscale` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Google, Nano Banana Pro |
 | Tags | API, Image Upscale |
 | Type | API |

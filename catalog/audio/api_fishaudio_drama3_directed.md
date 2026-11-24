@@ -1,6 +1,6 @@
 # Fish Audio Drama 3: Directed Performance
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_fishaudio_drama3_directed)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_drama3_directed-1.webp" width="360" alt="Fish Audio Drama 3: Directed Performance api_fishaudio_drama3_directed-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_fishaudio_drama3_directed` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | Fish Audio |
 | Tags | API, TTS |
 | Type | API |

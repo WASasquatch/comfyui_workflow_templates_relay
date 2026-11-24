@@ -1,6 +1,6 @@
 # SDR to HDR: LTX VFX
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_ltx_video_sdr2hdr)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_sdr2hdr-1.webp" width="360" alt="SDR to HDR: LTX VFX api_ltx_video_sdr2hdr-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_sdr2hdr-2.webp" width="360" alt="SDR to HDR: LTX VFX api_ltx_video_sdr2hdr-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_ltx_video_sdr2hdr` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | LTX-2.5 |
 | Tags | API, Color, Video |
 | Type | API |

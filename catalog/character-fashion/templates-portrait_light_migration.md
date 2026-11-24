@@ -1,6 +1,6 @@
 # Light Migration for Character Portrait
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-portrait_light_migration)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-portrait_light_migration-1.webp" width="360" alt="Light Migration for Character Portrait templates-portrait_light_migration-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-portrait_light_migration` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Qwen, Qwen-Image-Edit |
 | Tags | Relight, LoRA, Portrait |
 | Type | open source |

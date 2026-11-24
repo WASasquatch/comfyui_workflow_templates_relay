@@ -1,6 +1,6 @@
 # 1 input and multiple editing model comparison
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_all_in_one_image_edit_models.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_all_in_one_image_edit_models.app-1.webp" width="360" alt="1 input and multiple editing model comparison templates_all_in_one_image_edit_models.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_all_in_one_image_edit_models.app` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana 2, Grok, Qwen-Image-Edit |
 | Tags | API, Style Transfer, Image Edit |
 | Type | API |

@@ -1,6 +1,6 @@
 # Ideogram 4.5: Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_ideogram_v4_5_image_edit)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_5_image_edit-1.webp" width="360" alt="Ideogram 4.5: Image Edit api_ideogram_v4_5_image_edit-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_ideogram_v4_5_image_edit` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Ideogram |
 | Tags | API, Image Edit |
 | Type | API |

@@ -1,6 +1,6 @@
 # Cast Swap: MiniMax H3 Max
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_minimax_h3_max_recast)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_recast-1.webp" width="360" alt="Cast Swap: MiniMax H3 Max api_minimax_h3_max_recast-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_recast-2.webp" width="360" alt="Cast Swap: MiniMax H3 Max api_minimax_h3_max_recast-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_minimax_h3_max_recast` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | MiniMax H3 |
 | Tags | API, Video, Video Edit |
 | Type | API |

@@ -1,6 +1,6 @@
 # 360 Full-body Turnaround
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-character_sheet)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-character_sheet-1.webp" width="360" alt="360 Full-body Turnaround templates-character_sheet-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-character_sheet` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Google, Nano Banana Pro |
 | Tags | API, Character Reference |
 | Type | API |

@@ -1,6 +1,6 @@
 # Fish Audio: Voice Clone to Speech
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_fishaudio_voice_clone_tts)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_voice_clone_tts-1.webp" width="360" alt="Fish Audio: Voice Clone to Speech api_fishaudio_voice_clone_tts-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_fishaudio_voice_clone_tts` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | Fish Audio |
 | Tags | API, TTS, Voice Cloning |
 | Type | API |

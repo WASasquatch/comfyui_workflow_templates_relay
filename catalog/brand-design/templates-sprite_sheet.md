@@ -1,6 +1,6 @@
 # Sprite Sheet Generator
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-sprite_sheet)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-sprite_sheet-1.webp" width="360" alt="Sprite Sheet Generator templates-sprite_sheet-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-sprite_sheet` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Google, Nano Banana Pro |
 | Tags | API, Video, Image Edit |
 | Type | API |

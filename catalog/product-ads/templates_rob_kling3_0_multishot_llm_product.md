@@ -1,6 +1,6 @@
 # Kling 3.0: 1 Click Multishot
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_rob_kling3_0_multishot_llm_product)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_kling3_0_multishot_llm_product-1.webp" width="360" alt="Kling 3.0: 1 Click Multishot templates_rob_kling3_0_multishot_llm_product-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_rob_kling3_0_multishot_llm_product` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | video |
 | Models | Kling 3.0 |
 | Tags | API, Text to Video, Video |
 | Type | API |

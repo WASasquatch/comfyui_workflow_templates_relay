@@ -1,6 +1,6 @@
 # Qwen-Image Union Control
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_qwen_image_union_control_lora)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_union_control_lora-1.webp" width="360" alt="Qwen-Image Union Control image_qwen_image_union_control_lora-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_union_control_lora-2.webp" width="360" alt="Qwen-Image Union Control image_qwen_image_union_control_lora-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_qwen_image_union_control_lora` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image |
 | Tags | Text to Image, Image, ControlNet |
 | Type | open source |

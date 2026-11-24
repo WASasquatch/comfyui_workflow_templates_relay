@@ -1,6 +1,6 @@
 # Google Gemini
 
-[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_google_gemini)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini-1.webp" width="360" alt="Google Gemini api_google_gemini-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_google_gemini` |
 | Category | Foundation › LLM |
-| Media type | image |
+| Output | llm |
 | Models | Google, Google Gemini |
 | Tags | API, Text Generation |
 | Type | API |

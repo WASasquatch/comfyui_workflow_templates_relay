@@ -1,6 +1,6 @@
 # Generate Brand Packaging from Dieline
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-assemble_dieline)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-assemble_dieline-1.webp" width="360" alt="Generate Brand Packaging from Dieline templates-assemble_dieline-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-assemble_dieline-2.webp" width="360" alt="Generate Brand Packaging from Dieline templates-assemble_dieline-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-assemble_dieline` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | Google, Google Gemini Image, Nano Banana Pro |
 | Tags | API, Image Edit |
 | Type | API |

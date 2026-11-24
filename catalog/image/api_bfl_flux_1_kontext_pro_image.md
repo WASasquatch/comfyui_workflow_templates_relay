@@ -1,6 +1,6 @@
 # Flux.1 Kontext Pro
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bfl_flux_1_kontext_pro_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux_1_kontext_pro_image-1.webp" width="360" alt="Flux.1 Kontext Pro api_bfl_flux_1_kontext_pro_image-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux_1_kontext_pro_image-2.webp" width="360" alt="Flux.1 Kontext Pro api_bfl_flux_1_kontext_pro_image-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `api_bfl_flux_1_kontext_pro_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX, FLUX.1 Kontext |
 | Tags | API, Image, Image Edit |
 | Type | API |

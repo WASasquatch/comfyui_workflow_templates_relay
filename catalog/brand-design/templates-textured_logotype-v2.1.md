@@ -1,6 +1,6 @@
 # Apply Texture to Logo
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-textured_logotype-v2.1)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-textured_logotype-v2.1-1.webp" width="360" alt="Apply Texture to Logo templates-textured_logotype-v2.1-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-textured_logotype-v2.1` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Nano Banana Pro, Google, ByteDance, Seedance |
 | Tags | API, Brand Design, Image to Video, FLF2V |
 | Type | API |

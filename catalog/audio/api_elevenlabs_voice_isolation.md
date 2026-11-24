@@ -1,6 +1,6 @@
 # ElevenLabs: Voice Isolation
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_elevenlabs_voice_isolation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_voice_isolation-1.webp" width="360" alt="ElevenLabs: Voice Isolation api_elevenlabs_voice_isolation-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_voice_isolation-2.webp" width="360" alt="ElevenLabs: Voice Isolation api_elevenlabs_voice_isolation-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_elevenlabs_voice_isolation` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | ElevenLabs |
 | Tags | API, Audio Editing |
 | Type | API |

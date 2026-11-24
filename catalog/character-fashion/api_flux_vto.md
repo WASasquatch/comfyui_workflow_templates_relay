@@ -1,6 +1,6 @@
 # Virtual Try-On: Flux
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_flux_vto)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux_vto-1.webp" width="360" alt="Virtual Try-On: Flux api_flux_vto-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux_vto-2.webp" width="360" alt="Virtual Try-On: Flux api_flux_vto-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_flux_vto` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | FLUX |
 | Tags | API, Virtual Try-On |
 | Type | API |

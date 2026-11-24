@@ -1,6 +1,6 @@
 # LivePortrait for Facial Expression
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_liveportrait.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_liveportrait.app-1.webp" width="360" alt="LivePortrait for Facial Expression templates_liveportrait.app-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_liveportrait.app-2.webp" width="360" alt="LivePortrait for Facial Expression templates_liveportrait.app-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_liveportrait.app` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | LivePortrait |
 | Tags | Video, Lip Sync |
 | Type | open source |

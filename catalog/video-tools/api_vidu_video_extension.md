@@ -1,6 +1,6 @@
 # Video Extend: Vidu Q2
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_vidu_video_extension)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_video_extension-1.webp" width="360" alt="Video Extend: Vidu Q2 api_vidu_video_extension-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_vidu_video_extension` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Vidu Q2, Vidu |
 | Tags | Video, Video Extend, API |
 | Type | API |

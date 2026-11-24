@@ -1,6 +1,6 @@
 # Wan2.1 SCAIL
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video-wan21_scail)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video-wan21_scail-1.webp" width="360" alt="Wan2.1 SCAIL video-wan21_scail-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video-wan21_scail` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1 SCAIL |
 | Tags | Motion Control, Video |
 | Type | open source |

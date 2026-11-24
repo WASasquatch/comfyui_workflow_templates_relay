@@ -1,6 +1,6 @@
 # Krea-2 Int8: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_krea2_turbo_t2i_int8)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_krea2_turbo_t2i_int8-1.webp" width="360" alt="Krea-2 Int8: Text to Image image_krea2_turbo_t2i_int8-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_krea2_turbo_t2i_int8` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Krea 2 |
 | Tags | Text to Image, Int8 |
 | Type | open source |

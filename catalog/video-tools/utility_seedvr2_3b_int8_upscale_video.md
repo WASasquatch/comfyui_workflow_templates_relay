@@ -1,6 +1,6 @@
 # Video Upscale: SeedVR2 3B Int8
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_seedvr2_3b_int8_upscale_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_3b_int8_upscale_video-1.webp" width="360" alt="Video Upscale: SeedVR2 3B Int8 utility_seedvr2_3b_int8_upscale_video-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_3b_int8_upscale_video-2.webp" width="360" alt="Video Upscale: SeedVR2 3B Int8 utility_seedvr2_3b_int8_upscale_video-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_seedvr2_3b_int8_upscale_video` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | SeedVR2 |
 | Tags | Video Upscale, Int8 |
 | Type | open source |

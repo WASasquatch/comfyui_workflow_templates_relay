@@ -1,6 +1,6 @@
 # Tripo P2: Multiview to Model
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_tripo_p2_multiview_to_model)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_multiview_to_model-1.webp" width="360" alt="Tripo P2: Multiview to Model api_tripo_p2_multiview_to_model-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_multiview_to_model-2.webp" width="360" alt="Tripo P2: Multiview to Model api_tripo_p2_multiview_to_model-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_tripo_p2_multiview_to_model` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | Tripo P2 |
 | Tags | 3D, API |
 | Type | API |

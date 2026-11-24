@@ -1,6 +1,6 @@
 # Higgsfield Genjutsu: Motion Transfer
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_higgsfield_genjutsu_motion_transfer)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_higgsfield_genjutsu_motion_transfer-1.webp" width="360" alt="Higgsfield Genjutsu: Motion Transfer api_higgsfield_genjutsu_motion_transfer-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_higgsfield_genjutsu_motion_transfer` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Genjutsu 1.0 |
 | Tags | Character Replacement, Motion Control, Video, Video Edit |
 | Type | API |

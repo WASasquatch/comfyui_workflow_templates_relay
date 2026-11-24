@@ -1,6 +1,6 @@
 # Image Upscale: Z-Image-Turbo 2K
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_z_image_turbo_2k_upscaler.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_z_image_turbo_2k_upscaler.app-1.webp" width="360" alt="Image Upscale: Z-Image-Turbo 2K utility_z_image_turbo_2k_upscaler.app-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_z_image_turbo_2k_upscaler.app-2.webp" width="360" alt="Image Upscale: Z-Image-Turbo 2K utility_z_image_turbo_2k_upscaler.app-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility_z_image_turbo_2k_upscaler.app` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Z-Image-Turbo |
 | Tags | Image Upscale |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Image Relight
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_qwen_image_edit_2509_relight)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_edit_2509_relight-1.webp" width="360" alt="Image Relight image_qwen_image_edit_2509_relight-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_edit_2509_relight-2.webp" width="360" alt="Image Relight image_qwen_image_edit_2509_relight-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_qwen_image_edit_2509_relight` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image-Edit |
 | Tags | Image Edit, Relight |
 | Type | open source |

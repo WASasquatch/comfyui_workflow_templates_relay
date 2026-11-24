@@ -1,6 +1,6 @@
 # Generate UGC Video With Voice Clone
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_image_speech_to_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_image_speech_to_video-1.webp" width="360" alt="Generate UGC Video With Voice Clone template_image_speech_to_video-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_image_speech_to_video` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | video |
 | Models | ElevenLabs, LTX-2.3 |
 | Tags | API, Lip Sync |
 | Type | API |

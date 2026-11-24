@@ -1,6 +1,6 @@
 # Wan 2.1 Image to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_to_video_wan)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_to_video_wan-1.webp" width="360" alt="Wan 2.1 Image to Video image_to_video_wan-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_to_video_wan` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1, Wan |
 | Tags | Text to Video, Video |
 | Type | open source |

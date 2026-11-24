@@ -1,6 +1,6 @@
 # Recraft: Vector Generation
 
-[← Vector](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Vector](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_recraft_vector_gen)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_vector_gen-1.webp" width="360" alt="Recraft: Vector Generation api_recraft_vector_gen-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_recraft_vector_gen` |
 | Category | Foundation › Vector |
-| Media type | image |
+| Output | image |
 | Models | Recraft |
 | Tags | Text to Image, Image, API, Vector |
 | Type | API |

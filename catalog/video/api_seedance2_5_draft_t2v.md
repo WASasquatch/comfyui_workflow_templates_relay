@@ -1,6 +1,6 @@
 # Seedance2.5 Draft: Text to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_seedance2_5_draft_t2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_draft_t2v-1.webp" width="360" alt="Seedance2.5 Draft: Text to Video api_seedance2_5_draft_t2v-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_seedance2_5_draft_t2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Seedance 2.5 |
 | Tags | API |
 | Type | API |

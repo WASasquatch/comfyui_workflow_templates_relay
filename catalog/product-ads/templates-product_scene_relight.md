@@ -1,6 +1,6 @@
 # Composite your Product + Scene and Relight
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-product_scene_relight)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-product_scene_relight-1.webp" width="360" alt="Composite your Product + Scene and Relight templates-product_scene_relight-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-product_scene_relight-2.webp" width="360" alt="Composite your Product + Scene and Relight templates-product_scene_relight-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-product_scene_relight` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | ByteDance, Seedream |
 | Tags | API, Image Edit, Relight |
 | Type | API |

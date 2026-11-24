@@ -1,6 +1,6 @@
 # Image to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_minimax_h3_i2v_continuation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_i2v_continuation-1.webp" width="360" alt="Image to Video video_minimax_h3_i2v_continuation-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_minimax_h3_i2v_continuation` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | MiniMax H3 |
 | Tags | Image to Video, Int8, Video |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Wan Animate 2.2 Character Replacement Workflow
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_purz_wan22_animate_auto_full_scene)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_wan22_animate_auto_full_scene-1.webp" width="360" alt="Wan Animate 2.2 Character Replacement Workflow templates_purz_wan22_animate_auto_full_scene-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_wan22_animate_auto_full_scene-2.webp" width="360" alt="Wan Animate 2.2 Character Replacement Workflow templates_purz_wan22_animate_auto_full_scene-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_purz_wan22_animate_auto_full_scene` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | video |
 | Models | wan2.2 Animate |
 | Tags | API, Character Replacement, Image to Video, Video |
 | Type | API |

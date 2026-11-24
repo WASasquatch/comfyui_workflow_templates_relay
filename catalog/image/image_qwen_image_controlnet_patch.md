@@ -1,6 +1,6 @@
 # Qwen-Image ControlNet Model Patch
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_qwen_image_controlnet_patch)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_controlnet_patch-1.webp" width="360" alt="Qwen-Image ControlNet Model Patch image_qwen_image_controlnet_patch-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_controlnet_patch-2.webp" width="360" alt="Qwen-Image ControlNet Model Patch image_qwen_image_controlnet_patch-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_qwen_image_controlnet_patch` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image |
 | Tags | Text to Image, Image, ControlNet |
 | Type | open source |

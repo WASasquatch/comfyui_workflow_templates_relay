@@ -1,6 +1,6 @@
 # HiDream O1 Dev
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_hidream_o1_dev)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_hidream_o1_dev-1.webp" width="360" alt="HiDream O1 Dev image_hidream_o1_dev-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_hidream_o1_dev-2.webp" width="360" alt="HiDream O1 Dev image_hidream_o1_dev-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_hidream_o1_dev` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | HiDream |
 | Tags | Image Edit, Text to Image |
 | Type | open source |

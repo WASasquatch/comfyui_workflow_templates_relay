@@ -1,6 +1,6 @@
 # Squish Anything with LTX-2 I2V and LoRA
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_ltx2_i2v_lora)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_i2v_lora-1.webp" width="360" alt="Squish Anything with LTX-2 I2V and LoRA video_ltx2_i2v_lora-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_ltx2_i2v_lora` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | LTX-2 |
 | Tags | Image to Video |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Capybara: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=Image_capybara_v0_1_text_to_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/Image_capybara_v0_1_text_to_image-1.webp" width="360" alt="Capybara: Text to Image Image_capybara_v0_1_text_to_image-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `Image_capybara_v0_1_text_to_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Capybara |
 | Tags | Text to Image, Image |
 | Type | open source |

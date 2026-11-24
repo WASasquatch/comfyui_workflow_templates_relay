@@ -1,6 +1,6 @@
 # Swap Product Into a Reference AD
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-product_ad-v2.0)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-product_ad-v2.0-1.webp" width="360" alt="Swap Product Into a Reference AD templates-product_ad-v2.0-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-product_ad-v2.0` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Nano Banana Pro, Google, ByteDance, Seedance |
 | Tags | API, Style Reference |
 | Type | API |

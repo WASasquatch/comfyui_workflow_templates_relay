@@ -1,6 +1,6 @@
 # FLUX 3 Image Klein Distilled: Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_flux3_klein_distilled_image_edit)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_distilled_image_edit-1.webp" width="360" alt="FLUX 3 Image Klein Distilled: Image Edit image_flux3_klein_distilled_image_edit-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_distilled_image_edit-2.webp" width="360" alt="FLUX 3 Image Klein Distilled: Image Edit image_flux3_klein_distilled_image_edit-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_flux3_klein_distilled_image_edit` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX 3 Image |
 | Tags | Image Edit |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Video Extend: Gemini Omni 1.1 Flash
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_google_gemini_omni_flash_1_1_extend)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_extend-1.webp" width="360" alt="Video Extend: Gemini Omni 1.1 Flash api_google_gemini_omni_flash_1_1_extend-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_google_gemini_omni_flash_1_1_extend` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Gemini Omni 1.1 Flash |
 | Tags | Video Extend |
 | Type | API |

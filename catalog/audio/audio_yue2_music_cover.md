@@ -1,6 +1,6 @@
 # YuE2: Music Cover
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio_yue2_music_cover)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_yue2_music_cover-1.webp" width="360" alt="YuE2: Music Cover audio_yue2_music_cover-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `audio_yue2_music_cover` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | YuE2 |
 | Tags | Music Cover, Int8 |
 | Type | open source |

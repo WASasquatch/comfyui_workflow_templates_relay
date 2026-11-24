@@ -1,6 +1,6 @@
 # Wan 2.1 FLF2V 720p F16
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=wan2.1_flf2v_720_f16)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/wan2.1_flf2v_720_f16-1.webp" width="360" alt="Wan 2.1 FLF2V 720p F16 wan2.1_flf2v_720_f16-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `wan2.1_flf2v_720_f16` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1, Wan |
 | Tags | FLF2V, Video |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Image Upscale: HitPaw Portrait
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_hitpaw_general_image_enhance)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_hitpaw_general_image_enhance-1.webp" width="360" alt="Image Upscale: HitPaw Portrait utility_hitpaw_general_image_enhance-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_hitpaw_general_image_enhance-2.webp" width="360" alt="Image Upscale: HitPaw Portrait utility_hitpaw_general_image_enhance-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_hitpaw_general_image_enhance` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | HitPaw |
 | Tags | API, Image Upscale |
 | Type | API |

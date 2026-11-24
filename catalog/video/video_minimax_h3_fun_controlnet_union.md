@@ -1,6 +1,6 @@
 # MiniMax H3 Fun ControlNet Union
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_minimax_h3_fun_controlnet_union)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_fun_controlnet_union-1.webp" width="360" alt="MiniMax H3 Fun ControlNet Union video_minimax_h3_fun_controlnet_union-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_fun_controlnet_union-2.webp" width="360" alt="MiniMax H3 Fun ControlNet Union video_minimax_h3_fun_controlnet_union-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_minimax_h3_fun_controlnet_union` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | MiniMax H3 |
 | Tags | ControlNet, Int8 |
 | Type | open source |

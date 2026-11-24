@@ -1,6 +1,6 @@
 # LTX-2.3 Style Transition
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_ltx2_3_style_transition)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_style_transition-1.webp" width="360" alt="LTX-2.3 Style Transition template_ltx2_3_style_transition-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_ltx2_3_style_transition` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | LTX-2.3 |
 | Tags | FLF2V, LoRA, Video |
 | Type | open source |

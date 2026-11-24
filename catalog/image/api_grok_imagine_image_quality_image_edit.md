@@ -1,6 +1,6 @@
 # Grok Imagine Image Quality: Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_grok_imagine_image_quality_image_edit)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_image_quality_image_edit-1.webp" width="360" alt="Grok Imagine Image Quality: Edit api_grok_imagine_image_quality_image_edit-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_image_quality_image_edit-2.webp" width="360" alt="Grok Imagine Image Quality: Edit api_grok_imagine_image_quality_image_edit-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_grok_imagine_image_quality_image_edit` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Grok |
 | Tags | API, Image Edit |
 | Type | API |

@@ -1,6 +1,6 @@
 # FLUX.2 [Klein] 9B Distilled: Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_flux2_klein_image_edit_9b_distilled)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_klein_image_edit_9b_distilled-1.webp" width="360" alt="FLUX.2 [Klein] 9B Distilled: Image Edit image_flux2_klein_image_edit_9b_distilled-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_klein_image_edit_9b_distilled-2.webp" width="360" alt="FLUX.2 [Klein] 9B Distilled: Image Edit image_flux2_klein_image_edit_9b_distilled-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_flux2_klein_image_edit_9b_distilled` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX, FLUX.2 Klein |
 | Tags | Image, Text to Image |
 | Type | open source |

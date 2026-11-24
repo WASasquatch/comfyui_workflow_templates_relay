@@ -1,6 +1,6 @@
 # Video to Seamless Loop Converter
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_sirolim_seamless_loop)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sirolim_seamless_loop-1.webp" width="360" alt="Video to Seamless Loop Converter template_sirolim_seamless_loop-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_sirolim_seamless_loop` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1 VACE |
 | Tags | API, Video Edit |
 | Type | API |

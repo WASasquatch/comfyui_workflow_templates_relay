@@ -1,6 +1,6 @@
 # Qwen Image: Gummy Animals LoRA
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_sugar_coated_gummy_style_qwen)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sugar_coated_gummy_style_qwen-1.webp" width="360" alt="Qwen Image: Gummy Animals LoRA template_sugar_coated_gummy_style_qwen-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_sugar_coated_gummy_style_qwen` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image |
 | Tags | Text to Image, Image, LoRA |
 | Type | open source |

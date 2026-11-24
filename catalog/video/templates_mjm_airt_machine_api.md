@@ -1,6 +1,6 @@
 # AIrt MAchIne (API version)
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_mjm_airt_machine_api)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_mjm_airt_machine_api-1.webp" width="360" alt="AIrt MAchIne (API version) templates_mjm_airt_machine_api-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_mjm_airt_machine_api` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Google Gemini, Kling 3.0, Z-Image-Turbo |
 | Tags | API, FLF2V, Video |
 | Type | API |

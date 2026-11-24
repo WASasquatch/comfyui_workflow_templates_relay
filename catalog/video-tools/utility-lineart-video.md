@@ -1,6 +1,6 @@
 # Lineart Map: LineArt Preprocessor
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility-lineart-video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-lineart-video-1.webp" width="360" alt="Lineart Map: LineArt Preprocessor utility-lineart-video-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-lineart-video-2.webp" width="360" alt="Lineart Map: LineArt Preprocessor utility-lineart-video-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility-lineart-video` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | None |
 | Tags | ControlNet |
 | Type | open source |

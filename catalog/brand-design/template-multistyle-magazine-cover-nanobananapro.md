@@ -1,6 +1,6 @@
 # Magazine Cover & Package Design
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template-multistyle-magazine-cover-nanobananapro)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template-multistyle-magazine-cover-nanobananapro-1.webp" width="360" alt="Magazine Cover & Package Design template-multistyle-magazine-cover-nanobananapro-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template-multistyle-magazine-cover-nanobananapro` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro, Google |
 | Tags | API, Image Edit, Brand Design |
 | Type | API |

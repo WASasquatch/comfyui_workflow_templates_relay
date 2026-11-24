@@ -1,6 +1,6 @@
 # Seedream 4.0: Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bytedance_seedream4)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream4-1.webp" width="360" alt="Seedream 4.0: Image Edit api_bytedance_seedream4-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_bytedance_seedream4` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | ByteDance, Seedream 4.0 |
 | Tags | API, Image, Image Edit, Text to Image |
 | Type | API |

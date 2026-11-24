@@ -1,6 +1,6 @@
 # Patina: Material Extract
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_patina_material_extract)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_patina_material_extract-1.webp" width="360" alt="Patina: Material Extract api_patina_material_extract-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_patina_material_extract` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | image |
 | Models | Patina |
 | Tags | 3D, API |
 | Type | API |

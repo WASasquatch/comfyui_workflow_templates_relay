@@ -1,6 +1,6 @@
 # Breeze TTS 2: Text to Speech
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=breeze_tts2_tts)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/breeze_tts2_tts-1.webp" width="360" alt="Breeze TTS 2: Text to Speech breeze_tts2_tts-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `breeze_tts2_tts` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | Breeze Blue |
 | Tags | API, TTS, Voice Cloning |
 | Type | API |

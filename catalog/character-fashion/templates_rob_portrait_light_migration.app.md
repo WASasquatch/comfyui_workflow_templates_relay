@@ -1,6 +1,6 @@
 # Portrait Relight
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_rob_portrait_light_migration.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_portrait_light_migration.app-1.webp" width="360" alt="Portrait Relight templates_rob_portrait_light_migration.app-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_portrait_light_migration.app-2.webp" width="360" alt="Portrait Relight templates_rob_portrait_light_migration.app-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_rob_portrait_light_migration.app` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image-Edit |
 | Tags | Image Edit, LoRA, Relight |
 | Type | open source |

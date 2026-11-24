@@ -1,6 +1,6 @@
 # Z-Image-Turbo Fun Union ControlNet
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_z_image_turbo_fun_union_controlnet)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_turbo_fun_union_controlnet-1.webp" width="360" alt="Z-Image-Turbo Fun Union ControlNet image_z_image_turbo_fun_union_controlnet-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_turbo_fun_union_controlnet-2.webp" width="360" alt="Z-Image-Turbo Fun Union ControlNet image_z_image_turbo_fun_union_controlnet-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_z_image_turbo_fun_union_controlnet` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Z-Image-Turbo |
 | Tags | Image, ControlNet |
 | Type | open source |

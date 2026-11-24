@@ -1,6 +1,6 @@
 # Remove Background: Bria Local
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility-bria_remove_video_background)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-bria_remove_video_background-1.webp" width="360" alt="Remove Background: Bria Local utility-bria_remove_video_background-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-bria_remove_video_background-2.webp" width="360" alt="Remove Background: Bria Local utility-bria_remove_video_background-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility-bria_remove_video_background` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | BRIA |
 | Tags | API, Remove Background |
 | Type | API |

@@ -1,6 +1,6 @@
 # Remove Background: Qwen Image 2.1
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_qwen_image_2_1_background_removal)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_background_removal-1.webp" width="360" alt="Remove Background: Qwen Image 2.1 image_qwen_image_2_1_background_removal-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_background_removal-2.webp" width="360" alt="Remove Background: Qwen Image 2.1 image_qwen_image_2_1_background_removal-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_qwen_image_2_1_background_removal` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Qwen Image 2.1 |
 | Tags | Remove Background, Int8 |
 | Type | open source |

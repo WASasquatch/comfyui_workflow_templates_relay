@@ -1,6 +1,6 @@
 # SD3.5 Large Depth
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=sd3.5_large_depth)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sd3.5_large_depth-1.webp" width="360" alt="SD3.5 Large Depth sd3.5_large_depth-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sd3.5_large_depth-2.webp" width="360" alt="SD3.5 Large Depth sd3.5_large_depth-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `sd3.5_large_depth` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | SD3.5, Stability |
 | Tags | Image, ControlNet |
 | Type | open source |

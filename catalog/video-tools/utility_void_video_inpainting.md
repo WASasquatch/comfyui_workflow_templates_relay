@@ -1,6 +1,6 @@
 # Video Inpainting: VOID
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_void_video_inpainting)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_void_video_inpainting-1.webp" width="360" alt="Video Inpainting: VOID utility_void_video_inpainting-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_void_video_inpainting-2.webp" width="360" alt="Video Inpainting: VOID utility_void_video_inpainting-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility_void_video_inpainting` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | VOID |
 | Tags | Video Edit, Inpainting |
 | Type | open source |

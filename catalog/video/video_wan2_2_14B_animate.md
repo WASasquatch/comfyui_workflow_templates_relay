@@ -1,6 +1,6 @@
 # Wan2.2 Animate, Character Animation and Replacement
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_wan2_2_14B_animate)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_animate-1.webp" width="360" alt="Wan2.2 Animate, Character Animation and Replacement video_wan2_2_14B_animate-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `video_wan2_2_14B_animate` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan, wan2.2 Animate |
 | Tags | Video, Image to Video |
 | Type | open source |

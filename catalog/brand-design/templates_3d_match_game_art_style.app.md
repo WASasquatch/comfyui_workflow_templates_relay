@@ -1,6 +1,6 @@
 # Game Asset Style Transfer Sprite Generator
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_3d_match_game_art_style.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_3d_match_game_art_style.app-1.webp" width="360" alt="Game Asset Style Transfer Sprite Generator templates_3d_match_game_art_style.app-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_3d_match_game_art_style.app-2.webp" width="360" alt="Game Asset Style Transfer Sprite Generator templates_3d_match_game_art_style.app-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_3d_match_game_art_style.app` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | API, Game, Style Reference |
 | Type | API |

@@ -1,6 +1,6 @@
 # Seedream 5.0 Flash: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bytedance_seedream_5_0_flash_t2i)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_flash_t2i-1.webp" width="360" alt="Seedream 5.0 Flash: Text to Image api_bytedance_seedream_5_0_flash_t2i-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_bytedance_seedream_5_0_flash_t2i` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Seedream 5.0 |
 | Tags | API, Text to Image |
 | Type | API |

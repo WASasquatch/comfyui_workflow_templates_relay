@@ -1,6 +1,6 @@
 # Pose Map: SDPose-OOD
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_sdpose_ood_video_to_pose_map)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_sdpose_ood_video_to_pose_map-1.webp" width="360" alt="Pose Map: SDPose-OOD utility_sdpose_ood_video_to_pose_map-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_sdpose_ood_video_to_pose_map-2.webp" width="360" alt="Pose Map: SDPose-OOD utility_sdpose_ood_video_to_pose_map-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_sdpose_ood_video_to_pose_map` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | SDPose-OOD |
 | Tags | Pose Map |
 | Type | open source |

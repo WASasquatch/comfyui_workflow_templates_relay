@@ -1,6 +1,6 @@
 # VEED Dubbing: Video Translation
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_veed_dubbing)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_veed_dubbing-1.webp" width="360" alt="VEED Dubbing: Video Translation api_veed_dubbing-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_veed_dubbing` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | VEED |
 | Tags | API, Video |
 | Type | API |

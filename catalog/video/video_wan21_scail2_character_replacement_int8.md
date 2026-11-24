@@ -1,6 +1,6 @@
 # SCAIL-2 Int8: Character Replacement
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_wan21_scail2_character_replacement_int8)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan21_scail2_character_replacement_int8-1.webp" width="360" alt="SCAIL-2 Int8: Character Replacement video_wan21_scail2_character_replacement_int8-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan21_scail2_character_replacement_int8-2.webp" width="360" alt="SCAIL-2 Int8: Character Replacement video_wan21_scail2_character_replacement_int8-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_wan21_scail2_character_replacement_int8` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | SCAIL-2 |
 | Tags | Character Replacement, Int8 |
 | Type | open source |

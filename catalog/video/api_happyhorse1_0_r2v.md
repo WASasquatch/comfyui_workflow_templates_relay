@@ -1,6 +1,6 @@
 # HappyHorse: Reference to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_happyhorse1_0_r2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_happyhorse1_0_r2v-1.webp" width="360" alt="HappyHorse: Reference to Video api_happyhorse1_0_r2v-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_happyhorse1_0_r2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | HappyHorse 1.0 |
 | Tags | Reference to Video, API |
 | Type | API |

@@ -1,6 +1,6 @@
 # Video Upscale: WaveSpeed FlashVSR
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_wavespeed_flshvsr_video_upscale)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wavespeed_flshvsr_video_upscale-1.webp" width="360" alt="Video Upscale: WaveSpeed FlashVSR api_wavespeed_flshvsr_video_upscale-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wavespeed_flshvsr_video_upscale-2.webp" width="360" alt="Video Upscale: WaveSpeed FlashVSR api_wavespeed_flshvsr_video_upscale-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_wavespeed_flshvsr_video_upscale` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | FlashVSR, WaveSpeed |
 | Tags | API, Video Upscale |
 | Type | API |

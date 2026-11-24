@@ -1,6 +1,6 @@
 # Swap Product in Character’s Hand, UGC Style
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-subject_product_swap.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-subject_product_swap.app-1.webp" width="360" alt="Swap Product in Character’s Hand, UGC Style templates-subject_product_swap.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-subject_product_swap.app` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Google, Nano Banana Pro |
 | Tags | API, Image Edit |
 | Type | API |

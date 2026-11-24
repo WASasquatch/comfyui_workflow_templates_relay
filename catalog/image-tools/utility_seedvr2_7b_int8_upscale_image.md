@@ -1,6 +1,6 @@
 # Image Upscale: SeedVR2 7B Int8
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_seedvr2_7b_int8_upscale_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_7b_int8_upscale_image-1.webp" width="360" alt="Image Upscale: SeedVR2 7B Int8 utility_seedvr2_7b_int8_upscale_image-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_7b_int8_upscale_image-2.webp" width="360" alt="Image Upscale: SeedVR2 7B Int8 utility_seedvr2_7b_int8_upscale_image-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_seedvr2_7b_int8_upscale_image` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | SeedVR2 |
 | Tags | Image Upscale, Int8 |
 | Type | open source |

@@ -1,6 +1,6 @@
 # FLUX 3 Image: Bounding Box Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bfl_flux3_image_bboxes)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_image_bboxes-1.webp" width="360" alt="FLUX 3 Image: Bounding Box Edit api_bfl_flux3_image_bboxes-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_bfl_flux3_image_bboxes` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX 3 Image |
 | Tags | Image Edit, API |
 | Type | API |

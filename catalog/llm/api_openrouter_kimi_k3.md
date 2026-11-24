@@ -1,6 +1,6 @@
 # Kimi: K3
 
-[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_openrouter_kimi_k3)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_kimi_k3-1.webp" width="360" alt="Kimi: K3 api_openrouter_kimi_k3-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_openrouter_kimi_k3` |
 | Category | Foundation › LLM |
-| Media type | image |
+| Output | llm |
 | Models | Kimi K3 |
 | Tags | API, Text Generation |
 | Type | API |

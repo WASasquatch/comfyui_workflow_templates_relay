@@ -1,6 +1,6 @@
 # Chroma: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_chroma_text_to_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_chroma_text_to_image-1.webp" width="360" alt="Chroma: Text to Image image_chroma_text_to_image-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_chroma_text_to_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Chroma, FLUX |
 | Tags | Text to Image, Image |
 | Type | open source |

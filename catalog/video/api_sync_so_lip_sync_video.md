@@ -1,6 +1,6 @@
 # Sync 3: Video Lip-Sync
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_sync_so_lip_sync_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sync_so_lip_sync_video-1.webp" width="360" alt="Sync 3: Video Lip-Sync api_sync_so_lip_sync_video-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_sync_so_lip_sync_video` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Sync 3 |
 | Tags | API, Lip Sync |
 | Type | API |

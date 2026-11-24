@@ -1,6 +1,6 @@
 # 3x3 Contact Sheet
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_3x3_contact_sheet)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_3x3_contact_sheet-1.webp" width="360" alt="3x3 Contact Sheet template_3x3_contact_sheet-1.webp">
 
@@ -21,7 +21,7 @@
 |---|---|
 | Name | `template_3x3_contact_sheet` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana 2 |
 | Tags | API, Image, Image Edit |
 | Type | API |

@@ -1,6 +1,6 @@
 # 3x3 Grid For Product Ads
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-9grid_social_media-v2.0)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-9grid_social_media-v2.0-1.webp" width="360" alt="3x3 Grid For Product Ads templates-9grid_social_media-v2.0-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-9grid_social_media-v2.0` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro, Google |
 | Tags | API, Image Edit, Image |
 | Type | API |

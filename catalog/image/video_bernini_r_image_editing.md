@@ -1,6 +1,6 @@
 # Bernini-R: Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_bernini_r_image_editing)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_bernini_r_image_editing-1.webp" width="360" alt="Bernini-R: Image Edit video_bernini_r_image_editing-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_bernini_r_image_editing-2.webp" width="360" alt="Bernini-R: Image Edit video_bernini_r_image_editing-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_bernini_r_image_editing` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Bernini-R |
 | Tags | Image Edit |
 | Type | open source |

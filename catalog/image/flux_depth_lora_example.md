@@ -1,6 +1,6 @@
 # Flux.1 Depth Lora
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=flux_depth_lora_example)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_depth_lora_example-1.webp" width="360" alt="Flux.1 Depth Lora flux_depth_lora_example-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_depth_lora_example-2.webp" width="360" alt="Flux.1 Depth Lora flux_depth_lora_example-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `flux_depth_lora_example` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX, FLUX.1 |
 | Tags | ControlNet, Image |
 | Type | open source |

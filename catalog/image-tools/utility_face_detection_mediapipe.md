@@ -1,6 +1,6 @@
 # Face Detection: MediaPipe
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_face_detection_mediapipe)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_face_detection_mediapipe-1.webp" width="360" alt="Face Detection: MediaPipe utility_face_detection_mediapipe-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility_face_detection_mediapipe` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Mediapipe |
 | Tags | Element Segmentation |
 | Type | open source |

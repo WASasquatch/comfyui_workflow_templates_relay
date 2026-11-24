@@ -1,6 +1,6 @@
 # Eleven v4: Text to Dialogue
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_elevenlabs_v4_text_to_dialogue)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_v4_text_to_dialogue-1.webp" width="360" alt="Eleven v4: Text to Dialogue api_elevenlabs_v4_text_to_dialogue-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_elevenlabs_v4_text_to_dialogue` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | ElevenLabs |
 | Tags | Text to Speech, Audio, API |
 | Type | API |

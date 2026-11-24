@@ -1,6 +1,6 @@
 # ElevenLabs: Text to Sound Effects
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_elevenlabs_text_to_sound_effects)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_text_to_sound_effects-1.webp" width="360" alt="ElevenLabs: Text to Sound Effects api_elevenlabs_text_to_sound_effects-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_elevenlabs_text_to_sound_effects` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | ElevenLabs |
 | Tags | Audio, Text to Audio, API |
 | Type | API |

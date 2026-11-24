@@ -1,6 +1,6 @@
 # 1 input multiple styles from prompt
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-1_input-multiple_styles_prompt.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-1_input-multiple_styles_prompt.app-1.webp" width="360" alt="1 input multiple styles from prompt templates-1_input-multiple_styles_prompt.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-1_input-multiple_styles_prompt.app` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Grok |
 | Tags | API, Image Edit |
 | Type | API |

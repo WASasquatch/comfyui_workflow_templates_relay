@@ -1,6 +1,6 @@
 # Anima Anime Text-to-Image Generation
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_anima_preview)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_anima_preview-1.webp" width="360" alt="Anima Anime Text-to-Image Generation image_anima_preview-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_anima_preview` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Anima |
 | Tags | Anime, Text to Image |
 | Type | open source |

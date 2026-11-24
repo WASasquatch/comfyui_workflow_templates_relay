@@ -1,6 +1,6 @@
 # Sonilo: Video Soundtrack Generation
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_sonilo_v2m)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_v2m-1.webp" width="360" alt="Sonilo: Video Soundtrack Generation api_sonilo_v2m-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_sonilo_v2m` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | Sonilo |
 | Tags | API, Audio, Music |
 | Type | API |

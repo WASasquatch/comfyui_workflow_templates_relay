@@ -1,6 +1,6 @@
 # Recraft v4: Text to Vector
 
-[← Vector](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Vector](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_recraft_v4_text_to_vector)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_v4_text_to_vector-1.webp" width="360" alt="Recraft v4: Text to Vector api_recraft_v4_text_to_vector-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_recraft_v4_text_to_vector` |
 | Category | Foundation › Vector |
-| Media type | image |
+| Output | image |
 | Models | Recraft |
 | Tags | API, Image, Vector |
 | Type | API |

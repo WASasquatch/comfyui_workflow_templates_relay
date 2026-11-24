@@ -1,6 +1,6 @@
 # 1 click Multiple Scene Angles
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-1_click_multiple_scene_angles-v1.0)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-1_click_multiple_scene_angles-v1.0-1.webp" width="360" alt="1 click Multiple Scene Angles templates-1_click_multiple_scene_angles-v1.0-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-1_click_multiple_scene_angles-v1.0` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image-Edit |
 | Tags | Image Edit |
 | Type | open source |

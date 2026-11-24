@@ -1,6 +1,6 @@
 # Patina: PBR Maps
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_patina_pbr_maps)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_patina_pbr_maps-1.webp" width="360" alt="Patina: PBR Maps api_patina_pbr_maps-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_patina_pbr_maps` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | image |
 | Models | Patina |
 | Tags | API, 3D |
 | Type | API |

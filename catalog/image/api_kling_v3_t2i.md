@@ -1,6 +1,6 @@
 # Kling 3.0: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_kling_v3_t2i)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_v3_t2i-1.webp" width="360" alt="Kling 3.0: Text to Image api_kling_v3_t2i-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_kling_v3_t2i` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Kling, Kling 3.0 |
 | Tags | API, Image, Text to Image |
 | Type | API |

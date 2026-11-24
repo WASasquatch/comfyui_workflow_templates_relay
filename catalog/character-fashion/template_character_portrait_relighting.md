@@ -1,6 +1,6 @@
 # Character Portrait Relighting
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_character_portrait_relighting)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_character_portrait_relighting-1.webp" width="360" alt="Character Portrait Relighting template_character_portrait_relighting-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_character_portrait_relighting` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | Relight, Portrait, API |
 | Type | API |

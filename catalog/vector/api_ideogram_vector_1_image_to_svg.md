@@ -1,6 +1,6 @@
 # Ideogram Vector 1: Image to SVG
 
-[← Vector](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Vector](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_ideogram_vector_1_image_to_svg)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_vector_1_image_to_svg-1.webp" width="360" alt="Ideogram Vector 1: Image to SVG api_ideogram_vector_1_image_to_svg-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_ideogram_vector_1_image_to_svg` |
 | Category | Foundation › Vector |
-| Media type | image |
+| Output | image |
 | Models | Ideogram |
 | Tags | API, Vector |
 | Type | API |

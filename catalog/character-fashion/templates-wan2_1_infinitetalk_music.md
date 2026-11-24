@@ -1,6 +1,6 @@
 # Audio-Driven Character Lip Sync Video
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-wan2_1_infinitetalk_music)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-wan2_1_infinitetalk_music-1.webp" width="360" alt="Audio-Driven Character Lip Sync Video templates-wan2_1_infinitetalk_music-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-wan2_1_infinitetalk_music` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1 InfiniteTalk |
 | Tags | Audio to Video, Lip Sync, Video |
 | Type | open source |

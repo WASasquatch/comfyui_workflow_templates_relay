@@ -1,6 +1,6 @@
 # FireRed Image Edit 1.1: Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_firered_image_edit1_1)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_firered_image_edit1_1-1.webp" width="360" alt="FireRed Image Edit 1.1: Image Edit image_firered_image_edit1_1-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_firered_image_edit1_1-2.webp" width="360" alt="FireRed Image Edit 1.1: Image Edit image_firered_image_edit1_1-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_firered_image_edit1_1` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FireRed Image Edit 1.1 |
 | Tags | Image Edit |
 | Type | open source |

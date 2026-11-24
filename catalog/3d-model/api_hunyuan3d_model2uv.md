@@ -1,6 +1,6 @@
 # HY 3D: UV Unwrapping
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_hunyuan3d_model2uv)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_hunyuan3d_model2uv-1.webp" width="360" alt="HY 3D: UV Unwrapping api_hunyuan3d_model2uv-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_hunyuan3d_model2uv-2.webp" width="360" alt="HY 3D: UV Unwrapping api_hunyuan3d_model2uv-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_hunyuan3d_model2uv` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | Hunyuan3D |
 | Tags | API, 3D |
 | Type | API |

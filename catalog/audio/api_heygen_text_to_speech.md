@@ -1,6 +1,6 @@
 # HeyGen: Text to Speech
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_text_to_speech)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_text_to_speech-1.webp" width="360" alt="HeyGen: Text to Speech api_heygen_text_to_speech-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_heygen_text_to_speech` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | HeyGen |
 | Tags | API, Text to Speech |
 | Type | API |

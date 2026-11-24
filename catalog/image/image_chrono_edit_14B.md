@@ -1,6 +1,6 @@
 # ChronoEdit 14B: Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_chrono_edit_14B)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_chrono_edit_14B-1.webp" width="360" alt="ChronoEdit 14B: Image Edit image_chrono_edit_14B-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_chrono_edit_14B-2.webp" width="360" alt="ChronoEdit 14B: Image Edit image_chrono_edit_14B-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `image_chrono_edit_14B` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Wan2.1, ChronoEdit, Nvidia |
 | Tags | Image Edit |
 | Type | open source |

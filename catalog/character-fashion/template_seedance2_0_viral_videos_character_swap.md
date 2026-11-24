@@ -1,6 +1,6 @@
 # Seedance 2.0: Viral Videos Character Swap
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_seedance2_0_viral_videos_character_swap)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_seedance2_0_viral_videos_character_swap-1.webp" width="360" alt="Seedance 2.0: Viral Videos Character Swap template_seedance2_0_viral_videos_character_swap-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_seedance2_0_viral_videos_character_swap-2.webp" width="360" alt="Seedance 2.0: Viral Videos Character Swap template_seedance2_0_viral_videos_character_swap-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_seedance2_0_viral_videos_character_swap` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | GPT Image 2, Google Gemini, Seedance 2.0 |
 | Tags | API, Character Replacement, Image to Video |
 | Type | API |

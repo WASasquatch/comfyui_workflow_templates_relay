@@ -1,6 +1,6 @@
 # Frame Interpolation: FILM
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility-frame_interpolation-film)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-frame_interpolation-film-1.webp" width="360" alt="Frame Interpolation: FILM utility-frame_interpolation-film-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility-frame_interpolation-film` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | None |
 | Tags | Frame Interpolation |
 | Type | open source |

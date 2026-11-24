@@ -1,6 +1,6 @@
 # Wan2.1 VACE First-Last Frame
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_wan_vace_flf2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_vace_flf2v-1.webp" width="360" alt="Wan2.1 VACE First-Last Frame video_wan_vace_flf2v-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `video_wan_vace_flf2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1, Wan |
 | Tags | FLF2V, Video |
 | Type | open source |

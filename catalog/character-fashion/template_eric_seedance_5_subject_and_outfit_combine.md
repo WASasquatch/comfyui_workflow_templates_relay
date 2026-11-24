@@ -1,6 +1,6 @@
 # Outfit Application for Character Portraits
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_eric_seedance_5_subject_and_outfit_combine)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_eric_seedance_5_subject_and_outfit_combine-1.webp" width="360" alt="Outfit Application for Character Portraits template_eric_seedance_5_subject_and_outfit_combine-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_eric_seedance_5_subject_and_outfit_combine` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Seedream 4.5 |
 | Tags | API, Virtual Try-On |
 | Type | API |

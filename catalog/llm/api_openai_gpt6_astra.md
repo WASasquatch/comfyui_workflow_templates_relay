@@ -1,6 +1,6 @@
 # GPT-6 Astra
 
-[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_openai_gpt6_astra)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt6_astra-1.webp" width="360" alt="GPT-6 Astra api_openai_gpt6_astra-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_openai_gpt6_astra` |
 | Category | Foundation › LLM |
-| Media type | image |
+| Output | llm |
 | Models | ChatGPT |
 | Tags | API, LLM |
 | Type | API |

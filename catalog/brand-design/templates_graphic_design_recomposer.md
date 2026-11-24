@@ -1,6 +1,6 @@
 # Graphic Design Recomposer
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_graphic_design_recomposer)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_graphic_design_recomposer-1.webp" width="360" alt="Graphic Design Recomposer templates_graphic_design_recomposer-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_graphic_design_recomposer` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana 2, Nano Banana Pro |
 | Tags | API, Brand Design |
 | Type | API |

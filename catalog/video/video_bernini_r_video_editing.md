@@ -1,6 +1,6 @@
 # Bernini-R: Video Edit
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_bernini_r_video_editing)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_bernini_r_video_editing-1.webp" width="360" alt="Bernini-R: Video Edit video_bernini_r_video_editing-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_bernini_r_video_editing` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Bernini-R |
 | Tags | Video Edit |
 | Type | open source |

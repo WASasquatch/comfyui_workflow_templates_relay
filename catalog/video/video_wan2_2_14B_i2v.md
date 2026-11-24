@@ -1,6 +1,6 @@
 # Wan 2.2 14B Image to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_wan2_2_14B_i2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_i2v-1.webp" width="360" alt="Wan 2.2 14B Image to Video video_wan2_2_14B_i2v-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_i2v-2.webp" width="360" alt="Wan 2.2 14B Image to Video video_wan2_2_14B_i2v-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `video_wan2_2_14B_i2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan, Wan2.2 |
 | Tags | Image to Video, Video |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Video Upscale: Topaz Starlight Precise 2.5
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_topaz_starlight_precise25)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_starlight_precise25-1.webp" width="360" alt="Video Upscale: Topaz Starlight Precise 2.5 api_topaz_starlight_precise25-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_topaz_starlight_precise25` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Topaz |
 | Tags | Video Upscale, API |
 | Type | API |

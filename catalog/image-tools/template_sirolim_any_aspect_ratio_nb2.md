@@ -1,6 +1,6 @@
 # Any Image → Any Aspect Ratio
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_sirolim_any_aspect_ratio_nb2)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sirolim_any_aspect_ratio_nb2-1.webp" width="360" alt="Any Image → Any Aspect Ratio template_sirolim_any_aspect_ratio_nb2-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sirolim_any_aspect_ratio_nb2-2.webp" width="360" alt="Any Image → Any Aspect Ratio template_sirolim_any_aspect_ratio_nb2-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_sirolim_any_aspect_ratio_nb2` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana 2 |
 | Tags | API, Image, Outpainting, Image Edit |
 | Type | API |

@@ -1,6 +1,6 @@
 # Step 1: Contact Sheet Workflow
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_contact_sheet-step_1.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_contact_sheet-step_1.app-1.webp" width="360" alt="Step 1: Contact Sheet Workflow template_contact_sheet-step_1.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_contact_sheet-step_1.app` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | API, Image, Image Edit |
 | Type | API |

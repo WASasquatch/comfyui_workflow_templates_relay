@@ -1,6 +1,6 @@
 # Product Scene Transformation
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_product_scene_transformation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_product_scene_transformation-1.webp" width="360" alt="Product Scene Transformation templates_product_scene_transformation-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_product_scene_transformation` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | video |
 | Models | Kling, Nano Banana Pro, Wan |
 | Tags | API, Style Transfer, Video |
 | Type | API |

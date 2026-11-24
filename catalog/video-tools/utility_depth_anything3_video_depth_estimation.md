@@ -1,6 +1,6 @@
 # Depth Map: Depth Anything 3
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_depth_anything3_video_depth_estimation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_depth_anything3_video_depth_estimation-1.webp" width="360" alt="Depth Map: Depth Anything 3 utility_depth_anything3_video_depth_estimation-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_depth_anything3_video_depth_estimation-2.webp" width="360" alt="Depth Map: Depth Anything 3 utility_depth_anything3_video_depth_estimation-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_depth_anything3_video_depth_estimation` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Depth Anything v3 |
 | Tags | ControlNet |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Dynamic 3D Logo Animations
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-3D_logo_texture_animation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-3D_logo_texture_animation-1.webp" width="360" alt="Dynamic 3D Logo Animations templates-3D_logo_texture_animation-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-3D_logo_texture_animation` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | ByteDance, Seedream, Google Gemini, Nano Banana Pro |
 | Tags | API, Brand Design, FLF2V |
 | Type | API |

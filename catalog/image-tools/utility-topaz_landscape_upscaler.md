@@ -1,6 +1,6 @@
 # Image Upscale: Topaz Reimagine Landscape
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility-topaz_landscape_upscaler)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-topaz_landscape_upscaler-1.webp" width="360" alt="Image Upscale: Topaz Reimagine Landscape utility-topaz_landscape_upscaler-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-topaz_landscape_upscaler-2.webp" width="360" alt="Image Upscale: Topaz Reimagine Landscape utility-topaz_landscape_upscaler-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility-topaz_landscape_upscaler` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Topaz |
 | Tags | API, Image Upscale |
 | Type | API |

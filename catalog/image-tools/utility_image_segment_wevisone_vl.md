@@ -1,6 +1,6 @@
 # Image Segmentation: WeVisOne-VL
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_image_segment_wevisone_vl)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_image_segment_wevisone_vl-1.webp" width="360" alt="Image Segmentation: WeVisOne-VL utility_image_segment_wevisone_vl-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_image_segment_wevisone_vl` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | WeVisOne-VL |
 | Tags | Element Segmentation, Remove Background |
 | Type | open source |

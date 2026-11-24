@@ -1,6 +1,6 @@
 # HeyGen: Video Translate
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_video_translate)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_translate-1.webp" width="360" alt="HeyGen: Video Translate api_heygen_video_translate-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_heygen_video_translate` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | HeyGen |
 | Tags | API, Lip Sync |
 | Type | API |

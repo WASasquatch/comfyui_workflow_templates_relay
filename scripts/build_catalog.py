@@ -78,6 +78,18 @@ def load_json(path: Path):
 
 # --------------------------------------------------------------------------- extraction
 
+OUTPUT_PRIORITY = ["3d", "video", "audio", "image", "text"]
+
+
+def output_type(t: dict, category_type: str) -> str:
+    """What the workflow produces. Upstream `mediaType` describes the thumbnail, not the output."""
+    outs = {o.get("mediaType") for o in (t.get("io") or {}).get("outputs") or [] if o.get("mediaType")}
+    for kind in OUTPUT_PRIORITY:
+        if kind in outs:
+            return kind
+    return category_type or t.get("mediaType") or "other"
+
+
 def list_template_files(upstream: Path) -> list[str]:
     """Filenames in templates/ — from git trees, so blobs (images) need not be downloaded."""
     try:
@@ -156,7 +168,8 @@ def analyze_workflow(path: Path) -> dict:
 # --------------------------------------------------------------------------- rendering
 
 class Catalog:
-    def __init__(self, upstream: Path, out: Path, repo: str, ref: str):
+    def __init__(self, upstream: Path, out: Path, repo: str, ref: str, site_url: str = ""):
+        self.site_url = site_url.rstrip("/") + "/" if site_url else ""
         self.upstream = upstream
         self.out = out
         self.catalog_dir = out / "catalog"
@@ -194,6 +207,7 @@ class Catalog:
             for t in cat.get("templates") or []:
                 t = dict(t)
                 t["_category"] = c
+                t["_output"] = output_type(t, c["type"])
                 t["_page"] = f"{slug}/{t['name']}.md"
                 path = upstream / "templates" / f"{t['name']}.json"
                 t["_has_json"] = t["name"] in json_files and path.exists()
@@ -256,7 +270,7 @@ class Catalog:
         cols = [
             f"[{cell(t.get('title') or t['name'])}]({self.link(t, from_dir)})",
             cell(t["_category"]["title"]),
-            cell(t.get("mediaType")),
+            cell(t["_output"]),
             cell(", ".join(t.get("models") or [])),
             cell(", ".join(t.get("tags") or [])),
             cell(t.get("date")),
@@ -264,7 +278,7 @@ class Catalog:
         ]
         return "| " + " | ".join(cols + list(extra_cols)) + " |"
 
-    TEMPLATE_HEADER = "| Template | Category | Media | Models | Tags | Date | Type |\n|---|---|---|---|---|---|---|"
+    TEMPLATE_HEADER = "| Template | Category | Output | Models | Tags | Date | Type |\n|---|---|---|---|---|---|---|"
 
     # ---- pages
 
@@ -273,7 +287,10 @@ class Catalog:
         wf = t["_wf"] or {}
         name = t["name"]
         L = [f"# {t.get('title') or name}", ""]
-        L += [f"[← {c['title']}](README.md) · [All categories](../README.md) · [All templates](../all.md)", ""]
+        nav = f"[← {c['title']}](README.md) · [All categories](../README.md) · [All templates](../all.md)"
+        if self.site_url:
+            nav += f" · [Open in browser]({self.site_url}#t={name})"
+        L += [nav, ""]
 
         imgs = []
         for f in self.thumbs(t):
@@ -303,7 +320,7 @@ class Catalog:
         rows = [
             ("Name", f"`{name}`"),
             ("Category", f"{c['group']} › {c['title']}" if c["group"] else c["title"]),
-            ("Media type", t.get("mediaType")),
+            ("Output", t["_output"]),
             ("Models", ", ".join(t.get("models") or [])),
             ("Tags", ", ".join(t.get("tags") or [])),
             ("Type", self.kind(t)),
@@ -376,7 +393,7 @@ class Catalog:
         for t in c["templates"]:
             title = f"**[{cell(t.get('title') or t['name'])}]({t['name']}.md)**"
             desc = cell(t.get("description"))
-            meta = " · ".join(x for x in [cell(t.get("mediaType")), self.kind(t), human_size(t.get("size"))] if x)
+            meta = " · ".join(x for x in [cell(t["_output"]), self.kind(t), human_size(t.get("size"))] if x)
             L.append(
                 f"| {self.thumb_html(t, 200)} | {title}<br>{desc}<br><sub>{meta}</sub> "
                 f"| {cell(', '.join(t.get('models') or []))} | {cell(t.get('date'))} |"
@@ -392,14 +409,14 @@ class Catalog:
     def category_table(self, from_dir: str) -> list[str]:
         prefix = "catalog/" if from_dir == "root" else ""
         if from_dir == "root":
-            L = ["## Categories", "", "| Group | Category | Templates | Media | Gallery |", "|---|---|---|---|---|"]
+            L = ["## Categories", "", "| Group | Category | Templates | Output | Gallery |", "|---|---|---|---|---|"]
             for c in self.categories:
                 L.append(
                     f"| {cell(c['group'])} | [{cell(c['title'])}](#dir-{c['slug']}) | {len(c['templates'])} "
                     f"| {cell(c['type'])} | [thumbnails]({prefix}{c['slug']}/README.md) |"
                 )
             return L + [""]
-        L = ["## Categories", "", "| Group | Category | Templates | Media |", "|---|---|---|---|"]
+        L = ["## Categories", "", "| Group | Category | Templates | Output |", "|---|---|---|---|"]
         for c in self.categories:
             L.append(f"| {cell(c['group'])} | [{cell(c['title'])}]({prefix}{c['slug']}/README.md) | {len(c['templates'])} | {cell(c['type'])} |")
         return L + [""]
@@ -474,6 +491,15 @@ class Catalog:
             "",
             self.source_line(),
             "",
+        ]
+        if self.site_url:
+            L += [
+                f"### [🔎 Open the interactive template browser →]({self.site_url})",
+                "",
+                "Search, filter by model / tag / media type, preview, and download any workflow in one click.",
+                "",
+            ]
+        L += [
             f"**{len(self.templates)} templates** in {len(self.categories)} categories "
             f"({len(self.templates) - n_api} open source, {n_api} API).",
             "",
@@ -500,6 +526,8 @@ class Catalog:
             "- `scripts/build_catalog.py` (standard library only) reads `templates/index.json` plus every workflow JSON and "
             "rewrites `catalog/` and this README. Output has no timestamps, so a commit is made only when upstream changed.",
             "- Thumbnails and downloads link to `raw.githubusercontent.com` on the upstream repo; nothing is re-hosted.",
+            "- The interactive browser in `site/` is a static page (no build step) that reads `catalog/templates.json`; "
+            "the same Action deploys it to GitHub Pages after every sync.",
             "",
             "Run locally:",
             "",
@@ -507,6 +535,7 @@ class Catalog:
             f"git clone --depth 1 --filter=blob:none --sparse https://github.com/{self.repo}.git upstream",
             "git -C upstream sparse-checkout set --no-cone '/templates/*.json'",
             "python3 scripts/build_catalog.py --upstream upstream --out .",
+            "python3 -m http.server 8000   # then open http://localhost:8000/site/",
             "```",
         ]
         return "\n".join(L)
@@ -522,14 +551,14 @@ class Catalog:
                 "",
                 f"[Gallery with thumbnails](catalog/{c['slug']}/README.md)",
                 "",
-                "| Template | Models | Media | Type | Date | JSON |",
+                "| Template | Models | Output | Type | Date | JSON |",
                 "|---|---|---|---|---|---|",
             ]
             for t in c["templates"]:
                 json_link = f"[json]({self.raw}/{t['name']}.json)" if t["_has_json"] else ""
                 L.append(
                     f"| [{cell(t.get('title') or t['name'])}]({self.link(t, 'root')}) "
-                    f"| {cell(', '.join(t.get('models') or []))} | {cell(t.get('mediaType'))} "
+                    f"| {cell(', '.join(t.get('models') or []))} | {cell(t['_output'])} "
                     f"| {self.kind(t)} | {cell(t.get('date'))} | {json_link} |"
                 )
             L += ["", "[↑ Top](#categories)", ""]
@@ -543,6 +572,8 @@ class Catalog:
             item.update(
                 category=t["_category"]["title"],
                 categoryGroup=t["_category"]["group"],
+                categoryType=t["_category"]["type"],
+                outputType=t["_output"],
                 page=f"catalog/{t['_page']}",
                 workflowUrl=f"{self.raw}/{t['name']}.json" if t["_has_json"] else None,
                 thumbnails=[f"{self.raw}/{f}" for f in self.thumbs(t)],
@@ -605,9 +636,10 @@ def main() -> int:
     ap.add_argument("--out", type=Path, default=Path("."), help="repo root to write README.md and catalog/ into")
     ap.add_argument("--repo", default="Comfy-Org/workflow_templates")
     ap.add_argument("--ref", default="main", help="branch used for raw/blob links")
+    ap.add_argument("--site-url", default="", help="GitHub Pages URL of the interactive browser (linked from the Markdown)")
     args = ap.parse_args()
 
-    cat = Catalog(args.upstream, args.out, args.repo, args.ref)
+    cat = Catalog(args.upstream, args.out, args.repo, args.ref, args.site_url)
     cat.build()
     print(f"Wrote {len(cat.templates)} templates in {len(cat.categories)} categories (upstream {cat.sha[:7] or 'unknown'}).")
     return 0

@@ -1,6 +1,6 @@
 # Generate Poster/Ad Asset with your Product
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-poster_product_integration)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-poster_product_integration-1.webp" width="360" alt="Generate Poster/Ad Asset with your Product templates-poster_product_integration-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-poster_product_integration-2.webp" width="360" alt="Generate Poster/Ad Asset with your Product templates-poster_product_integration-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-poster_product_integration` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | ByteDance, Google Gemini, Seedream |
 | Tags | API, Image Edit |
 | Type | API |

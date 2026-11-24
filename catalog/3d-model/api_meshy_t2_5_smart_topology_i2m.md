@@ -1,6 +1,6 @@
 # Meshy T2.5: Image to Model (Smart Topology)
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_meshy_t2_5_smart_topology_i2m)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_t2_5_smart_topology_i2m-1.webp" width="360" alt="Meshy T2.5: Image to Model (Smart Topology) api_meshy_t2_5_smart_topology_i2m-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_t2_5_smart_topology_i2m-2.webp" width="360" alt="Meshy T2.5: Image to Model (Smart Topology) api_meshy_t2_5_smart_topology_i2m-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_meshy_t2_5_smart_topology_i2m` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | Meshy |
 | Tags | API, Image to 3D |
 | Type | API |

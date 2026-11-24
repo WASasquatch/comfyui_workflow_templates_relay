@@ -1,6 +1,6 @@
 # Equirectangular HDR Skybox Generator
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_text_prompt_to_360hdr.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_text_prompt_to_360hdr.app-1.webp" width="360" alt="Equirectangular HDR Skybox Generator templates_text_prompt_to_360hdr.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_text_prompt_to_360hdr.app` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image, SeedVR2 |
 | Tags | Game, LoRA, 3D |
 | Type | open source |

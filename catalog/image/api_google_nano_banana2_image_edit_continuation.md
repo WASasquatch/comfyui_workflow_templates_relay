@@ -1,6 +1,6 @@
 # Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_google_nano_banana2_image_edit_continuation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_nano_banana2_image_edit_continuation-1.webp" width="360" alt="Image Edit api_google_nano_banana2_image_edit_continuation-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_google_nano_banana2_image_edit_continuation` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Google, Nano Banana 2 |
 | Tags | API, Image Edit |
 | Type | API |

@@ -1,6 +1,6 @@
 # Product Placement
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_product_placement)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_product_placement-1.webp" width="360" alt="Product Placement template_product_placement-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_product_placement` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | video |
 | Models | Gemini-3.1-Pro, Kling 3.0, Nano Banana 2 |
 | Tags | API, Image Edit, Video |
 | Type | API |

@@ -1,6 +1,6 @@
 # Qwen3-VL: Text Generation
 
-[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← LLM](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=llm_qwen3vl_text_gen)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_qwen3vl_text_gen-1.webp" width="360" alt="Qwen3-VL: Text Generation llm_qwen3vl_text_gen-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `llm_qwen3vl_text_gen` |
 | Category | Foundation › LLM |
-| Media type | image |
+| Output | llm |
 | Models | Qwen 3.0 |
 | Tags | Text Generation |
 | Type | open source |

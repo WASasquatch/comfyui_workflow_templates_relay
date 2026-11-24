@@ -1,6 +1,6 @@
 # Image to Script to Kling Video Generation
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_sirolim_image_script_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sirolim_image_script_video-1.webp" width="360" alt="Image to Script to Kling Video Generation template_sirolim_image_script_video-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_sirolim_image_script_video` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Google Gemini, Kling O3, Nano Banana 2 |
 | Tags | API, Image to Video, Video |
 | Type | API |

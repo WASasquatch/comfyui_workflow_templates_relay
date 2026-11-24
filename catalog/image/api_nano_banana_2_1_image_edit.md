@@ -1,6 +1,6 @@
 # Nano Banana 2.1: Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_nano_banana_2_1_image_edit)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_1_image_edit-1.webp" width="360" alt="Nano Banana 2.1: Image Edit api_nano_banana_2_1_image_edit-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_nano_banana_2_1_image_edit` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana |
 | Tags | Image Edit, Image, API |
 | Type | API |

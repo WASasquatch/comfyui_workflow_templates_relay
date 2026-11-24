@@ -1,6 +1,6 @@
 # HiDream E1 Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=hidream_e1_full)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/hidream_e1_full-1.webp" width="360" alt="HiDream E1 Image Edit hidream_e1_full-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/hidream_e1_full-2.webp" width="360" alt="HiDream E1 Image Edit hidream_e1_full-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `hidream_e1_full` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | HiDream |
 | Tags | Image Edit, Image |
 | Type | open source |

@@ -1,6 +1,6 @@
 # LTXV Text to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=ltxv_text_to_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/ltxv_text_to_video-1.webp" width="360" alt="LTXV Text to Video ltxv_text_to_video-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `ltxv_text_to_video` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | LTX-0.9.5 |
 | Tags | Text to Video, Video |
 | Type | open source |

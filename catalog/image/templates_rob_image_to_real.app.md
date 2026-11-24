@@ -1,6 +1,6 @@
 # Illustration to Realism
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_rob_image_to_real.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_image_to_real.app-1.webp" width="360" alt="Illustration to Realism templates_rob_image_to_real.app-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_image_to_real.app-2.webp" width="360" alt="Illustration to Realism templates_rob_image_to_real.app-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_rob_image_to_real.app` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image-Edit |
 | Tags | Image, Image Edit, LoRA |
 | Type | open source |

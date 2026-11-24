@@ -1,6 +1,6 @@
 # 1 input and multiple editing model comparison
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-all_in_one-image_edit_models)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-all_in_one-image_edit_models-1.webp" width="360" alt="1 input and multiple editing model comparison templates-all_in_one-image_edit_models-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-all_in_one-image_edit_models` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX.2 Dev, FLUX.2 Klein, GPT-Image-1.5, Grok, Nano Banana Pro, Qwen-Image-Edit, Seedream |
 | Tags | API, Image Edit |
 | Type | API |

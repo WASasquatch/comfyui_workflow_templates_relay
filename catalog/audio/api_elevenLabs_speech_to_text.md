@@ -1,6 +1,6 @@
 # ElevenLabs: Speech to text
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_elevenLabs_speech_to_text)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenLabs_speech_to_text-1.webp" width="360" alt="ElevenLabs: Speech to text api_elevenLabs_speech_to_text-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_elevenLabs_speech_to_text` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | ElevenLabs |
 | Tags | API, Speech to Text |
 | Type | API |

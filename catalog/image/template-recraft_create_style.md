@@ -1,6 +1,6 @@
 # Style Transfer - Recraft Text-to-Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template-recraft_create_style)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template-recraft_create_style-1.webp" width="360" alt="Style Transfer - Recraft Text-to-Image template-recraft_create_style-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template-recraft_create_style` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Recraft |
 | Tags | API, Style Transfer |
 | Type | API |

@@ -1,6 +1,6 @@
 # Flux.1 Redux Model
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=flux_redux_model_example)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_redux_model_example-1.webp" width="360" alt="Flux.1 Redux Model flux_redux_model_example-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `flux_redux_model_example` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX.1, FLUX |
 | Tags | ControlNet, Image |
 | Type | open source |

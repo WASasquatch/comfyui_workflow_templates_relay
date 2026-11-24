@@ -1,6 +1,6 @@
 # HY Image 3.5 Preview: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_tencent_hy_image_3_5_preview_t2i)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tencent_hy_image_3_5_preview_t2i-1.webp" width="360" alt="HY Image 3.5 Preview: Text to Image api_tencent_hy_image_3_5_preview_t2i-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_tencent_hy_image_3_5_preview_t2i` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | HY Image 3.5 |
 | Tags | API, Text to Image |
 | Type | API |

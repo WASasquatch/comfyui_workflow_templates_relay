@@ -1,6 +1,6 @@
 # Arrow 2: Image to SVG
 
-[← Vector](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Vector](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_quiver_image_to_svg)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_quiver_image_to_svg-1.webp" width="360" alt="Arrow 2: Image to SVG api_quiver_image_to_svg-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_quiver_image_to_svg` |
 | Category | Foundation › Vector |
-| Media type | image |
+| Output | image |
 | Models | Quiver |
 | Tags | API, Vector |
 | Type | API |

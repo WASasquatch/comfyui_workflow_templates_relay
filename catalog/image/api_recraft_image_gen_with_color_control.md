@@ -1,6 +1,6 @@
 # Recraft: Color Control Image Generation
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_recraft_image_gen_with_color_control)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_image_gen_with_color_control-1.webp" width="360" alt="Recraft: Color Control Image Generation api_recraft_image_gen_with_color_control-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_recraft_image_gen_with_color_control` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Recraft |
 | Tags | Text to Image, Image, API |
 | Type | API |

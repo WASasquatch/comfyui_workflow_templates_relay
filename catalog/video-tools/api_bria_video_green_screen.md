@@ -1,6 +1,6 @@
 # Green Screen: Bria
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bria_video_green_screen)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_video_green_screen-1.webp" width="360" alt="Green Screen: Bria api_bria_video_green_screen-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_video_green_screen-2.webp" width="360" alt="Green Screen: Bria api_bria_video_green_screen-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_bria_video_green_screen` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | BRIA |
 | Tags | Remove Background, API |
 | Type | API |

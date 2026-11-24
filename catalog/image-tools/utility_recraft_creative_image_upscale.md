@@ -1,6 +1,6 @@
 # Image Upscale: Recraft Creative
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_recraft_creative_image_upscale)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_recraft_creative_image_upscale-1.webp" width="360" alt="Image Upscale: Recraft Creative utility_recraft_creative_image_upscale-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_recraft_creative_image_upscale-2.webp" width="360" alt="Image Upscale: Recraft Creative utility_recraft_creative_image_upscale-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_recraft_creative_image_upscale` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Recraft |
 | Tags | API, Image Upscale |
 | Type | API |

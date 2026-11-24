@@ -1,6 +1,6 @@
 # Qwen-Image InstantX Inpainting ControlNet
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_qwen_image_instantx_inpainting_controlnet)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_instantx_inpainting_controlnet-1.webp" width="360" alt="Qwen-Image InstantX Inpainting ControlNet image_qwen_image_instantx_inpainting_controlnet-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_instantx_inpainting_controlnet-2.webp" width="360" alt="Qwen-Image InstantX Inpainting ControlNet image_qwen_image_instantx_inpainting_controlnet-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_qwen_image_instantx_inpainting_controlnet` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image |
 | Tags | Image, ControlNet, Inpainting |
 | Type | open source |

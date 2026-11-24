@@ -1,6 +1,6 @@
 # Kling O1: Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_kling_omni_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_omni_image-1.webp" width="360" alt="Kling O1: Image api_kling_omni_image-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_kling_omni_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Kling O1 |
 | Tags | API, Character Reference, Text to Image |
 | Type | API |

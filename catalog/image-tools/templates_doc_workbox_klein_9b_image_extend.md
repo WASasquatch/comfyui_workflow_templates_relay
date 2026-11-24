@@ -1,6 +1,6 @@
 # Image Outpainting: FLUX.2 Klein 9B
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_doc_workbox_klein_9b_image_extend)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_doc_workbox_klein_9b_image_extend-1.webp" width="360" alt="Image Outpainting: FLUX.2 Klein 9B templates_doc_workbox_klein_9b_image_extend-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_doc_workbox_klein_9b_image_extend-2.webp" width="360" alt="Image Outpainting: FLUX.2 Klein 9B templates_doc_workbox_klein_9b_image_extend-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `templates_doc_workbox_klein_9b_image_extend` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | FLUX.2 Klein |
 | Tags | Image, Outpainting |
 | Type | open source |

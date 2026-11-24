@@ -1,6 +1,6 @@
 # Portrait Enhancement: Magnific
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_magnific_skin_enhancer)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_skin_enhancer-1.webp" width="360" alt="Portrait Enhancement: Magnific api_magnific_skin_enhancer-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_skin_enhancer-2.webp" width="360" alt="Portrait Enhancement: Magnific api_magnific_skin_enhancer-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_magnific_skin_enhancer` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Magnific |
 | Tags | API, Portrait |
 | Type | API |

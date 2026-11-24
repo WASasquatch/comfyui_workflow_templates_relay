@@ -1,6 +1,6 @@
 # Mirelo SFX 2.0: Video to SFX
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_mirelo_video_to_sfx)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_mirelo_video_to_sfx-1.webp" width="360" alt="Mirelo SFX 2.0: Video to SFX api_mirelo_video_to_sfx-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_mirelo_video_to_sfx` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | video |
 | Models | Mirelo |
 | Tags | Video, Audio, API |
 | Type | API |

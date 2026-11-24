@@ -1,6 +1,6 @@
 # Exploded View Animation
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_eric_exploded_view)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_eric_exploded_view-1.webp" width="360" alt="Exploded View Animation template_eric_exploded_view-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_eric_exploded_view` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | video |
 | Models | Nano Banana 2, Seedance 2.0 |
 | Tags | API, FLF2V, Video |
 | Type | API |

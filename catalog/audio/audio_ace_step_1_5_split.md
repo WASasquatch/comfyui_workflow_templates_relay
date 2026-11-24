@@ -1,6 +1,6 @@
 # ACE-Step 1.5 Music Generation Workflow
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio_ace_step_1_5_split)
 
 [▶ audio_ace_step_1_5_split-1.mp3](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_5_split-1.mp3)
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `audio_ace_step_1_5_split` |
 | Category | Foundation › Audio |
-| Media type | audio |
+| Output | audio |
 | Models | ACE-Step |
 | Tags | Audio, Text to Audio, Music |
 | Type | open source |

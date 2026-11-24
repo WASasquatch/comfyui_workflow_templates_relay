@@ -1,6 +1,6 @@
 # Realistic Poster Redesign With Character Transformation
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_doc_workbox_poster_recreator)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_doc_workbox_poster_recreator-1.webp" width="360" alt="Realistic Poster Redesign With Character Transformation templates_doc_workbox_poster_recreator-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_doc_workbox_poster_recreator` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | API, Image Edit |
 | Type | API |

@@ -1,6 +1,6 @@
 # Built-in Data Type Conversion Example
 
-[← Node Basics](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Node Basics](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=basic_datatype_conversion)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/basic_datatype_conversion-1.webp" width="360" alt="Built-in Data Type Conversion Example basic_datatype_conversion-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `basic_datatype_conversion` |
 | Category | Foundation › Node Basics |
-| Media type | image |
+| Output | image |
 | Models | None |
 | Tags | Node Basics |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Upscale: LTX VFX
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_ltx_video_upscale)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_upscale-1.webp" width="360" alt="Upscale: LTX VFX api_ltx_video_upscale-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_ltx_video_upscale` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | LTX-2.5 |
 | Tags | API, Upscale, Video |
 | Type | API |

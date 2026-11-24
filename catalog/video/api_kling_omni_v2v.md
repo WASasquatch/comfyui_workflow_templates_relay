@@ -1,6 +1,6 @@
 # Kling O1: Video to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_kling_omni_v2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_omni_v2v-1.webp" width="360" alt="Kling O1: Video to Video api_kling_omni_v2v-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_omni_v2v-2.webp" width="360" alt="Kling O1: Video to Video api_kling_omni_v2v-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_kling_omni_v2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Kling O1 |
 | Tags | API, Character Reference, Video |
 | Type | API |

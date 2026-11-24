@@ -1,6 +1,6 @@
 # Rodin Gen2.5: Image to Model
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_rodin3d_gen2_5_image_to_3d)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_rodin3d_gen2_5_image_to_3d-1.webp" width="360" alt="Rodin Gen2.5: Image to Model api_rodin3d_gen2_5_image_to_3d-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_rodin3d_gen2_5_image_to_3d` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | Rodin |
 | Tags | 3D, API, Image to 3D |
 | Type | API |

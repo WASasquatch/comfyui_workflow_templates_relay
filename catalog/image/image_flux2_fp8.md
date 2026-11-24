@@ -1,6 +1,6 @@
 # Product Mockup(FLUX.2 Dev FP8)
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_flux2_fp8)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_fp8-1.webp" width="360" alt="Product Mockup(FLUX.2 Dev FP8) image_flux2_fp8-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_flux2_fp8` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX.2 Dev, FLUX |
 | Tags | Text to Image, Image, Image Edit |
 | Type | open source |

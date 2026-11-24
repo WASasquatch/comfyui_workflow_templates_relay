@@ -1,6 +1,6 @@
 # Remove Subtitles from Video - LTX 2.3 LoRA
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_ltx2_3_lora_remove_subtitles_from_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_lora_remove_subtitles_from_video-1.webp" width="360" alt="Remove Subtitles from Video - LTX 2.3 LoRA template_ltx2_3_lora_remove_subtitles_from_video-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_ltx2_3_lora_remove_subtitles_from_video` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | LTX-2.3 |
 | Tags | Video Edit, LoRA |
 | Type | open source |

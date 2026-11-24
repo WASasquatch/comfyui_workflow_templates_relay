@@ -1,6 +1,6 @@
 # Single Image to 3D model
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_shane_single_image_to_3d_model)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_shane_single_image_to_3d_model-1.webp" width="360" alt="Single Image to 3D model templates_shane_single_image_to_3d_model-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_shane_single_image_to_3d_model` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | image |
 | Models | Hunyuan3D, Qwen-Image-Edit |
 | Tags | API, 3D, Image to 3D |
 | Type | API |

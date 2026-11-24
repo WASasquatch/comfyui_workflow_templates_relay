@@ -1,6 +1,6 @@
 # MiniMax Music 3: Text to Music
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio_minimax_music_3)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_minimax_music_3-1.webp" width="360" alt="MiniMax Music 3: Text to Music audio_minimax_music_3-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `audio_minimax_music_3` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | MiniMax Music 3 |
 | Tags | Audio, Text to Music |
 | Type | open source |

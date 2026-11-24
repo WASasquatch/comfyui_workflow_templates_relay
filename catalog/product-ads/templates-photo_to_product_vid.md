@@ -1,6 +1,6 @@
 # Phone Image to Product Video: Shoe
 
-[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Product & Ads](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-photo_to_product_vid)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-photo_to_product_vid-1.webp" width="360" alt="Phone Image to Product Video: Shoe templates-photo_to_product_vid-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-photo_to_product_vid` |
 | Category | Applied › Product & Ads |
-| Media type | image |
+| Output | image |
 | Models | Seedream, MiniMax |
 | Tags | Image to Video, API |
 | Type | API |

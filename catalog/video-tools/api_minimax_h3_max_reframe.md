@@ -1,6 +1,6 @@
 # Aspect Ratio Reframe: MiniMax H3 Max
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_minimax_h3_max_reframe)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_reframe-1.webp" width="360" alt="Aspect Ratio Reframe: MiniMax H3 Max api_minimax_h3_max_reframe-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_reframe-2.webp" width="360" alt="Aspect Ratio Reframe: MiniMax H3 Max api_minimax_h3_max_reframe-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_minimax_h3_max_reframe` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | MiniMax H3 |
 | Tags | API, Outpainting, Video |
 | Type | API |

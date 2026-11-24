@@ -1,6 +1,6 @@
 # Remove Background: BiRefNet
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_birefnet_remove_background)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_birefnet_remove_background-1.webp" width="360" alt="Remove Background: BiRefNet utility_birefnet_remove_background-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_birefnet_remove_background-2.webp" width="360" alt="Remove Background: BiRefNet utility_birefnet_remove_background-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility_birefnet_remove_background` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | BiRefNet |
 | Tags | Remove Background |
 | Type | open source |

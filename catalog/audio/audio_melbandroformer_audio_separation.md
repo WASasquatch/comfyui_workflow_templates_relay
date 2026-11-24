@@ -1,6 +1,6 @@
 # MelBandRoFormer Audio Separation
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio_melbandroformer_audio_separation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_melbandroformer_audio_separation-1.webp" width="360" alt="MelBandRoFormer Audio Separation audio_melbandroformer_audio_separation-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `audio_melbandroformer_audio_separation` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | None |
 | Tags | Audio, Audio Editing |
 | Type | open source |

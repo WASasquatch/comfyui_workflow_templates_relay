@@ -1,6 +1,6 @@
 # VEED Clean Audio: Video Speech Cleanup
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_veed_clean_audio_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_veed_clean_audio_video-1.webp" width="360" alt="VEED Clean Audio: Video Speech Cleanup api_veed_clean_audio_video-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_veed_clean_audio_video` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | VEED |
 | Tags | API, Audio, Video Edit |
 | Type | API |

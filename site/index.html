@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ComfyUI Template Browser</title>
+  <meta name="description" content="Search, filter and download every ComfyUI workflow template — models, custom nodes, model files and notes in one place.">
+  <meta name="relay-repo" content="WASasquatch/comfyui_workflow_templates_relay">
+  <meta name="theme-color" content="#0d0f0d">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230d0f0d'/%3E%3Crect x='6' y='7' width='9' height='7' rx='2' fill='%23a2d299'/%3E%3Crect x='17' y='18' width='9' height='7' rx='2' fill='%23a2d299'/%3E%3Cpath d='M15 10.5h2.5a2 2 0 0 1 2 2V18' stroke='%23a2d299' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+  <script>try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}</script>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="ComfyUI Template Browser home">
+      <span class="brand-mark" id="brand-mark"></span>
+      <span class="brand-text">
+        <strong>ComfyUI Template Browser</strong>
+        <span id="subtitle">Loading templates…</span>
+      </span>
+    </a>
+    <div class="search" role="search">
+      <span class="i" id="search-icon"></span>
+      <input id="q" type="search" placeholder="Search templates, models, nodes, model files…" autocomplete="off" spellcheck="false" aria-label="Search templates">
+      <kbd>/</kbd>
+    </div>
+    <div class="top-actions">
+      <a class="icon-btn" id="repo-link" target="_blank" rel="noopener" aria-label="Repository on GitHub" title="Repository on GitHub"></a>
+      <button class="icon-btn" id="theme-btn" type="button" aria-label="Toggle dark mode" title="Toggle dark mode"></button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Filters">
+      <div class="sidebar-head">
+        <h2>Filters</h2>
+        <button class="icon-btn mobile-only" id="close-filters" type="button" aria-label="Close filters"></button>
+      </div>
+      <div id="facets"></div>
+    </aside>
+
+    <main id="main">
+      <div class="toolbar">
+        <button class="btn mobile-only" id="open-filters" type="button"><span class="i" id="filter-icon"></span>Filters <span class="pill" id="filter-count" hidden></span></button>
+        <p class="count" id="count" aria-live="polite"></p>
+        <div class="chips" id="chips"></div>
+        <label class="sort">Sort
+          <select id="sort" aria-label="Sort templates"></select>
+        </label>
+      </div>
+      <div class="grid" id="grid"></div>
+      <div class="empty" id="empty" hidden>
+        <h3>No templates match</h3>
+        <p>Try a different search or remove some filters.</p>
+        <button class="btn" id="empty-clear" type="button">Clear all filters</button>
+      </div>
+      <div id="sentinel" aria-hidden="true"></div>
+    </main>
+  </div>
+
+  <footer class="footer" id="footer"></footer>
+  <div class="scrim" id="scrim"></div>
+  <dialog class="detail" id="detail" aria-labelledby="d-title"></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

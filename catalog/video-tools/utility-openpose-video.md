@@ -1,6 +1,6 @@
 # Pose Map: DWPose OpenPose
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility-openpose-video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-openpose-video-1.webp" width="360" alt="Pose Map: DWPose OpenPose utility-openpose-video-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-openpose-video-2.webp" width="360" alt="Pose Map: DWPose OpenPose utility-openpose-video-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility-openpose-video` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | DWPose |
 | Tags | Pose Map |
 | Type | open source |

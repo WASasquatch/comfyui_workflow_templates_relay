@@ -1,6 +1,6 @@
 # Wan2.2 Animate: Automatic Character Replacement
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_purz_wan22_animate_auto_character_replace)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_purz_wan22_animate_auto_character_replace-1.webp" width="360" alt="Wan2.2 Animate: Automatic Character Replacement template_purz_wan22_animate_auto_character_replace-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_purz_wan22_animate_auto_character_replace-2.webp" width="360" alt="Wan2.2 Animate: Automatic Character Replacement template_purz_wan22_animate_auto_character_replace-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_purz_wan22_animate_auto_character_replace` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | video |
 | Models | wan2.2 Animate |
 | Tags | Video, Character Replacement, Video Edit |
 | Type | open source |

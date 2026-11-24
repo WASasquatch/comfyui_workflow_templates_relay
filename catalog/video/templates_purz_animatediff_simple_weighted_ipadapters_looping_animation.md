@@ -1,6 +1,6 @@
 # AnimateDiff - IPAdapters Looping Animation
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_purz_animatediff_simple_weighted_ipadapters_looping_animation)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_animatediff_simple_weighted_ipadapters_looping_animation-1.webp" width="360" alt="AnimateDiff - IPAdapters Looping Animation templates_purz_animatediff_simple_weighted_ipadapters_looping_animation-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_purz_animatediff_simple_weighted_ipadapters_looping_animation` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | SD1.5 |
 | Tags | Video, Image to Video |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Aspect Ratio Extend: Kling O3
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_horizontal_vertical_extension)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_horizontal_vertical_extension-1.webp" width="360" alt="Aspect Ratio Extend: Kling O3 template_horizontal_vertical_extension-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_horizontal_vertical_extension-2.webp" width="360" alt="Aspect Ratio Extend: Kling O3 template_horizontal_vertical_extension-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_horizontal_vertical_extension` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Kling O3 |
 | Tags | API, Video, Video Edit, Outpainting |
 | Type | API |

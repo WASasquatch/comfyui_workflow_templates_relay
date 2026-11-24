@@ -1,6 +1,6 @@
 # Add Color to Line Art Illustration
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-color_illustration)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-color_illustration-1.webp" width="360" alt="Add Color to Line Art Illustration templates-color_illustration-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-color_illustration-2.webp" width="360" alt="Add Color to Line Art Illustration templates-color_illustration-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-color_illustration` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Google, Nano Banana Pro |
 | Tags | API, Image Edit |
 | Type | API |

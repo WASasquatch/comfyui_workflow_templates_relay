@@ -1,6 +1,6 @@
 # Gemini Omni 1.2 Flash: Reference to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_google_gemini_omni_flash_1_2_r2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_r2v-1.webp" width="360" alt="Gemini Omni 1.2 Flash: Reference to Video api_google_gemini_omni_flash_1_2_r2v-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_google_gemini_omni_flash_1_2_r2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Gemini Omni 1.2 Flash |
 | Tags | API, Reference to Video |
 | Type | API |

@@ -1,6 +1,6 @@
 # Generate 3D Model From Single Image
 
-[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_mjm_image_to_3d)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_mjm_image_to_3d-1.webp" width="360" alt="Generate 3D Model From Single Image templates_mjm_image_to_3d-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_mjm_image_to_3d-2.webp" width="360" alt="Generate 3D Model From Single Image templates_mjm_image_to_3d-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_mjm_image_to_3d` |
 | Category | Foundation › 3D Model |
-| Media type | image |
+| Output | 3d |
 | Models | Meshy, Nano Banana 2 |
 | Tags | API, 3D, Image to 3D |
 | Type | API |

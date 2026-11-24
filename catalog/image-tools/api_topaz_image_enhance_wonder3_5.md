@@ -1,6 +1,6 @@
 # Image Upscale: Topaz Wonder 3.5
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_topaz_image_enhance_wonder3_5)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance_wonder3_5-1.webp" width="360" alt="Image Upscale: Topaz Wonder 3.5 api_topaz_image_enhance_wonder3_5-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance_wonder3_5-2.webp" width="360" alt="Image Upscale: Topaz Wonder 3.5 api_topaz_image_enhance_wonder3_5-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_topaz_image_enhance_wonder3_5` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Topaz |
 | Tags | API, Image Upscale |
 | Type | API |

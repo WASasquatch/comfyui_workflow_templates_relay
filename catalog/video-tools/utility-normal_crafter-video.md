@@ -1,6 +1,6 @@
 # Normal Map: NormalCrafter
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility-normal_crafter-video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-normal_crafter-video-1.webp" width="360" alt="Normal Map: NormalCrafter utility-normal_crafter-video-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-normal_crafter-video-2.webp" width="360" alt="Normal Map: NormalCrafter utility-normal_crafter-video-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `utility-normal_crafter-video` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Tags | ControlNet |
 | Type | open source |
 | Date | 2026-01-12 |

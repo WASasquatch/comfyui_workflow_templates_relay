@@ -1,6 +1,6 @@
 # Seedance2.0 4K: Reference to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_seedance2_0_r2v_4k)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_r2v_4k-1.webp" width="360" alt="Seedance2.0 4K: Reference to Video api_seedance2_0_r2v_4k-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_seedance2_0_r2v_4k` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Seedance 2.0 |
 | Tags | API, Image to Video, Reference to Video |
 | Type | API |

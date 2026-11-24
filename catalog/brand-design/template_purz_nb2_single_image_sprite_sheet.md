@@ -1,6 +1,6 @@
 # Single Image to Animated Sprite Sheet
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_purz_nb2_single_image_sprite_sheet)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_purz_nb2_single_image_sprite_sheet-1.webp" width="360" alt="Single Image to Animated Sprite Sheet template_purz_nb2_single_image_sprite_sheet-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_purz_nb2_single_image_sprite_sheet-2.webp" width="360" alt="Single Image to Animated Sprite Sheet template_purz_nb2_single_image_sprite_sheet-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_purz_nb2_single_image_sprite_sheet` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana 2 |
 | Tags | API, Game |
 | Type | API |

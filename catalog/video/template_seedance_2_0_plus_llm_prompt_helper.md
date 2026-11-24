@@ -1,6 +1,6 @@
 # Seedance 2.0 + LLM Prompt Helper
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_seedance_2_0_plus_llm_prompt_helper)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_seedance_2_0_plus_llm_prompt_helper-1.webp" width="360" alt="Seedance 2.0 + LLM Prompt Helper template_seedance_2_0_plus_llm_prompt_helper-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_seedance_2_0_plus_llm_prompt_helper` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Gemini-3.1-Pro, Seedance 2.0 |
 | Tags | API, Reference to Video |
 | Type | API |

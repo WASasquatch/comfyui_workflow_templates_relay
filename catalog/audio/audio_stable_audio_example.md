@@ -1,6 +1,6 @@
 # Stable Audio 1.0: Text to Audio
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio_stable_audio_example)
 
 [▶ audio_stable_audio_example-1.mp3](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_stable_audio_example-1.mp3) <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_stable_audio_example-1.webp" width="360" alt="Stable Audio 1.0: Text to Audio audio_stable_audio_example-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `audio_stable_audio_example` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | Stability, Stable Audio |
 | Tags | Audio, Text to Audio |
 | Type | open source |

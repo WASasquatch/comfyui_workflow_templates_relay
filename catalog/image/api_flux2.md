@@ -1,6 +1,6 @@
 # FLUX.2 Pro
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_flux2)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux2-1.webp" width="360" alt="FLUX.2 Pro api_flux2-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_flux2` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX.2, FLUX |
 | Tags | Image Edit, Image, API, Text to Image |
 | Type | API |

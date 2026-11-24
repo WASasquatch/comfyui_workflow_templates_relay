@@ -1,6 +1,6 @@
 # Apply Glitch And Distortion Effects
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_purz_image_glitch)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_image_glitch-1.webp" width="360" alt="Apply Glitch And Distortion Effects templates_purz_image_glitch-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_purz_image_glitch` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | None |
 | Tags | Image, Image Edit |
 | Type | open source |

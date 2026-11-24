@@ -1,6 +1,6 @@
 # HiDream I1 Full
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=hidream_i1_full)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/hidream_i1_full-1.webp" width="360" alt="HiDream I1 Full hidream_i1_full-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `hidream_i1_full` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | HiDream |
 | Tags | Text to Image, Image |
 | Type | open source |

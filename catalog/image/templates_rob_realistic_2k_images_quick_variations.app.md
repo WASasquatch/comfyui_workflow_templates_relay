@@ -1,6 +1,6 @@
 # Generate Realistic Variations
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_rob_realistic_2k_images_quick_variations.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_realistic_2k_images_quick_variations.app-1.webp" width="360" alt="Generate Realistic Variations templates_rob_realistic_2k_images_quick_variations.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_rob_realistic_2k_images_quick_variations.app` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Grok, Z-Image-Turbo |
 | Tags | API, Image, Image Upscale |
 | Type | API |

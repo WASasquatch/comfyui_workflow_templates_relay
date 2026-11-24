@@ -1,6 +1,6 @@
 # RTX Video Enhance: HDR
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_nvidia_rtx_video_enhance)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nvidia_rtx_video_enhance-1.webp" width="360" alt="RTX Video Enhance: HDR utility_nvidia_rtx_video_enhance-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nvidia_rtx_video_enhance-2.webp" width="360" alt="RTX Video Enhance: HDR utility_nvidia_rtx_video_enhance-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_nvidia_rtx_video_enhance` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | None |
 | Tags | Video Upscale |
 | Type | open source |

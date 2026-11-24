@@ -1,6 +1,6 @@
 # 3x3 Brand Icon Assets Grid
 
-[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Brand & Design](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-3x3_grid_brand_icons)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-3x3_grid_brand_icons-1.webp" width="360" alt="3x3 Brand Icon Assets Grid templates-3x3_grid_brand_icons-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-3x3_grid_brand_icons` |
 | Category | Applied › Brand & Design |
-| Media type | image |
+| Output | image |
 | Models | Gemini3 Pro Image Preview, Google, Nano Banana Pro |
 | Tags | API, Brand Design, Image Edit |
 | Type | API |

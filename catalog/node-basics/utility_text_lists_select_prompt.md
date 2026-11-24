@@ -1,6 +1,6 @@
 # Batch Process Text Prompts From List
 
-[← Node Basics](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Node Basics](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_text_lists_select_prompt)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_text_lists_select_prompt-1.webp" width="360" alt="Batch Process Text Prompts From List utility_text_lists_select_prompt-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_text_lists_select_prompt` |
 | Category | Foundation › Node Basics |
-| Media type | image |
+| Output | image |
 | Models | Z-Image-Turbo |
 | Tags | Batch Generation |
 | Type | open source |

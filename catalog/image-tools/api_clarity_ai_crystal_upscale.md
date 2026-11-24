@@ -1,6 +1,6 @@
 # Clarity AI: Crystal Upscaler
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_clarity_ai_crystal_upscale)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_clarity_ai_crystal_upscale-1.webp" width="360" alt="Clarity AI: Crystal Upscaler api_clarity_ai_crystal_upscale-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_clarity_ai_crystal_upscale-2.webp" width="360" alt="Clarity AI: Crystal Upscaler api_clarity_ai_crystal_upscale-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_clarity_ai_crystal_upscale` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Crystal Upscaler |
 | Tags | Image Upscale |
 | Type | API |

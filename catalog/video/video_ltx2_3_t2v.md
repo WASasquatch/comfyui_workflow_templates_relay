@@ -1,6 +1,6 @@
 # LTX-2.3: Text to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_ltx2_3_t2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_t2v-1.webp" width="360" alt="LTX-2.3: Text to Video video_ltx2_3_t2v-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_ltx2_3_t2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | LTX-2.3, Lightricks |
 | Tags | Text to Video, Video |
 | Type | open source |

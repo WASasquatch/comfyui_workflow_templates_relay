@@ -1,6 +1,6 @@
 # Flux Kontext Dev Image Edit
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=flux_kontext_dev_basic)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_kontext_dev_basic-1.webp" width="360" alt="Flux Kontext Dev Image Edit flux_kontext_dev_basic-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_kontext_dev_basic-2.webp" width="360" alt="Flux Kontext Dev Image Edit flux_kontext_dev_basic-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `flux_kontext_dev_basic` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | FLUX.1 Kontext, FLUX |
 | Tags | Image Edit |
 | Type | open source |

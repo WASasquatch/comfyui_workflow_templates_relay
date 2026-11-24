@@ -1,6 +1,6 @@
 # Clarity AI: Crystal Video Upscaler
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_clarity_ai_crystal_video_upscale)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_clarity_ai_crystal_video_upscale-1.webp" width="360" alt="Clarity AI: Crystal Video Upscaler api_clarity_ai_crystal_video_upscale-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_clarity_ai_crystal_video_upscale-2.webp" width="360" alt="Clarity AI: Crystal Video Upscaler api_clarity_ai_crystal_video_upscale-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_clarity_ai_crystal_video_upscale` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | Crystal Upscaler |
 | Tags | API, Video Upscale |
 | Type | API |

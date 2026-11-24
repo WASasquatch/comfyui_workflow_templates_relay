@@ -1,6 +1,6 @@
 # Ovis-Image Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_ovis_text_to_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ovis_text_to_image-1.webp" width="360" alt="Ovis-Image Text to Image image_ovis_text_to_image-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `image_ovis_text_to_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Ovis-Image |
 | Tags | Text to Image, Image |
 | Type | open source |

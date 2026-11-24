@@ -1,6 +1,6 @@
 # Profile Picture Stylized Variations
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-8x8_grid-pfp)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-8x8_grid-pfp-1.webp" width="360" alt="Profile Picture Stylized Variations templates-8x8_grid-pfp-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-8x8_grid-pfp` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro, Google, Gemini3 Pro Image Preview |
 | Tags | API, Image Edit |
 | Type | API |

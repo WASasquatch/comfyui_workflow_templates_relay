@@ -1,6 +1,6 @@
 # Isometric Miniatures from a Selfie
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-2x2_grid-iso_miniatures)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-2x2_grid-iso_miniatures-1.webp" width="360" alt="Isometric Miniatures from a Selfie templates-2x2_grid-iso_miniatures-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-2x2_grid-iso_miniatures` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro, Gemini3 Pro Image Preview, Google |
 | Tags | API, Portrait |
 | Type | API |

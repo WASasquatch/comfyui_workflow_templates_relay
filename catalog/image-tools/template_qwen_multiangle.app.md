@@ -1,6 +1,6 @@
 # Generate Multiple Angles with 3D Camera Node
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_qwen_multiangle.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_multiangle.app-1.webp" width="360" alt="Generate Multiple Angles with 3D Camera Node template_qwen_multiangle.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_qwen_multiangle.app` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image-Edit |
 | Tags | Image Edit |
 | Type | open source |

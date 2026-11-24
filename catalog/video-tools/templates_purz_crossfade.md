@@ -1,6 +1,6 @@
 # Video Edit: Crossfade Merge
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_purz_crossfade)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_crossfade-1.webp" width="360" alt="Video Edit: Crossfade Merge templates_purz_crossfade-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_purz_crossfade` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | None |
 | Tags | Video, Video Edit |
 | Type | open source |

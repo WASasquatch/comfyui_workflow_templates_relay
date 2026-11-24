@@ -1,6 +1,6 @@
 # FLUX 3 Video: Image to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_bfl_flux3_i2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_i2v-1.webp" width="360" alt="FLUX 3 Video: Image to Video api_bfl_flux3_i2v-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_bfl_flux3_i2v` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | FLUX 3 Video |
 | Tags | API, Image to Video |
 | Type | API |

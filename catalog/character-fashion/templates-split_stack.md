@@ -1,6 +1,6 @@
 # Character × 4 Scene Explorer
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-split_stack)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-split_stack-1.webp" width="360" alt="Character × 4 Scene Explorer templates-split_stack-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-split_stack` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Google Gemini Image, Nano Banana Pro |
 | Tags | API, Image Edit, Character Reference |
 | Type | API |

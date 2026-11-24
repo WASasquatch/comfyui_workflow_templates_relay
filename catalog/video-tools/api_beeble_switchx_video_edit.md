@@ -1,6 +1,6 @@
 # Video Edit: Beeble SwitchX
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_beeble_switchx_video_edit)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_beeble_switchx_video_edit-1.webp" width="360" alt="Video Edit: Beeble SwitchX api_beeble_switchx_video_edit-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_beeble_switchx_video_edit-2.webp" width="360" alt="Video Edit: Beeble SwitchX api_beeble_switchx_video_edit-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_beeble_switchx_video_edit` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | SwitchX |
 | Tags | API, Video Edit |
 | Type | API |

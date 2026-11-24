@@ -1,6 +1,6 @@
 # Krea 2: Style Reference
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_krea2_style_reference)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea2_style_reference-1.webp" width="360" alt="Krea 2: Style Reference api_krea2_style_reference-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_krea2_style_reference` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Krea 2 |
 | Tags | API, Style Reference |
 | Type | API |

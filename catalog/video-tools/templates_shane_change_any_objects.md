@@ -1,6 +1,6 @@
 # Change Any Objects
 
-[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_shane_change_any_objects)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_shane_change_any_objects-1.webp" width="360" alt="Change Any Objects templates_shane_change_any_objects-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_shane_change_any_objects` |
 | Category | Foundation › Video Tools |
-| Media type | image |
+| Output | video |
 | Models | SAM3, Wan2.1 VACE |
 | Tags | Inpainting, Video |
 | Type | open source |

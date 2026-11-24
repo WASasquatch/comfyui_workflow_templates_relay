@@ -1,6 +1,6 @@
 # InfiniteTalk: Audio-Driven Full-Body Video Dubbing
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=video_wan2_1_infinitetalk)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_1_infinitetalk-1.webp" width="360" alt="InfiniteTalk: Audio-Driven Full-Body Video Dubbing video_wan2_1_infinitetalk-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `video_wan2_1_infinitetalk` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1 InfiniteTalk |
 | Tags | Audio to Video, Lip Sync, Video |
 | Type | open source |

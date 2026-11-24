@@ -1,6 +1,6 @@
 # Selfie + Text Prompt to Studio Photoshoot Doodle
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates-fashion_shoot_prompt_doodle)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-fashion_shoot_prompt_doodle-1.webp" width="360" alt="Selfie + Text Prompt to Studio Photoshoot Doodle templates-fashion_shoot_prompt_doodle-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates-fashion_shoot_prompt_doodle` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Google Gemini Image, Nano Banana Pro, Google, Gemini3 Pro Image Preview |
 | Tags | API, Image Edit |
 | Type | API |

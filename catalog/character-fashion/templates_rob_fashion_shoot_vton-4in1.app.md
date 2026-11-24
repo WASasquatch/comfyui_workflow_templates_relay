@@ -1,6 +1,6 @@
 # Virtual Try On with Character - 4 in 1
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_rob_fashion_shoot_vton-4in1.app)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_fashion_shoot_vton-4in1.app-1.webp" width="360" alt="Virtual Try On with Character - 4 in 1 templates_rob_fashion_shoot_vton-4in1.app-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_rob_fashion_shoot_vton-4in1.app` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana Pro |
 | Tags | API, Image Edit, Virtual Try-On |
 | Type | API |

@@ -1,6 +1,6 @@
 # Pixel Sort Glitch Effect Image Transformation
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=templates_purz_pixel_sort_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_pixel_sort_image-1.webp" width="360" alt="Pixel Sort Glitch Effect Image Transformation templates_purz_pixel_sort_image-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_pixel_sort_image-2.webp" width="360" alt="Pixel Sort Glitch Effect Image Transformation templates_purz_pixel_sort_image-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `templates_purz_pixel_sort_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | None |
 | Tags | Image, Style Transfer |
 | Type | open source |

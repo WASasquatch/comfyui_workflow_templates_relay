@@ -1,6 +1,6 @@
 # 1 image input Split Stack - Qwen Multiangle + Wan 2.2
 
-[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_rob_split_stack_qwen_multi_wan22)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_rob_split_stack_qwen_multi_wan22-1.webp" width="360" alt="1 image input Split Stack - Qwen Multiangle + Wan 2.2 template_rob_split_stack_qwen_multi_wan22-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_rob_split_stack_qwen_multi_wan22` |
 | Category | Applied › Character & Fashion |
-| Media type | image |
+| Output | image |
 | Models | Qwen-Image-Edit, Wan2.2 |
 | Tags | Video, Image to Video |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Stable Audio 3.0 Medium
 
-[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Audio](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=audio_stable_audio_3_medium)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_stable_audio_3_medium-1.webp" width="360" alt="Stable Audio 3.0 Medium audio_stable_audio_3_medium-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `audio_stable_audio_3_medium` |
 | Category | Foundation › Audio |
-| Media type | image |
+| Output | audio |
 | Models | Stable Audio |
 | Tags | Text to Audio |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Image Upscale: Bria Increase Resolution
 
-[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image Tools](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=utility_bria_increase_resolution)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_bria_increase_resolution-1.webp" width="360" alt="Image Upscale: Bria Increase Resolution utility_bria_increase_resolution-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_bria_increase_resolution-2.webp" width="360" alt="Image Upscale: Bria Increase Resolution utility_bria_increase_resolution-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `utility_bria_increase_resolution` |
 | Category | Foundation › Image Tools |
-| Media type | image |
+| Output | image |
 | Models | BRIA |
 | Tags | API, Image Upscale |
 | Type | API |

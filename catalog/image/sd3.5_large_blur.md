@@ -1,6 +1,6 @@
 # SD3.5 Large Blur
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=sd3.5_large_blur)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sd3.5_large_blur-1.webp" width="360" alt="SD3.5 Large Blur sd3.5_large_blur-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sd3.5_large_blur-2.webp" width="360" alt="SD3.5 Large Blur sd3.5_large_blur-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `sd3.5_large_blur` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | SD3.5, Stability |
 | Tags | Image, Image Edit |
 | Type | open source |

@@ -1,6 +1,6 @@
 # Wan2.5: Text to Image
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_wan_text_to_image)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan_text_to_image-1.webp" width="360" alt="Wan2.5: Text to Image api_wan_text_to_image-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_wan_text_to_image` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Wan2.5, Wan |
 | Tags | Text to Image, Image, API |
 | Type | API |

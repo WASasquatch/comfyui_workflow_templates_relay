@@ -4,7 +4,7 @@ Generated from [`Comfy-Org/workflow_templates@eac646c`](https://github.com/Comfy
 
 ## Categories
 
-| Group | Category | Templates | Media |
+| Group | Category | Templates | Output |
 |---|---|---|---|
 | Foundation | [Image](image/README.md) | 235 | image |
 | Foundation | [Image Tools](image-tools/README.md) | 58 | image |

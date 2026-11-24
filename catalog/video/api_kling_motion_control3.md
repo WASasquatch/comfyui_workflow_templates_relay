@@ -1,6 +1,6 @@
 # Kling 3.0: Motion Control
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_kling_motion_control3)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_motion_control3-1.webp" width="360" alt="Kling 3.0: Motion Control api_kling_motion_control3-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_motion_control3-2.webp" width="360" alt="Kling 3.0: Motion Control api_kling_motion_control3-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_kling_motion_control3` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Kling 3.0 |
 | Tags | API, Motion Control |
 | Type | API |

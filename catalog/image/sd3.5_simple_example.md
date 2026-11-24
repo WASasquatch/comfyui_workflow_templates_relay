@@ -1,6 +1,6 @@
 # SD3.5 Simple
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=sd3.5_simple_example)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sd3.5_simple_example-1.webp" width="360" alt="SD3.5 Simple sd3.5_simple_example-1.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `sd3.5_simple_example` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | SD3.5, Stability |
 | Tags | Text to Image, Image |
 | Type | open source |

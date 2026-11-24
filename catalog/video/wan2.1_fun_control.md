@@ -1,6 +1,6 @@
 # Wan 2.1 ControlNet
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=wan2.1_fun_control)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/wan2.1_fun_control-1.webp" width="360" alt="Wan 2.1 ControlNet wan2.1_fun_control-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/wan2.1_fun_control-2.webp" width="360" alt="Wan 2.1 ControlNet wan2.1_fun_control-2.webp">
 
@@ -18,7 +18,7 @@
 |---|---|
 | Name | `wan2.1_fun_control` |
 | Category | Foundation › Video |
-| Media type | image |
+| Output | video |
 | Models | Wan2.1, Wan |
 | Tags | Video to Video, Video |
 | Type | open source |

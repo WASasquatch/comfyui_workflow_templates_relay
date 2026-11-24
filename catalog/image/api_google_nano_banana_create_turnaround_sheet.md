@@ -1,6 +1,6 @@
 # Character Turnaround Sheet Generator
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_google_nano_banana_create_turnaround_sheet)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_nano_banana_create_turnaround_sheet-1.webp" width="360" alt="Character Turnaround Sheet Generator api_google_nano_banana_create_turnaround_sheet-1.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `api_google_nano_banana_create_turnaround_sheet` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Nano Banana |
 | Tags | API, Image Edit |
 | Type | API |

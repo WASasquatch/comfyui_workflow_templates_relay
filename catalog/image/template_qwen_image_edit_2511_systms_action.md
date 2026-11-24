@@ -1,6 +1,6 @@
 # Qwen Image Edit 2511: SYSTMS ACTION LoRA
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=template_qwen_image_edit_2511_systms_action)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_image_edit_2511_systms_action-1.webp" width="360" alt="Qwen Image Edit 2511: SYSTMS ACTION LoRA template_qwen_image_edit_2511_systms_action-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_image_edit_2511_systms_action-2.webp" width="360" alt="Qwen Image Edit 2511: SYSTMS ACTION LoRA template_qwen_image_edit_2511_systms_action-2.webp">
 
@@ -17,7 +17,7 @@
 |---|---|
 | Name | `template_qwen_image_edit_2511_systms_action` |
 | Category | Foundation › Image |
-| Media type | image |
+| Output | image |
 | Models | Qwen Image Edit 2511 |
 | Tags | Image Edit, LoRA |
 | Type | open source |
