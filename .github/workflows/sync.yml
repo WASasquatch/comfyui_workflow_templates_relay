@@ -1,0 +1,46 @@
+name: Sync template catalog
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_catalog.py
+      - .github/workflows/sync.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-catalog
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch upstream templates (JSON only, no images)
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/Comfy-Org/workflow_templates.git upstream
+          git -C upstream sparse-checkout set --no-cone '/templates/*.json'
+
+      - name: Build catalog
+        run: python3 scripts/build_catalog.py --upstream upstream --out .
+
+      - name: Commit if changed
+        run: |
+          git add -A README.md catalog
+          if git diff --cached --quiet; then
+            echo "Catalog unchanged."
+            exit 0
+          fi
+          SHA=$(git -C upstream rev-parse --short HEAD)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync catalog with Comfy-Org/workflow_templates@${SHA}"
+          git push

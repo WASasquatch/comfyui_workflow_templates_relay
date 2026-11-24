@@ -1,0 +1,110 @@
+# FLUX.2 [Klein] 9B: Text to Image
+
+[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md)
+
+<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_text_to_image_9b-1.webp" width="360" alt="FLUX.2 [Klein] 9B: Text to Image image_flux2_text_to_image_9b-1.webp">
+
+> BFL distilled model. Outstanding quality at sub-second speed. Great for real-time generation while retaining quality. Marketing launch will focus on this model.
+
+## Get the workflow
+
+- **[Download JSON](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_text_to_image_9b.json)** — save it, then drag it onto the ComfyUI canvas (or *Workflow → Open*).
+- [View on GitHub](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_flux2_text_to_image_9b.json)
+- [Tutorial](https://docs.comfy.org/tutorials/flux/flux-2-klein)
+
+## Details
+
+| | |
+|---|---|
+| Name | `image_flux2_text_to_image_9b` |
+| Category | Foundation › Image |
+| Media type | image |
+| Models | FLUX, FLUX.2 Klein |
+| Tags | Image, Text to Image |
+| Type | open source |
+| Date | 2026-01-16 |
+| Author | ComfyUI |
+| Download size | 17.9 GB |
+| Min ComfyUI version | 0.9.2 |
+| Usage | 248 |
+| Nodes | 16 |
+
+## Model files
+
+| File | Folder (`ComfyUI/models/…`) | Download |
+|---|---|---|
+| `flux-2-klein-base-9b-fp8.safetensors` | `diffusion_models` | [link](https://huggingface.co/black-forest-labs/FLUX.2-klein-base-9b-fp8/resolve/main/flux-2-klein-base-9b-fp8.safetensors) |
+| `qwen_3_8b_fp8mixed.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/flux2-klein-9B/resolve/main/split_files/text_encoders/qwen_3_8b_fp8mixed.safetensors) |
+| `full_encoder_small_decoder.safetensors` | `vae` | [link](https://huggingface.co/black-forest-labs/FLUX.2-small-decoder/resolve/main/full_encoder_small_decoder.safetensors) |
+
+## Subgraphs
+
+- **Text to Image (FLUX.2 Klein 9B)** (14 nodes)
+
+## Nodes used
+
+| Node | Count | Pack |
+|---|---|---|
+| `CLIPTextEncode` | 2 | comfy-core |
+| `PrimitiveInt` | 2 | comfy-core |
+| `CFGGuider` | 1 | comfy-core |
+| `CLIPLoader` | 1 | comfy-core |
+| `EmptyFlux2LatentImage` | 1 | comfy-core |
+| `Flux2Scheduler` | 1 | comfy-core |
+| `KSamplerSelect` | 1 | comfy-core |
+| `MarkdownNote` | 1 |  |
+| `RandomNoise` | 1 | comfy-core |
+| `SamplerCustomAdvanced` | 1 | comfy-core |
+| `SaveImage` | 1 | comfy-core |
+| `UNETLoader` | 1 | comfy-core |
+| `VAEDecode` | 1 | comfy-core |
+| `VAELoader` | 1 | comfy-core |
+
+## Notes embedded in the workflow
+
+<details><summary>MarkdownNote</summary>
+
+## Model Links
+
+- [Hugging Face:Comfy-Org/flux2-klein-9B](https://huggingface.co/Comfy-Org/flux2-klein-9B)
+
+### Alternative Repos
+
+- [ModelScope:Comfy-Org/flux2-klein-9B](https://modelscope.cn/models/Comfy-Org/flux2-klein-9B)
+
+**diffusion_models**
+
+- [flux-2-klein-base-9b-fp8.safetensors](https://huggingface.co/black-forest-labs/FLUX.2-klein-base-9b-fp8/resolve/main/flux-2-klein-base-9b-fp8.safetensors)
+- [flux-2-klein-9b-fp8.safetensors](https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-fp8/resolve/main/flux-2-klein-9b-fp8.safetensors)
+
+**text_encoders**
+
+- [qwen_3_8b_fp8mixed.safetensors](https://huggingface.co/Comfy-Org/flux2-klein-9B/resolve/main/split_files/text_encoders/qwen_3_8b_fp8mixed.safetensors) (8.07 GB)
+
+**vae**
+
+- [full_encoder_small_decoder.safetensors](https://huggingface.co/black-forest-labs/FLUX.2-small-decoder/resolve/main/full_encoder_small_decoder.safetensors) (238 MB)
+
+## Model Storage Location
+
+```
+📂 ComfyUI/
+├── 📂 models/
+│   ├── 📂 diffusion_models/
+│   │   ├── flux-2-klein-base-9b-fp8.safetensors
+│   │   └── flux-2-klein-9b-fp8.safetensors
+│   ├── 📂 text_encoders/
+│   │   └── qwen_3_8b_fp8mixed.safetensors
+│   └── 📂 vae/
+│       └── full_encoder_small_decoder.safetensors
+```
+
+## Report Issue
+
+Note: Please update ComfyUI first ([guide](https://docs.comfy.org/installation/update_comfyui)) and prepare required models. Desktop/Cloud updates follow stable releases, so some nightly-supported models may not be available yet.
+
+- Cannot run / runtime errors: [ComfyUI/issues](https://github.com/comfyanonymous/ComfyUI/issues)
+- UI / frontend issues: [ComfyUI_frontend/issues](https://github.com/Comfy-Org/ComfyUI_frontend/issues)
+- Workflow issues: [workflow_templates/issues](https://github.com/Comfy-Org/workflow_templates/issues)
+
+</details>
