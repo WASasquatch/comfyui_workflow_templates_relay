@@ -18546,8 +18546,8 @@
    "categoryType": "image",
    "customNodes": [
     "ComfyUI-Color-Matcher",
-    "ComfyUI_Swwan",
-    "comfyui-kjnodes"
+    "comfyui-kjnodes",
+    "ComfyUI_Swwan"
    ],
    "date": "2026-03-19",
    "description": "Use the FLUX.2 Klein 9B model to intelligently extend and expand image content. Input an image to generate seamless outpainting and extended compositions.",
@@ -27225,11 +27225,11 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-WanAnimatePreprocess",
-    "ComfyUI-WanVideoWrapper",
     "comfyui-kjnodes",
     "comfyui-scail-pose",
     "comfyui-videohelpersuite",
+    "ComfyUI-WanAnimatePreprocess",
+    "ComfyUI-WanVideoWrapper",
     "comfyui_essentials"
    ],
    "date": "2026-01-19",
@@ -28049,8 +28049,8 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-segment-anything-2",
     "comfyui-kjnodes",
+    "ComfyUI-segment-anything-2",
     "comfyui_controlnet_aux"
    ],
    "date": "2025-09-22",
@@ -34281,8 +34281,8 @@
    "categoryType": "video",
    "customNodes": [
     "ComfyMath",
-    "ComfyUI-LTXVideo",
     "comfyui-kjnodes",
+    "ComfyUI-LTXVideo",
     "comfyui-videohelpersuite"
    ],
    "date": "2026-05-21",
@@ -35282,10 +35282,10 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-WanVideoWrapper",
     "comfyui-depthanythingv2",
     "comfyui-kjnodes",
     "comfyui-videohelpersuite",
+    "ComfyUI-WanVideoWrapper",
     "comfyui_controlnet_aux"
    ],
    "date": "2026-03-03",
@@ -38673,11 +38673,11 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-WanAnimatePreprocess",
-    "ComfyUI-WanVideoWrapper",
-    "ComfyUI-segment-anything-2",
     "comfyui-kjnodes",
-    "comfyui-videohelpersuite"
+    "ComfyUI-segment-anything-2",
+    "comfyui-videohelpersuite",
+    "ComfyUI-WanAnimatePreprocess",
+    "ComfyUI-WanVideoWrapper"
    ],
    "date": "2026-03-09",
    "description": "Upload a character image and input your prompt. Generate an animated video where the character expands with an inflation effect.",
@@ -39216,10 +39216,10 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "QwenVL",
     "comfyui-animatediff-evolved",
     "comfyui-frame-interpolation",
-    "comfyui-videohelpersuite"
+    "comfyui-videohelpersuite",
+    "QwenVL"
    ],
    "date": "2026-03-02",
    "description": "Upload a starting image and a mask video to define the injection area. Generate a dynamic video by injecting noise patterns from a dedicated noise video, with AI auto-generated prompts.",
@@ -40409,8 +40409,8 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-LTXVideo",
     "comfyui-kjnodes",
+    "ComfyUI-LTXVideo",
     "comfyui-videohelpersuite"
    ],
    "date": "2026-05-21",
@@ -40520,8 +40520,8 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-LTXVideo",
-    "comfyui-kjnodes"
+    "comfyui-kjnodes",
+    "ComfyUI-LTXVideo"
    ],
    "date": "2026-05-21",
    "description": "Upload an input video with subtitles or text occlusions and remove the text elements with one click.",
@@ -40626,8 +40626,8 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-LTXVideo",
-    "comfyui-kjnodes"
+    "comfyui-kjnodes",
+    "ComfyUI-LTXVideo"
    ],
    "date": "2026-05-21",
    "description": "Upload an input video with watermarks and remove them with one click",
@@ -42198,8 +42198,8 @@
    "categoryType": "video",
    "customNodes": [
     "ComfyMath",
-    "ComfyUI-LTXVideo",
     "comfyui-kjnodes",
+    "ComfyUI-LTXVideo",
     "comfyui-videohelpersuite"
    ],
    "date": "2026-05-21",
@@ -42312,8 +42312,8 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-LTXVideo",
-    "comfyui-kjnodes"
+    "comfyui-kjnodes",
+    "ComfyUI-LTXVideo"
    ],
    "date": "2026-05-21",
    "description": "Upload an input video or archival footage and restore it with 1 click.",
@@ -42415,12 +42415,12 @@
    "categoryGroup": "Foundation",
    "categoryType": "video",
    "customNodes": [
-    "ComfyUI-WanVideoWrapper",
-    "RES4LYF",
     "comfyui-kjnodes",
     "comfyui-sam3",
     "comfyui-videohelpersuite",
-    "comfyui_essentials"
+    "ComfyUI-WanVideoWrapper",
+    "comfyui_essentials",
+    "RES4LYF"
    ],
    "date": "2026-03-04",
    "description": "Use simple prompt to mask out certain objects within a video, and replace the object using prompt, or optional reference image. Model used: SAM3 + WAN 2.1 VACE inpainting",
@@ -52060,11 +52060,11 @@
    "categoryGroup": "Applied",
    "categoryType": "image",
    "customNodes": [
-    "Kosinkadink/ComfyUI-DownloadWhatIWant",
     "comfyui-depthanythingv2",
     "comfyui-kjnodes",
     "comfyui-videohelpersuite",
-    "comfyui_essentials"
+    "comfyui_essentials",
+    "Kosinkadink/ComfyUI-DownloadWhatIWant"
    ],
    "date": "2026-02-10",
    "description": "Upload a product video and generate a dynamic product scene transformation using Nano Banana Pro & Wan VACE 2.1",
@@ -53200,9 +53200,9 @@
    "categoryGroup": "Applied",
    "categoryType": "image",
    "customNodes": [
-    "ComfyUI-WanVideoWrapper",
     "audio-separation-nodes-comfyui",
-    "comfyui-kjnodes"
+    "comfyui-kjnodes",
+    "ComfyUI-WanVideoWrapper"
    ],
    "date": "2026-02-19",
    "description": "Upload a character image and an audio file. Generate a lip-sync video where the character's mouth movements match the provided audio track.",
@@ -53297,9 +53297,9 @@
    "categoryGroup": "Applied",
    "categoryType": "image",
    "customNodes": [
-    "ComfyUI-WanAnimatePreprocess",
+    "comfyui-kjnodes",
     "ComfyUI-segment-anything-2",
-    "comfyui-kjnodes"
+    "ComfyUI-WanAnimatePreprocess"
    ],
    "date": "2026-03-08",
    "description": "Upload a video and a character image. Automatically replace the character in the video using the Wan2.2 Animate model.",
@@ -54481,9 +54481,9 @@
    "categoryGroup": "Applied",
    "categoryType": "image",
    "customNodes": [
-    "ComfyUI-WanAnimatePreprocess",
+    "comfyui-kjnodes",
     "ComfyUI-segment-anything-2",
-    "comfyui-kjnodes"
+    "ComfyUI-WanAnimatePreprocess"
    ],
    "date": "2026-03-21",
    "description": "Wan Animate 2.2 — Character & Scene Replacement - Uses Nano Banana 2 to generate a reference image from the first frame, then swaps the full scene. Optimized for human subjects.",

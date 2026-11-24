@@ -233,8 +233,8 @@ Model families as declared in `index.json`.
 - [Fashion Editorial Shots](character-fashion/templates-2x2_grid-character_bg_product.md) — Character & Fashion
 - [Game Asset Style Transfer Sprite Generator](brand-design/templates_3d_match_game_art_style.app.md) — Brand & Design
 - [Generate Brand Packaging from Dieline](product-ads/templates-assemble_dieline.md) — Product & Ads
-- [Graphic Design Recomposer](brand-design/templates_graphic_design_recomposer.md) — Brand & Design
 - [Graphic Design Recomposer](brand-design/template_graphic_color_remixer.md) — Brand & Design
+- [Graphic Design Recomposer](brand-design/templates_graphic_design_recomposer.md) — Brand & Design
 - [Image to Video](video/templates_ohneis_i2v.md) — Video
 - [Image Upscale: Nano Banana Pro](image-tools/utility_nanobanana_pro_ai_image_fix.md) — Image Tools
 - [Image Upscale: Nano Banana Pro Illustration](image-tools/utility_nanobanana_pro_illustration_upscale.md) — Image Tools
@@ -395,11 +395,11 @@ Model families as declared in `index.json`.
 - [MiniMax H3: FLF2V](video/api_minimax_h3_flf2v.md) — Video
 - [MiniMax H3: Image to Video](video/video_minimax_h3_i2v.md) — Video
 - [MiniMax H3: Multiframe Reference](video/video_minimax_h3_multiframe_reference.md) — Video
-- [MiniMax H3: Reference to Video](video/video_minimax_h3_r2v.md) — Video
 - [MiniMax H3: Reference to Video](video/api_minimax_h3_r2v.md) — Video
+- [MiniMax H3: Reference to Video](video/video_minimax_h3_r2v.md) — Video
 - [MiniMax H3: Text to Image](image/image_minimax_h3_t2i.md) — Image
-- [MiniMax H3: Text to Video](video/video_minimax_h3_t2v.md) — Video
 - [MiniMax H3: Text to Video](video/api_minimax_h3_t2v.md) — Video
+- [MiniMax H3: Text to Video](video/video_minimax_h3_t2v.md) — Video
 - [P-H3-Image: Image Edit](image/image_p_h3_image_edit.md) — Image
 - [P-H3-Image: Text to Image](image/image_p_h3_t2i.md) — Image
 - [Pika H3 Flex: FL2VA](video/video_pika_h3_flex_fl2va.md) — Video
@@ -484,8 +484,8 @@ Model families as declared in `index.json`.
 - [1 input and multiple editing model comparison](image/templates-all_in_one-image_edit_models.md) — Image
 - [1 input and multiple editing model comparison](image/templates_all_in_one_image_edit_models.app.md) — Image
 - [Generate Multiple Angles with 3D Camera Node](image-tools/template_qwen_multiangle.app.md) — Image Tools
-- [Illustration to Realism](image/templates_rob_image_to_real.app.md) — Image
 - [Illustration to Realism](image/templates-image_to_real.md) — Image
+- [Illustration to Realism](image/templates_rob_image_to_real.app.md) — Image
 - [Image Inflation Effect with INFL8 LoRA](image/image-qwen_image_edit_2511_lora_inflation.md) — Image
 - [Image Relight](image/image_qwen_image_edit_2509_relight.md) — Image
 - [Light Migration for Character Portrait](character-fashion/templates-portrait_light_migration.md) — Character & Fashion

@@ -191,8 +191,8 @@ Tags as declared in `index.json`.
 - [GPT-5.6 Terra](llm/api_openrouter_gpt5_6_terra.md) — LLM
 - [GPT-5.6: Sol](llm/api_openrouter_gpt5_6_sol.md) — LLM
 - [GPT-6 Astra](llm/api_openai_gpt6_astra.md) — LLM
-- [Graphic Design Recomposer](brand-design/templates_graphic_design_recomposer.md) — Brand & Design
 - [Graphic Design Recomposer](brand-design/template_graphic_color_remixer.md) — Brand & Design
+- [Graphic Design Recomposer](brand-design/templates_graphic_design_recomposer.md) — Brand & Design
 - [Green Screen: Bria](video-tools/api_bria_video_green_screen.md) — Video Tools
 - [Grok Imagine Image 2.0: Image Edit](image/api_grok_imagine_image_2_image_edit.md) — Image
 - [Grok Imagine Image 2.0: Text to Image](image/api_grok_imagine_image_2_t2i.md) — Image
@@ -559,8 +559,8 @@ Tags as declared in `index.json`.
 - [Hunyuan Video 1.5 Text to Video](video/video_hunyuan_video_1.5_720p_t2v.md) — Video
 - [Hunyuan Video Text to Video](video/hunyuan_video_text_to_video.md) — Video
 - [Image to Script to Kling Video Generation](video/template_sirolim_image_script_video.md) — Video
-- [Image to Video](video/video_minimax_h3_i2v_continuation.md) — Video
 - [Image to Video](video/templates_ohneis_i2v.md) — Video
+- [Image to Video](video/video_minimax_h3_i2v_continuation.md) — Video
 - [InfiniteTalk: Audio-Driven Full-Body Video Dubbing](video/video_wan2_1_infinitetalk.md) — Video
 - [Inflation Lora Character Expansion Effect Video](video/templates_ingi_infl8.md) — Video
 - [Kandinsky 5.0 Video Lite Image to Video](video/video_kandinsky5_i2v.md) — Video
@@ -603,8 +603,8 @@ Tags as declared in `index.json`.
 - [MiniMax H3: FLF2V](video/api_minimax_h3_flf2v.md) — Video
 - [MiniMax H3: Image to Video](video/video_minimax_h3_i2v.md) — Video
 - [MiniMax H3: Reference to Video](video/video_minimax_h3_r2v.md) — Video
-- [MiniMax H3: Text to Video](video/video_minimax_h3_t2v.md) — Video
 - [MiniMax H3: Text to Video](video/api_minimax_h3_t2v.md) — Video
+- [MiniMax H3: Text to Video](video/video_minimax_h3_t2v.md) — Video
 - [Mirelo SFX 2.0: Video to SFX](audio/api_mirelo_video_to_sfx.md) — Audio
 - [Noise Injected VideoGen](video/templates_mjm_Injected.md) — Video
 - [Pika H3 Flex: FL2VA](video/video_pika_h3_flex_fl2va.md) — Video
@@ -1096,8 +1096,8 @@ Tags as declared in `index.json`.
 - [HeyGen: Talking Photo](video/api_heygen_talking_photo.md) — Video
 - [Hunyuan Video 1.5 Image to Video](video/video_hunyuan_video_1.5_720p_i2v.md) — Video
 - [Image to Script to Kling Video Generation](video/template_sirolim_image_script_video.md) — Video
-- [Image to Video](video/video_minimax_h3_i2v_continuation.md) — Video
 - [Image to Video](video/templates_ohneis_i2v.md) — Video
+- [Image to Video](video/video_minimax_h3_i2v_continuation.md) — Video
 - [Inflation Lora Character Expansion Effect Video](video/templates_ingi_infl8.md) — Video
 - [Kandinsky 5.0 Video Lite Image to Video](video/video_kandinsky5_i2v.md) — Video
 - [Kling 3.0: Video Generation](video/api_kling_v3_video.md) — Video
@@ -1194,8 +1194,8 @@ Tags as declared in `index.json`.
 - [LTXV Text to Video](video/ltxv_text_to_video.md) — Video
 - [Luma Ray 3.2: Text to Video](video/api_luma_ray3_3_t2v.md) — Video
 - [MiniMax H3 Max: Text to Video](video/api_minimax_h3_max_t2v.md) — Video
-- [MiniMax H3: Text to Video](video/video_minimax_h3_t2v.md) — Video
 - [MiniMax H3: Text to Video](video/api_minimax_h3_t2v.md) — Video
+- [MiniMax H3: Text to Video](video/video_minimax_h3_t2v.md) — Video
 - [Pika H3 Flex: Text to Video](video/video_pika_h3_flex_t2v.md) — Video
 - [Pika H3 Flex: Text to Video (API)](video-tools/api_pika_h3_flex_t2v.md) — Video Tools
 - [PixVerse 6.0: Text to Video](video/api_pixverse6_t2v.md) — Video
@@ -1552,8 +1552,8 @@ Tags as declared in `index.json`.
 - [MiniMax H3 Max Turbo: Image to Video](video/api_minimax_h3_max_turbo_i2v.md) — Video
 - [MiniMax H3 Max: Reference to Video](video/api_minimax_h3_max_r2v.md) — Video
 - [MiniMax H3: Multiframe Reference](video/video_minimax_h3_multiframe_reference.md) — Video
-- [MiniMax H3: Reference to Video](video/video_minimax_h3_r2v.md) — Video
 - [MiniMax H3: Reference to Video](video/api_minimax_h3_r2v.md) — Video
+- [MiniMax H3: Reference to Video](video/video_minimax_h3_r2v.md) — Video
 - [Pika H3 Flex: Reference to Video](video/video_pika_h3_flex_ref2va.md) — Video
 - [PixVerse 6.0: Reference to Video](video/api_pixverse6_r2v.md) — Video
 - [Seedance 2.0 + LLM Prompt Helper](video/template_seedance_2_0_plus_llm_prompt_helper.md) — Video
