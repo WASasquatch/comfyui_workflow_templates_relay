@@ -38,8 +38,8 @@
 
 ## Custom nodes required
 
-- [comfyui-wanvideowrapper](https://registry.comfy.org/nodes/comfyui-wanvideowrapper)
 - [ComfyUI-WanVideoWrapper](https://registry.comfy.org/nodes/ComfyUI-WanVideoWrapper)
+- [comfyui-wanvideowrapper](https://registry.comfy.org/nodes/comfyui-wanvideowrapper)
 
 ## Model files
 
