@@ -1,6 +1,6 @@
 # ComfyUI workflow template catalog
 
-Generated from [`Comfy-Org/workflow_templates@eac646c`](https://github.com/Comfy-Org/workflow_templates/tree/eac646cad5e9f37a78f296da56b48f61ad94e7a4/templates) (upstream commit 2026-11-24).
+Generated from [`Comfy-Org/workflow_templates@b413841`](https://github.com/Comfy-Org/workflow_templates/tree/b413841d0d6cf9f67467844155658b23cd0c6e29/templates) (upstream commit 2026-11-25).
 
 ## Categories
 

@@ -93,6 +93,11 @@ For more references, add `Load Image` nodes, connect them to the conditioning no
 - [Hugging Face:Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image)
 - [Hugging Face:Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3)
 
+### Alternative Repos
+
+- [ModelScope:Comfy-Org/MiniMax-H3-Image](https://modelscope.cn/models/Comfy-Org/MiniMax-H3-Image)
+- [ModelScope:Comfy-Org/MiniMax-H3](https://modelscope.cn/models/Comfy-Org/MiniMax-H3)
+
 **diffusion_models**
 
 - [minimax_h3_image_pruned_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/MiniMax-H3-Image/resolve/main/diffusion_models/minimax_h3_image_pruned_int8_convrot.safetensors) (21 GB)
