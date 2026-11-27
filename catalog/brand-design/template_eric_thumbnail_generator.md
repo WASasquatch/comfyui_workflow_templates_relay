@@ -39,7 +39,7 @@
 | Node | Count | Pack |
 |---|---|---|
 | `BatchImagesNode` | 1 |  |
-| `GeminiNanoBanana2` | 1 |  |
+| `GeminiImage2Node` | 1 |  |
 | `LoadImage` | 1 |  |
 | `MarkdownNote` | 1 |  |
 | `Note` | 1 |  |

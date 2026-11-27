@@ -67,7 +67,7 @@
 | `LoadImage` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |
 | `ModelSamplingAuraFlow` | 1 | comfy-core |
-| `Preview3D` | 1 | comfy-core |
+| `Preview3DAdvanced` | 1 | comfy-core |
 | `QwenMultiangleCameraNode` | 1 | comfyui-qwenmultiangle |
 | `SaveImage` | 1 | comfy-core |
 | `TencentImageToModelNode` | 1 | comfy-core |

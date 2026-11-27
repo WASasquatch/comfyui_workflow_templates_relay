@@ -26,7 +26,7 @@
 | Min ComfyUI version | 0.15.0 |
 | Distributions | cloud |
 | Usage | 39 |
-| Nodes | 28 |
+| Nodes | 32 |
 
 ## Inputs & outputs
 
@@ -42,7 +42,7 @@
 
 ## Subgraphs
 
-- **Crop Images** (15 nodes)
+- **Crop Images** (19 nodes)
 
 ## Nodes used
 
@@ -50,7 +50,8 @@
 |---|---|---|
 | `SimpleMath+` | 8 | comfyui_essentials |
 | `SaveImage` | 5 | comfy-core |
-| `ImageCrop` | 4 | comfy-core |
+| `ImageCropV2` | 4 | comfy-core |
+| `PrimitiveBoundingBox` | 4 |  |
 | `GetImageSize` | 2 | comfy-core |
 | `LoadImage` | 2 | comfy-core |
 | `BatchImagesNode` | 1 |  |

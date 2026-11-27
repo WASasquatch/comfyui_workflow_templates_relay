@@ -1,10 +1,10 @@
 # HeyGen Avatar 6: Identity to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_avatar_6_id2v)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_avatar_6_id2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_id2v-1.webp" width="360" alt="HeyGen Avatar 6: Identity to Video api_heygen_avatar_6_id2v-1.webp">
 
-> Write a line and pick a presenter. HeyGen Avatar 6 renders a stock avatar or your own digital twin speaking that script in the chosen voice, with a motion prompt directing gestures, expression, posture and camera. No photo or audio file needed: the node synthesizes the speech, and the frame comes from the look at 1080p or 2K in 16:9, 9:16, 1:1, 4:5, 5:4 or the look's own shape. Avatar 6 or the cheaper Avatar 6 Turbo. Ideal for presenter and explainer clips, product updates and any talking-head shot you would otherwise have to film.
+> Write a line and pick a presenter. HeyGen Avatar 6 renders a stock avatar or your own digital twin speaking that script in the chosen voice, with a motion prompt directing gestures, expression, posture and camera. No photo or audio file needed: the node synthesizes the speech, and the frame comes from the chosen avatar look, at 1080p or 2K in 16:9, 9:16, 1:1, 4:5, 5:4 or the look's own shape. Avatar 6 or the cheaper Avatar 6 Turbo. Ideal for presenter and explainer clips, product updates and any talking-head shot you would otherwise have to film.
 
 ## Get the workflow
 
@@ -16,7 +16,7 @@
 | | |
 |---|---|
 | Name | `api_heygen_avatar_6_id2v` |
-| Category | Foundation › Video |
+| Category | Applied › Character & Fashion |
 | Output | video |
 | Models | HeyGen Avatar 6 |
 | Tags | API, Lip Sync, Text to Video |
@@ -24,7 +24,7 @@
 | Date | 2026-11-17 |
 | Author | ComfyUI |
 | Min ComfyUI version | 0.46.0 |
-| Usage | 0 |
+| Usage | 30 |
 | Nodes | 12 |
 
 ## Inputs & outputs

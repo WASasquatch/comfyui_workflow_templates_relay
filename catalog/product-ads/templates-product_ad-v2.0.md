@@ -40,9 +40,9 @@
 |---|---|---|
 | `LoadImage` | 2 | comfy-core |
 | `PrimitiveStringMultiline` | 2 | comfy-core |
+| `BatchImagesNode` | 1 | comfy-core |
 | `GeminiImage2Node` | 1 | comfy-core |
 | `GetImageSize` | 1 | comfy-core |
-| `ImageBatch` | 1 | comfy-core |
 | `RegexReplace` | 1 | comfy-core |
 | `ResizeAndPadImage` | 1 | comfy-core |
 | `SaveImage` | 1 | comfy-core |

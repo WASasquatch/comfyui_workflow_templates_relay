@@ -24,8 +24,8 @@
 | Date | 2026-07-20 |
 | Author | ComfyUI |
 | Download size | 18.1 GB |
-| Min ComfyUI version | 0.26.0 |
-| Usage | 487 |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 520 |
 | Nodes | 28 |
 
 ## Inputs & outputs
@@ -74,7 +74,7 @@
 | `SaveImage` | 1 | comfy-core |
 | `StringConcatenate` | 1 | comfy-core |
 | `TextEncodeQwenImageEditPlus` | 1 | comfy-core |
-| `TextGenerate` | 1 | comfy-core |
+| `TextGenerateV2` | 1 | comfy-core |
 | `UNETLoader` | 1 | comfy-core |
 | `VAEDecode` | 1 | comfy-core |
 | `VAELoader` | 1 | comfy-core |

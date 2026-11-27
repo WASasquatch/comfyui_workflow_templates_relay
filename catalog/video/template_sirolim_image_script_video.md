@@ -23,9 +23,9 @@
 | Type | API |
 | Date | 2026-03-09 |
 | Author | sirolim |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.46.4 |
 | Usage | 18 |
-| Nodes | 18 |
+| Nodes | 15 |
 
 ## Inputs & outputs
 
@@ -36,19 +36,18 @@
 
 ## Subgraphs
 
-- **Prompt A** (2 nodes)
-- **Prompt B** (2 nodes)
-- **Prompt C** (2 nodes)
+- **Prompt A** (1 nodes)
+- **Prompt B** (1 nodes)
+- **Prompt C** (1 nodes)
 
 ## Nodes used
 
 | Node | Count | Pack |
 |---|---|---|
 | `PreviewAny` | 4 |  |
-| `OpenAIChatConfig` | 3 |  |
-| `OpenAIChatNode` | 3 |  |
-| `GeminiNanoBanana2` | 1 |  |
-| `GeminiNode` | 1 |  |
+| `OpenAIChatNodeV2` | 3 |  |
+| `GeminiImage2Node` | 1 |  |
+| `GeminiNodeV3` | 1 |  |
 | `KlingOmniProImageToVideoNode` | 1 |  |
 | `LoadImage` | 1 |  |
 | `MarkdownNote` | 1 |  |

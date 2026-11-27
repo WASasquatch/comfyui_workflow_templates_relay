@@ -24,8 +24,8 @@
 | Date | 2026-10-13 |
 | Author | ComfyUI |
 | Download size | 38.2 GB |
-| Min ComfyUI version | 0.39.0 |
-| Usage | 802 |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 231 |
 | Nodes | 22 |
 
 ## Inputs & outputs
@@ -66,7 +66,7 @@
 | `SamplerCustomAdvanced` | 1 |  |
 | `SaveImageAdvanced` | 1 |  |
 | `TextEncodeQwenImage21` | 1 |  |
-| `TextGenerate` | 1 |  |
+| `TextGenerateV2` | 1 |  |
 | `UNETLoader` | 1 |  |
 | `VAEDecode` | 1 |  |
 | `VAELoader` | 1 |  |

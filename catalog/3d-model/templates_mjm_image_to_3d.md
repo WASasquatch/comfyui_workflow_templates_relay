@@ -23,8 +23,8 @@
 | Type | API |
 | Date | 2026-03-19 |
 | Author | Julien \| MJM |
-| Min ComfyUI version | 0.35.1 |
-| Usage | 15 |
+| Min ComfyUI version | 0.36.0 |
+| Usage | 32 |
 | Nodes | 12 |
 
 ## Inputs & outputs
@@ -37,14 +37,14 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `GeminiNanoBanana2` | 3 | comfy-core |
+| `GeminiImage2Node` | 3 | comfy-core |
 | `SaveImage` | 3 | comfy-core |
 | `BatchImagesNode` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |
-| `Preview3D` | 1 | comfy-core |
+| `Preview3DAdvanced` | 1 | comfy-core |
 | `SaveGLB` | 1 | comfy-core |
-| `TripoImageToModelNode` | 1 | comfy-core |
+| `TripoImageToModelNodeV2` | 1 | comfy-core |
 
 ## Notes embedded in the workflow
 

@@ -48,7 +48,7 @@
 | `MarkdownNote` | 1 |  |
 | `ModelSamplingSD3` | 1 | comfy-core |
 | `Note` | 1 |  |
-| `SaveAudioMP3` | 1 | comfy-core |
+| `SaveAudioAdvanced` | 1 | comfy-core |
 | `TextEncodeAceStepAudio` | 1 | comfy-core |
 | `VAEDecodeAudio` | 1 | comfy-core |
 

@@ -23,8 +23,8 @@
 | Type | API |
 | Date | 2025-12-15 |
 | Author | hellorob |
-| Min ComfyUI version | 0.35.2 |
-| Usage | 25 |
+| Min ComfyUI version | 0.36.0 |
+| Usage | 16 |
 | Nodes | 16 |
 
 ## Inputs & outputs
@@ -47,12 +47,12 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `ByteDanceSeedreamNode` | 2 | comfy-core |
+| `ByteDanceSeedreamNodeV3` | 2 | comfy-core |
 | `PreviewImage` | 2 | comfy-core |
 | `Reroute` | 2 |  |
 | `SaveImage` | 2 | comfy-core |
 | `BatchImagesNode` | 1 |  |
-| `GeminiNode` | 1 | comfy-core |
+| `GeminiNodeV3` | 1 | comfy-core |
 | `GetImageSize` | 1 | comfy-core |
 | `ImageRemoveBackground+` | 1 | comfyui_essentials |
 | `LoadImage` | 1 | comfy-core |

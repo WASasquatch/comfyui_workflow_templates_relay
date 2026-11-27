@@ -24,7 +24,7 @@
 | Date | 2026-11-19 |
 | Author | ComfyUI |
 | Min ComfyUI version | 0.46.1 |
-| Usage | 0 |
+| Usage | 50 |
 | Nodes | 10 |
 
 ## Inputs & outputs
@@ -76,14 +76,14 @@ Note: Please update ComfyUI first ([guide](https://docs.comfy.org/installation/u
 
 # Ideogram 4.6 Precise Edit — `context_window`
 
-Edits **only one region of image 1** at its native resolution. Without it the whole image is capped at ~4 MP (2048×2048), so anything bigger comes back downscaled. With a region, only the region changes, the rest is copied through, and the output keeps the source's exact size.
+Edits **only one region of image 1** at its native resolution. Without it the whole image is capped at ~16.7 MP (8192 px per side), so anything bigger comes back downscaled. With a region, only the region changes, the rest is copied through, and the output keeps the source's exact size.
 
 | Option | Uses | Effect |
 |---|---|---|
-| `none` | — | Whole image, downscaled above ~4 MP. Default. |
-| `auto` | `context_window_mask` | Fits a region around the white mask area. Mask > 4 MP falls back to `none`. |
+| `none` | — | Whole image, downscaled above ~16.7 MP / 8192 px per side. Default. |
+| `auto` | `mask` | Edits a region around the white mask; image 1 stays full size (up to 8192×8192). With no mask, edits the whole image. |
 | `custom` | `context_window_bboxes` | Region = union of your boxes. Sides under 256 px are padded to 256. |
 
-Region must be 256–4608 px per side, ≤ 4 MP, ≤ 6:1, inside image 1. Max 4 reference images, 3 with a mask. Price is unchanged — one image at the chosen `quality`.
+Region must be 256–8192 px per side, ≤ ~16.7 MP, ≤ 6:1, inside image 1. Max 4 reference images, 3 with a mask. Price is unchanged — one image at the chosen `quality`.
 
 </details>

@@ -23,8 +23,8 @@
 | Type | API |
 | Date | 2026-09-05 |
 | Author | ComfyUI |
-| Min ComfyUI version | 0.34.6 |
-| Usage | 33 |
+| Min ComfyUI version | 0.46.4 |
+| Usage | 49 |
 | Nodes | 8 |
 
 ## Inputs & outputs
@@ -43,7 +43,7 @@
 |---|---|---|
 | `StringConcatenate` | 3 |  |
 | `LoadImage` | 1 |  |
-| `OpenAIChatNode` | 1 |  |
+| `OpenAIChatNodeV2` | 1 |  |
 | `PreviewAny` | 1 |  |
 | `PrimitiveStringMultiline` | 1 |  |
 | `SaveText` | 1 |  |

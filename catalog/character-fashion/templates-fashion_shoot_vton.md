@@ -24,8 +24,8 @@
 | Date | 2025-12-15 |
 | Author | hellorob |
 | Min ComfyUI version | 0.15.0 |
-| Usage | 62 |
-| Nodes | 46 |
+| Usage | 67 |
+| Nodes | 50 |
 
 ## Inputs & outputs
 
@@ -41,7 +41,7 @@
 
 ## Subgraphs
 
-- **Crop Images** (20 nodes)
+- **Crop Images** (24 nodes)
 
 ## Nodes used
 
@@ -51,10 +51,11 @@
 | `Reroute` | 7 |  |
 | `PreviewImage` | 6 | comfy-core |
 | `SaveImage` | 6 | comfy-core |
-| `ImageCrop` | 4 | comfy-core |
+| `ImageCropV2` | 4 | comfy-core |
+| `PrimitiveBoundingBox` | 4 |  |
+| `BatchImagesNode` | 2 | comfy-core |
 | `GeminiImage2Node` | 2 | comfy-core |
 | `GetImageSize` | 2 | comfy-core |
-| `ImageBatch` | 2 | comfy-core |
 | `LoadImage` | 2 | comfy-core |
 | `ImageBatchMulti` | 1 | comfyui-kjnodes |
 | `ImageFromBatch` | 1 | comfy-core |

@@ -26,7 +26,7 @@
 | Author | ComfyUI |
 | Download size | 25.5 GB |
 | Min ComfyUI version | 0.8.0 |
-| Usage | 154 |
+| Usage | 200 |
 | Nodes | 57 |
 
 ## Inputs & outputs
@@ -71,9 +71,9 @@
 | `TrimVideoLatent` | 3 | comfy-core |
 | `VAEDecode` | 3 | comfy-core |
 | `WanAnimateToVideo` | 3 | comfy-core |
+| `BatchImagesNode` | 2 | comfy-core |
 | `CLIPTextEncode` | 2 | comfy-core |
 | `DWPreprocessor` | 2 | comfyui_controlnet_aux |
-| `ImageBatch` | 2 | comfy-core |
 | `LoraLoaderModelOnly` | 2 | comfy-core |
 | `PrimitiveInt` | 2 | comfy-core |
 | `BlockifyMask` | 1 | comfyui-kjnodes |

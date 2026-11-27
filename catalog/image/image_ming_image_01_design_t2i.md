@@ -1,10 +1,10 @@
-# Ming Image 0.1 Design: Text to Image
+# Ming Image 0.2 Design: Text to Image
 
 [← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_ming_image_01_design_t2i)
 
-<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_t2i-1.webp" width="360" alt="Ming Image 0.1 Design: Text to Image image_ming_image_01_design_t2i-1.webp">
+<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_t2i-1.webp" width="360" alt="Ming Image 0.2 Design: Text to Image image_ming_image_01_design_t2i-1.webp">
 
-> Generate text-heavy design compositions from text prompts using Ming Image 0.1 Design, a 6B model tuned for UI screens, infographics, and posters. It takes no file inputs and produces one image, supporting transparent backgrounds for easy layering. Ideal for interface mockups, marketing posters, and data-rich infographic drafts.
+> Generate text-heavy design compositions from text prompts using Ming Image 0.2 Design, a 6B model tuned for UI screens, infographics, and posters. It takes no file inputs and produces one image, supporting transparent backgrounds for easy layering. Ideal for interface mockups, marketing posters, and data-rich infographic drafts.
 
 ## Get the workflow
 
@@ -21,11 +21,11 @@
 | Models | Ming Image |
 | Tags | Int8, Text to Image |
 | Type | open source |
-| Date | 2026-09-25 |
+| Date | 2026-11-26 |
 | Author | ComfyUI |
 | Download size | 40.3 GB |
 | Min ComfyUI version | 0.44.0 |
-| Usage | 20 |
+| Usage | 15 |
 | Nodes | 25 |
 
 ## Inputs & outputs
@@ -38,14 +38,14 @@
 
 | File | Folder (`ComfyUI/models/…`) | Download |
 |---|---|---|
-| `ming_image_0.1_design_int8_convrot.safetensors` | `diffusion_models` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/diffusion_models/ming_image_0.1_design_int8_convrot.safetensors) |
-| `ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/text_encoders/ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors) |
+| `ming_image_0.2_design_int8_convrot.safetensors` | `diffusion_models` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/diffusion_models/ming_image_0.2_design_int8_convrot.safetensors) |
+| `ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/text_encoders/ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors) |
 | `qwen3.8_27b_w4a8.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Qwen3.8-27B/resolve/main/text_encoders/qwen3.8_27b_w4a8.safetensors) |
 | `ming_image_vae_bf16.safetensors` | `vae` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/vae/ming_image_vae_bf16.safetensors) |
 
 ## Subgraphs
 
-- **Text to Image (Ming Image 0.1 Design)** (21 nodes)
+- **Text to Image (Ming Image 0.2 Design)** (21 nodes)
 
 ## Nodes used
 
@@ -89,11 +89,11 @@ Guide: [Subgraph](https://docs.comfy.org/interface/features/subgraph)
 **text_encoders**
 
 - [qwen3.8_27b_w4a8.safetensors](https://huggingface.co/Comfy-Org/Qwen3.8-27B/resolve/main/text_encoders/qwen3.8_27b_w4a8.safetensors) (16.1 GB)
-- [ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/text_encoders/ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors) (18.17 GB)
+- [ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/text_encoders/ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors) (18.17 GB)
 
 **diffusion_models**
 
-- [ming_image_0.1_design_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/diffusion_models/ming_image_0.1_design_int8_convrot.safetensors) (5.75 GB)
+- [ming_image_0.2_design_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/diffusion_models/ming_image_0.2_design_int8_convrot.safetensors) (5.75 GB)
 
 **vae**
 
@@ -107,9 +107,9 @@ Guide: [Subgraph](https://docs.comfy.org/interface/features/subgraph)
 ├── 📂 models/
 │   ├── 📂 text_encoders/
 │   │   ├── qwen3.8_27b_w4a8.safetensors
-│   │   └── ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors
+│   │   └── ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors
 │   ├── 📂 diffusion_models/
-│   │   └── ming_image_0.1_design_int8_convrot.safetensors
+│   │   └── ming_image_0.2_design_int8_convrot.safetensors
 │   └── 📂 vae/
 │       └── ming_image_vae_bf16.safetensors
 ```
@@ -124,11 +124,11 @@ Note: Please update ComfyUI first ([guide](https://docs.comfy.org/installation/u
 
 </details>
 
-<details><summary>Note: Ming Image 0.1 Design</summary>
+<details><summary>Note: Ming Image 0.2 Design</summary>
 
-## Ming Image 0.1 Design
+## Ming Image 0.2 Design
 
-Ming Image 0.1 Design is a 6B text-to-image model from inclusionAI (Ant Group), built for design work: UI screens, infographics, posters and other text-heavy layouts. It outputs RGBA images with a real alpha channel, so a result can be dropped straight into a design file. Released under the MIT license.
+Ming Image 0.2 Design is a 6B text-to-image model from inclusionAI (Ant Group), built for design work: UI screens, infographics, posters and other text-heavy layouts. It outputs RGBA images with a real alpha channel, so a result can be dropped straight into a design file. Released under the MIT license.
 
 What it is good at:
 
@@ -141,7 +141,7 @@ The checkpoints this workflow needs, and where to put them, are listed in the **
 
 ## How to use this workflow
 
-1. Enter the **Text to Image (Ming Image 0.1 Design)** subgraph with the **Enter subgraph** button at the bottom of the node.
+1. Enter the **Text to Image (Ming Image 0.2 Design)** subgraph with the **Enter subgraph** button at the bottom of the node.
 2. Write your prompt in the `prompt` field, describing the layout section by section and putting any copy you want rendered in quotes.
 3. Choose the canvas with the `ResolutionSelector` node: 2048 x 2048 gives the best quality, 1024 x 1024 is faster.
 4. Keep the prompt enhancer on to let Qwen3.8-27B expand your prompt, or switch `enable_PE` off to send your text exactly as typed. The enhancer runs the rewriter system prompt released by the model authors, see below.

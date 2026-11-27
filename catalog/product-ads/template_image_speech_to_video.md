@@ -24,7 +24,7 @@
 | Date | 2026-04-06 |
 | Author | sirolim |
 | Download size | 45.6 GB |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 16 |
 | Nodes | 68 |
 
@@ -76,7 +76,8 @@
 | `ElevenLabsTextToSpeech` | 1 | comfy-core |
 | `ElevenLabsVoiceSelector` | 1 | comfy-core |
 | `EmptyLTXVLatentVideo` | 1 | comfy-core |
-| `GeminiNode` | 1 | comfy-core |
+| `GeminiNodeV3` | 1 | comfy-core |
+| `ImageScaleToMaxDimension` | 1 | comfy-core |
 | `LatentUpscaleModelLoader` | 1 | comfy-core |
 | `LoadAudio` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
@@ -94,8 +95,7 @@
 | `PrimitiveStringMultiline` | 1 | comfy-core |
 | `Reroute` | 1 |  |
 | `ResizeImageMaskNode` | 1 | comfy-core |
-| `ResizeImagesByLongerEdge` | 1 | comfy-core |
-| `SaveAudioMP3` | 1 | comfy-core |
+| `SaveAudioAdvanced` | 1 | comfy-core |
 | `SaveVideo` | 1 | comfy-core |
 | `SetLatentNoiseMask` | 1 | comfy-core |
 | `SolidMask` | 1 | comfy-core |

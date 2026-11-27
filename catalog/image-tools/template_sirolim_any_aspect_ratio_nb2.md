@@ -24,7 +24,7 @@
 | Date | 2026-03-08 |
 | Author | sirolim |
 | Min ComfyUI version | 0.20.3 |
-| Usage | 19 |
+| Usage | 23 |
 | Nodes | 22 |
 
 ## Inputs & outputs
@@ -53,7 +53,7 @@
 | `MarkdownNote` | 2 |  |
 | `Paste By Mask` | 2 | masquerade-nodes-comfyui |
 | `FluxResolutionNode` | 1 | controlaltai-nodes |
-| `GeminiNanoBanana2` | 1 |  |
+| `GeminiImage2Node` | 1 |  |
 | `Get Image Size` | 1 | masquerade-nodes-comfyui |
 | `ImageCompositeMasked` | 1 | comfy-core |
 | `ImageRemoveAlpha+` | 1 | comfyui_essentials |

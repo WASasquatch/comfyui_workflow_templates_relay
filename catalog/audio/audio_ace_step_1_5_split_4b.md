@@ -25,7 +25,7 @@
 | Author | ComfyUI |
 | Download size | 13.7 GB |
 | Min ComfyUI version | 0.25.0 |
-| Usage | 24 |
+| Usage | 30 |
 | Nodes | 13 |
 
 ## Model files
@@ -48,7 +48,7 @@
 | `KSampler` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |
 | `ModelSamplingAuraFlow` | 1 | comfy-core |
-| `SaveAudioMP3` | 1 | comfy-core |
+| `SaveAudioAdvanced` | 1 | comfy-core |
 | `TextEncodeAceStepAudio1.5` | 1 | comfy-core |
 | `UNETLoader` | 1 | comfy-core |
 | `VAEDecodeAudio` | 1 | comfy-core |

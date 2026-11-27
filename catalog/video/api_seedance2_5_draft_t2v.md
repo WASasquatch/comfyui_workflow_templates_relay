@@ -27,12 +27,6 @@
 | Usage | 21 |
 | Nodes | 6 |
 
-## Inputs & outputs
-
-| Direction | Node | Media | File |
-|---|---|---|---|
-| output | `SaveVideo` #775 | video | api_seedance2_5_draft_t2v.mp4 |
-
 ## Nodes used
 
 | Node | Count | Pack |

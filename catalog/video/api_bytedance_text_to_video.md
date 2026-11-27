@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2025-10-06 |
 | Author | ComfyUI |
-| Min ComfyUI version | 0.3.58 |
+| Min ComfyUI version | 0.19.0 |
 | Usage | 7 |
 | Nodes | 3 |
 
@@ -31,7 +31,7 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `ByteDanceTextToVideoNode` | 1 | comfy-core |
+| `ByteDance2TextToVideoNode` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |
 | `SaveVideo` | 1 | comfy-core |
 

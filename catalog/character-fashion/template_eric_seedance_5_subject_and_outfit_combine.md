@@ -23,8 +23,8 @@
 | Type | API |
 | Date | 2026-03-08 |
 | Author | enigmatic_e |
-| Min ComfyUI version | 0.33.3 |
-| Usage | 10 |
+| Min ComfyUI version | 0.34.0 |
+| Usage | 25 |
 | Nodes | 15 |
 
 ## Inputs & outputs
@@ -46,7 +46,7 @@
 | Node | Count | Pack |
 |---|---|---|
 | `LoadImage` | 3 | comfy-core |
-| `ByteDanceSeedreamNodeV2` | 2 |  |
+| `ByteDanceSeedreamNodeV3` | 2 |  |
 | `PrimitiveStringMultiline` | 2 | comfy-core |
 | `RegexReplace` | 2 | comfy-core |
 | `ResizeAndPadImage` | 2 | comfy-core |

@@ -24,7 +24,7 @@
 | Date | 2026-02-09 |
 | Author | ComfyUI |
 | Download size | 9.3 GB |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 19 |
 | Nodes | 17 |
 
@@ -55,7 +55,7 @@
 | `ConditioningZeroOut` | 1 | comfy-core |
 | `DualCLIPLoader` | 1 | comfy-core |
 | `EmptyAceStep1.5LatentAudio` | 1 | comfy-core |
-| `GeminiNodeV2` | 1 |  |
+| `GeminiNodeV3` | 1 |  |
 | `KSampler` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |
 | `ModelSamplingAuraFlow` | 1 | comfy-core |

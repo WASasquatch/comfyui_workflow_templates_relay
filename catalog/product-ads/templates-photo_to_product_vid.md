@@ -23,8 +23,8 @@
 | Type | API |
 | Date | 2025-12-18 |
 | Author | hellorob |
-| Min ComfyUI version | 0.33.3 |
-| Usage | 29 |
+| Min ComfyUI version | 0.34.0 |
+| Usage | 27 |
 | Nodes | 16 |
 
 ## Inputs & outputs
@@ -44,8 +44,8 @@
 | `SaveVideo` | 4 | comfy-core |
 | `GetVideoComponents` | 3 | comfy-core |
 | `MinimaxHailuoVideoNode` | 3 | comfy-core |
-| `ImageBatch` | 2 | comfy-core |
-| `ByteDanceSeedreamNode` | 1 | comfy-core |
+| `BatchImagesNode` | 2 | comfy-core |
+| `ByteDanceSeedreamNodeV3` | 1 | comfy-core |
 | `CreateVideo` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `SaveImage` | 1 | comfy-core |

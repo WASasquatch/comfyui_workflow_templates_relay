@@ -1,10 +1,10 @@
-# Ming Image 0.1 Design: Image Edit
+# Ming Image 0.2 Design: Image Edit
 
 [← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_ming_image_01_design_image_edit)
 
-<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_image_edit-1.webp" width="360" alt="Ming Image 0.1 Design: Image Edit image_ming_image_01_design_image_edit-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_image_edit-2.webp" width="360" alt="Ming Image 0.1 Design: Image Edit image_ming_image_01_design_image_edit-2.webp">
+<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_image_edit-1.webp" width="360" alt="Ming Image 0.2 Design: Image Edit image_ming_image_01_design_image_edit-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_image_edit-2.webp" width="360" alt="Ming Image 0.2 Design: Image Edit image_ming_image_01_design_image_edit-2.webp">
 
-> Edit an existing image with Ming Image 0.1 Design, a 6B model tuned for UI, infographics, and posters. It takes one input image plus the boxes you draw on it — position, description, and colour palette — and rebuilds them into a layer-by-layer caption, returning one re-rendered image. Ideal for restaging a layout, poster-style re-renders, and turning a photograph into a designed composition.
+> Edit an existing image with Ming Image 0.2 Design, a 6B model tuned for UI, infographics, and posters. It takes one input image plus the boxes you draw on it — position, description, and colour palette — and rebuilds them into a layer-by-layer caption, returning one re-rendered image. Ideal for restaging a layout, poster-style re-renders, and turning a photograph into a designed composition.
 
 ## Get the workflow
 
@@ -21,7 +21,7 @@
 | Models | Ming Image |
 | Tags | Image Edit |
 | Type | open source |
-| Date | 2026-09-29 |
+| Date | 2026-11-26 |
 | Author | ComfyUI |
 | Download size | 24.2 GB |
 | Min ComfyUI version | 0.38.0 |
@@ -38,13 +38,13 @@
 
 | File | Folder (`ComfyUI/models/…`) | Download |
 |---|---|---|
-| `ming_image_0.1_design_int8_convrot.safetensors` | `diffusion_models` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/diffusion_models/ming_image_0.1_design_int8_convrot.safetensors) |
-| `ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/text_encoders/ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors) |
+| `ming_image_0.2_design_int8_convrot.safetensors` | `diffusion_models` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/diffusion_models/ming_image_0.2_design_int8_convrot.safetensors) |
+| `ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/text_encoders/ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors) |
 | `ming_image_vae_bf16.safetensors` | `vae` | [link](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/vae/ming_image_vae_bf16.safetensors) |
 
 ## Subgraphs
 
-- **Image Edit (Ming Image 0.1 Design)** (15 nodes)
+- **Image Edit (Ming Image 0.2 Design)** (15 nodes)
 - **Aspect Ratio (gcd-reduced)** (14 nodes)
 - **Ideogram JSON to Ming Caption** (51 nodes)
 
@@ -115,7 +115,7 @@ Guide: [Subgraph](https://docs.comfy.org/interface/features/subgraph)
 
 **diffusion_models**
 
-- [ming_image_0.1_design_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/diffusion_models/ming_image_0.1_design_int8_convrot.safetensors) (5.75 GB)
+- [ming_image_0.2_design_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/diffusion_models/ming_image_0.2_design_int8_convrot.safetensors) (5.75 GB)
 
 **vae**
 
@@ -123,7 +123,7 @@ Guide: [Subgraph](https://docs.comfy.org/interface/features/subgraph)
 
 **text_encoders**
 
-- [ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/text_encoders/ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors) (18.17 GB)
+- [ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Ming-Image/resolve/main/text_encoders/ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors) (18.17 GB)
 
 ## Model Storage Location
 
@@ -131,11 +131,11 @@ Guide: [Subgraph](https://docs.comfy.org/interface/features/subgraph)
 📂 ComfyUI/
 ├── 📂 models/
 │   ├── 📂 diffusion_models/
-│   │   └── ming_image_0.1_design_int8_convrot.safetensors
+│   │   └── ming_image_0.2_design_int8_convrot.safetensors
 │   ├── 📂 vae/
 │   │   └── ming_image_vae_bf16.safetensors
 │   └── 📂 text_encoders/
-│       └── ming_image_0.1_ling_mini_2.0_int8_convrot.safetensors
+│       └── ming_image_0.2_ling_mini_2.0_int8_convrot.safetensors
 ```
 
 ## Report Issue
@@ -148,20 +148,20 @@ Note: Please update ComfyUI first ([guide](https://docs.comfy.org/installation/u
 
 </details>
 
-<details><summary>Note: Ming Image 0.1 Design — Edit (subgraph + prompt)</summary>
+<details><summary>Note: Ming Image 0.2 Design — Edit (subgraph + prompt)</summary>
 
-# Ming Image 0.1 Design — Edit (ComfyUI)
+# Ming Image 0.2 Design — Edit (ComfyUI)
 
-Ming Image 0.1 **Design** (inclusionAI / Ant Ling): text-to-image and image editing with one checkpoint.
+Ming Image 0.2 **Design** (inclusionAI / Ant Ling): text-to-image and image editing with one checkpoint.
 Files — see *Note: Model Links*.
 
-Links — [Ming-Image repo](https://github.com/inclusionAI/Ming-Image) · [model card](https://huggingface.co/inclusionAI/Ming-Image-0.1-Design) · [Design skill](https://github.com/inclusionAI/ling-cookbook/tree/main/resources/recommended-skills/ling-ui-design) · [PPT skill](https://github.com/inclusionAI/ling-cookbook/tree/main/resources/recommended-skills/image-to-editable-ppt)
+Links — [Ming-Image repo](https://github.com/inclusionAI/Ming-Image) · [model card](https://huggingface.co/inclusionAI/Ming-Image-0.2-Design) · [Design skill](https://github.com/inclusionAI/ling-cookbook/tree/main/resources/recommended-skills/ling-ui-design) · [PPT skill](https://github.com/inclusionAI/ling-cookbook/tree/main/resources/recommended-skills/image-to-editable-ppt)
 
 ## Three subgraphs — double-click any of them to open
 
 | subgraph | what it does |
 |---|---|
-| **Image Edit (Ming Image 0.1 Design)** | the model: reference image(s) + `prompt` → sample → decode |
+| **Image Edit (Ming Image 0.2 Design)** | the model: reference image(s) + `prompt` → sample → decode |
 | **Ideogram JSON → Ming Caption** | rewrites the Ideogram JSON + the bounding boxes into Ming's Figma-style caption and feeds `prompt` |
 | **Aspect Ratio (gcd-reduced)** | nested inside the one above: `width` / `height` → `7:9, 896 × 1152 px` for `canvas_settings.aspect_ratio` |
 
@@ -220,7 +220,7 @@ Swap the input image or resize the canvas and the ratio follows automatically.
 
 **What this subgraph does**
 
-Turns the Ideogram JSON + the bounding boxes into Ming's own Figma-style caption (`canvas_settings` + `layers`) and sends it to the `prompt` of **Image Edit (Ming Image 0.1 Design)**.
+Turns the Ideogram JSON + the bounding boxes into Ming's own Figma-style caption (`canvas_settings` + `layers`) and sends it to the `prompt` of **Image Edit (Ming Image 0.2 Design)**.
 
 | input | comes from | carries |
 |---|---|---|

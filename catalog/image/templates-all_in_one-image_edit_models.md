@@ -24,8 +24,8 @@
 | Date | 2026-02-18 |
 | Author | hellorob |
 | Download size | 124.8 GB |
-| Min ComfyUI version | 0.33.3 |
-| Usage | 15 |
+| Min ComfyUI version | 0.34.0 |
+| Usage | 16 |
 | Nodes | 64 |
 
 ## Inputs & outputs
@@ -78,18 +78,18 @@
 | `SamplerCustomAdvanced` | 2 | comfy-core |
 | `TextEncodeQwenImageEditPlus` | 2 | comfy-core |
 | `BasicGuider` | 1 | comfy-core |
-| `ByteDanceSeedreamNode` | 1 | comfy-core |
+| `ByteDanceSeedreamNodeV3` | 1 | comfy-core |
 | `CFGGuider` | 1 | comfy-core |
 | `CFGNorm` | 1 | comfy-core |
 | `FluxGuidance` | 1 | comfy-core |
 | `FluxKontextImageScale` | 1 | comfy-core |
 | `GeminiImage2Node` | 1 | comfy-core |
-| `GrokImageEditNode` | 1 | comfy-core |
+| `GrokImageEditNodeV2` | 1 | comfy-core |
 | `KSampler` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `ModelSamplingAuraFlow` | 1 | comfy-core |
 | `Note` | 1 |  |
-| `OpenAIGPTImage1` | 1 | comfy-core |
+| `OpenAIGPTImageNodeV2` | 1 | comfy-core |
 | `PrimitiveStringMultiline` | 1 | comfy-core |
 
 ## Notes embedded in the workflow

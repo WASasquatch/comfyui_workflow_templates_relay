@@ -24,8 +24,8 @@
 | Date | 2026-05-20 |
 | Author | ComfyUI |
 | Download size | 14.6 GB |
-| Min ComfyUI version | 0.25.0 |
-| Usage | 110 |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 128 |
 | Nodes | 24 |
 
 ## Model files
@@ -60,7 +60,7 @@
 | `PrimitiveFloat` | 1 |  |
 | `PrimitiveStringMultiline` | 1 |  |
 | `SaveAudioAdvanced` | 1 |  |
-| `TextGenerate` | 1 | comfy-core |
+| `TextGenerateV2` | 1 | comfy-core |
 | `VAEDecodeAudio` | 1 | comfy-core |
 
 ## Notes embedded in the workflow

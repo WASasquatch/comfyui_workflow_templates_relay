@@ -26,7 +26,7 @@
 | Author | ComfyUI |
 | Download size | 20.8 GB |
 | Min ComfyUI version | 0.3.42 |
-| Usage | 62 |
+| Usage | 18 |
 | Nodes | 30 |
 
 ## Inputs & outputs
@@ -34,7 +34,6 @@
 | Direction | Node | Media | File |
 |---|---|---|---|
 | input | `LoadImage` #17 | image | image_flux.1_fill_dev_OneReward_input_image.png |
-| output | `SaveImage` #62 | image | image_flux.1_fill_dev_OneReward.png |
 
 ## Model files
 

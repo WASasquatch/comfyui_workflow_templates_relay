@@ -25,7 +25,7 @@
 | Author | hellorob |
 | Min ComfyUI version | 0.16.0 |
 | Usage | 4 |
-| Nodes | 97 |
+| Nodes | 126 |
 
 ## Inputs & outputs
 
@@ -43,9 +43,9 @@
 - **Stitch 2x2** (3 nodes)
 - **Stitch 3x3** (8 nodes)
 - **Stitch 4x4** (15 nodes)
-- **Crop 2x2** (10 nodes)
-- **Crop 3x3** (17 nodes)
-- **Crop 4x4** (26 nodes)
+- **Crop 2x2** (14 nodes)
+- **Crop 3x3** (26 nodes)
+- **Crop 4x4** (42 nodes)
 - **Prompt + Select Grid Size** (15 nodes)
 - **Crop Tiles** (5 nodes)
 
@@ -53,7 +53,8 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `ImageCrop` | 29 | comfy-core |
+| `ImageCropV2` | 29 | comfy-core |
+| `PrimitiveBoundingBox` | 29 |  |
 | `ImageStitch` | 26 | comfy-core |
 | `SimpleMath+` | 18 | comfyui_essentials |
 | `ComfySwitchNode` | 4 | comfy-core |

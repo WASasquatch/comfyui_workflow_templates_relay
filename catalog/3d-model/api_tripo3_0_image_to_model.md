@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2025-12-23 |
 | Author | ComfyUI |
-| Min ComfyUI version | 0.35.1 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 24 |
 | Nodes | 11 |
 
@@ -41,10 +41,10 @@
 |---|---|---|
 | `LoadImage` | 3 | comfy-core |
 | `BatchImagesNode` | 1 | comfy-core |
-| `Preview3D` | 1 | comfy-core |
+| `Preview3DAdvanced` | 1 | comfy-core |
 | `SaveGLB` | 1 | comfy-core |
 | `TripoConversionNode` | 1 | comfy-core |
-| `TripoImageToModelNode` | 1 | comfy-core |
+| `TripoImageToModelNodeV2` | 1 | comfy-core |
 | `TripoRetargetNode` | 1 | comfy-core |
 | `TripoRigNode` | 1 | comfy-core |
-| `TripoTextureNode` | 1 | comfy-core |
+| `TripoTextureNodeV2` | 1 | comfy-core |

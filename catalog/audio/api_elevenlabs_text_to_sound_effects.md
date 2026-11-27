@@ -24,14 +24,8 @@
 | Date | 2026-02-21 |
 | Author | ComfyUI |
 | Min ComfyUI version | 0.25.0 |
-| Usage | 16 |
+| Usage | 74 |
 | Nodes | 2 |
-
-## Inputs & outputs
-
-| Direction | Node | Media | File |
-|---|---|---|---|
-| output | `SaveAudioMP3` #137 | audio | api_elevenlabs_text_to_sound_effects.mp3 |
 
 ## Nodes used
 

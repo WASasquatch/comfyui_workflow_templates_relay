@@ -25,7 +25,7 @@
 | Date | 2026-04-14 |
 | Author | ComfyUI |
 | Download size | 24.2 GB |
-| Min ComfyUI version | 0.21.0 |
+| Min ComfyUI version | 0.44.0 |
 | Usage | 76 |
 | Nodes | 21 |
 
@@ -64,7 +64,7 @@
 | `PrimitiveBoolean` | 1 | comfy-core |
 | `PrimitiveStringMultiline` | 1 | comfy-core |
 | `SaveImage` | 1 | comfy-core |
-| `TextGenerate` | 1 | comfy-core |
+| `TextGenerateV2` | 1 | comfy-core |
 | `UNETLoader` | 1 | comfy-core |
 | `VAEDecode` | 1 | comfy-core |
 | `VAELoader` | 1 | comfy-core |

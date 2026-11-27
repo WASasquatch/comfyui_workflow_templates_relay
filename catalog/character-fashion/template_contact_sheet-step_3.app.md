@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2026-03-30 |
 | Author | hellorob |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 9 |
 | Nodes | 61 |
 
@@ -55,7 +55,7 @@
 |---|---|---|
 | `ImageFromBatch` | 14 | comfy-core |
 | `BatchImagesNode` | 8 |  |
-| `GeminiNode` | 7 | comfy-core |
+| `GeminiNodeV3` | 7 | comfy-core |
 | `KlingFirstLastFrameNode` | 7 |  |
 | `LoadImage` | 7 |  |
 | `PreviewAny` | 7 | comfy-core |

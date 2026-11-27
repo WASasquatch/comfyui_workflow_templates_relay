@@ -24,8 +24,8 @@
 | Date | 2026-03-08 |
 | Author | sirolim |
 | Download size | 39.1 GB |
-| Min ComfyUI version | 0.8.0 |
-| Usage | 14 |
+| Min ComfyUI version | 0.46.4 |
+| Usage | 16 |
 | Nodes | 39 |
 
 ## Inputs & outputs
@@ -60,22 +60,21 @@
 | Node | Count | Pack |
 |---|---|---|
 | `ImageFromBatch` | 4 | comfy-core |
+| `BatchImagesNode` | 3 | comfy-core |
 | `LayerUtility: ColorImage V2` | 3 |  |
 | `ReverseImageBatch` | 3 | comfyui-kjnodes |
 | `VHS_DuplicateImages` | 3 | comfyui-videohelpersuite |
-| `BatchImagesNode` | 2 |  |
 | `CLIPTextEncode` | 2 | comfy-core |
 | `PrimitiveInt` | 2 |  |
 | `VHS_VideoCombine` | 2 |  |
 | `CLIPLoader` | 1 | comfy-core |
 | `CreateVideo` | 1 |  |
-| `ImageBatch` | 1 | comfy-core |
 | `ImageResize+` | 1 | comfyui_essentials |
 | `ImageToMask` | 1 |  |
 | `KSampler` | 1 | comfy-core |
 | `LoraLoaderModelOnly` | 1 |  |
 | `MarkdownNote` | 1 |  |
-| `OpenAIChatNode` | 1 |  |
+| `OpenAIChatNodeV2` | 1 |  |
 | `PreviewAny` | 1 |  |
 | `SaveVideo` | 1 |  |
 | `SimpleMath+` | 1 |  |

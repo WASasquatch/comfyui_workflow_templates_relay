@@ -25,7 +25,7 @@
 | Author | ComfyUI |
 | Download size | 12.7 GB |
 | Min ComfyUI version | 0.46.0 |
-| Usage | 0 |
+| Usage | 63 |
 | Nodes | 30 |
 
 ## Inputs & outputs

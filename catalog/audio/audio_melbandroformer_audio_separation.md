@@ -25,7 +25,7 @@
 | Author | ComfyUI |
 | Download size | 409.6 MB |
 | Min ComfyUI version | 0.25.0 |
-| Usage | 37 |
+| Usage | 23 |
 | Nodes | 6 |
 
 ## Inputs & outputs
@@ -42,7 +42,7 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `SaveAudioMP3` | 2 |  |
+| `SaveAudioAdvanced` | 2 |  |
 | `LoadAudio` | 1 |  |
 | `MarkdownNote` | 1 |  |
 | `MelBandRoFormerModelLoader` | 1 |  |

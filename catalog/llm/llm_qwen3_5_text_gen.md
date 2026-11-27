@@ -24,9 +24,9 @@
 | Type | open source |
 | Date | 2026-03-27 |
 | Author | ComfyUI |
-| Download size | 8.7 GB |
-| Min ComfyUI version | 0.19.0 |
-| Usage | 285 |
+| Download size | 6.8 GB |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 226 |
 | Nodes | 5 |
 
 ## Inputs & outputs
@@ -39,7 +39,7 @@
 
 | File | Folder (`ComfyUI/models/…`) | Download |
 |---|---|---|
-| `qwen3.5_4b_bf16.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Qwen3.5/resolve/main/text_encoders/qwen3.5_4b_bf16.safetensors) |
+| `qwen3.5_9b_w4a8_gptq.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Qwen3.5/resolve/main/text_encoders/qwen3.5_9b_w4a8_gptq.safetensors) |
 
 ## Nodes used
 
@@ -49,7 +49,7 @@
 | `LoadImage` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |
 | `PreviewAny` | 1 | comfy-core |
-| `TextGenerate` | 1 | comfy-core |
+| `TextGenerateV2` | 1 | comfy-core |
 
 ## Notes embedded in the workflow
 
@@ -63,7 +63,7 @@ Related PR: https://github.com/Comfy-Org/ComfyUI/pull/12771
 
 **text_encoders**
 
-- [qwen3.5_4b_bf16.safetensors](https://huggingface.co/Comfy-Org/Qwen3.5/resolve/main/text_encoders/qwen3.5_4b_bf16.safetensors) (8.68 GB)
+- [qwen3.5_9b_w4a8_gptq.safetensors](https://huggingface.co/Comfy-Org/Qwen3.5/resolve/main/text_encoders/qwen3.5_9b_w4a8_gptq.safetensors) (7.34 GB)
 
 
 ## Model Storage Location
@@ -72,7 +72,7 @@ Related PR: https://github.com/Comfy-Org/ComfyUI/pull/12771
 📂 ComfyUI/
 ├── 📂 models/
 │   └── 📂 text_encoders/
-│       └── qwen3.5_4b_bf16.safetensors
+│       └── qwen3.5_9b_w4a8_gptq.safetensors
 ```
 
 ## Report Issue

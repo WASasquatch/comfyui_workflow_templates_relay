@@ -23,9 +23,9 @@
 | Type | API |
 | Date | 2026-10-22 |
 | Author | ComfyUI |
-| Min ComfyUI version | 0.42.3 |
-| Usage | 29 |
-| Nodes | 6 |
+| Min ComfyUI version | 0.46.3 |
+| Usage | 20 |
+| Nodes | 4 |
 
 ## Inputs & outputs
 
@@ -37,12 +37,10 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `HeyGenVoiceCloneNode` | 1 |  |
-| `HeyGenVoiceTextToSpeechNode` | 1 |  |
+| `HeyGenVoiceCloneTextToSpeechNode` | 1 |  |
 | `LoadAudio` | 1 |  |
 | `MarkdownNote` | 1 |  |
 | `SaveAudioAdvanced` | 1 |  |
-| `SaveText` | 1 |  |
 
 ## Notes embedded in the workflow
 
@@ -54,13 +52,15 @@
 - [long_demo.mp3](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/input/long_demo.mp3)
 
 ## How to Use
-1. Load one speaker, 10 seconds+: Instant Clone returns a `voice_id`, which SaveText writes to `output/`.
-2. Text to Speech already uses `heygen-voice-1-turbo`, the faster model: link `voice_id`, write the script in `text`.
-3. Queue the prompt; `expressiveness_boost` 0.5 stays near the recording. SaveAudioAdvanced writes the mp3.
+1. Sign in with your ComfyUI account before queueing: this API node bills per use.
+2. Load one speaker, 10 seconds or more: cloning and speaking happen in one node, with no separate step in between.
+3. The model is already `heygen-voice-1-turbo`, the faster engine: write the script in `text`.
+4. Queue the prompt; `expressiveness_boost` 0.5 stays near the recording. SaveAudioAdvanced writes the mp3.
 
 ## Limits
 - First 3 minutes of the recording are used.
 - Script: plain prose, 1 to 5000 characters.
 - Instant voices ignore seed, speed and pitch.
+- Official docs: [HeyGen Voice](https://developers.heygen.com/docs/models/heygen-voice) and [Text to Speech](https://developers.heygen.com/docs/voices/speech).
 
 </details>

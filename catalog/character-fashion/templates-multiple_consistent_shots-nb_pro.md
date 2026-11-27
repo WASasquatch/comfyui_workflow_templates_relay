@@ -23,8 +23,8 @@
 | Type | API |
 | Date | 2026-01-26 |
 | Author | hellorob |
-| Min ComfyUI version | 0.35.2 |
-| Usage | 38 |
+| Min ComfyUI version | 0.36.0 |
+| Usage | 34 |
 | Nodes | 94 |
 
 ## Inputs & outputs
@@ -70,7 +70,7 @@
 | `SaveImage` | 6 | comfy-core |
 | `SimpleMath+` | 6 | comfyui_essentials |
 | `SomethingToString` | 6 | comfyui-kjnodes |
-| `GeminiNode` | 1 | comfy-core |
+| `GeminiNodeV3` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `PrimitiveNode` | 1 |  |
 

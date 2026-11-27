@@ -24,9 +24,9 @@
 | Date | 2026-10-17 |
 | Author | ComfyUI |
 | Download size | 20.7 GB |
-| Min ComfyUI version | 0.42.0 |
-| Usage | 5900 |
-| Nodes | 20 |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 5389 |
+| Nodes | 24 |
 
 ## Inputs & outputs
 
@@ -50,14 +50,16 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `MarkdownNote` | 3 |  |
+| `MarkdownNote` | 4 |  |
 | `CLIPTextEncode` | 2 |  |
 | `ComfySwitchNode` | 2 |  |
+| `PreviewAny` | 2 |  |
 | `PrimitiveStringMultiline` | 2 |  |
 | `CLIPLoader` | 1 |  |
+| `CreateBoundingBoxes` | 1 |  |
 | `EmptyFlux2LatentImage` | 1 |  |
 | `KSampler` | 1 |  |
-| `PreviewAny` | 1 |  |
+| `MOSSImageLayoutPrompt` | 1 |  |
 | `ResolutionSelector` | 1 |  |
 | `SaveImage` | 1 |  |
 | `SkipLayerGuidanceDiTSimple` | 1 |  |
@@ -79,18 +81,15 @@ Guide: [Subgraph](https://docs.comfy.org/interface/features/subgraph)
 
 **diffusion_models**
 
-- [moss_image_sft_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/MOSS-Image/resolve/main/diffusion_models/moss_image_sft_int8_convrot.safetensors)
-- [moss_image_sft_bf16.safetensors](https://huggingface.co/Comfy-Org/MOSS-Image/resolve/main/diffusion_models/moss_image_sft_bf16.safetensors)
+- [moss_image_sft_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/MOSS-Image/resolve/main/diffusion_models/moss_image_sft_int8_convrot.safetensors) (5.04 GB)
 
 **text_encoders**
 
-- [qwen3.5_9b_w4a8_gptq.safetensors](https://huggingface.co/Comfy-Org/MOSS-Image/resolve/main/text_encoders/qwen3.5_9b_w4a8_gptq.safetensors)
-
-**Checkpoint variants**: `moss_image_sft_*` is the instruction-tuned checkpoint used here; `moss_image_base_*` runs in the same graph.
+- [qwen3.5_9b_w4a8_gptq.safetensors](https://huggingface.co/Comfy-Org/MOSS-Image/resolve/main/text_encoders/qwen3.5_9b_w4a8_gptq.safetensors) (9.08 GB)
 
 **vae**
 
-- [flux2-vae_small.safetensors](https://huggingface.co/Comfy-Org/MOSS-Image/resolve/main/vae/flux2-vae_small.safetensors)
+- [flux2-vae_small.safetensors](https://huggingface.co/Comfy-Org/MOSS-Image/resolve/main/vae/flux2-vae_small.safetensors) (249.5 MB)
 
 
 ## Model Storage Location
@@ -99,26 +98,12 @@ Guide: [Subgraph](https://docs.comfy.org/interface/features/subgraph)
 📂 ComfyUI/
 ├── 📂 models/
 │   ├── 📂 diffusion_models/
-│   │   ├── moss_image_sft_int8_convrot.safetensors
-│   │   └── moss_image_sft_bf16.safetensors
+│   │   └── moss_image_sft_int8_convrot.safetensors
 │   ├── 📂 text_encoders/
 │   │   └── qwen3.5_9b_w4a8_gptq.safetensors
 │   └── 📂 vae/
 │       └── flux2-vae_small.safetensors
 ```
-
-## Prompt upsampler
-
-The `enable_prompt_upsampler` switch on the **Text to Image (MOSS-Image)** node is **true**, so a short prompt is rewritten into one full
-scene caption before it reaches the model. The upsampler runs on MOSS-Image's own text encoder
-(`qwen3.5_9b_w4a8_gptq.safetensors`, loaded with `type = moss_image`), the same file the model already needs — no second
-text encoder to download. Set the switch to `false` to send the raw prompt; either way the caption actually used is shown in the
-`PreviewAny` node inside the subgraph.
-
-
-## Prompt skill
-
-The system prompt driving the upsampler is written from the official [MOSS-Image Prompt Enhancer skill](https://github.com/OpenMOSS/MOSS-Image/blob/main/skills/moss-image-prompt-enhancer/SKILL.md). The same skill turns an idea into a caption or a Layout prompt outside ComfyUI, and it is the reference for the caption style this model was trained on.
 
 ## Report Issue
 
@@ -127,6 +112,16 @@ Note: Please update ComfyUI first ([guide](https://docs.comfy.org/installation/u
 - Cannot run / runtime errors: [ComfyUI/issues](https://github.com/comfyanonymous/ComfyUI/issues)
 - UI / frontend issues: [ComfyUI_frontend/issues](https://github.com/Comfy-Org/ComfyUI_frontend/issues)
 - Workflow issues: [workflow_templates/issues](https://github.com/Comfy-Org/workflow_templates/issues)
+
+</details>
+
+<details><summary>MarkdownNote</summary>
+
+## Layout / bounding-box flow
+
+`CreateBoundingBoxes` is where the layout is drawn: it outputs the boxes as `BOUNDING_BOX` plus an element list → `MOSS-Image Layout Prompt` turns those elements into the Layout prompt → that `prompt` is wired into `positive_prompt` of the **Text to Image (MOSS-Image)** subgraph. Remove the link to fall back to a plain text prompt.
+
+Prompt upsampler is **on** in this template, so it can rewrite the prompt and drop the layout — set `enable_prompt_upsampler` to `false` (inside the subgraph) when the boxes must survive verbatim.
 
 </details>
 
@@ -182,10 +177,17 @@ This template follows the faster settings from kijai's ComfyUI MOSS-Image PR [#1
 - **Shift:** adjust with ModelSamplingAuraFlow or ModelSamplingFlux — ModelSamplingSD3 uses a completely different scale. You can enter the subgraph to adjust it
 - **SFT banding:** experimental LoRA at about −0.5 strength: [moss_image_sft_lora_blocks_21_to_49…](https://huggingface.co/Kijai/MOSS-image_experimental/blob/main/loras/moss_image_sft_lora_blocks_21_to_49_rank_512_bf16.safetensors)
 
+
+## Prompt skill
+
+The system prompt driving the upsampler is written from the official [MOSS-Image Prompt Enhancer skill](https://github.com/OpenMOSS/MOSS-Image/blob/main/skills/moss-image-prompt-enhancer/SKILL.md). The same skill turns an idea into a caption or a Layout prompt outside ComfyUI, and it is the reference for the caption style this model was trained on.
+
 </details>
 
-<details><summary>Note: ref_image</summary>
+<details><summary>Note: ref_image and PE</summary>
 
-The `ref_image` is fed to the LLM only for prompt enhancement and cannot be used directly by the model. Enable the prompt enhancer if you wish to use it. The model itself doesn't support ref_image
+The `ref_image` is fed to the LLM only for prompt enhancement and cannot be used directly by the model. Enable the prompt enhancer if you wish to use it. The model itself doesn't support `ref_image`.
+
+When using the bboxes, enabling PE will rewrite the json input totally, so it's disabled by default in the current workflow.
 
 </details>

@@ -25,8 +25,8 @@
 | Date | 2026-02-23 |
 | Author | ComfyUI |
 | Download size | 7.5 GB |
-| Min ComfyUI version | 0.15.0 |
-| Usage | 30 |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 16 |
 | Nodes | 5 |
 
 ## Model files
@@ -42,7 +42,7 @@
 | `MarkdownNote` | 2 |  |
 | `CLIPLoader` | 1 | comfy-core |
 | `PreviewAny` | 1 | comfy-core |
-| `TextGenerate` | 1 | comfy-core |
+| `TextGenerateV2` | 1 | comfy-core |
 
 ## Notes embedded in the workflow
 

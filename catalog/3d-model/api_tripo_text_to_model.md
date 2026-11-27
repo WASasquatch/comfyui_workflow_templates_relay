@@ -1,8 +1,8 @@
-# Tripo: Text to Model
+# Tripo 2.5: Text to Model
 
 [← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_tripo_text_to_model)
 
-<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_text_to_model-1.webp" width="360" alt="Tripo: Text to Model api_tripo_text_to_model-1.webp">
+<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_text_to_model-1.webp" width="360" alt="Tripo 2.5: Text to Model api_tripo_text_to_model-1.webp">
 
 > Craft 3D objects from descriptions with Tripo's text-driven modeling.
 
@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2025-03-01 |
 | Author | ComfyUI |
-| Min ComfyUI version | 0.35.1 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 8 |
 | Nodes | 7 |
 
@@ -35,5 +35,5 @@
 | `TripoConversionNode` | 1 | comfy-core |
 | `TripoRetargetNode` | 1 | comfy-core |
 | `TripoRigNode` | 1 | comfy-core |
-| `TripoTextToModelNode` | 1 | comfy-core |
-| `TripoTextureNode` | 1 | comfy-core |
+| `TripoTextToModelNodeV2` | 1 | comfy-core |
+| `TripoTextureNodeV2` | 1 | comfy-core |

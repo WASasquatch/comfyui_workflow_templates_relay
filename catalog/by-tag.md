@@ -6,43 +6,44 @@ Tags as declared in `index.json`.
 
 | | Templates |
 |---|---|
-| [API](#api) | 449 |
-| [Video](#video) | 151 |
+| [API](#api) | 454 |
+| [Video](#video) | 152 |
 | [Image Edit](#image-edit) | 127 |
 | [Text to Image](#text-to-image) | 119 |
-| [Image](#image) | 116 |
+| [Image](#image) | 118 |
 | [Image to Video](#image-to-video) | 89 |
 | [Text to Video](#text-to-video) | 59 |
-| [Int8](#int8) | 49 |
-| [3D](#3d) | 48 |
+| [Int8](#int8) | 51 |
+| [3D](#3d) | 49 |
 | [Audio](#audio) | 31 |
+| [Image to 3D](#image-to-3d) | 31 |
 | [Video Edit](#video-edit) | 31 |
-| [Image to 3D](#image-to-3d) | 30 |
 | [FLF2V](#flf2v) | 29 |
 | [Image Upscale](#image-upscale) | 29 |
 | [ControlNet](#controlnet) | 26 |
 | [Reference to Video](#reference-to-video) | 25 |
 | [Text Generation](#text-generation) | 19 |
+| [Lip Sync](#lip-sync) | 17 |
 | [LoRA](#lora) | 17 |
-| [Lip Sync](#lip-sync) | 16 |
 | [Text to Audio](#text-to-audio) | 15 |
 | [Video Upscale](#video-upscale) | 14 |
 | [Outpainting](#outpainting) | 13 |
 | [Remove Background](#remove-background) | 12 |
 | [Inpainting](#inpainting) | 11 |
+| [Voice Cloning](#voice-cloning) | 11 |
 | [Character Reference](#character-reference) | 10 |
 | [Motion Control](#motion-control) | 10 |
 | [Style Reference](#style-reference) | 10 |
 | [Text to 3D](#text-to-3d) | 10 |
-| [Voice Cloning](#voice-cloning) | 10 |
+| [Text to Speech](#text-to-speech) | 9 |
 | [Vector](#vector) | 9 |
 | [Relight](#relight) | 8 |
 | [Text to Music](#text-to-music) | 8 |
-| [Text to Speech](#text-to-speech) | 8 |
 | [Anime](#anime) | 7 |
 | [Audio Editing](#audio-editing) | 7 |
 | [Brand Design](#brand-design) | 7 |
 | [Character Replacement](#character-replacement) | 7 |
+| [LLM](#llm) | 6 |
 | [Music](#music) | 6 |
 | [Style Transfer](#style-transfer) | 6 |
 | [Audio to Video](#audio-to-video) | 5 |
@@ -52,7 +53,6 @@ Tags as declared in `index.json`.
 | [Video Extend](#video-extend) | 5 |
 | [Video to Video](#video-to-video) | 5 |
 | [Element Segmentation](#element-segmentation) | 4 |
-| [LLM](#llm) | 4 |
 | [Node Basics](#node-basics) | 4 |
 | [Turbo](#turbo) | 4 |
 | [Virtual Try-On](#virtual-try-on) | 4 |
@@ -127,6 +127,7 @@ Tags as declared in `index.json`.
 - [Claude: Opus 5.5](llm/api_anthropic_claude_opus_5_5.md) — LLM
 - [Claude: Sonnet 5](llm/api_anthropic_claude_sonnet5.md) — LLM
 - [Composite your Product + Scene and Relight](product-ads/templates-product_scene_relight.md) — Product & Ads
+- [Creatify Aurora 2.0: Talking Avatar](character-fashion/api_creatify_aurora_2_avatar.md) — Character & Fashion
 - [Dynamic 3D Logo Animations](brand-design/templates-3D_logo_texture_animation.md) — Brand & Design
 - [Eleven v4: Text to Dialogue](audio/api_elevenlabs_v4_text_to_dialogue.md) — Audio
 - [Eleven v4: Text to Speech](audio/api_elevenlabs_v4_text_to_speech.md) — Audio
@@ -159,6 +160,7 @@ Tags as declared in `index.json`.
 - [FLUX.2 [max]: Object Swap](image/api_bfl_flux2_max_sofa_swap.md) — Image
 - [FLUX.2 Pro](image/api_flux2.md) — Image
 - [Game Asset Style Transfer Sprite Generator](brand-design/templates_3d_match_game_art_style.app.md) — Brand & Design
+- [Gemini Decision 1: Gate, Score, Classify, Pick](llm/api_gemini_decision.md) — LLM
 - [Gemini Omni 1.1 Flash: Image to Video](video/api_google_gemini_omni_flash_1_1_i2v.md) — Video
 - [Gemini Omni 1.1 Flash: Reference to Video](video/api_google_gemini_omni_flash_1_1_r2v.md) — Video
 - [Gemini Omni 1.1 Flash: Text to Video](video/api_google_gemini_omni_flash_1_1_t2v.md) — Video
@@ -214,16 +216,17 @@ Tags as declared in `index.json`.
 - [HappyHorse: Reference to Video](video/api_happyhorse1_0_r2v.md) — Video
 - [HappyHorse: Text to Video](video/api_happyhorse1_0_t2v.md) — Video
 - [HappyHorse: Video Edit](video/api_happyhorse1_0_video_edit.md) — Video
-- [HeyGen Avatar 6: Identity to Video](video/api_heygen_avatar_6_id2v.md) — Video
-- [HeyGen Avatar 6: Photo to Video](video/api_heygen_avatar_6_i2v.md) — Video
+- [HeyGen Avatar 6: Identity to Video](character-fashion/api_heygen_avatar_6_id2v.md) — Character & Fashion
+- [HeyGen Avatar 6: Photo to Video](character-fashion/api_heygen_avatar_6_i2v.md) — Character & Fashion
 - [HeyGen Decision 1: Gate and Pick](llm/api_heygen_decision_1.md) — LLM
-- [HeyGen Video 1.0: Image to Video](video/api_heygen_video_1_i2v.md) — Video
-- [HeyGen Video 1.0: Reference to Video](video/api_heygen_video_1_r2v.md) — Video
-- [HeyGen Video 1.0: Text to Video](video/api_heygen_video_1_t2v.md) — Video
+- [HeyGen Video 1.0: Image to Video](character-fashion/api_heygen_video_1_i2v.md) — Character & Fashion
+- [HeyGen Video 1.0: Reference to Video](character-fashion/api_heygen_video_1_r2v.md) — Character & Fashion
+- [HeyGen Video 1.0: Text to Video](character-fashion/api_heygen_video_1_t2v.md) — Character & Fashion
 - [HeyGen Voice 1.0 Turbo: Voice Clone to Speech](audio/api_heygen_voice_1_turbo.md) — Audio
+- [HeyGen Voice 1.0: Instant Clone TTS](audio/api_heygen_voice_1_instant_clone.md) — Audio
 - [HeyGen Voice 1.0: Voice Clone to Speech](audio/api_heygen_voice_1.md) — Audio
-- [HeyGen: Avatar Video](video/api_heygen_avatar_video.md) — Video
-- [HeyGen: Talking Photo](video/api_heygen_talking_photo.md) — Video
+- [HeyGen: Avatar Video](character-fashion/api_heygen_avatar_video.md) — Character & Fashion
+- [HeyGen: Talking Photo](character-fashion/api_heygen_talking_photo.md) — Character & Fashion
 - [HeyGen: Text to Speech](audio/api_heygen_text_to_speech.md) — Audio
 - [HeyGen: Video Translate](video/api_heygen_video_translate.md) — Video
 - [Hunyuan3D: Model Retopology and UV Unwrapping](3d-model/api_hunyuan3d_retopo_uv.md) — 3D Model
@@ -328,6 +331,7 @@ Tags as declared in `index.json`.
 - [Meshy 7: Text to 3D](3d-model/api_meshy7_text_to_model.md) — 3D Model
 - [Meshy T2.5: Image to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_i2m.md) — 3D Model
 - [Meshy T2.5: Text to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_t2m.md) — 3D Model
+- [Meshy: Image to Relief](3d-model/api_meshy_image_to_relief.md) — 3D Model
 - [MiniMax H3 Max Turbo: Image to Video](video/api_minimax_h3_max_turbo_i2v.md) — Video
 - [MiniMax H3 Max: FLF2V](video/api_minimax_h3_max_flf2v.md) — Video
 - [MiniMax H3 Max: Image to Video](video/api_minimax_h3_max_i2v.md) — Video
@@ -469,6 +473,9 @@ Tags as declared in `index.json`.
 - [Sync 3: Talking Image](video/api_sync_so_talking_image.md) — Video
 - [Sync 3: Video Lip-Sync](video/api_sync_so_lip_sync_video.md) — Video
 - [Tencent: Hy4](llm/api_tencent_hy4.md) — LLM
+- [Tripo 2.5: Image to Model](3d-model/api_tripo_image_to_model.md) — 3D Model
+- [Tripo 2.5: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) — 3D Model
+- [Tripo 2.5: Text to Model](3d-model/api_tripo_text_to_model.md) — 3D Model
 - [Tripo H3.1: Image to Model](3d-model/api_tripo3_1_image_to_model.md) — 3D Model
 - [Tripo H3.1: Multiview to Model](3d-model/api_tripo3_1_multiview_to_model.md) — 3D Model
 - [Tripo H3.1: Text to Model](3d-model/api_tripo3_1_text_to_model.md) — 3D Model
@@ -480,9 +487,7 @@ Tags as declared in `index.json`.
 - [Tripo P2: Text to Model](3d-model/api_tripo_p2_text_to_model.md) — 3D Model
 - [Tripo3.0: Image to Model](3d-model/api_tripo3_0_image_to_model.md) — 3D Model
 - [Tripo3.0: Text to Model](3d-model/api_tripo3_0_text_to_model.md) — 3D Model
-- [Tripo: Image to Model](3d-model/api_tripo_image_to_model.md) — 3D Model
-- [Tripo: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) — 3D Model
-- [Tripo: Text to Model](3d-model/api_tripo_text_to_model.md) — 3D Model
+- [TypeSafe Jev: Gate, Score, Classify, Pick](llm/api_typesafe_jev_decision.md) — LLM
 - [Upscale: LTX VFX](video-tools/api_ltx_video_upscale.md) — Video Tools
 - [VEED Clean Audio: Speech Cleanup](audio/api_veed_clean_audio.md) — Audio
 - [VEED Clean Audio: Video Speech Cleanup](video-tools/api_veed_clean_audio_video.md) — Video Tools
@@ -547,12 +552,13 @@ Tags as declared in `index.json`.
 - [Capybara: Image to Video](video/video_capybara_v0_1_image_to_video.md) — Video
 - [Cast Swap: MiniMax H3 Max](video-tools/api_minimax_h3_max_recast.md) — Video Tools
 - [Change Any Objects](video-tools/templates_shane_change_any_objects.md) — Video Tools
+- [Creatify Aurora 2.0: Talking Avatar](character-fashion/api_creatify_aurora_2_avatar.md) — Character & Fashion
 - [Exploded View Animation](product-ads/template_eric_exploded_view.md) — Product & Ads
 - [FastH3 OmniRef: Reference to Video](video/video_fasth3_ominiref_r2v.md) — Video
 - [Frame Interpolation: GIMM-VFI](video-tools/utility_gimm_frame_interpolation.md) — Video Tools
 - [Grok: Reference to Video](video/api_grok_reference_to_video.md) — Video
 - [Grok: Video generation](video/api_grok_video.md) — Video
-- [HeyGen: Avatar Video](video/api_heygen_avatar_video.md) — Video
+- [HeyGen: Avatar Video](character-fashion/api_heygen_avatar_video.md) — Character & Fashion
 - [Higgsfield Genjutsu: Motion Transfer](video/api_higgsfield_genjutsu_motion_transfer.md) — Video
 - [HuMo Video Generation](video/video_humo.md) — Video
 - [Hunyuan Video 1.5 Image to Video](video/video_hunyuan_video_1.5_720p_i2v.md) — Video
@@ -774,8 +780,8 @@ Tags as declared in `index.json`.
 - [Mage-Flow-Edit: Image Edit](image/image_mage_flow_edit_int8.md) — Image
 - [MAI Image 2.6 Flash: Image Edit](image/api_openrouter_mai_image_26_flash_image_edit.md) — Image
 - [MAI Image 2.6: Image Edit](image/api_openrouter_mai_image_26_image_edit.md) — Image
-- [Ming Image 0.1 Design: Image Edit](image/image_ming_image_01_design_image_edit.md) — Image
-- [MiniMax-H3-Image: Character Swap](image/image_minimax_h3_image_character_swap.md) — Image
+- [Ming Image 0.2 Design: Image Edit](image/image_ming_image_01_design_image_edit.md) — Image
+- [MiniMax-H3-Image: Character Swap](character-fashion/image_minimax_h3_image_character_swap.md) — Character & Fashion
 - [MiniMax-H3-Image: Image Edit](image/image_minimax_h3_image_edit.md) — Image
 - [MiniMax-H3-Image: Image Edit (API)](image/api_minimax_h3_image_image_edit.md) — Image
 - [MOSS-Image: Image Edit LoRA](image/image_moss_image_edit.md) — Image
@@ -889,7 +895,7 @@ Tags as declared in `index.json`.
 - [Mage-Flow: Text to Image](image/image_mage_flow_t2i_int8.md) — Image
 - [Mai Image 2.6 Flash: Text to Image](image/api_openrouter_mai_image_26_flash.md) — Image
 - [Mai Image 2.6: Text to Image](image/api_openrouter_mai_image_26_t2i.md) — Image
-- [Ming Image 0.1 Design: Text to Image](image/image_ming_image_01_design_t2i.md) — Image
+- [Ming Image 0.2 Design: Text to Image](image/image_ming_image_01_design_t2i.md) — Image
 - [MiniMax H3: Text to Image](image/image_minimax_h3_t2i.md) — Image
 - [MiniMax-H3-Image: Text to Image](image/image_minimax_h3_image_t2i.md) — Image
 - [MiniMax-H3-Image: Text to Image (API)](image/api_minimax_h3_image_t2i.md) — Image
@@ -988,6 +994,7 @@ Tags as declared in `index.json`.
 - [FLUX.2 Dev Text to Image](image/image_flux2_text_to_image.md) — Image
 - [FLUX.2 Klein KV: Image Edit](image/image_flux2_klein_9b_kv_image_edit.md) — Image
 - [FLUX.2 Pro](image/api_flux2.md) — Image
+- [Gemini Decision 1: Gate, Score, Classify, Pick](llm/api_gemini_decision.md) — LLM
 - [Generate Realistic Variations](image/templates_rob_realistic_2k_images_quick_variations.app.md) — Image
 - [Graphic Design Recomposer](brand-design/template_graphic_color_remixer.md) — Brand & Design
 - [Grok Imagine Image Quality: Generation](image/api_grok_imagine_image_quality_image_generation.md) — Image
@@ -1013,7 +1020,7 @@ Tags as declared in `index.json`.
 - [Luma Photon: Image to Image](image/api_luma_photon_i2i.md) — Image
 - [Luma Photon: Style Reference](image/api_luma_photon_style_ref.md) — Image
 - [Luma UNI-1: Image Creation](image/api_luma_uni_1_image_create.md) — Image
-- [MiniMax-H3-Image: Character Swap](image/image_minimax_h3_image_character_swap.md) — Image
+- [MiniMax-H3-Image: Character Swap](character-fashion/image_minimax_h3_image_character_swap.md) — Character & Fashion
 - [MiniMax-H3-Image: Image Edit](image/image_minimax_h3_image_edit.md) — Image
 - [MiniMax-H3-Image: Image Edit (API)](image/api_minimax_h3_image_image_edit.md) — Image
 - [MOSS-Image: Color & Depth Control](image/image_moss_image_color_depth_control.md) — Image
@@ -1060,6 +1067,7 @@ Tags as declared in `index.json`.
 - [SDXL1.0: Text to Image (Simple)](image/image_sdxl_simple.md) — Image
 - [Seedream 4.0: Image Edit](image/api_bytedance_seedream4.md) — Image
 - [Step 1: Contact Sheet Workflow](character-fashion/template_contact_sheet-step_1.app.md) — Character & Fashion
+- [TypeSafe Jev: Gate, Score, Classify, Pick](llm/api_typesafe_jev_decision.md) — LLM
 - [Wan2.5: Text to Image](image/api_wan_text_to_image.md) — Image
 - [YouTube Thumbnail Generator](brand-design/template_eric_thumbnail_generator.md) — Brand & Design
 - [Z-Image-Turbo Fun Union ControlNet](image/image_z_image_turbo_fun_union_controlnet.md) — Image
@@ -1091,9 +1099,9 @@ Tags as declared in `index.json`.
 - [Grok: Video generation](video/api_grok_video.md) — Video
 - [HappyHorse 1.1: Image to Video](video/api_happyhorse1_1_i2v.md) — Video
 - [HappyHorse: Image to Video](video/api_happyhorse1_0_i2v.md) — Video
-- [HeyGen Avatar 6: Photo to Video](video/api_heygen_avatar_6_i2v.md) — Video
-- [HeyGen Video 1.0: Image to Video](video/api_heygen_video_1_i2v.md) — Video
-- [HeyGen: Talking Photo](video/api_heygen_talking_photo.md) — Video
+- [HeyGen Avatar 6: Photo to Video](character-fashion/api_heygen_avatar_6_i2v.md) — Character & Fashion
+- [HeyGen Video 1.0: Image to Video](character-fashion/api_heygen_video_1_i2v.md) — Character & Fashion
+- [HeyGen: Talking Photo](character-fashion/api_heygen_talking_photo.md) — Character & Fashion
 - [Hunyuan Video 1.5 Image to Video](video/video_hunyuan_video_1.5_720p_i2v.md) — Video
 - [Image to Script to Kling Video Generation](video/template_sirolim_image_script_video.md) — Video
 - [Image to Video](video/templates_ohneis_i2v.md) — Video
@@ -1174,8 +1182,8 @@ Tags as declared in `index.json`.
 - [Grok: Video generation](video/api_grok_video.md) — Video
 - [HappyHorse 1.1: Text to Video](video/api_happyhorse1_1_t2v.md) — Video
 - [HappyHorse: Text to Video](video/api_happyhorse1_0_t2v.md) — Video
-- [HeyGen Avatar 6: Identity to Video](video/api_heygen_avatar_6_id2v.md) — Video
-- [HeyGen Video 1.0: Text to Video](video/api_heygen_video_1_t2v.md) — Video
+- [HeyGen Avatar 6: Identity to Video](character-fashion/api_heygen_avatar_6_id2v.md) — Character & Fashion
+- [HeyGen Video 1.0: Text to Video](character-fashion/api_heygen_video_1_t2v.md) — Character & Fashion
 - [HuMo Video Generation](video/video_humo.md) — Video
 - [Hunyuan Video 1.5 Text to Video](video/video_hunyuan_video_1.5_720p_t2v.md) — Video
 - [Hunyuan Video Text to Video](video/hunyuan_video_text_to_video.md) — Video
@@ -1235,6 +1243,7 @@ Tags as declared in `index.json`.
 - [FastVideo FastH3: Text to Video](video/video_fastvideo_fasth3_t2v.md) — Video
 - [Fibo 2.0 Dev: Image Edit](image/image_fibo2_edit_dev_pe.md) — Image
 - [Fibo 2.0 Turbo: Image Edit](image/image_fibo2_edit_turbo_pe.md) — Image
+- [Gemma4: Text Generation](llm/llm_gemma4_text_gen.md) — LLM
 - [Ideogram v4 Int8: Text to Image](image/image_ideogram4_t2i_int8.md) — Image
 - [Image to Video](video/video_minimax_h3_i2v_continuation.md) — Video
 - [Image Upscale: SeedVR2 3B Int8](image-tools/utility_seedvr2_3b_int8_upscale_image.md) — Image Tools
@@ -1250,7 +1259,7 @@ Tags as declared in `index.json`.
 - [Mage-Flow-Edit Turbo: Image Edit](image/image_mage_flow_edit_turbo_int8.md) — Image
 - [Mage-Flow-Edit: Image Edit](image/image_mage_flow_edit_int8.md) — Image
 - [Mage-Flow: Text to Image](image/image_mage_flow_t2i_int8.md) — Image
-- [Ming Image 0.1 Design: Text to Image](image/image_ming_image_01_design_t2i.md) — Image
+- [Ming Image 0.2 Design: Text to Image](image/image_ming_image_01_design_t2i.md) — Image
 - [MiniMax H3 Fun ControlNet Union](video/video_minimax_h3_fun_controlnet_union.md) — Video
 - [MiniMax H3: Image to Video](video/video_minimax_h3_i2v.md) — Video
 - [MiniMax H3: Multiframe Reference](video/video_minimax_h3_multiframe_reference.md) — Video
@@ -1265,6 +1274,7 @@ Tags as declared in `index.json`.
 - [Qwen Image 2.1: Image Edit](image/image_qwen_image_2_1_image_edit.md) — Image
 - [Qwen Image 2.1: Text to Image](image/image_qwen_image_2_1_t2i.md) — Image
 - [Qwen Image Edit 2511 Int8: Image Edit](image/image_qwen_image_edit_2511_int8.md) — Image
+- [Qwen3-VL: Text Generation](llm/llm_qwen3vl_text_gen.md) — LLM
 - [Remove Background: Qwen Image 2.1](image-tools/image_qwen_image_2_1_background_removal.md) — Image Tools
 - [SCAIL-2 Int8: Character Replacement](video/video_wan21_scail2_character_replacement_int8.md) — Video
 - [SenseNova U1.6: Image Edit](image/image_sensenova_u16_image_edit.md) — Image
@@ -1299,6 +1309,7 @@ Tags as declared in `index.json`.
 - [Meshy 6: Multi-Image to Model](3d-model/api_meshy_multi_image_to_model.md) — 3D Model
 - [Meshy 6: Text to Model](3d-model/api_meshy_text_to_model.md) — 3D Model
 - [Meshy 7: Text to 3D](3d-model/api_meshy7_text_to_model.md) — 3D Model
+- [Meshy: Image to Relief](3d-model/api_meshy_image_to_relief.md) — 3D Model
 - [MoGe: Panorama to Mesh](3d-model/3d_moge_panorama_to_mesh.md) — 3D Model
 - [MoGe: Perspective Geometry Estimation](3d-model/3d_moge_perspective_to_mesh.md) — 3D Model
 - [Patina: Image to Material](3d-model/api_patina_material_i2m.md) — 3D Model
@@ -1315,6 +1326,9 @@ Tags as declared in `index.json`.
 - [Rodin: Multiview to Model](3d-model/api_rodin_multiview_to_model.md) — 3D Model
 - [SAM 3D Body: 3D Human Mesh Extraction From Video](3d-model/utility_sam3d_body.md) — 3D Model
 - [Single Image to 3D model](3d-model/templates_shane_single_image_to_3d_model.md) — 3D Model
+- [Tripo 2.5: Image to Model](3d-model/api_tripo_image_to_model.md) — 3D Model
+- [Tripo 2.5: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) — 3D Model
+- [Tripo 2.5: Text to Model](3d-model/api_tripo_text_to_model.md) — 3D Model
 - [Tripo H3.1: Image to Model](3d-model/api_tripo3_1_image_to_model.md) — 3D Model
 - [Tripo H3.1: Multiview to Model](3d-model/api_tripo3_1_multiview_to_model.md) — 3D Model
 - [Tripo H3.1: Text to Model](3d-model/api_tripo3_1_text_to_model.md) — 3D Model
@@ -1325,9 +1339,6 @@ Tags as declared in `index.json`.
 - [Tripo P2: Multiview to Model](3d-model/api_tripo_p2_multiview_to_model.md) — 3D Model
 - [Tripo3.0: Image to Model](3d-model/api_tripo3_0_image_to_model.md) — 3D Model
 - [Tripo3.0: Text to Model](3d-model/api_tripo3_0_text_to_model.md) — 3D Model
-- [Tripo: Image to Model](3d-model/api_tripo_image_to_model.md) — 3D Model
-- [Tripo: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) — 3D Model
-- [Tripo: Text to Model](3d-model/api_tripo_text_to_model.md) — 3D Model
 - [TripoSplat: Image to Gaussian Splat](3d-model/3d_triposplat_image_to_gaussian_splat.md) — 3D Model
 - [UltraTex: Texture a 3D Model](3d-model/3d_ultratex_texture_3d_model.md) — 3D Model
 
@@ -1367,6 +1378,42 @@ Tags as declared in `index.json`.
 - [VEED Clean Audio: Speech Cleanup](audio/api_veed_clean_audio.md) — Audio
 - [VEED Clean Audio: Video Speech Cleanup](video-tools/api_veed_clean_audio_video.md) — Video Tools
 
+<a id="image-to-3d"></a>
+
+## Image to 3D
+
+- [Generate 3D Model From Single Image](3d-model/templates_mjm_image_to_3d.md) — 3D Model
+- [HY 3D 2.0](3d-model/3d_hunyuan3d_image_to_model.md) — 3D Model
+- [HY 3D 2.0 MV](3d-model/3d_hunyuan3d_multiview_to_model.md) — 3D Model
+- [HY 3D 2.0 MV Turbo](3d-model/3d_hunyuan3d_multiview_to_model_turbo.md) — 3D Model
+- [HY 3D 2.1: Single View to Model](3d-model/3d_hunyuan3d-v2.1.md) — 3D Model
+- [HY 3D: Image to Model](3d-model/api_hunyuan3d_image_to_model.md) — 3D Model
+- [Idol: Image to Gaussian Splat](3d-model/3d_idol_image_to_gaussian_splat.md) — 3D Model
+- [Meshy 6: Image to Model](3d-model/api_meshy_image_to_model.md) — 3D Model
+- [Meshy 6: Multi-Image to Model](3d-model/api_meshy_multi_image_to_model.md) — 3D Model
+- [Meshy 7.1: Image to 3D](3d-model/api_meshy7_1_image_to_model.md) — 3D Model
+- [Meshy 7: Image to 3D](3d-model/api_meshy7_image_to_model.md) — 3D Model
+- [Meshy T2.5: Image to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_i2m.md) — 3D Model
+- [Meshy: Image to Relief](3d-model/api_meshy_image_to_relief.md) — 3D Model
+- [MoGe: Panorama to Mesh](3d-model/3d_moge_panorama_to_mesh.md) — 3D Model
+- [MoGe: Perspective Geometry Estimation](3d-model/3d_moge_perspective_to_mesh.md) — 3D Model
+- [Pixal3D & TRELLIS.2: Image to Model](3d-model/3d_pixal3d_trellis2_image_to_model.md) — 3D Model
+- [Pixal3D: Multi Views to 3D](3d-model/3d_pixal3d_multi_views.md) — 3D Model
+- [Rodin Gen2.5: Image to Model](3d-model/api_rodin3d_gen2_5_image_to_3d.md) — 3D Model
+- [Rodin: Gen-2 Image to Model](3d-model/api_rodin_gen2.md) — 3D Model
+- [Rodin: Image to Model](3d-model/api_rodin_image_to_model.md) — 3D Model
+- [Rodin: Multiview to Model](3d-model/api_rodin_multiview_to_model.md) — 3D Model
+- [Single Image to 3D model](3d-model/templates_shane_single_image_to_3d_model.md) — 3D Model
+- [Tripo 2.5: Image to Model](3d-model/api_tripo_image_to_model.md) — 3D Model
+- [Tripo 2.5: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) — 3D Model
+- [Tripo H3.1: Image to Model](3d-model/api_tripo3_1_image_to_model.md) — 3D Model
+- [Tripo H3.1: Multiview to Model](3d-model/api_tripo3_1_multiview_to_model.md) — 3D Model
+- [Tripo P1: Image to Model](3d-model/api_tripo_p1_image_to_model.md) — 3D Model
+- [Tripo P1: Multiview to Model](3d-model/api_tripo_p1_mv_to_model.md) — 3D Model
+- [Tripo P2: Image to Model](3d-model/api_tripo_p2_image_to_model.md) — 3D Model
+- [Tripo3.0: Image to Model](3d-model/api_tripo3_0_image_to_model.md) — 3D Model
+- [TripoSplat: Image to Gaussian Splat](3d-model/3d_triposplat_image_to_gaussian_splat.md) — 3D Model
+
 <a id="video-edit"></a>
 
 ## Video Edit
@@ -1402,41 +1449,6 @@ Tags as declared in `index.json`.
 - [Video to Seamless Loop Converter](video-tools/template_sirolim_seamless_loop.md) — Video Tools
 - [Wan2.2 Animate: Automatic Character Replacement](character-fashion/template_purz_wan22_animate_auto_character_replace.md) — Character & Fashion
 - [Wan2.7: Video Edit](video/api_wan2_7_video_edit.md) — Video
-
-<a id="image-to-3d"></a>
-
-## Image to 3D
-
-- [Generate 3D Model From Single Image](3d-model/templates_mjm_image_to_3d.md) — 3D Model
-- [HY 3D 2.0](3d-model/3d_hunyuan3d_image_to_model.md) — 3D Model
-- [HY 3D 2.0 MV](3d-model/3d_hunyuan3d_multiview_to_model.md) — 3D Model
-- [HY 3D 2.0 MV Turbo](3d-model/3d_hunyuan3d_multiview_to_model_turbo.md) — 3D Model
-- [HY 3D 2.1: Single View to Model](3d-model/3d_hunyuan3d-v2.1.md) — 3D Model
-- [HY 3D: Image to Model](3d-model/api_hunyuan3d_image_to_model.md) — 3D Model
-- [Idol: Image to Gaussian Splat](3d-model/3d_idol_image_to_gaussian_splat.md) — 3D Model
-- [Meshy 6: Image to Model](3d-model/api_meshy_image_to_model.md) — 3D Model
-- [Meshy 6: Multi-Image to Model](3d-model/api_meshy_multi_image_to_model.md) — 3D Model
-- [Meshy 7.1: Image to 3D](3d-model/api_meshy7_1_image_to_model.md) — 3D Model
-- [Meshy 7: Image to 3D](3d-model/api_meshy7_image_to_model.md) — 3D Model
-- [Meshy T2.5: Image to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_i2m.md) — 3D Model
-- [MoGe: Panorama to Mesh](3d-model/3d_moge_panorama_to_mesh.md) — 3D Model
-- [MoGe: Perspective Geometry Estimation](3d-model/3d_moge_perspective_to_mesh.md) — 3D Model
-- [Pixal3D & TRELLIS.2: Image to Model](3d-model/3d_pixal3d_trellis2_image_to_model.md) — 3D Model
-- [Pixal3D: Multi Views to 3D](3d-model/3d_pixal3d_multi_views.md) — 3D Model
-- [Rodin Gen2.5: Image to Model](3d-model/api_rodin3d_gen2_5_image_to_3d.md) — 3D Model
-- [Rodin: Gen-2 Image to Model](3d-model/api_rodin_gen2.md) — 3D Model
-- [Rodin: Image to Model](3d-model/api_rodin_image_to_model.md) — 3D Model
-- [Rodin: Multiview to Model](3d-model/api_rodin_multiview_to_model.md) — 3D Model
-- [Single Image to 3D model](3d-model/templates_shane_single_image_to_3d_model.md) — 3D Model
-- [Tripo H3.1: Image to Model](3d-model/api_tripo3_1_image_to_model.md) — 3D Model
-- [Tripo H3.1: Multiview to Model](3d-model/api_tripo3_1_multiview_to_model.md) — 3D Model
-- [Tripo P1: Image to Model](3d-model/api_tripo_p1_image_to_model.md) — 3D Model
-- [Tripo P1: Multiview to Model](3d-model/api_tripo_p1_mv_to_model.md) — 3D Model
-- [Tripo P2: Image to Model](3d-model/api_tripo_p2_image_to_model.md) — 3D Model
-- [Tripo3.0: Image to Model](3d-model/api_tripo3_0_image_to_model.md) — 3D Model
-- [Tripo: Image to Model](3d-model/api_tripo_image_to_model.md) — 3D Model
-- [Tripo: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) — 3D Model
-- [TripoSplat: Image to Gaussian Splat](3d-model/3d_triposplat_image_to_gaussian_splat.md) — 3D Model
 
 <a id="flf2v"></a>
 
@@ -1546,7 +1558,7 @@ Tags as declared in `index.json`.
 - [Gemini Omni 1.2 Flash: Reference to Video](video/api_google_gemini_omni_flash_1_2_r2v.md) — Video
 - [HappyHorse 1.1: Reference to Video](video/api_happyhorse1_1_r2v.md) — Video
 - [HappyHorse: Reference to Video](video/api_happyhorse1_0_r2v.md) — Video
-- [HeyGen Video 1.0: Reference to Video](video/api_heygen_video_1_r2v.md) — Video
+- [HeyGen Video 1.0: Reference to Video](character-fashion/api_heygen_video_1_r2v.md) — Character & Fashion
 - [Kling 4.0: Reference to Video](video/api_kling4_r2v.md) — Video
 - [LTX-2.3 IC-LoRA: Reference Sheet Control](character-fashion/template_ltx2_3_ic_lora_ingredients.md) — Character & Fashion
 - [MiniMax H3 Max Turbo: Image to Video](video/api_minimax_h3_max_turbo_i2v.md) — Video
@@ -1591,6 +1603,28 @@ Tags as declared in `index.json`.
 - [Qwen3.5: Text Generation](llm/llm_qwen3_5_text_gen.md) — LLM
 - [Tencent: Hy4](llm/api_tencent_hy4.md) — LLM
 
+<a id="lip-sync"></a>
+
+## Lip Sync
+
+- [Audio-Driven Character Lip Sync Video](character-fashion/templates-wan2_1_infinitetalk_music.md) — Character & Fashion
+- [Creatify Aurora 2.0: Talking Avatar](character-fashion/api_creatify_aurora_2_avatar.md) — Character & Fashion
+- [Generate UGC Video With Voice Clone](product-ads/template_image_speech_to_video.md) — Product & Ads
+- [HeyGen Avatar 6: Identity to Video](character-fashion/api_heygen_avatar_6_id2v.md) — Character & Fashion
+- [HeyGen: Avatar Video](character-fashion/api_heygen_avatar_video.md) — Character & Fashion
+- [HeyGen: Talking Photo](character-fashion/api_heygen_talking_photo.md) — Character & Fashion
+- [HeyGen: Video Translate](video/api_heygen_video_translate.md) — Video
+- [InfiniteTalk: Audio-Driven Full-Body Video Dubbing](video/video_wan2_1_infinitetalk.md) — Video
+- [Lip Sync: MiniMax H3 Max](video-tools/api_minimax_h3_max_lipsync.md) — Video Tools
+- [LivePortrait for Facial Expression](character-fashion/templates_liveportrait.app.md) — Character & Fashion
+- [LTX-2.3: ID LoRA](video/video_ltx2_3_id_lora.md) — Video
+- [LTX-2.3: Image Audio to Video](video/video_ltx2_3_ia2v.md) — Video
+- [Sync 3: Talking Image](video/api_sync_so_talking_image.md) — Video
+- [Sync 3: Video Lip-Sync](video/api_sync_so_lip_sync_video.md) — Video
+- [VEED Fabric 1.0: Talking Photo](video/api_veed_fabric_1_0.md) — Video
+- [VEED Lipsync 2.0: Lip Sync](video/api_veed_lipsync_2_0.md) — Video
+- [Wan2.7: Text to Video](video/api_wan2_7_t2v.md) — Video
+
 <a id="lora"></a>
 
 ## LoRA
@@ -1612,27 +1646,6 @@ Tags as declared in `index.json`.
 - [Remove Subtitles from Video - LTX 2.3 LoRA](video-tools/template_ltx2_3_lora_remove_subtitles_from_video.md) — Video Tools
 - [Remove Watermark from Video - LTX 2.3 LoRA](video-tools/template_ltx2_3_remove_watermark_from_video.md) — Video Tools
 - [Restore Archival Footage - LTX 2.3 Dearchive LoRA](video-tools/template_ltx2_3_lora_restore_archival_footage.md) — Video Tools
-
-<a id="lip-sync"></a>
-
-## Lip Sync
-
-- [Audio-Driven Character Lip Sync Video](character-fashion/templates-wan2_1_infinitetalk_music.md) — Character & Fashion
-- [Generate UGC Video With Voice Clone](product-ads/template_image_speech_to_video.md) — Product & Ads
-- [HeyGen Avatar 6: Identity to Video](video/api_heygen_avatar_6_id2v.md) — Video
-- [HeyGen: Avatar Video](video/api_heygen_avatar_video.md) — Video
-- [HeyGen: Talking Photo](video/api_heygen_talking_photo.md) — Video
-- [HeyGen: Video Translate](video/api_heygen_video_translate.md) — Video
-- [InfiniteTalk: Audio-Driven Full-Body Video Dubbing](video/video_wan2_1_infinitetalk.md) — Video
-- [Lip Sync: MiniMax H3 Max](video-tools/api_minimax_h3_max_lipsync.md) — Video Tools
-- [LivePortrait for Facial Expression](character-fashion/templates_liveportrait.app.md) — Character & Fashion
-- [LTX-2.3: ID LoRA](video/video_ltx2_3_id_lora.md) — Video
-- [LTX-2.3: Image Audio to Video](video/video_ltx2_3_ia2v.md) — Video
-- [Sync 3: Talking Image](video/api_sync_so_talking_image.md) — Video
-- [Sync 3: Video Lip-Sync](video/api_sync_so_lip_sync_video.md) — Video
-- [VEED Fabric 1.0: Talking Photo](video/api_veed_fabric_1_0.md) — Video
-- [VEED Lipsync 2.0: Lip Sync](video/api_veed_lipsync_2_0.md) — Video
-- [Wan2.7: Text to Video](video/api_wan2_7_t2v.md) — Video
 
 <a id="text-to-audio"></a>
 
@@ -1724,6 +1737,22 @@ Tags as declared in `index.json`.
 - [Wan 2.1 Inpainting](video/wan2.1_fun_inp.md) — Video
 - [Wan2.1 VACE Inpainting](video/video_wan_vace_inpainting.md) — Video
 
+<a id="voice-cloning"></a>
+
+## Voice Cloning
+
+- [Breeze TTS 2: Text to Speech](audio/breeze_tts2_tts.md) — Audio
+- [Chatter Box: Multi-Speaker Conversation with Cloned Voices](audio/audio-chatterbox_tts_dialog.md) — Audio
+- [Chatter Box: Multilingual Text-to-Speech with Voice Cloning](audio/audio-chatterbox_tts_multilingual.md) — Audio
+- [Chatter Box: Voice Cloning Audio Conversion](audio/audio-chatterbox_vc.md) — Audio
+- [Chatter Box: Voice Cloning with TTS](audio/audio-chatterbox_tts.md) — Audio
+- [ElevenLabs: Speech to Speech](audio/api_elevenlabs_speech_to_speech.md) — Audio
+- [Fish Audio: Voice Clone to Speech](audio/api_fishaudio_voice_clone_tts.md) — Audio
+- [HeyGen Voice 1.0 Turbo: Voice Clone to Speech](audio/api_heygen_voice_1_turbo.md) — Audio
+- [HeyGen Voice 1.0: Instant Clone TTS](audio/api_heygen_voice_1_instant_clone.md) — Audio
+- [HeyGen Voice 1.0: Voice Clone to Speech](audio/api_heygen_voice_1.md) — Audio
+- [LTX-2.3: ID LoRA](video/video_ltx2_3_id_lora.md) — Video
+
 <a id="character-reference"></a>
 
 ## Character Reference
@@ -1778,26 +1807,25 @@ Tags as declared in `index.json`.
 - [Meshy 7.1: Text to Model](3d-model/api_meshy7_1_text_to_model.md) — 3D Model
 - [Meshy T2.5: Text to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_t2m.md) — 3D Model
 - [Rodin Gen2.5: Text to Model](3d-model/api_rodin3d_gen2_5_text_to_3d.md) — 3D Model
+- [Tripo 2.5: Text to Model](3d-model/api_tripo_text_to_model.md) — 3D Model
 - [Tripo H3.1: Text to Model](3d-model/api_tripo3_1_text_to_model.md) — 3D Model
 - [Tripo P1: Text to Model](3d-model/api_tripo_p1_text_to_model.md) — 3D Model
 - [Tripo P2: Text to Model](3d-model/api_tripo_p2_text_to_model.md) — 3D Model
 - [Tripo3.0: Text to Model](3d-model/api_tripo3_0_text_to_model.md) — 3D Model
-- [Tripo: Text to Model](3d-model/api_tripo_text_to_model.md) — 3D Model
 
-<a id="voice-cloning"></a>
+<a id="text-to-speech"></a>
 
-## Voice Cloning
+## Text to Speech
 
-- [Breeze TTS 2: Text to Speech](audio/breeze_tts2_tts.md) — Audio
 - [Chatter Box: Multi-Speaker Conversation with Cloned Voices](audio/audio-chatterbox_tts_dialog.md) — Audio
-- [Chatter Box: Multilingual Text-to-Speech with Voice Cloning](audio/audio-chatterbox_tts_multilingual.md) — Audio
-- [Chatter Box: Voice Cloning Audio Conversion](audio/audio-chatterbox_vc.md) — Audio
-- [Chatter Box: Voice Cloning with TTS](audio/audio-chatterbox_tts.md) — Audio
-- [ElevenLabs: Speech to Speech](audio/api_elevenlabs_speech_to_speech.md) — Audio
-- [Fish Audio: Voice Clone to Speech](audio/api_fishaudio_voice_clone_tts.md) — Audio
+- [Eleven v4: Text to Dialogue](audio/api_elevenlabs_v4_text_to_dialogue.md) — Audio
+- [Eleven v4: Text to Speech](audio/api_elevenlabs_v4_text_to_speech.md) — Audio
+- [ElevenLabs: Text to Dialogue](audio/api_elevenlabs_text_to_dialogue.md) — Audio
+- [ElevenLabs: Text to Speech](audio/api_elevenlabs_text_to_speech.md) — Audio
 - [HeyGen Voice 1.0 Turbo: Voice Clone to Speech](audio/api_heygen_voice_1_turbo.md) — Audio
+- [HeyGen Voice 1.0: Instant Clone TTS](audio/api_heygen_voice_1_instant_clone.md) — Audio
 - [HeyGen Voice 1.0: Voice Clone to Speech](audio/api_heygen_voice_1.md) — Audio
-- [LTX-2.3: ID LoRA](video/video_ltx2_3_id_lora.md) — Video
+- [HeyGen: Text to Speech](audio/api_heygen_text_to_speech.md) — Audio
 
 <a id="vector"></a>
 
@@ -1838,19 +1866,6 @@ Tags as declared in `index.json`.
 - [Sonilo Music 1.5: Lyrics to Song](audio/api_sonilo_music1_5.md) — Audio
 - [Sonilo: Text to Music Generation](audio/api_sonilo_t2m.md) — Audio
 - [YuE2: Text to Music](audio/audio_yue2_text2music.md) — Audio
-
-<a id="text-to-speech"></a>
-
-## Text to Speech
-
-- [Chatter Box: Multi-Speaker Conversation with Cloned Voices](audio/audio-chatterbox_tts_dialog.md) — Audio
-- [Eleven v4: Text to Dialogue](audio/api_elevenlabs_v4_text_to_dialogue.md) — Audio
-- [Eleven v4: Text to Speech](audio/api_elevenlabs_v4_text_to_speech.md) — Audio
-- [ElevenLabs: Text to Dialogue](audio/api_elevenlabs_text_to_dialogue.md) — Audio
-- [ElevenLabs: Text to Speech](audio/api_elevenlabs_text_to_speech.md) — Audio
-- [HeyGen Voice 1.0 Turbo: Voice Clone to Speech](audio/api_heygen_voice_1_turbo.md) — Audio
-- [HeyGen Voice 1.0: Voice Clone to Speech](audio/api_heygen_voice_1.md) — Audio
-- [HeyGen: Text to Speech](audio/api_heygen_text_to_speech.md) — Audio
 
 <a id="anime"></a>
 
@@ -1893,12 +1908,23 @@ Tags as declared in `index.json`.
 ## Character Replacement
 
 - [Higgsfield Genjutsu: Motion Transfer](video/api_higgsfield_genjutsu_motion_transfer.md) — Video
-- [MiniMax-H3-Image: Character Swap](image/image_minimax_h3_image_character_swap.md) — Image
+- [MiniMax-H3-Image: Character Swap](character-fashion/image_minimax_h3_image_character_swap.md) — Character & Fashion
 - [SCAIL-2 Int8: Character Replacement](video/video_wan21_scail2_character_replacement_int8.md) — Video
 - [SCAIL-2: Character Replacement](video/video_wan21_scail2_character_replacement.md) — Video
 - [Seedance 2.0: Viral Videos Character Swap](character-fashion/template_seedance2_0_viral_videos_character_swap.md) — Character & Fashion
 - [Wan Animate 2.2 Character Replacement Workflow](character-fashion/templates_purz_wan22_animate_auto_full_scene.md) — Character & Fashion
 - [Wan2.2 Animate: Automatic Character Replacement](character-fashion/template_purz_wan22_animate_auto_character_replace.md) — Character & Fashion
+
+<a id="llm"></a>
+
+## LLM
+
+- [Claude: Fable 5.1](llm/api_anthropic_claude_fable5_1.md) — LLM
+- [Claude: Opus 5.5](llm/api_anthropic_claude_opus_5_5.md) — LLM
+- [Gemini Decision 1: Gate, Score, Classify, Pick](llm/api_gemini_decision.md) — LLM
+- [GPT-6 Astra](llm/api_openai_gpt6_astra.md) — LLM
+- [HeyGen Decision 1: Gate and Pick](llm/api_heygen_decision_1.md) — LLM
+- [TypeSafe Jev: Gate, Score, Classify, Pick](llm/api_typesafe_jev_decision.md) — LLM
 
 <a id="music"></a>
 
@@ -1990,15 +2016,6 @@ Tags as declared in `index.json`.
 - [Image Segmentation: SAM3](image-tools/utility_image_segment_sam3.md) — Image Tools
 - [Image Segmentation: WeVisOne-VL](image-tools/utility_image_segment_wevisone_vl.md) — Image Tools
 - [Video Segmentation: SAM3](video-tools/utility_video_segment_sam3.md) — Video Tools
-
-<a id="llm"></a>
-
-## LLM
-
-- [Claude: Fable 5.1](llm/api_anthropic_claude_fable5_1.md) — LLM
-- [Claude: Opus 5.5](llm/api_anthropic_claude_opus_5_5.md) — LLM
-- [GPT-6 Astra](llm/api_openai_gpt6_astra.md) — LLM
-- [HeyGen Decision 1: Gate and Pick](llm/api_heygen_decision_1.md) — LLM
 
 <a id="node-basics"></a>
 

@@ -26,7 +26,7 @@
 | Author | ComfyUI |
 | Download size | 11.6 GB |
 | Min ComfyUI version | 0.9.2 |
-| Usage | 780 |
+| Usage | 356 |
 | Nodes | 43 |
 
 ## Inputs & outputs
@@ -35,7 +35,6 @@
 |---|---|---|---|
 | input | `LoadImage` #76 | image | handbag_white.png |
 | input | `LoadImage` #81 | image | comfy_logo_blue.png |
-| output | `SaveImage` #94 | image | image_flux2_klein_image_edit_4b_distilled.png |
 
 ## Model files
 

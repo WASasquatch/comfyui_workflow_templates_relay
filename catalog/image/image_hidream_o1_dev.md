@@ -25,8 +25,8 @@
 | Date | 2026-05-14 |
 | Author | ComfyUI |
 | Download size | 15.9 GB |
-| Min ComfyUI version | 0.21.1 |
-| Usage | 24 |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 15 |
 | Nodes | 40 |
 
 ## Inputs & outputs
@@ -74,7 +74,7 @@
 | `SaveImage` | 1 | comfy-core |
 | `StringConcatenate` | 1 | comfy-core |
 | `StringReplace` | 1 | comfy-core |
-| `TextGenerate` | 1 | comfy-core |
+| `TextGenerateV2` | 1 | comfy-core |
 | `VAEDecode` | 1 | comfy-core |
 
 ## Notes embedded in the workflow

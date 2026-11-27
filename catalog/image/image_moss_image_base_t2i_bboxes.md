@@ -24,8 +24,8 @@
 | Date | 2026-10-17 |
 | Author | ComfyUI |
 | Download size | 20.7 GB |
-| Min ComfyUI version | 0.42.0 |
-| Usage | 35 |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 18 |
 | Nodes | 24 |
 
 ## Inputs & outputs
@@ -63,7 +63,7 @@
 | `ResolutionSelector` | 1 |  |
 | `SaveImage` | 1 |  |
 | `SkipLayerGuidanceDiTSimple` | 1 |  |
-| `TextGenerate` | 1 |  |
+| `TextGenerateV2` | 1 |  |
 | `UNETLoader` | 1 |  |
 | `VAEDecode` | 1 |  |
 | `VAELoader` | 1 |  |

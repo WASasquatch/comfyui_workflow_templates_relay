@@ -26,7 +26,7 @@
 | Author | sirolim |
 | Download size | 40.0 GB |
 | Min ComfyUI version | 0.16.4 |
-| Usage | 132 |
+| Usage | 104 |
 | Nodes | 33 |
 
 ## Inputs & outputs

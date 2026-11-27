@@ -17,14 +17,14 @@
 |---|---|
 | Name | `templates_rob_kling3_0_multishot_llm_product` |
 | Category | Applied › Product & Ads |
-| Output | video |
+| Output | image |
 | Models | Kling 3.0 |
 | Tags | API, Text to Video, Video |
 | Type | API |
 | Date | 2026-03-18 |
 | Author | hellorob |
 | Min ComfyUI version | 0.35.2 |
-| Usage | 38 |
+| Usage | 16 |
 | Nodes | 67 |
 
 ## Inputs & outputs
@@ -34,7 +34,6 @@
 | input | `LoadImage` #4 | image | comfy_gpu_angled.png |
 | input | `LoadImage` #8 | image | comfy_gpu_flat.png |
 | input | `LoadImage` #12 | image | comfy_gpu_close_up.png |
-| output | `SaveVideo` #89 | video | templates_rob_kling3_0_multishot_llm_product.mp4 |
 
 ## Custom nodes required
 

@@ -23,9 +23,9 @@
 | Type | API |
 | Date | 2025-12-18 |
 | Author | hellorob |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 9 |
-| Nodes | 241 |
+| Nodes | 249 |
 
 ## Inputs & outputs
 
@@ -45,8 +45,8 @@
 - **Batch Images** (5 nodes)
 - **Batch Images** (4 nodes)
 - **Batch Images** (5 nodes)
-- **Crop Images** (21 nodes)
-- **Crop Images** (21 nodes)
+- **Crop Images** (25 nodes)
+- **Crop Images** (25 nodes)
 - **Generate Video (Kling)** (8 nodes)
 - **Generate Video (Kling)** (8 nodes)
 - **Merge Videos** (12 nodes)
@@ -67,7 +67,7 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `BatchImagesNode` | 16 | comfy-core |
+| `BatchImagesNode` | 21 | comfy-core |
 | `ImageFromBatch` | 16 | comfy-core |
 | `SimpleMath+` | 16 | comfyui_essentials |
 | `ComfySwitchNode` | 14 | comfy-core |
@@ -80,14 +80,14 @@
 | `PrimitiveInt` | 10 | comfy-core |
 | `SaveVideo` | 9 | comfy-core |
 | `ComfyMathExpression` | 8 | comfy-core |
-| `GeminiNode` | 8 | comfy-core |
-| `ImageCrop` | 8 | comfy-core |
+| `GeminiNodeV3` | 8 | comfy-core |
+| `ImageCropV2` | 8 | comfy-core |
 | `KlingStartEndFrameNode` | 8 | comfy-core |
 | `PreviewAny` | 8 | comfy-core |
+| `PrimitiveBoundingBox` | 8 |  |
 | `AudioMerge` | 7 | comfy-core |
 | `CreateVideo` | 7 | comfy-core |
 | `EmptyAudio` | 7 | comfy-core |
-| `ImageBatch` | 5 | comfy-core |
 | `PrimitiveStringMultiline` | 4 | comfy-core |
 | `GeminiImage2Node` | 3 | comfy-core |
 | `LoadImage` | 3 | comfy-core |

@@ -24,7 +24,7 @@
 | Date | 2026-01-22 |
 | Author | PurzBeats |
 | Min ComfyUI version | 0.25.0 |
-| Usage | 24 |
+| Usage | 13 |
 | Nodes | 6 |
 
 ## Inputs & outputs
@@ -46,7 +46,7 @@
 | `AudioCrop` | 1 |  |
 | `FL_ChatterboxDialogTTS` | 1 |  |
 | `MarkdownNote` | 1 |  |
-| `SaveAudioMP3` | 1 |  |
+| `SaveAudioAdvanced` | 1 |  |
 
 ## Notes embedded in the workflow
 

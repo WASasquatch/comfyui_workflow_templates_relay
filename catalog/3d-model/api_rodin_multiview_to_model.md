@@ -24,7 +24,7 @@
 | Date | 2025-03-01 |
 | Author | ComfyUI |
 | Min ComfyUI version | 0.23.0 |
-| Usage | 13 |
+| Usage | 16 |
 | Nodes | 14 |
 
 ## Inputs & outputs
@@ -39,7 +39,7 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `Preview3D` | 4 | comfy-core |
+| `Preview3DAdvanced` | 4 | comfy-core |
 | `LoadImage` | 3 | comfy-core |
 | `MarkdownNote` | 2 |  |
 | `BatchImagesNode` | 1 | comfy-core |

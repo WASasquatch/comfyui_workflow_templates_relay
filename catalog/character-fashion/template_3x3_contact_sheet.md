@@ -29,7 +29,7 @@
 | Author | enigmatic_e |
 | Min ComfyUI version | 0.20.3 |
 | Distributions | cloud |
-| Usage | 15 |
+| Usage | 74 |
 | Nodes | 12 |
 
 ## Inputs & outputs

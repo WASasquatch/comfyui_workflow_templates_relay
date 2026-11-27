@@ -57,7 +57,7 @@
 | `VHS_VideoCombine` | 2 | comfyui-videohelpersuite |
 | `BatchImagesNode` | 1 | comfy-core |
 | `BiRefNetRMBG` | 1 | comfyui-rmbg |
-| `GeminiNanoBanana2` | 1 | comfy-core |
+| `GeminiImage2Node` | 1 | comfy-core |
 | `GetImageSize` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |

@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2026-05-10 |
 | Author | enigmatic_e |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 10 |
 | Nodes | 9 |
 
@@ -39,8 +39,8 @@
 | Node | Count | Pack |
 |---|---|---|
 | `LoadImage` | 2 | comfy-core |
-| `ByteDance2ReferenceNode` | 1 | comfy-core |
-| `GeminiNode` | 1 | comfy-core |
+| `ByteDance2ReferenceNodeV2` | 1 | comfy-core |
+| `GeminiNodeV3` | 1 | comfy-core |
 | `ImageStitch` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |
 | `PreviewAny` | 1 | comfy-core |

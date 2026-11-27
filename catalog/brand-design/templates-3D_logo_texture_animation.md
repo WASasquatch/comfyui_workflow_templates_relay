@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2025-12-15 |
 | Author | hellorob |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 15 |
 | Nodes | 12 |
 
@@ -44,8 +44,8 @@
 | `GeminiImage2Node` | 3 | comfy-core |
 | `SaveImage` | 3 | comfy-core |
 | `BatchImagesNode` | 1 |  |
-| `ByteDanceFirstLastFrameNode` | 1 | comfy-core |
-| `GeminiNode` | 1 | comfy-core |
+| `ByteDance2FirstLastFrameNode` | 1 | comfy-core |
+| `GeminiNodeV3` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `PreviewAny` | 1 | comfy-core |
 | `SaveVideo` | 1 | comfy-core |

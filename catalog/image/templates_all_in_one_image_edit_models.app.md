@@ -24,7 +24,7 @@
 | Date | 2026-03-09 |
 | Author | hellorob |
 | Download size | 132.9 GB |
-| Min ComfyUI version | 0.33.3 |
+| Min ComfyUI version | 0.34.0 |
 | Distributions | cloud |
 | Usage | 8 |
 | Nodes | 82 |
@@ -80,21 +80,20 @@
 | `SamplerCustomAdvanced` | 3 | comfy-core |
 | `CFGGuider` | 2 | comfy-core |
 | `FluxKontextMultiReferenceLatentMethod` | 2 | comfy-core |
+| `GeminiImage2Node` | 2 | comfy-core |
 | `MarkdownNote` | 2 |  |
 | `TextEncodeQwenImageEditPlus` | 2 | comfy-core |
 | `BasicGuider` | 1 | comfy-core |
-| `ByteDanceSeedreamNode` | 1 | comfy-core |
+| `ByteDanceSeedreamNodeV3` | 1 | comfy-core |
 | `CFGNorm` | 1 | comfy-core |
 | `FluxGuidance` | 1 | comfy-core |
 | `FluxKontextImageScale` | 1 | comfy-core |
-| `GeminiImage2Node` | 1 | comfy-core |
-| `GeminiNanoBanana2` | 1 |  |
-| `GrokImageEditNode` | 1 | comfy-core |
+| `GrokImageEditNodeV2` | 1 | comfy-core |
 | `KSampler` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `ModelSamplingAuraFlow` | 1 | comfy-core |
 | `Note` | 1 |  |
-| `OpenAIGPTImage1` | 1 | comfy-core |
+| `OpenAIGPTImageNodeV2` | 1 | comfy-core |
 | `PrimitiveStringMultiline` | 1 | comfy-core |
 
 ## Notes embedded in the workflow

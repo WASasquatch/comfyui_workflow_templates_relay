@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2025-12-23 |
 | Author | ComfyUI |
-| Min ComfyUI version | 0.35.1 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 8 |
 | Nodes | 7 |
 
@@ -35,5 +35,5 @@
 | `TripoConversionNode` | 1 | comfy-core |
 | `TripoRetargetNode` | 1 | comfy-core |
 | `TripoRigNode` | 1 | comfy-core |
-| `TripoTextToModelNode` | 1 | comfy-core |
-| `TripoTextureNode` | 1 | comfy-core |
+| `TripoTextToModelNodeV2` | 1 | comfy-core |
+| `TripoTextureNodeV2` | 1 | comfy-core |

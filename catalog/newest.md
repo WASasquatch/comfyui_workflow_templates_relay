@@ -2,16 +2,22 @@
 
 [← Catalog](README.md)
 
-781 templates.
+786 templates.
 
 | Template | Category | Output | Models | Tags | Date | Type |
 |---|---|---|---|---|---|---|
+| [Ming Image 0.2 Design: Text to Image](image/image_ming_image_01_design_t2i.md) | Image | image | Ming Image | Int8, Text to Image | 2026-11-26 | open source |
+| [Ming Image 0.2 Design: Image Edit](image/image_ming_image_01_design_image_edit.md) | Image | image | Ming Image | Image Edit | 2026-11-26 | open source |
+| [Gemini Decision 1: Gate, Score, Classify, Pick](llm/api_gemini_decision.md) | LLM | llm | Gemini Decision 1, Google | API, Image, LLM | 2026-11-25 | API |
+| [TypeSafe Jev: Gate, Score, Classify, Pick](llm/api_typesafe_jev_decision.md) | LLM | llm | TypeSafe Jev | API, Image, LLM | 2026-11-24 | API |
+| [Meshy: Image to Relief](3d-model/api_meshy_image_to_relief.md) | 3D Model | 3d | Meshy | 3D, API, Image to 3D | 2026-11-24 | API |
+| [HeyGen Voice 1.0: Instant Clone TTS](audio/api_heygen_voice_1_instant_clone.md) | Audio | audio | HeyGen Voice 1.0 | API, Text to Speech, Voice Cloning | 2026-11-24 | API |
 | [SenseNova U1.6: Text to Image](image/image_sensenova_u16_t2i.md) | Image | image | SenseNova U1.6 | Text to Image, Int8 | 2026-11-23 | open source |
 | [SenseNova U1.6: Image Edit](image/image_sensenova_u16_image_edit.md) | Image | image | SenseNova U1.6 | Image Edit, Int8 | 2026-11-23 | open source |
-| [MiniMax-H3-Image: Character Swap](image/image_minimax_h3_image_character_swap.md) | Image | image | MiniMax H3 Image | Image, Image Edit, Character Replacement | 2026-11-22 | open source |
 | [UltraTex: Texture a 3D Model](3d-model/3d_ultratex_texture_3d_model.md) | 3D Model | 3d | UltraTex, FLUX.2 Klein | 3D, 3D Texturing | 2026-11-22 | open source |
 | [Remove Background: RMBG 3.0](image-tools/utility_rmbg3_remove_background.md) | Image Tools | image | RMBG 3.0 | Remove Background | 2026-11-21 | open source |
 | [HeyGen Decision 1: Gate and Pick](llm/api_heygen_decision_1.md) | LLM | llm | HeyGen Decision 1 | API, Image, LLM | 2026-11-21 | API |
+| [Creatify Aurora 2.0: Talking Avatar](character-fashion/api_creatify_aurora_2_avatar.md) | Character & Fashion | video | Creatify Aurora 2.0 | API, Lip Sync, Video | 2026-11-20 | API |
 | [Ideogram 4.6: Text to Image](image/api_ideogram_v4_6_t2i.md) | Image | image | Ideogram | API, Text to Image | 2026-11-19 | API |
 | [Ideogram 4.6 Precise Edit](image/api_ideogram_v4_6_precise_image_edit.md) | Image | image | Ideogram | API, Image Edit | 2026-11-19 | API |
 | [Ideogram 4.6: Image Edit](image/api_ideogram_v4_6_image_edit.md) | Image | image | Ideogram | API, Image Edit | 2026-11-19 | API |
@@ -19,8 +25,8 @@
 | [Kling 4.0: Long Image (Webpage)](image/api_kling4_long_image.md) | Image | image | Kling, Kling 4.0 | API, Image, Long Image, Web Design | 2026-11-17 | API |
 | [Kling 4.0: Text to Image](image/api_kling4_image_t2i.md) | Image | image | Kling, Kling 4.0 | API, Image, Text to Image | 2026-11-17 | API |
 | [Kling 4.0: Image Edit](image/api_kling4_image_edit.md) | Image | image | Kling, Kling 4.0 | API, Image, Image Edit | 2026-11-17 | API |
-| [HeyGen Avatar 6: Identity to Video](video/api_heygen_avatar_6_id2v.md) | Video | video | HeyGen Avatar 6 | API, Lip Sync, Text to Video | 2026-11-17 | API |
-| [HeyGen Avatar 6: Photo to Video](video/api_heygen_avatar_6_i2v.md) | Video | video | HeyGen Avatar 6 | API, Image to Video | 2026-11-17 | API |
+| [HeyGen Avatar 6: Identity to Video](character-fashion/api_heygen_avatar_6_id2v.md) | Character & Fashion | video | HeyGen Avatar 6 | API, Lip Sync, Text to Video | 2026-11-17 | API |
+| [HeyGen Avatar 6: Photo to Video](character-fashion/api_heygen_avatar_6_i2v.md) | Character & Fashion | video | HeyGen Avatar 6 | API, Image to Video | 2026-11-17 | API |
 | [Seedance 2.5 Flash: Text to Video](video/api_bytedance_seedance2_5_flash_t2v.md) | Video | video | Seedance 2.5 | API, Text to Video | 2026-11-15 | API |
 | [Seedance 2.5 Flash: Reference to Video](video/api_bytedance_seedance2_5_flash_r2v.md) | Video | video | Seedance 2.5 | API, Reference to Video | 2026-11-15 | API |
 | [Seedance 2.5 Flash: Image to Video](video/api_bytedance_seedance2_5_flash_i2v.md) | Video | video | Seedance 2.5 | API, Image to Video | 2026-11-15 | API |
@@ -30,6 +36,7 @@
 | [Video Upscale: RelayVSR 2x](video-tools/utility_relayvsr_video_x2_upscale.md) | Video Tools | video | RelayVSR | Video Upscale, 2x, Restoration | 2026-11-10 | open source |
 | [MiniMax-H3-Image: Text to Image](image/image_minimax_h3_image_t2i.md) | Image | image | MiniMax H3 Image | Text to Image | 2026-11-10 | open source |
 | [MiniMax-H3-Image: Image Edit](image/image_minimax_h3_image_edit.md) | Image | image | MiniMax H3 Image | Image, Image Edit | 2026-11-10 | open source |
+| [MiniMax-H3-Image: Character Swap](character-fashion/image_minimax_h3_image_character_swap.md) | Character & Fashion | image | MiniMax H3 Image | Character Replacement, Image, Image Edit | 2026-11-10 | open source |
 | [MiniMax-H3-Image: Text to Image (API)](image/api_minimax_h3_image_t2i.md) | Image | image | MiniMax H3 Image | API, Text to Image | 2026-11-10 | API |
 | [MiniMax-H3-Image: Image Edit (API)](image/api_minimax_h3_image_image_edit.md) | Image | image | MiniMax H3 Image | API, Image, Image Edit | 2026-11-10 | API |
 | [Upscale: LTX VFX](video-tools/api_ltx_video_upscale.md) | Video Tools | video | LTX-2.5 | API, Upscale, Video | 2026-11-10 | API |
@@ -134,11 +141,9 @@
 | [Ideogram 4.5: Text to Image](image/api_ideogram_v4_5_t2i.md) | Image | image | Ideogram | Text to Image, API | 2026-09-30 | API |
 | [Ideogram 4.5 Precise Edit](image/api_ideogram_v4_5_precise_image_edit.md) | Image | image | Ideogram | API, Image Edit | 2026-09-30 | API |
 | [Ideogram 4.5: Image Edit](image/api_ideogram_v4_5_image_edit.md) | Image | image | Ideogram | API, Image Edit | 2026-09-30 | API |
-| [HeyGen Video 1.0: Text to Video](video/api_heygen_video_1_t2v.md) | Video | video | HeyGen | API, Text to Video | 2026-09-30 | API |
-| [HeyGen Video 1.0: Reference to Video](video/api_heygen_video_1_r2v.md) | Video | video | HeyGen | API, Reference to Video | 2026-09-30 | API |
-| [HeyGen Video 1.0: Image to Video](video/api_heygen_video_1_i2v.md) | Video | video | HeyGen | API, Image to Video | 2026-09-30 | API |
-| [Ming Image 0.1 Design: Image Edit](image/image_ming_image_01_design_image_edit.md) | Image | image | Ming Image | Image Edit | 2026-09-29 | open source |
-| [Ming Image 0.1 Design: Text to Image](image/image_ming_image_01_design_t2i.md) | Image | image | Ming Image | Int8, Text to Image | 2026-09-25 | open source |
+| [HeyGen Video 1.0: Text to Video](character-fashion/api_heygen_video_1_t2v.md) | Character & Fashion | video | HeyGen | API, Text to Video | 2026-09-30 | API |
+| [HeyGen Video 1.0: Reference to Video](character-fashion/api_heygen_video_1_r2v.md) | Character & Fashion | video | HeyGen | API, Reference to Video | 2026-09-30 | API |
+| [HeyGen Video 1.0: Image to Video](character-fashion/api_heygen_video_1_i2v.md) | Character & Fashion | video | HeyGen | API, Image to Video | 2026-09-30 | API |
 | [Seedance2.5 Draft: Text to Video](video/api_seedance2_5_draft_t2v.md) | Video | video | Seedance 2.5 | API | 2026-09-25 | API |
 | [Seedance2.5 Draft: Reference to Video](video/api_seedance2_5_draft_r2v.md) | Video | video | Seedance 2.5 | API, Reference to Video | 2026-09-25 | API |
 | [Seedance2.5 Draft: Image to Video](video/api_seedance2_5_draft_i2v.md) | Video | video | Seedance 2.5 | API, Image to Video | 2026-09-25 | API |
@@ -268,8 +273,8 @@
 | [Anima Lllite: Depth Control to Image](image/image_anima_lllite_depth_control_to_image.md) | Image | image | Anima | Anime | 2026-07-21 | open source |
 | [HeyGen: Video Translate](video/api_heygen_video_translate.md) | Video | video | HeyGen | API, Lip Sync | 2026-07-21 | API |
 | [HeyGen: Text to Speech](audio/api_heygen_text_to_speech.md) | Audio | audio | HeyGen | API, Text to Speech | 2026-07-21 | API |
-| [HeyGen: Talking Photo](video/api_heygen_talking_photo.md) | Video | video | HeyGen | API, Image to Video, Lip Sync | 2026-07-21 | API |
-| [HeyGen: Avatar Video](video/api_heygen_avatar_video.md) | Video | video | HeyGen | API, Lip Sync, Video | 2026-07-21 | API |
+| [HeyGen: Talking Photo](character-fashion/api_heygen_talking_photo.md) | Character & Fashion | video | HeyGen | API, Image to Video, Lip Sync | 2026-07-21 | API |
+| [HeyGen: Avatar Video](character-fashion/api_heygen_avatar_video.md) | Character & Fashion | video | HeyGen | API, Lip Sync, Video | 2026-07-21 | API |
 | [Krea-2 Int8: Image Style Reference](image/image_krea2_turbo_int8_image_style_reference.md) | Image | image | Krea 2 | Style Reference, Image, Int8 | 2026-07-20 | open source |
 | [JoyAI Image Edit](image/image_joyai_image_edit.md) | Image | image | JoyAI Image Edit | Image, Image Edit, Int8 | 2026-07-20 | open source |
 | [Anima Lllite: Any Control to Image](image/image_anima_lllite_any_control_to_image.md) | Image | image | Anima | Anime, ControlNet | 2026-07-20 | open source |
@@ -301,7 +306,7 @@
 | [Seedance 2.0 Mini: Text to Video](video/api_seedance2_0_mini_t2v.md) | Video | video | Seedance 2.0 | API, Text to Video | 2026-06-25 | API |
 | [Seedance 2.0 Mini: Reference to Video](video/api_seedance2_0_mini_r2v.md) | Video | video | Seedance 2.0 | API, Image to Video, Reference to Video | 2026-06-25 | API |
 | [Krea-2: Text to Image](image/image_krea2_turbo_t2i.md) | Image | image | Krea 2 | Text to Image | 2026-06-24 | open source |
-| [Qwen3-VL: Text Generation](llm/llm_qwen3vl_text_gen.md) | LLM | llm | Qwen 3.0 | Text Generation | 2026-06-23 | open source |
+| [Qwen3-VL: Text Generation](llm/llm_qwen3vl_text_gen.md) | LLM | llm | Qwen 3.0 | Text Generation, Int8 | 2026-06-23 | open source |
 | [Boogu Turbo: Text to Image](image/image_boogu_image_0_1_turbo_t2i.md) | Image | image | Boogu | Image, Text to Image | 2026-06-23 | open source |
 | [Boogu image 0.1 Edit](image/image_boogu_image_0_1_edit.md) | Image | image | Boogu | Image Edit | 2026-06-23 | open source |
 | [HappyHorse 1.1: Text to Video](video/api_happyhorse1_1_t2v.md) | Video | video | HappyHorse 1.1 | API, Text to Video | 2026-06-23 | API |
@@ -376,7 +381,7 @@
 | [Outpaint to Any Aspect Ratio - Nano Banana Pro](image-tools/template_outpaint_to_any_aspect_ratio_nano_banana_pro.md) | Image Tools | image | Nano Banana Pro | API, Outpainting | 2026-05-04 | API |
 | [Video Upscale: Topaz Astra 2 Creative](video-tools/api_topaz_astra2.md) | Video Tools | video | Topaz | API, Video Upscale | 2026-05-03 | API |
 | [Seedance 2.0: Text to Video](video/api_seedance2_0_t2v.md) | Video | video | Seedance 2.0 | API, Text to Video, Video | 2026-05-02 | API |
-| [Gemma4: Text Generation](llm/llm_gemma4_text_gen.md) | LLM | llm | Gemma 4 | Text Generation | 2026-05-01 | open source |
+| [Gemma4: Text Generation](llm/llm_gemma4_text_gen.md) | LLM | llm | Gemma 4 | Text Generation, Int8 | 2026-05-01 | open source |
 | [Anthropic Claude](llm/api_anthropic_claude.md) | LLM | llm | Claude | API, Text Generation | 2026-05-01 | API |
 | [PixelDiT: Text to Image](image/image_pixeldit_t2i.md) | Image | image | PixelDiT | Text to Image | 2026-04-29 | open source |
 | [Video Segmentation: SAM3](video-tools/utility_video_segment_sam3.md) | Video Tools | video | SAM3 | Element Segmentation | 2026-04-27 | open source |
@@ -447,7 +452,7 @@
 | [Generate 3D Model From Single Image](3d-model/templates_mjm_image_to_3d.md) | 3D Model | 3d | Meshy, Nano Banana 2 | API, 3D, Image to 3D | 2026-03-19 | API |
 | [Image Outpainting: FLUX.2 Klein 9B](image-tools/templates_doc_workbox_klein_9b_image_extend.md) | Image Tools | image | FLUX.2 Klein | Image, Outpainting | 2026-03-19 | open source |
 | [Wan ATI Motion Control](video/templates_rob_wan_ati_motion_control.md) | Video | video | Wan ATI | Motion Control, Image to Video | 2026-03-18 | open source |
-| [Kling 3.0: 1 Click Multishot](product-ads/templates_rob_kling3_0_multishot_llm_product.md) | Product & Ads | video | Kling 3.0 | API, Text to Video, Video | 2026-03-18 | API |
+| [Kling 3.0: 1 Click Multishot](product-ads/templates_rob_kling3_0_multishot_llm_product.md) | Product & Ads | image | Kling 3.0 | API, Text to Video, Video | 2026-03-18 | API |
 | [1 image input Split Stack - Qwen Multiangle + Wan 2.2](character-fashion/template_rob_split_stack_qwen_multi_wan22.md) | Character & Fashion | image | Qwen-Image-Edit, Wan2.2 | Video, Image to Video | 2026-03-18 | open source |
 | [LTX-2.3: FLF2V](video/video_ltx2_3_flf2v.md) | Video | video | LTX-2.3 | FLF2V, Video | 2026-03-16 | open source |
 | [Product Ad Cinematic Sequence Generator](product-ads/template_sferro21_product_ad.app.md) | Product & Ads | image | Nano Banana Pro | API, Image Edit, Style Transfer | 2026-03-16 | API |
@@ -764,9 +769,9 @@
 | [ACE Step v1 Text to Song](audio/audio_ace_step_1_t2a_song.md) | Audio | audio | ACE-Step | Text to Audio, Audio | 2025-03-01 | open source |
 | [ACE-Step v1 Text to Instrumentals Music](audio/audio_ace_step_1_t2a_instrumentals.md) | Audio | audio | ACE-Step | Text to Audio, Audio | 2025-03-01 | open source |
 | [ACE Step v1 M2M Editing](audio/audio_ace_step_1_m2m_editing.md) | Audio | audio | ACE-Step | Audio Editing, Audio | 2025-03-01 | open source |
-| [Tripo: Text to Model](3d-model/api_tripo_text_to_model.md) | 3D Model | 3d | Tripo | Text to 3D, 3D, API | 2025-03-01 | API |
-| [Tripo: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) | 3D Model | 3d | Tripo | Image to 3D, 3D, API | 2025-03-01 | API |
-| [Tripo: Image to Model](3d-model/api_tripo_image_to_model.md) | 3D Model | 3d | Tripo | 3D, Image to 3D, API | 2025-03-01 | API |
+| [Tripo 2.5: Text to Model](3d-model/api_tripo_text_to_model.md) | 3D Model | 3d | Tripo | Text to 3D, 3D, API | 2025-03-01 | API |
+| [Tripo 2.5: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) | 3D Model | 3d | Tripo | Image to 3D, 3D, API | 2025-03-01 | API |
+| [Tripo 2.5: Image to Model](3d-model/api_tripo_image_to_model.md) | 3D Model | 3d | Tripo | 3D, Image to 3D, API | 2025-03-01 | API |
 | [Runway: Text to Image](image/api_runway_text_to_image.md) | Image | image | Runway | Text to Image, Image, API | 2025-03-01 | API |
 | [Runway: Reference to Image](image/api_runway_reference_to_image.md) | Image | image | Runway | Image, API, Style Reference | 2025-03-01 | API |
 | [Runway: Gen4 Turbo Image to Video](video/api_runway_gen4_turbo_image_to_video.md) | Video | video | Runway | Image to Video, Video, API | 2025-03-01 | API |

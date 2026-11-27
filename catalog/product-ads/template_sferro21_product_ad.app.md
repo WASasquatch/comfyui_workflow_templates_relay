@@ -24,7 +24,7 @@
 | Date | 2026-03-16 |
 | Author | sferro21 |
 | Min ComfyUI version | 0.8.0 |
-| Usage | 12 |
+| Usage | 29 |
 | Nodes | 5 |
 
 ## Inputs & outputs

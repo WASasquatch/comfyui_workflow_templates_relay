@@ -24,7 +24,7 @@
 | Date | 2026-09-25 |
 | Author | ComfyUI |
 | Min ComfyUI version | 0.37.3 |
-| Usage | 142 |
+| Usage | 104 |
 | Nodes | 7 |
 
 ## Inputs & outputs
@@ -32,7 +32,6 @@
 | Direction | Node | Media | File |
 |---|---|---|---|
 | input | `LoadImage` #784 | image | friends_enjoying_boba.png |
-| output | `SaveVideo` #775 | video | api_seedance2_5_draft_i2v.mp4 |
 
 ## Nodes used
 

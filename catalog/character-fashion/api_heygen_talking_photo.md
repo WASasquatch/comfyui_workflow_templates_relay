@@ -1,6 +1,6 @@
 # HeyGen: Talking Photo
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_talking_photo)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_talking_photo)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_talking_photo-1.webp" width="360" alt="HeyGen: Talking Photo api_heygen_talking_photo-1.webp">
 
@@ -16,7 +16,7 @@
 | | |
 |---|---|
 | Name | `api_heygen_talking_photo` |
-| Category | Foundation › Video |
+| Category | Applied › Character & Fashion |
 | Output | video |
 | Models | HeyGen |
 | Tags | API, Image to Video, Lip Sync |

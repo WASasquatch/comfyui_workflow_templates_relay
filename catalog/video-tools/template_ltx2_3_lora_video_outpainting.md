@@ -26,7 +26,7 @@
 | Download size | 58.2 GB |
 | Min ComfyUI version | 0.16.4 |
 | Distributions | cloud |
-| Usage | 25 |
+| Usage | 83 |
 | Nodes | 46 |
 
 ## Inputs & outputs

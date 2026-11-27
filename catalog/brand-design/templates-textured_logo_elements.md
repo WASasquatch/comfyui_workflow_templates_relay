@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2025-12-11 |
 | Author | hellorob |
-| Min ComfyUI version | 0.8.0 |
+| Min ComfyUI version | 0.34.0 |
 | Usage | 6 |
 | Nodes | 11 |
 
@@ -46,7 +46,7 @@
 | `LoadImage` | 3 | comfy-core |
 | `ResizeAndPadImage` | 2 |  |
 | `BatchImagesNode` | 1 |  |
-| `ByteDanceImageToVideoNode` | 1 |  |
+| `ByteDance2FirstLastFrameNode` | 1 |  |
 | `GeminiImage2Node` | 1 | comfy-core |
 | `GetImageSize` | 1 |  |
 | `SaveImage` | 1 |  |

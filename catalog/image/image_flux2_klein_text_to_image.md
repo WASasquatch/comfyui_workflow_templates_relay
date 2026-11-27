@@ -26,14 +26,8 @@
 | Author | ComfyUI |
 | Download size | 15.9 GB |
 | Min ComfyUI version | 0.9.2 |
-| Usage | 71 |
+| Usage | 78 |
 | Nodes | 32 |
-
-## Inputs & outputs
-
-| Direction | Node | Media | File |
-|---|---|---|---|
-| output | `SaveImage` #78 | image | image_flux2_klein_text_to_image.png |
 
 ## Model files
 

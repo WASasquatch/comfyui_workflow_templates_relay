@@ -25,7 +25,7 @@
 | Author | ComfyUI |
 | Download size | 12.3 GB |
 | Min ComfyUI version | 0.46.0 |
-| Usage | 0 |
+| Usage | 27 |
 | Nodes | 36 |
 
 ## Inputs & outputs
@@ -167,7 +167,7 @@ Texture an untextured mesh from one reference image. The mesh is rendered as six
 
 **Input Assets**
 - [sir_frog.png](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/input/sir_frog.png): the reference, i.e. how the object should look
-- [sir_frog.obj](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/input/sir_frog.obj): the mesh, opened in **Load 3D (Advanced)**
+- [sir_frog.obj](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/refs/heads/main/input/sir_frog.obj): the mesh, opened in **Load 3D (Advanced) (First Camera Rig)**
 
 ### Chain
 
@@ -175,7 +175,7 @@ Texture an untextured mesh from one reference image. The mesh is rendered as six
 
 ### What to change
 
-- **Load 3D (Advanced)**: your mesh and the camera the front view is taken from; the bake reuses that rig.
+- **Load 3D (Advanced) (First Camera Rig)**: your mesh and the camera the front view is taken from; the bake reuses that rig.
 - **Load Image**: the reference seen from that camera's side. It lands on the front view, so keep one object in one orientation.
 - `Rendered Mesh Resolution` (1024) sizes the renders and the latent; `Texture Resolution` (4096) sizes the baked maps.
 - Albedo pass: 4 steps, seed 1, distillation LoRA 0.5 under albedo LoRA 1.0. Metallic/roughness pass: 8 steps, seed 4, no distillation LoRA.

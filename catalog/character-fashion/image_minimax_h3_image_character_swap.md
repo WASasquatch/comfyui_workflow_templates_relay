@@ -1,6 +1,6 @@
 # MiniMax-H3-Image: Character Swap
 
-[← Image](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_minimax_h3_image_character_swap)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=image_minimax_h3_image_character_swap)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_character_swap-1.webp" width="360" alt="MiniMax-H3-Image: Character Swap image_minimax_h3_image_character_swap-1.webp"> <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_character_swap-2.webp" width="360" alt="MiniMax-H3-Image: Character Swap image_minimax_h3_image_character_swap-2.webp">
 
@@ -16,16 +16,16 @@
 | | |
 |---|---|
 | Name | `image_minimax_h3_image_character_swap` |
-| Category | Foundation › Image |
+| Category | Applied › Character & Fashion |
 | Output | image |
 | Models | MiniMax H3 Image |
-| Tags | Image, Image Edit, Character Replacement |
+| Tags | Character Replacement, Image, Image Edit |
 | Type | open source |
-| Date | 2026-11-22 |
+| Date | 2026-11-10 |
 | Author | ComfyUI |
 | Download size | 62.1 GB |
 | Min ComfyUI version | 0.45.0 |
-| Usage | 0 |
+| Usage | 618 |
 | Nodes | 18 |
 
 ## Inputs & outputs

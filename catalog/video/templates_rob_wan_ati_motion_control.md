@@ -25,7 +25,7 @@
 | Author | hellorob |
 | Download size | 71.9 GB |
 | Min ComfyUI version | 0.5.0 |
-| Usage | 72 |
+| Usage | 51 |
 | Nodes | 33 |
 
 ## Inputs & outputs

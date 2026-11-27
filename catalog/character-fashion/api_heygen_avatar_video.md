@@ -1,6 +1,6 @@
 # HeyGen: Avatar Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_avatar_video)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_avatar_video)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_video-1.webp" width="360" alt="HeyGen: Avatar Video api_heygen_avatar_video-1.webp">
 
@@ -16,7 +16,7 @@
 | | |
 |---|---|
 | Name | `api_heygen_avatar_video` |
-| Category | Foundation › Video |
+| Category | Applied › Character & Fashion |
 | Output | video |
 | Models | HeyGen |
 | Tags | API, Lip Sync, Video |

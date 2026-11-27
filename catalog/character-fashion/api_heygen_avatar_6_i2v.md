@@ -1,6 +1,6 @@
 # HeyGen Avatar 6: Photo to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_avatar_6_i2v)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_avatar_6_i2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_i2v-1.webp" width="360" alt="HeyGen Avatar 6: Photo to Video api_heygen_avatar_6_i2v-1.webp">
 
@@ -16,7 +16,7 @@
 | | |
 |---|---|
 | Name | `api_heygen_avatar_6_i2v` |
-| Category | Foundation › Video |
+| Category | Applied › Character & Fashion |
 | Output | video |
 | Models | HeyGen Avatar 6 |
 | Tags | API, Image to Video |
@@ -24,7 +24,7 @@
 | Date | 2026-11-17 |
 | Author | ComfyUI |
 | Min ComfyUI version | 0.46.0 |
-| Usage | 0 |
+| Usage | 219 |
 | Nodes | 7 |
 
 ## Inputs & outputs

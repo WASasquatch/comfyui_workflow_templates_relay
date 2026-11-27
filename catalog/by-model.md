@@ -9,7 +9,7 @@ Model families as declared in `index.json`.
 | [Nano Banana Pro](#nano-banana-pro) | 42 |
 | [Wan](#wan) | 36 |
 | [FLUX](#flux) | 33 |
-| [Google](#google) | 29 |
+| [Google](#google) | 30 |
 | [MiniMax H3](#minimax-h3) | 29 |
 | [Wan2.1](#wan2-1) | 20 |
 | [BRIA](#bria) | 16 |
@@ -29,11 +29,11 @@ Model families as declared in `index.json`.
 | [Seedance 2.0](#seedance-2-0) | 12 |
 | [ByteDance](#bytedance) | 11 |
 | [Hunyuan3D](#hunyuan3d) | 11 |
+| [Meshy](#meshy) | 11 |
 | [Stability](#stability) | 11 |
 | [ACE-Step](#ace-step) | 10 |
 | [FLUX.2 Klein](#flux-2-klein) | 10 |
 | [LTX-2.5](#ltx-2-5) | 10 |
-| [Meshy](#meshy) | 10 |
 | [Qwen-Image](#qwen-image) | 10 |
 | [Vidu](#vidu) | 10 |
 | [ElevenLabs](#elevenlabs) | 9 |
@@ -164,17 +164,20 @@ Model families as declared in `index.json`.
 | [BiRefNet](#birefnet) | 1 |
 | [Breeze Blue](#breeze-blue) | 1 |
 | [ChronoEdit](#chronoedit) | 1 |
+| [Creatify Aurora 2.0](#creatify-aurora-2-0) | 1 |
 | [Depth Anything v2](#depth-anything-v2) | 1 |
 | [DWPose](#dwpose) | 1 |
 | [FILM](#film) | 1 |
 | [FireRed Image Edit 1.1](#firered-image-edit-1-1) | 1 |
 | [FlashVSR](#flashvsr) | 1 |
 | [FLUX.1 Krea](#flux-1-krea) | 1 |
+| [Gemini Decision 1](#gemini-decision-1) | 1 |
 | [Gemini-2.5-Flash](#gemini-2-5-flash) | 1 |
 | [Gemini-3.1-flash-lite](#gemini-3-1-flash-lite) | 1 |
 | [Gemma 4](#gemma-4) | 1 |
 | [Genjutsu 1.0](#genjutsu-1-0) | 1 |
 | [HeyGen Decision 1](#heygen-decision-1) | 1 |
+| [HeyGen Voice 1.0](#heygen-voice-1-0) | 1 |
 | [HuMo](#humo) | 1 |
 | [Hy4](#hy4) | 1 |
 | [Idol](#idol) | 1 |
@@ -207,6 +210,7 @@ Model families as declared in `index.json`.
 | [SUPIR](#supir) | 1 |
 | [SVD](#svd) | 1 |
 | [TRELLIS.2](#trellis-2) | 1 |
+| [TypeSafe Jev](#typesafe-jev) | 1 |
 | [UltraTex](#ultratex) | 1 |
 | [VOID](#void) | 1 |
 | [Wan ATI](#wan-ati) | 1 |
@@ -353,6 +357,7 @@ Model families as declared in `index.json`.
 - [Character & Outfit to Fashion Video](character-fashion/templates-stitched_vid_contact_sheet.md) — Character & Fashion
 - [Character + Clothing (OOTD) Flat Lay to Studio Photoshoot](character-fashion/templates-fashion_shoot_vton.md) — Character & Fashion
 - [Fashion Editorial Shots](character-fashion/templates-2x2_grid-character_bg_product.md) — Character & Fashion
+- [Gemini Decision 1: Gate, Score, Classify, Pick](llm/api_gemini_decision.md) — LLM
 - [Generate Brand Packaging from Dieline](product-ads/templates-assemble_dieline.md) — Product & Ads
 - [Google Gemini](llm/api_google_gemini.md) — LLM
 - [Google: Gemini 4 Hydrogen](llm/api_google_gemini_4_hydrogen.md) — LLM
@@ -749,6 +754,22 @@ Model families as declared in `index.json`.
 - [HY 3D: UV Unwrapping](3d-model/api_hunyuan3d_model2uv.md) — 3D Model
 - [Single Image to 3D model](3d-model/templates_shane_single_image_to_3d_model.md) — 3D Model
 
+<a id="meshy"></a>
+
+## Meshy
+
+- [Generate 3D Model From Single Image](3d-model/templates_mjm_image_to_3d.md) — 3D Model
+- [Meshy 6: Image to Model](3d-model/api_meshy_image_to_model.md) — 3D Model
+- [Meshy 6: Multi-Image to Model](3d-model/api_meshy_multi_image_to_model.md) — 3D Model
+- [Meshy 6: Text to Model](3d-model/api_meshy_text_to_model.md) — 3D Model
+- [Meshy 7.1: Image to 3D](3d-model/api_meshy7_1_image_to_model.md) — 3D Model
+- [Meshy 7.1: Text to Model](3d-model/api_meshy7_1_text_to_model.md) — 3D Model
+- [Meshy 7: Image to 3D](3d-model/api_meshy7_image_to_model.md) — 3D Model
+- [Meshy 7: Text to 3D](3d-model/api_meshy7_text_to_model.md) — 3D Model
+- [Meshy T2.5: Image to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_i2m.md) — 3D Model
+- [Meshy T2.5: Text to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_t2m.md) — 3D Model
+- [Meshy: Image to Relief](3d-model/api_meshy_image_to_relief.md) — 3D Model
+
 <a id="stability"></a>
 
 ## Stability
@@ -809,21 +830,6 @@ Model families as declared in `index.json`.
 - [Reframe: LTX VFX](video-tools/api_ltx_video_reframe.md) — Video Tools
 - [SDR to HDR: LTX VFX](video-tools/api_ltx_video_sdr2hdr.md) — Video Tools
 - [Upscale: LTX VFX](video-tools/api_ltx_video_upscale.md) — Video Tools
-
-<a id="meshy"></a>
-
-## Meshy
-
-- [Generate 3D Model From Single Image](3d-model/templates_mjm_image_to_3d.md) — 3D Model
-- [Meshy 6: Image to Model](3d-model/api_meshy_image_to_model.md) — 3D Model
-- [Meshy 6: Multi-Image to Model](3d-model/api_meshy_multi_image_to_model.md) — 3D Model
-- [Meshy 6: Text to Model](3d-model/api_meshy_text_to_model.md) — 3D Model
-- [Meshy 7.1: Image to 3D](3d-model/api_meshy7_1_image_to_model.md) — 3D Model
-- [Meshy 7.1: Text to Model](3d-model/api_meshy7_1_text_to_model.md) — 3D Model
-- [Meshy 7: Image to 3D](3d-model/api_meshy7_image_to_model.md) — 3D Model
-- [Meshy 7: Text to 3D](3d-model/api_meshy7_text_to_model.md) — 3D Model
-- [Meshy T2.5: Image to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_i2m.md) — 3D Model
-- [Meshy T2.5: Text to Model (Smart Topology)](3d-model/api_meshy_t2_5_smart_topology_t2m.md) — 3D Model
 
 <a id="qwen-image"></a>
 
@@ -887,13 +893,13 @@ Model families as declared in `index.json`.
 
 ## HeyGen
 
-- [HeyGen Video 1.0: Image to Video](video/api_heygen_video_1_i2v.md) — Video
-- [HeyGen Video 1.0: Reference to Video](video/api_heygen_video_1_r2v.md) — Video
-- [HeyGen Video 1.0: Text to Video](video/api_heygen_video_1_t2v.md) — Video
+- [HeyGen Video 1.0: Image to Video](character-fashion/api_heygen_video_1_i2v.md) — Character & Fashion
+- [HeyGen Video 1.0: Reference to Video](character-fashion/api_heygen_video_1_r2v.md) — Character & Fashion
+- [HeyGen Video 1.0: Text to Video](character-fashion/api_heygen_video_1_t2v.md) — Character & Fashion
 - [HeyGen Voice 1.0 Turbo: Voice Clone to Speech](audio/api_heygen_voice_1_turbo.md) — Audio
 - [HeyGen Voice 1.0: Voice Clone to Speech](audio/api_heygen_voice_1.md) — Audio
-- [HeyGen: Avatar Video](video/api_heygen_avatar_video.md) — Video
-- [HeyGen: Talking Photo](video/api_heygen_talking_photo.md) — Video
+- [HeyGen: Avatar Video](character-fashion/api_heygen_avatar_video.md) — Character & Fashion
+- [HeyGen: Talking Photo](character-fashion/api_heygen_talking_photo.md) — Character & Fashion
 - [HeyGen: Text to Speech](audio/api_heygen_text_to_speech.md) — Audio
 - [HeyGen: Video Translate](video/api_heygen_video_translate.md) — Video
 
@@ -943,15 +949,15 @@ Model families as declared in `index.json`.
 
 ## Tripo
 
+- [Tripo 2.5: Image to Model](3d-model/api_tripo_image_to_model.md) — 3D Model
+- [Tripo 2.5: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) — 3D Model
+- [Tripo 2.5: Text to Model](3d-model/api_tripo_text_to_model.md) — 3D Model
 - [Tripo H3.1: Image to Model](3d-model/api_tripo3_1_image_to_model.md) — 3D Model
 - [Tripo H3.1: Multiview to Model](3d-model/api_tripo3_1_multiview_to_model.md) — 3D Model
 - [Tripo H3.1: Text to Model](3d-model/api_tripo3_1_text_to_model.md) — 3D Model
 - [Tripo P2: Text to Model](3d-model/api_tripo_p2_text_to_model.md) — 3D Model
 - [Tripo3.0: Image to Model](3d-model/api_tripo3_0_image_to_model.md) — 3D Model
 - [Tripo3.0: Text to Model](3d-model/api_tripo3_0_text_to_model.md) — 3D Model
-- [Tripo: Image to Model](3d-model/api_tripo_image_to_model.md) — 3D Model
-- [Tripo: Multiview to Model](3d-model/api_tripo_multiview_to_model.md) — 3D Model
-- [Tripo: Text to Model](3d-model/api_tripo_text_to_model.md) — 3D Model
 
 <a id="kling-3-0"></a>
 
@@ -1199,7 +1205,7 @@ Model families as declared in `index.json`.
 
 ## MiniMax H3 Image
 
-- [MiniMax-H3-Image: Character Swap](image/image_minimax_h3_image_character_swap.md) — Image
+- [MiniMax-H3-Image: Character Swap](character-fashion/image_minimax_h3_image_character_swap.md) — Character & Fashion
 - [MiniMax-H3-Image: Image Edit](image/image_minimax_h3_image_edit.md) — Image
 - [MiniMax-H3-Image: Image Edit (API)](image/api_minimax_h3_image_image_edit.md) — Image
 - [MiniMax-H3-Image: Text to Image](image/image_minimax_h3_image_t2i.md) — Image
@@ -1724,8 +1730,8 @@ Model families as declared in `index.json`.
 
 ## HeyGen Avatar 6
 
-- [HeyGen Avatar 6: Identity to Video](video/api_heygen_avatar_6_id2v.md) — Video
-- [HeyGen Avatar 6: Photo to Video](video/api_heygen_avatar_6_i2v.md) — Video
+- [HeyGen Avatar 6: Identity to Video](character-fashion/api_heygen_avatar_6_id2v.md) — Character & Fashion
+- [HeyGen Avatar 6: Photo to Video](character-fashion/api_heygen_avatar_6_i2v.md) — Character & Fashion
 
 <a id="hitpaw"></a>
 
@@ -1773,8 +1779,8 @@ Model families as declared in `index.json`.
 
 ## Ming Image
 
-- [Ming Image 0.1 Design: Image Edit](image/image_ming_image_01_design_image_edit.md) — Image
-- [Ming Image 0.1 Design: Text to Image](image/image_ming_image_01_design_t2i.md) — Image
+- [Ming Image 0.2 Design: Image Edit](image/image_ming_image_01_design_image_edit.md) — Image
+- [Ming Image 0.2 Design: Text to Image](image/image_ming_image_01_design_t2i.md) — Image
 
 <a id="mirelo"></a>
 
@@ -1969,6 +1975,12 @@ Model families as declared in `index.json`.
 
 - [ChronoEdit 14B: Image Edit](image/image_chrono_edit_14B.md) — Image
 
+<a id="creatify-aurora-2-0"></a>
+
+## Creatify Aurora 2.0
+
+- [Creatify Aurora 2.0: Talking Avatar](character-fashion/api_creatify_aurora_2_avatar.md) — Character & Fashion
+
 <a id="depth-anything-v2"></a>
 
 ## Depth Anything v2
@@ -2005,6 +2017,12 @@ Model families as declared in `index.json`.
 
 - [Flux.1 Krea Dev](image/flux1_krea_dev.md) — Image
 
+<a id="gemini-decision-1"></a>
+
+## Gemini Decision 1
+
+- [Gemini Decision 1: Gate, Score, Classify, Pick](llm/api_gemini_decision.md) — LLM
+
 <a id="gemini-2-5-flash"></a>
 
 ## Gemini-2.5-Flash
@@ -2034,6 +2052,12 @@ Model families as declared in `index.json`.
 ## HeyGen Decision 1
 
 - [HeyGen Decision 1: Gate and Pick](llm/api_heygen_decision_1.md) — LLM
+
+<a id="heygen-voice-1-0"></a>
+
+## HeyGen Voice 1.0
+
+- [HeyGen Voice 1.0: Instant Clone TTS](audio/api_heygen_voice_1_instant_clone.md) — Audio
 
 <a id="humo"></a>
 
@@ -2226,6 +2250,12 @@ Model families as declared in `index.json`.
 ## TRELLIS.2
 
 - [Pixal3D & TRELLIS.2: Image to Model](3d-model/3d_pixal3d_trellis2_image_to_model.md) — 3D Model
+
+<a id="typesafe-jev"></a>
+
+## TypeSafe Jev
+
+- [TypeSafe Jev: Gate, Score, Classify, Pick](llm/api_typesafe_jev_decision.md) — LLM
 
 <a id="ultratex"></a>
 

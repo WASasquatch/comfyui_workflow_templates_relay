@@ -24,8 +24,8 @@
 | Date | 2026-02-05 |
 | Author | hellorob |
 | Min ComfyUI version | 0.15.0 |
-| Usage | 13 |
-| Nodes | 575 |
+| Usage | 38 |
+| Nodes | 607 |
 
 ## Inputs & outputs
 
@@ -43,33 +43,33 @@
 ## Subgraphs
 
 - **Create Animation** (6 nodes)
-- **Crop Images** (28 nodes)
+- **Crop Images** (32 nodes)
 - **Create Composites** (4 nodes)
-- **Crop+Composite** (24 nodes)
 - **Crop+Composite** (25 nodes)
-- **Crop+Composite** (25 nodes)
-- **Crop+Composite** (25 nodes)
+- **Crop+Composite** (26 nodes)
+- **Crop+Composite** (26 nodes)
+- **Crop+Composite** (26 nodes)
 - **Create Animation** (6 nodes)
-- **Crop Images** (28 nodes)
+- **Crop Images** (32 nodes)
 - **Create Composites** (4 nodes)
-- **Crop+Composite** (24 nodes)
 - **Crop+Composite** (25 nodes)
-- **Crop+Composite** (25 nodes)
-- **Crop+Composite** (25 nodes)
+- **Crop+Composite** (26 nodes)
+- **Crop+Composite** (26 nodes)
+- **Crop+Composite** (26 nodes)
 - **Create Animation** (6 nodes)
-- **Crop Images** (28 nodes)
+- **Crop Images** (32 nodes)
 - **Create Composites** (4 nodes)
-- **Crop+Composite** (24 nodes)
 - **Crop+Composite** (25 nodes)
-- **Crop+Composite** (25 nodes)
-- **Crop+Composite** (25 nodes)
+- **Crop+Composite** (26 nodes)
+- **Crop+Composite** (26 nodes)
+- **Crop+Composite** (26 nodes)
 - **Create Animation** (6 nodes)
-- **Crop Images** (28 nodes)
+- **Crop Images** (32 nodes)
 - **Create Composites** (4 nodes)
-- **Crop+Composite** (24 nodes)
 - **Crop+Composite** (25 nodes)
-- **Crop+Composite** (25 nodes)
-- **Crop+Composite** (25 nodes)
+- **Crop+Composite** (26 nodes)
+- **Crop+Composite** (26 nodes)
+- **Crop+Composite** (26 nodes)
 
 ## Nodes used
 
@@ -79,8 +79,9 @@
 | `GetImageSize` | 64 | comfy-core |
 | `SimpleMath+` | 64 | comfyui_essentials |
 | `ImageCompositeMasked` | 32 | comfy-core |
-| `ImageCrop` | 32 | comfy-core |
+| `ImageCropV2` | 32 | comfy-core |
 | `MaskPreview+` | 32 | comfyui_essentials |
+| `PrimitiveBoundingBox` | 32 |  |
 | `ImageResizeKJv2` | 20 | comfyui-kjnodes |
 | `SaveImage` | 20 | comfy-core |
 | `ColorToMask` | 16 | comfyui-kjnodes |

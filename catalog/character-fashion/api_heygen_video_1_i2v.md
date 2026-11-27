@@ -1,6 +1,6 @@
 # HeyGen Video 1.0: Image to Video
 
-[← Video](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_video_1_i2v)
+[← Character & Fashion](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_heygen_video_1_i2v)
 
 <img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_i2v-1.webp" width="360" alt="HeyGen Video 1.0: Image to Video api_heygen_video_1_i2v-1.webp">
 
@@ -16,7 +16,7 @@
 | | |
 |---|---|
 | Name | `api_heygen_video_1_i2v` |
-| Category | Foundation › Video |
+| Category | Applied › Character & Fashion |
 | Output | video |
 | Models | HeyGen |
 | Tags | API, Image to Video |
@@ -24,7 +24,7 @@
 | Date | 2026-09-30 |
 | Author | ComfyUI |
 | Min ComfyUI version | 0.38.1 |
-| Usage | 413 |
+| Usage | 168 |
 | Nodes | 4 |
 
 ## Inputs & outputs

@@ -20,13 +20,13 @@
 | Category | Foundation › LLM |
 | Output | llm |
 | Models | Gemma 4 |
-| Tags | Text Generation |
+| Tags | Text Generation, Int8 |
 | Type | open source |
 | Date | 2026-05-01 |
 | Author | ComfyUI |
-| Download size | 8.4 GB |
-| Min ComfyUI version | 0.21.0 |
-| Usage | 49 |
+| Download size | 7.5 GB |
+| Min ComfyUI version | 0.44.0 |
+| Usage | 47 |
 | Nodes | 9 |
 
 ## Inputs & outputs
@@ -41,7 +41,7 @@
 
 | File | Folder (`ComfyUI/models/…`) | Download |
 |---|---|---|
-| `gemma4_e4b_it_fp8_scaled.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/gemma-4/resolve/main/text_encoders/gemma4_e4b_it_fp8_scaled.safetensors) |
+| `gemma4_e4b_it_int8_convrot.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/gemma-4/resolve/main/text_encoders/gemma4_e4b_it_int8_convrot.safetensors) |
 
 ## Nodes used
 
@@ -54,7 +54,7 @@
 | `LoadImage` | 1 | comfy-core |
 | `LoadVideo` | 1 | comfy-core |
 | `PreviewAny` | 1 | comfy-core |
-| `TextGenerate` | 1 | comfy-core |
+| `TextGenerateV2` | 1 | comfy-core |
 
 ## Notes embedded in the workflow
 
@@ -69,7 +69,7 @@ Related PR: [#13376](https://github.com/Comfy-Org/ComfyUI/pull/13376)
 
 **text_encoders**
 
-- [gemma4_e4b_it_fp8_scaled.safetensors](https://huggingface.co/Comfy-Org/gemma-4/resolve/main/text_encoders/gemma4_e4b_it_fp8_scaled.safetensors) (8.44 GB)
+- [gemma4_e4b_it_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/gemma-4/resolve/main/text_encoders/gemma4_e4b_it_int8_convrot.safetensors) (8.09 GB)
 
 ## Model Storage Location
 
@@ -77,7 +77,7 @@ Related PR: [#13376](https://github.com/Comfy-Org/ComfyUI/pull/13376)
 📂 ComfyUI/
 ├── 📂 models/
 │   └── 📂 text_encoders/
-│       └── gemma4_e4b_it_fp8_scaled.safetensors
+│       └── gemma4_e4b_it_int8_convrot.safetensors
 ```
 
 ---

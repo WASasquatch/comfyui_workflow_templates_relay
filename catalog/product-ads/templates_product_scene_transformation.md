@@ -26,7 +26,7 @@
 | Download size | 45.5 GB |
 | Min ComfyUI version | 0.15.0 |
 | Usage | 17 |
-| Nodes | 99 |
+| Nodes | 103 |
 
 ## Inputs & outputs
 
@@ -61,7 +61,7 @@
 - **Wan 2.1 VACE** (10 nodes)
 - **Wan 2.1 VACE** (10 nodes)
 - **Select Images** (5 nodes)
-- **Crop Images** (20 nodes)
+- **Crop Images** (24 nodes)
 - **Product Scene Transformation** (29 nodes)
 
 ## Nodes used
@@ -73,9 +73,10 @@
 | `ImageFromBatch` | 8 | comfy-core |
 | `ImageRemoveAlpha+` | 5 | comfyui_essentials |
 | `CLIPLoader` | 4 | comfy-core |
-| `ImageCrop` | 4 | comfy-core |
+| `ImageCropV2` | 4 | comfy-core |
 | `KSampler` | 4 | comfy-core |
 | `LoraLoaderModelOnly` | 4 | comfy-core |
+| `PrimitiveBoundingBox` | 4 |  |
 | `Reroute` | 4 |  |
 | `TrimVideoLatent` | 4 | comfy-core |
 | `UNETLoader` | 4 | comfy-core |

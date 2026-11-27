@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2026-03-30 |
 | Author | Julien \| MJM |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 11 |
 | Nodes | 10 |
 
@@ -43,7 +43,7 @@
 |---|---|---|
 | `LoadImage` | 4 | comfy-core |
 | `GeminiNanoBanana2V2` | 1 | comfy-core |
-| `GeminiNode` | 1 | comfy-core |
+| `GeminiNodeV3` | 1 | comfy-core |
 | `KlingVideoNode` | 1 | comfy-core |
 | `PreviewAny` | 1 | comfy-core |
 | `PreviewImage` | 1 | comfy-core |

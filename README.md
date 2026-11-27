@@ -2,31 +2,31 @@
 
 A Markdown mirror of every template in [Comfy-Org/workflow_templates](https://github.com/Comfy-Org/workflow_templates/tree/main/templates), regenerated automatically by a scheduled GitHub Action. GitHub's web UI truncates that folder (it holds well over 1,000 files), so this repo gives each template its own page, grouped by category, with thumbnails, models, required custom nodes, model download links and the notes embedded in the workflow.
 
-Generated from [`Comfy-Org/workflow_templates@3e0d149`](https://github.com/Comfy-Org/workflow_templates/tree/3e0d149bff40f931538b918f0d6df7e232fcc17b/templates) (upstream commit 2026-11-25).
+Generated from [`Comfy-Org/workflow_templates@80cc275`](https://github.com/Comfy-Org/workflow_templates/tree/80cc2752a4b090d823b007baff8e242998f1bce6/templates) (upstream commit 2026-11-27).
 
 ### [🔎 Open the interactive template browser →](https://wasasquatch.github.io/comfyui_workflow_templates_relay/)
 
 Search, filter by model / tag / media type, preview, and download any workflow in one click.
 
-**781 templates** in 12 categories (328 open source, 453 API).
+**786 templates** in 12 categories (328 open source, 458 API).
 
-> **Nothing is truncated here.** Upstream `templates/` holds 1804 files (workflow JSONs plus their thumbnails, previews and index files), so GitHub's folder view stops at 1,000 and hides the rest. This README lists every one of the 781 workflow JSONs in that folder.
+> **Nothing is truncated here.** Upstream `templates/` holds 1814 files (workflow JSONs plus their thumbnails, previews and index files), so GitHub's folder view stops at 1,000 and hides the rest. This README lists every one of the 786 workflow JSONs in that folder.
 
 ## Categories
 
 | Group | Category | Templates | Output | Gallery |
 |---|---|---|---|---|
-| Foundation | [Image](#dir-image) | 235 | image | [thumbnails](catalog/image/README.md) |
+| Foundation | [Image](#dir-image) | 234 | image | [thumbnails](catalog/image/README.md) |
 | Foundation | [Image Tools](#dir-image-tools) | 58 | image | [thumbnails](catalog/image-tools/README.md) |
-| Foundation | [Video](#dir-video) | 229 | video | [thumbnails](catalog/video/README.md) |
+| Foundation | [Video](#dir-video) | 222 | video | [thumbnails](catalog/video/README.md) |
 | Foundation | [Video Tools](#dir-video-tools) | 59 | video | [thumbnails](catalog/video-tools/README.md) |
-| Foundation | [Audio](#dir-audio) | 50 | audio | [thumbnails](catalog/audio/README.md) |
-| Foundation | [3D Model](#dir-3d-model) | 52 | 3d | [thumbnails](catalog/3d-model/README.md) |
+| Foundation | [Audio](#dir-audio) | 51 | audio | [thumbnails](catalog/audio/README.md) |
+| Foundation | [3D Model](#dir-3d-model) | 53 | 3d | [thumbnails](catalog/3d-model/README.md) |
 | Foundation | [Vector](#dir-vector) | 9 | image | [thumbnails](catalog/vector/README.md) |
-| Foundation | [LLM](#dir-llm) | 23 | llm | [thumbnails](catalog/llm/README.md) |
+| Foundation | [LLM](#dir-llm) | 25 | llm | [thumbnails](catalog/llm/README.md) |
 | Foundation | [Node Basics](#dir-node-basics) | 7 | image | [thumbnails](catalog/node-basics/README.md) |
 | Applied | [Product & Ads](#dir-product-ads) | 16 | image | [thumbnails](catalog/product-ads/README.md) |
-| Applied | [Character & Fashion](#dir-character-fashion) | 28 | image | [thumbnails](catalog/character-fashion/README.md) |
+| Applied | [Character & Fashion](#dir-character-fashion) | 37 | image | [thumbnails](catalog/character-fashion/README.md) |
 | Applied | [Brand & Design](#dir-brand-design) | 15 | image | [thumbnails](catalog/brand-design/README.md) |
 
 ## Indexes
@@ -43,7 +43,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 
 <a id="dir-image"></a>
 
-### Image (235)
+### Image (234)
 
 [Gallery with thumbnails](catalog/image/README.md)
 
@@ -53,7 +53,6 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [Z-Image-Turbo: Text to Image](catalog/image/image_z_image_turbo.md) | Z-Image-Turbo | image | open source | 2025-11-27 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_turbo.json) |
 | [Krea-2: Text to Image](catalog/image/image_krea2_turbo_t2i.md) | Krea 2 | image | open source | 2026-06-24 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_krea2_turbo_t2i.json) |
 | [MiniMax-H3-Image: Image Edit](catalog/image/image_minimax_h3_image_edit.md) | MiniMax H3 Image | image | open source | 2026-11-10 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_edit.json) |
-| [MiniMax-H3-Image: Character Swap](catalog/image/image_minimax_h3_image_character_swap.md) | MiniMax H3 Image | image | open source | 2026-11-22 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_character_swap.json) |
 | [MiniMax-H3-Image: Text to Image](catalog/image/image_minimax_h3_image_t2i.md) | MiniMax H3 Image | image | open source | 2026-11-10 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_t2i.json) |
 | [Nano Banana 2.1: Text to Image](catalog/image/api_nano_banana_2_1_t2i.md) | Nano Banana | image | API | 2026-10-06 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_1_t2i.json) |
 | [Nano Banana 2.1: Image Edit](catalog/image/api_nano_banana_2_1_image_edit.md) | Nano Banana | image | API | 2026-10-06 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_1_image_edit.json) |
@@ -205,8 +204,8 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [Boogu Turbo: Text to Image](catalog/image/image_boogu_image_0_1_turbo_t2i.md) | Boogu | image | open source | 2026-06-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_boogu_image_0_1_turbo_t2i.json) |
 | [Boogu image 0.1 Edit Int8](catalog/image/image_boogu_image_0_1_edit_int8.md) | Boogu | image | open source | 2026-07-10 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_boogu_image_0_1_edit_int8.json) |
 | [Magnific: Style Reference](catalog/image/api_magnific_image_style_transfer.md) | Magnific | image | API | 2026-01-26 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_image_style_transfer.json) |
-| [Ming Image 0.1 Design: Image Edit](catalog/image/image_ming_image_01_design_image_edit.md) | Ming Image | image | open source | 2026-09-29 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_image_edit.json) |
-| [Ming Image 0.1 Design: Text to Image](catalog/image/image_ming_image_01_design_t2i.md) | Ming Image | image | open source | 2026-09-25 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_t2i.json) |
+| [Ming Image 0.2 Design: Image Edit](catalog/image/image_ming_image_01_design_image_edit.md) | Ming Image | image | open source | 2026-11-26 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_image_edit.json) |
+| [Ming Image 0.2 Design: Text to Image](catalog/image/image_ming_image_01_design_t2i.md) | Ming Image | image | open source | 2026-11-26 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_t2i.json) |
 | [NewBie Exp0.1: Anime Generation](catalog/image/image_newbieimage_exp0_1-t2i.md) | NewBie | image | open source | 2025-12-19 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_newbieimage_exp0_1-t2i.json) |
 | [ChronoEdit 14B: Image Edit](catalog/image/image_chrono_edit_14B.md) | Wan2.1, ChronoEdit, Nvidia | image | open source | 2025-11-03 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_chrono_edit_14B.json) |
 | [Wan2.5: Text to Image](catalog/image/api_wan_text_to_image.md) | Wan2.5, Wan | image | API | 2025-09-25 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan_text_to_image.json) |
@@ -358,7 +357,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 
 <a id="dir-video"></a>
 
-### Video (229)
+### Video (222)
 
 [Gallery with thumbnails](catalog/video/README.md)
 
@@ -393,9 +392,6 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [Seedance 2.5 Flash: Text to Video](catalog/video/api_bytedance_seedance2_5_flash_t2v.md) | Seedance 2.5 | video | API | 2026-11-15 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_t2v.json) |
 | [Seedance 2.5 Flash: Image to Video](catalog/video/api_bytedance_seedance2_5_flash_i2v.md) | Seedance 2.5 | video | API | 2026-11-15 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_i2v.json) |
 | [Seedance 2.5 Flash: Reference to Video](catalog/video/api_bytedance_seedance2_5_flash_r2v.md) | Seedance 2.5 | video | API | 2026-11-15 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_r2v.json) |
-| [HeyGen Avatar 6: Photo to Video](catalog/video/api_heygen_avatar_6_i2v.md) | HeyGen Avatar 6 | video | API | 2026-11-17 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_i2v.json) |
-| [HeyGen Avatar 6: Identity to Video](catalog/video/api_heygen_avatar_6_id2v.md) | HeyGen Avatar 6 | video | API | 2026-11-17 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_id2v.json) |
-| [HeyGen Video 1.0: Image to Video](catalog/video/api_heygen_video_1_i2v.md) | HeyGen | video | API | 2026-09-30 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_i2v.json) |
 | [Wan 2.2 14B First-Last Frame to Video](catalog/video/video_wan2_2_14B_flf2v.md) | Wan2.2, Wan | video | open source | 2025-08-02 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_flf2v.json) |
 | [Wan 2.2 5B Video Generation](catalog/video/video_wan2_2_5B_ti2v.md) | Wan2.2, Wan | video | open source | 2025-07-29 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_5B_ti2v.json) |
 | [Wan 2.2 14B Text to Video](catalog/video/video_wan2_2_14B_t2v.md) | Wan2.2, Wan | video | open source | 2025-07-29 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_t2v.json) |
@@ -435,7 +431,6 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [MiniMax H3: Reference to Video](catalog/video/api_minimax_h3_r2v.md) | MiniMax H3 | video | API | 2026-07-30 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_r2v.json) |
 | [MiniMax H3 Max: Text to Video](catalog/video/api_minimax_h3_max_t2v.md) | MiniMax H3 | video | API | 2026-09-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_t2v.json) |
 | [MiniMax H3 Fun ControlNet Union](catalog/video/video_minimax_h3_fun_controlnet_union.md) | MiniMax H3 | video | open source | 2026-09-07 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_fun_controlnet_union.json) |
-| [HeyGen Video 1.0: Reference to Video](catalog/video/api_heygen_video_1_r2v.md) | HeyGen | video | API | 2026-09-30 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_r2v.json) |
 | [Gemini Omni 1.2 Flash: Text to Video](catalog/video/api_google_gemini_omni_flash_1_2_t2v.md) | Gemini Omni 1.2 Flash | video | API | 2026-11-06 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_t2v.json) |
 | [Gemini Omni 1.1 Flash: Image to Video](catalog/video/api_google_gemini_omni_flash_1_1_i2v.md) | Gemini Omni 1.1 Flash | video | API | 2026-08-27 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_i2v.json) |
 | [Gemini Omni 1.1 Flash: Reference to Video](catalog/video/api_google_gemini_omni_flash_1_1_r2v.md) | Gemini Omni 1.1 Flash | video | API | 2026-08-27 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_r2v.json) |
@@ -513,10 +508,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [Vidu Q4 Preview: Reference to Video](catalog/video/api_vidu_q4_preview_r2v.md) | Vidu Q4 | video | API | 2026-10-07 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q4_preview_r2v.json) |
 | [Vidu Q1: Text to Video](catalog/video/api_vidu_text_to_video.md) | Vidu Q1, Vidu | video | API | 2025-08-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_text_to_video.json) |
 | [Vidu Q2: Text to Video](catalog/video/api_vidu_q2_t2v.md) | Vidu Q2, Vidu | video | API | 2026-01-12 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q2_t2v.json) |
-| [HeyGen Video 1.0: Text to Video](catalog/video/api_heygen_video_1_t2v.md) | HeyGen | video | API | 2026-09-30 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_t2v.json) |
-| [HeyGen: Talking Photo](catalog/video/api_heygen_talking_photo.md) | HeyGen | video | API | 2026-07-21 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_talking_photo.json) |
 | [HeyGen: Video Translate](catalog/video/api_heygen_video_translate.md) | HeyGen | video | API | 2026-07-21 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_translate.json) |
-| [HeyGen: Avatar Video](catalog/video/api_heygen_avatar_video.md) | HeyGen | video | API | 2026-07-21 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_video.json) |
 | [LTX-2.5 (Pro): FLF2V](catalog/video/api_ltx2_5_flf2v.md) | LTX-2.5 | video | API | 2026-08-11 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx2_5_flf2v.json) |
 | [LTX-2.3 Style Transition](catalog/video/template_ltx2_3_style_transition.md) | LTX-2.3 | video | open source | 2026-03-30 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_style_transition.json) |
 | [LTX-2.5 (Pro): Text to Video](catalog/video/api_ltx2_5_t2v.md) | LTX-2.5 | video | API | 2026-08-11 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx2_5_t2v.json) |
@@ -668,12 +660,13 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 
 <a id="dir-audio"></a>
 
-### Audio (50)
+### Audio (51)
 
 [Gallery with thumbnails](catalog/audio/README.md)
 
 | Template | Models | Output | Type | Date | JSON |
 |---|---|---|---|---|---|
+| [HeyGen Voice 1.0: Instant Clone TTS](catalog/audio/api_heygen_voice_1_instant_clone.md) | HeyGen Voice 1.0 | audio | API | 2026-11-24 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_voice_1_instant_clone.json) |
 | [Eleven v4: Text to Speech](catalog/audio/api_elevenlabs_v4_text_to_speech.md) | ElevenLabs | audio | API | 2026-10-02 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_v4_text_to_speech.json) |
 | [MiniMax Music 3: Text to Music](catalog/audio/audio_minimax_music_3.md) | MiniMax Music 3 | audio | open source | 2026-08-13 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_minimax_music_3.json) |
 | [Fish Audio: Voice Clone to Speech](catalog/audio/api_fishaudio_voice_clone_tts.md) | Fish Audio | audio | API | 2026-08-31 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_voice_clone_tts.json) |
@@ -729,7 +722,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 
 <a id="dir-3d-model"></a>
 
-### 3D Model (52)
+### 3D Model (53)
 
 [Gallery with thumbnails](catalog/3d-model/README.md)
 
@@ -747,6 +740,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [HY 3D 2.0 MV](catalog/3d-model/3d_hunyuan3d_multiview_to_model.md) | Hunyuan3D, Tencent | 3d | open source | 2025-03-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_hunyuan3d_multiview_to_model.json) |
 | [HY 3D 2.0](catalog/3d-model/3d_hunyuan3d_image_to_model.md) | Hunyuan3D, Tencent | 3d | open source | 2025-03-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_hunyuan3d_image_to_model.json) |
 | [Meshy 7.1: Image to 3D](catalog/3d-model/api_meshy7_1_image_to_model.md) | Meshy | 3d | API | 2026-09-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy7_1_image_to_model.json) |
+| [Meshy: Image to Relief](catalog/3d-model/api_meshy_image_to_relief.md) | Meshy | 3d | API | 2026-11-24 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_image_to_relief.json) |
 | [Meshy 7: Image to 3D](catalog/3d-model/api_meshy7_image_to_model.md) | Meshy | 3d | API | 2026-08-24 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy7_image_to_model.json) |
 | [Meshy T2.5: Image to Model (Smart Topology)](catalog/3d-model/api_meshy_t2_5_smart_topology_i2m.md) | Meshy | 3d | API | 2026-10-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_t2_5_smart_topology_i2m.json) |
 | [Tripo H3.1: Multiview to Model](catalog/3d-model/api_tripo3_1_multiview_to_model.md) | Tripo | 3d | API | 2026-05-09 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_1_multiview_to_model.json) |
@@ -763,10 +757,10 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [Meshy 6: Text to Model](catalog/3d-model/api_meshy_text_to_model.md) | Meshy | 3d | API | 2026-01-19 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_text_to_model.json) |
 | [Meshy T2.5: Text to Model (Smart Topology)](catalog/3d-model/api_meshy_t2_5_smart_topology_t2m.md) | Meshy | 3d | API | 2026-10-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_t2_5_smart_topology_t2m.json) |
 | [Meshy 6: Image to Model](catalog/3d-model/api_meshy_image_to_model.md) | Meshy | 3d | API | 2026-01-19 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_image_to_model.json) |
-| [Tripo: Multiview to Model](catalog/3d-model/api_tripo_multiview_to_model.md) | Tripo | 3d | API | 2025-03-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_multiview_to_model.json) |
+| [Tripo 2.5: Multiview to Model](catalog/3d-model/api_tripo_multiview_to_model.md) | Tripo | 3d | API | 2025-03-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_multiview_to_model.json) |
 | [Tripo P2: Text to Model](catalog/3d-model/api_tripo_p2_text_to_model.md) | Tripo, Tripo P2 | 3d | API | 2026-09-16 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_text_to_model.json) |
 | [Tripo P1: Image to Model](catalog/3d-model/api_tripo_p1_image_to_model.md) | Tripo P1 | 3d | API | 2026-05-28 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p1_image_to_model.json) |
-| [Tripo: Image to Model](catalog/3d-model/api_tripo_image_to_model.md) | Tripo | 3d | API | 2025-03-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_image_to_model.json) |
+| [Tripo 2.5: Image to Model](catalog/3d-model/api_tripo_image_to_model.md) | Tripo | 3d | API | 2025-03-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_image_to_model.json) |
 | [Meshy 7: Text to 3D](catalog/3d-model/api_meshy7_text_to_model.md) | Meshy | 3d | API | 2026-08-24 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy7_text_to_model.json) |
 | [Generate 3D Model From Single Image](catalog/3d-model/templates_mjm_image_to_3d.md) | Meshy, Nano Banana 2 | 3d | API | 2026-03-19 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_mjm_image_to_3d.json) |
 | [Meshy 7.1: Text to Model](catalog/3d-model/api_meshy7_1_text_to_model.md) | Meshy | 3d | API | 2026-09-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy7_1_text_to_model.json) |
@@ -776,7 +770,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [Tripo P1: Multiview to Model](catalog/3d-model/api_tripo_p1_mv_to_model.md) | Tripo P1 | 3d | API | 2026-05-28 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p1_mv_to_model.json) |
 | [Tripo H3.1: Text to Model](catalog/3d-model/api_tripo3_1_text_to_model.md) | Tripo | 3d | API | 2026-05-09 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_1_text_to_model.json) |
 | [Tripo3.0: Text to Model](catalog/3d-model/api_tripo3_0_text_to_model.md) | Tripo | 3d | API | 2025-12-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_0_text_to_model.json) |
-| [Tripo: Text to Model](catalog/3d-model/api_tripo_text_to_model.md) | Tripo | 3d | API | 2025-03-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_text_to_model.json) |
+| [Tripo 2.5: Text to Model](catalog/3d-model/api_tripo_text_to_model.md) | Tripo | 3d | API | 2025-03-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_text_to_model.json) |
 | [Hunyuan3D: Model Retopology and UV Unwrapping](catalog/3d-model/api_hunyuan3d_retopo_uv.md) | Hunyuan3D | 3d | API | 2026-03-07 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_hunyuan3d_retopo_uv.json) |
 | [Hunyuan3D: Text to Model](catalog/3d-model/api_hunyuan3d_text_to_model.md) | Hunyuan3D | 3d | API | 2026-01-26 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_hunyuan3d_text_to_model.json) |
 | [HY 3D: 3D Parts Decomposition](catalog/3d-model/api_hunyuan3d_part.md) | Hunyuan3D | 3d | API | 2026-02-13 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_hunyuan3d_part.json) |
@@ -812,21 +806,23 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 
 <a id="dir-llm"></a>
 
-### LLM (23)
+### LLM (25)
 
 [Gallery with thumbnails](catalog/llm/README.md)
 
 | Template | Models | Output | Type | Date | JSON |
 |---|---|---|---|---|---|
-| [HeyGen Decision 1: Gate and Pick](catalog/llm/api_heygen_decision_1.md) | HeyGen Decision 1 | llm | API | 2026-11-21 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_decision_1.json) |
-| [Google: Gemini 4 Hydrogen](catalog/llm/api_google_gemini_4_hydrogen.md) | Google, Google Gemini | llm | API | 2026-11-12 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_4_hydrogen.json) |
 | [Qwen3.5: Text Generation](catalog/llm/llm_qwen3_5_text_gen.md) | Qwen3.5 | llm | open source | 2026-03-27 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_qwen3_5_text_gen.json) |
 | [Qwen3-VL: Text Generation](catalog/llm/llm_qwen3vl_text_gen.md) | Qwen 3.0 | llm | open source | 2026-06-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_qwen3vl_text_gen.json) |
 | [Grok: Grok 4.5](catalog/llm/api_openrouter_grok4_5.md) | Grok | llm | API | 2026-07-22 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_grok4_5.json) |
 | [Claude: Opus 5.5](catalog/llm/api_anthropic_claude_opus_5_5.md) | Claude | llm | API | 2026-09-23 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_anthropic_claude_opus_5_5.json) |
 | [Tencent: Hy4](catalog/llm/api_tencent_hy4.md) | Hy4 | llm | API | 2026-11-05 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tencent_hy4.json) |
+| [TypeSafe Jev: Gate, Score, Classify, Pick](catalog/llm/api_typesafe_jev_decision.md) | TypeSafe Jev | llm | API | 2026-11-24 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_typesafe_jev_decision.json) |
+| [HeyGen Decision 1: Gate and Pick](catalog/llm/api_heygen_decision_1.md) | HeyGen Decision 1 | llm | API | 2026-11-21 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_decision_1.json) |
+| [Gemini Decision 1: Gate, Score, Classify, Pick](catalog/llm/api_gemini_decision.md) | Gemini Decision 1, Google | llm | API | 2026-11-25 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_gemini_decision.json) |
 | [Gemma4: Text Generation](catalog/llm/llm_gemma4_text_gen.md) | Gemma 4 | llm | open source | 2026-05-01 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_gemma4_text_gen.json) |
 | [Claude: Fable 5.1](catalog/llm/api_anthropic_claude_fable5_1.md) | Claude | llm | API | 2026-09-04 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_anthropic_claude_fable5_1.json) |
+| [Google: Gemini 4 Hydrogen](catalog/llm/api_google_gemini_4_hydrogen.md) | Google, Google Gemini | llm | API | 2026-11-12 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_4_hydrogen.json) |
 | [Claude: Sonnet 5](catalog/llm/api_anthropic_claude_sonnet5.md) | Claude | llm | API | 2026-07-22 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_anthropic_claude_sonnet5.json) |
 | [Claude: Opus 5](catalog/llm/api_anthropic_claude_opus_5.md) | Claude | llm | API | 2026-07-28 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_anthropic_claude_opus_5.json) |
 | [GPT-5.6: Sol](catalog/llm/api_openrouter_gpt5_6_sol.md) | ChatGPT | llm | API | 2026-07-22 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_gpt5_6_sol.json) |
@@ -871,7 +867,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | Template | Models | Output | Type | Date | JSON |
 |---|---|---|---|---|---|
 | [3x3 Grid For Product Ads](catalog/product-ads/templates-9grid_social_media-v2.0.md) | Nano Banana Pro, Google | image | API | 2025-12-06 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-9grid_social_media-v2.0.json) |
-| [Kling 3.0: 1 Click Multishot](catalog/product-ads/templates_rob_kling3_0_multishot_llm_product.md) | Kling 3.0 | video | API | 2026-03-18 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_kling3_0_multishot_llm_product.json) |
+| [Kling 3.0: 1 Click Multishot](catalog/product-ads/templates_rob_kling3_0_multishot_llm_product.md) | Kling 3.0 | image | API | 2026-03-18 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_kling3_0_multishot_llm_product.json) |
 | [1 Image to Car Product Shots](catalog/product-ads/templates-car_product.md) | Kling, Seedream | image | API | 2025-12-18 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-car_product.json) |
 | [Product Scene Transformation](catalog/product-ads/templates_product_scene_transformation.md) | Kling, Nano Banana Pro, Wan | video | API | 2026-02-10 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_product_scene_transformation.json) |
 | [Generate Brand Packaging from Dieline](catalog/product-ads/templates-assemble_dieline.md) | Google, Google Gemini Image, Nano Banana Pro | image | API | 2025-12-15 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-assemble_dieline.json) |
@@ -891,7 +887,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 
 <a id="dir-character-fashion"></a>
 
-### Character & Fashion (28)
+### Character & Fashion (37)
 
 [Gallery with thumbnails](catalog/character-fashion/README.md)
 
@@ -925,6 +921,15 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [Fashion Editorial Shots](catalog/character-fashion/templates-2x2_grid-character_bg_product.md) | Nano Banana Pro, Google, Google Gemini Image | image | API | 2026-01-13 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-2x2_grid-character_bg_product.json) |
 | [Selfie + Text Prompt to Studio Photoshoot Doodle](catalog/character-fashion/templates-fashion_shoot_prompt_doodle.md) | Google Gemini Image, Nano Banana Pro, Google, Gemini3 Pro Image Preview | image | API | 2025-12-15 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-fashion_shoot_prompt_doodle.json) |
 | [Profile Picture Stylized Variations](catalog/character-fashion/templates-8x8_grid-pfp.md) | Nano Banana Pro, Google, Gemini3 Pro Image Preview | image | API | 2025-12-18 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-8x8_grid-pfp.json) |
+| [MiniMax-H3-Image: Character Swap](catalog/character-fashion/image_minimax_h3_image_character_swap.md) | MiniMax H3 Image | image | open source | 2026-11-10 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_character_swap.json) |
+| [HeyGen Avatar 6: Identity to Video](catalog/character-fashion/api_heygen_avatar_6_id2v.md) | HeyGen Avatar 6 | video | API | 2026-11-17 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_id2v.json) |
+| [HeyGen Avatar 6: Photo to Video](catalog/character-fashion/api_heygen_avatar_6_i2v.md) | HeyGen Avatar 6 | video | API | 2026-11-17 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_i2v.json) |
+| [Creatify Aurora 2.0: Talking Avatar](catalog/character-fashion/api_creatify_aurora_2_avatar.md) | Creatify Aurora 2.0 | video | API | 2026-11-20 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_creatify_aurora_2_avatar.json) |
+| [HeyGen: Avatar Video](catalog/character-fashion/api_heygen_avatar_video.md) | HeyGen | video | API | 2026-07-21 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_video.json) |
+| [HeyGen: Talking Photo](catalog/character-fashion/api_heygen_talking_photo.md) | HeyGen | video | API | 2026-07-21 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_talking_photo.json) |
+| [HeyGen Video 1.0: Text to Video](catalog/character-fashion/api_heygen_video_1_t2v.md) | HeyGen | video | API | 2026-09-30 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_t2v.json) |
+| [HeyGen Video 1.0: Reference to Video](catalog/character-fashion/api_heygen_video_1_r2v.md) | HeyGen | video | API | 2026-09-30 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_r2v.json) |
+| [HeyGen Video 1.0: Image to Video](catalog/character-fashion/api_heygen_video_1_i2v.md) | HeyGen | video | API | 2026-09-30 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_i2v.json) |
 
 [↑ Top](#categories)
 

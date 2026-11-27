@@ -23,8 +23,8 @@
 | Type | API |
 | Date | 2025-12-15 |
 | Author | hellorob |
-| Min ComfyUI version | 0.33.3 |
-| Usage | 13 |
+| Min ComfyUI version | 0.34.0 |
+| Usage | 75 |
 | Nodes | 10 |
 
 ## Inputs & outputs
@@ -46,7 +46,7 @@
 | `LoadImage` | 2 |  |
 | `PrimitiveStringMultiline` | 2 |  |
 | `BatchImagesNode` | 1 |  |
-| `ByteDanceSeedreamNode` | 1 |  |
+| `ByteDanceSeedreamNodeV3` | 1 |  |
 | `GetImageSize` | 1 |  |
 | `RegexReplace` | 1 |  |
 | `ResizeAndPadImage` | 1 |  |

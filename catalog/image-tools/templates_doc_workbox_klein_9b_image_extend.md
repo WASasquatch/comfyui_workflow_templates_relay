@@ -26,7 +26,7 @@
 | Author | Doc_workBox |
 | Download size | 15.6 GB |
 | Min ComfyUI version | 0.9.2 |
-| Usage | 265 |
+| Usage | 264 |
 | Nodes | 24 |
 
 ## Inputs & outputs

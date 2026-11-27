@@ -37,7 +37,7 @@
 
 | Node | Count | Pack |
 |---|---|---|
-| `Preview3D` | 4 | comfy-core |
+| `Preview3DAdvanced` | 4 | comfy-core |
 | `BatchImagesNode` | 1 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `Note` | 1 |  |

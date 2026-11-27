@@ -19,13 +19,13 @@
 | Category | Foundation › LLM |
 | Output | llm |
 | Models | Qwen 3.0 |
-| Tags | Text Generation |
+| Tags | Text Generation, Int8 |
 | Type | open source |
 | Date | 2026-06-23 |
 | Author | ComfyUI |
-| Download size | 4.9 GB |
+| Download size | 8.7 GB |
 | Min ComfyUI version | 0.44.0 |
-| Usage | 99 |
+| Usage | 119 |
 | Nodes | 5 |
 
 ## Inputs & outputs
@@ -38,7 +38,7 @@
 
 | File | Folder (`ComfyUI/models/…`) | Download |
 |---|---|---|
-| `qwen3vl_4b_fp8_scaled.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Qwen3-VL/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors) |
+| `qwen3vl_8b_int8_convrot.safetensors` | `text_encoders` | [link](https://huggingface.co/Comfy-Org/Qwen3-VL/resolve/main/text_encoders/qwen3vl_8b_int8_convrot.safetensors) |
 
 ## Nodes used
 
@@ -69,7 +69,7 @@
 
 **text_encoders**
 
-- [qwen3vl_4b_fp8_scaled.safetensors](https://huggingface.co/Comfy-Org/Qwen3-VL/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors) (4.88 GB)
+- [qwen3vl_8b_int8_convrot.safetensors](https://huggingface.co/Comfy-Org/Qwen3-VL/resolve/main/text_encoders/qwen3vl_8b_int8_convrot.safetensors) (9.35 GB)
 
 ## Model Storage Location
 
@@ -77,7 +77,7 @@
 📂 ComfyUI/
 ├── 📂 models/
 │   └── 📂 text_encoders/
-│       └── qwen3vl_4b_fp8_scaled.safetensors
+│       └── qwen3vl_8b_int8_convrot.safetensors
 ```
 
 ## Report Issue

@@ -1,8 +1,8 @@
-# Tripo: Image to Model
+# Tripo 2.5: Image to Model
 
 [← 3D Model](README.md) · [All categories](../README.md) · [All templates](../all.md) · [Open in browser](https://wasasquatch.github.io/comfyui_workflow_templates_relay/#t=api_tripo_image_to_model)
 
-<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_image_to_model-1.webp" width="360" alt="Tripo: Image to Model api_tripo_image_to_model-1.webp">
+<img src="https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_image_to_model-1.webp" width="360" alt="Tripo 2.5: Image to Model api_tripo_image_to_model-1.webp">
 
 > Generate professional 3D assets from 2D images using Tripo engine.
 
@@ -23,7 +23,7 @@
 | Type | API |
 | Date | 2025-03-01 |
 | Author | ComfyUI |
-| Min ComfyUI version | 0.35.1 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 16 |
 | Nodes | 8 |
 
@@ -40,10 +40,10 @@
 | `SaveGLB` | 2 | comfy-core |
 | `LoadImage` | 1 | comfy-core |
 | `MarkdownNote` | 1 |  |
-| `TripoImageToModelNode` | 1 | comfy-core |
+| `TripoImageToModelNodeV2` | 1 | comfy-core |
 | `TripoRetargetNode` | 1 | comfy-core |
 | `TripoRigNode` | 1 | comfy-core |
-| `TripoTextureNode` | 1 | comfy-core |
+| `TripoTextureNodeV2` | 1 | comfy-core |
 
 ## Notes embedded in the workflow
 

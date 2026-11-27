@@ -24,7 +24,7 @@
 | Date | 2026-03-03 |
 | Author | Julien \| MJM |
 | Download size | 19.3 GB |
-| Min ComfyUI version | 0.35.2 |
+| Min ComfyUI version | 0.36.0 |
 | Usage | 10 |
 | Nodes | 132 |
 
@@ -68,7 +68,7 @@
 | `KSampler` | 10 | comfy-core |
 | `LoraLoaderModelOnly` | 10 | comfy-core |
 | `VAEDecode` | 10 | comfy-core |
-| `GeminiNode` | 6 |  |
+| `GeminiNodeV3` | 6 |  |
 | `CLIPTextEncode` | 5 | comfy-core |
 | `ConditioningZeroOut` | 5 | comfy-core |
 | `EmptySD3LatentImage` | 5 | comfy-core |
