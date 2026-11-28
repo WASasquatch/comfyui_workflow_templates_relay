@@ -24,7 +24,7 @@
 | Date | 2026-03-19 |
 | Author | Julien \| MJM |
 | Min ComfyUI version | 0.36.0 |
-| Usage | 32 |
+| Usage | 40 |
 | Nodes | 12 |
 
 ## Inputs & outputs

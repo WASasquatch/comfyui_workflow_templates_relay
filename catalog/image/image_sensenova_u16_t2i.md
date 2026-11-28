@@ -24,7 +24,7 @@
 | Date | 2026-11-23 |
 | Author | ComfyUI |
 | Min ComfyUI version | 0.46.0 |
-| Usage | 249 |
+| Usage | 442 |
 | Nodes | 46 |
 
 ## Inputs & outputs

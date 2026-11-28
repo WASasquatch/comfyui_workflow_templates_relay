@@ -18,12 +18,12 @@
 | Name | `api_openai_fashion_billboard_generator` |
 | Category | Foundation › Image |
 | Output | image |
-| Models | GPT-Image-1.5, OpenAI |
+| Models | GPT Image 2.6, OpenAI |
 | Tags | Image Edit, Image, API |
 | Type | API |
 | Date | 2025-12-18 |
 | Author | ComfyUI |
-| Min ComfyUI version | 0.21.1 |
+| Min ComfyUI version | 0.44.1 |
 | Usage | 9 |
 | Nodes | 5 |
 

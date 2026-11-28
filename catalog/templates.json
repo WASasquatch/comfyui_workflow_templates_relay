@@ -1,7 +1,7 @@
 {
  "source": {
-  "commit": "80cc2752a4b090d823b007baff8e242998f1bce6",
-  "commitDate": "2026-11-27T11:14:38-05:00",
+  "commit": "5a0d3d5fe921e72d3dfcaa6627f45ee95bacd150",
+  "commitDate": "2026-11-28T05:06:53+08:00",
   "ref": "main",
   "repo": "Comfy-Org/workflow_templates"
  },
@@ -96,7 +96,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_image_edit-2.webp"
    ],
    "title": "Qwen Image 2.1: Image Edit",
-   "usage": 11848,
+   "usage": 11261,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_image_edit.json"
   },
@@ -171,7 +171,7 @@
    ],
    "title": "Z-Image-Turbo: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/z-image/z-image-turbo",
-   "usage": 12576,
+   "usage": 11883,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_turbo.json"
   },
@@ -246,7 +246,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_krea2_turbo_t2i-1.webp"
    ],
    "title": "Krea-2: Text to Image",
-   "usage": 8594,
+   "usage": 8677,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_krea2_turbo_t2i.json"
   },
@@ -339,7 +339,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_edit-1.webp"
    ],
    "title": "MiniMax-H3-Image: Image Edit",
-   "usage": 7585,
+   "usage": 6553,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_edit.json"
   },
@@ -422,7 +422,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_t2i-1.webp"
    ],
    "title": "MiniMax-H3-Image: Text to Image",
-   "usage": 4644,
+   "usage": 4223,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_t2i.json"
   },
@@ -477,7 +477,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_1_t2i-1.webp"
    ],
    "title": "Nano Banana 2.1: Text to Image",
-   "usage": 3335,
+   "usage": 3093,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_1_t2i.json"
   },
@@ -532,7 +532,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_1_image_edit-1.webp"
    ],
    "title": "Nano Banana 2.1: Image Edit",
-   "usage": 2473,
+   "usage": 2429,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_1_image_edit.json"
   },
@@ -608,7 +608,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_t2i-1.webp"
    ],
    "title": "MOSS-Image: Text to Image",
-   "usage": 5389,
+   "usage": 5684,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_t2i.json"
   },
@@ -697,7 +697,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_edit-2.webp"
    ],
    "title": "MOSS-Image: Image Edit LoRA",
-   "usage": 1315,
+   "usage": 1207,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_edit.json"
   },
@@ -804,7 +804,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_p_h3_image_edit-2.webp"
    ],
    "title": "P-H3-Image: Image Edit",
-   "usage": 1966,
+   "usage": 1315,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_p_h3_image_edit.json"
   },
@@ -906,7 +906,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_sensenova_u16_image_edit-2.webp"
    ],
    "title": "SenseNova U1.6: Image Edit",
-   "usage": 245,
+   "usage": 474,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_sensenova_u16_image_edit.json"
   },
@@ -993,7 +993,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_sensenova_u16_t2i-1.webp"
    ],
    "title": "SenseNova U1.6: Text to Image",
-   "usage": 249,
+   "usage": 442,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_sensenova_u16_t2i.json"
   },
@@ -1086,7 +1086,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_p_h3_t2i-1.webp"
    ],
    "title": "P-H3-Image: Text to Image",
-   "usage": 673,
+   "usage": 398,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_p_h3_t2i.json"
   },
@@ -1147,7 +1147,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_pro_image_edit-2.webp"
    ],
    "title": "Seedream 5.0 Pro: Image Edit",
-   "usage": 3885,
+   "usage": 3895,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_pro_image_edit.json"
   },
@@ -1201,7 +1201,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_pro_t2i-1.webp"
    ],
    "title": "Seedream 5.0 Pro: Text to Image",
-   "usage": 2273,
+   "usage": 2176,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_pro_t2i.json"
   },
@@ -1256,7 +1256,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_5_image_edit-1.webp"
    ],
    "title": "Seedream 5.5: Image Edit",
-   "usage": 4234,
+   "usage": 4103,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_5_image_edit.json"
   },
@@ -1331,7 +1331,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_pro-2.webp"
    ],
    "title": "Nano Banana Pro",
-   "usage": 3145,
+   "usage": 2717,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_pro.json"
   },
@@ -1418,7 +1418,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_turbo_image_edit-2.webp"
    ],
    "title": "Qwen Image 2.1 Turbo: Image edit",
-   "usage": 2000,
+   "usage": 1912,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_turbo_image_edit.json"
   },
@@ -1508,7 +1508,7 @@
    ],
    "title": "Qwen Image Edit 2509",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-edit",
-   "usage": 1774,
+   "usage": 1550,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_edit_2509.json"
   },
@@ -1591,7 +1591,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_t2i-1.webp"
    ],
    "title": "Qwen Image 2.1: Text to Image",
-   "usage": 1772,
+   "usage": 1534,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_t2i.json"
   },
@@ -1658,7 +1658,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_image_edit-2.webp"
    ],
    "title": "Grok: Image Edit",
-   "usage": 1950,
+   "usage": 1871,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_image_edit.json"
   },
@@ -1714,7 +1714,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_25_sunburst_image_edit-1.webp"
    ],
    "title": "GPT Image 2.5 Sunburst: Image Edit",
-   "usage": 1161,
+   "usage": 1099,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_25_sunburst_image_edit.json"
   },
@@ -1768,7 +1768,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_26_sunburst_t2i-1.webp"
    ],
    "title": "GPT Image 2.6 Sunburst: Text to Image",
-   "usage": 1655,
+   "usage": 1466,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_26_sunburst_t2i.json"
   },
@@ -1824,7 +1824,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_25_flare_image_edit-1.webp"
    ],
    "title": "GPT Image 2.5 Flare: Image Edit",
-   "usage": 438,
+   "usage": 370,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_25_flare_image_edit.json"
   },
@@ -1878,7 +1878,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_25_flare_t2i-1.webp"
    ],
    "title": "GPT Image 2.5 Flare: Text to Image",
-   "usage": 242,
+   "usage": 220,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_25_flare_t2i.json"
   },
@@ -1939,7 +1939,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_nano_banana2_image_edit-1.webp"
    ],
    "title": "Nano Banana 2: Image Edit",
-   "usage": 1323,
+   "usage": 1095,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_nano_banana2_image_edit.json"
   },
@@ -2013,7 +2013,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_base_t2i-1.webp"
    ],
    "title": "MOSS-Image Base: Text to Image",
-   "usage": 1486,
+   "usage": 1754,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_base_t2i.json"
   },
@@ -2067,7 +2067,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_image_edit-1.webp"
    ],
    "title": "FLUX 3 Image: Image Edit",
-   "usage": 779,
+   "usage": 691,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_image_edit.json"
   },
@@ -2137,7 +2137,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_t2i-1.webp"
    ],
    "title": "FLUX 3 Image Klein: Text to Image",
-   "usage": 687,
+   "usage": 897,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_t2i.json"
   },
@@ -2230,7 +2230,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_image_edit-2.webp"
    ],
    "title": "FLUX 3 Image Klein: Image Edit",
-   "usage": 461,
+   "usage": 464,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_image_edit.json"
   },
@@ -2335,7 +2335,7 @@
    ],
    "title": "FLUX.2 Dev",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-   "usage": 546,
+   "usage": 517,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2.json"
   },
@@ -2421,7 +2421,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_t2i-1.webp"
    ],
    "title": "MiniMax H3: Text to Image",
-   "usage": 800,
+   "usage": 538,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_t2i.json"
   },
@@ -2508,7 +2508,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_edit_2511_int8-2.webp"
    ],
    "title": "Qwen Image Edit 2511 Int8: Image Edit",
-   "usage": 789,
+   "usage": 909,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_edit_2511_int8.json"
   },
@@ -2593,7 +2593,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_turbo_t2i-1.webp"
    ],
    "title": "Qwen Image 2.1 Turbo: Text to Image",
-   "usage": 231,
+   "usage": 312,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_turbo_t2i.json"
   },
@@ -2698,7 +2698,7 @@
    ],
    "title": "Qwen Image Edit 2511 - Material Replacement",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-edit-2511",
-   "usage": 393,
+   "usage": 459,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_edit_2511.json"
   },
@@ -2766,7 +2766,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream4-1.webp"
    ],
    "title": "Seedream 4.0: Image Edit",
-   "usage": 642,
+   "usage": 605,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream4.json"
   },
@@ -2811,7 +2811,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_5_t2i-1.webp"
    ],
    "title": "Seedream 5.5: Text to Image",
-   "usage": 1601,
+   "usage": 1693,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_5_t2i.json"
   },
@@ -2876,7 +2876,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_lite_image_edit-2.webp"
    ],
    "title": "Seedream 5.0 Lite: Image Edit",
-   "usage": 708,
+   "usage": 786,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_lite_image_edit.json"
   },
@@ -2962,7 +2962,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_krea2_turbo_t2i_int8-1.webp"
    ],
    "title": "Krea-2 Int8: Text to Image",
-   "usage": 467,
+   "usage": 422,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_krea2_turbo_t2i_int8.json"
   },
@@ -3015,7 +3015,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea3_image_edit-1.webp"
    ],
    "title": "Krea 3: Image Edit",
-   "usage": 309,
+   "usage": 372,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea3_image_edit.json"
   },
@@ -3118,7 +3118,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_krea2_turbo_int8_image_style_reference-1.webp"
    ],
    "title": "Krea-2 Int8: Image Style Reference",
-   "usage": 520,
+   "usage": 484,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_krea2_turbo_int8_image_style_reference.json"
   },
@@ -3169,7 +3169,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea3_t2i-1.webp"
    ],
    "title": "Krea 3: Text to Image",
-   "usage": 206,
+   "usage": 189,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea3_t2i.json"
   },
@@ -3259,7 +3259,7 @@
    ],
    "title": "FLUX.2 [Klein] 4B Distilled: Image Edit",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-   "usage": 356,
+   "usage": 395,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_klein_image_edit_4b_distilled.json"
   },
@@ -3348,7 +3348,7 @@
    ],
    "title": "FLUX.2 [Klein] 9B: Image Edit",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-   "usage": 445,
+   "usage": 425,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_klein_image_edit_9b_base.json"
   },
@@ -3434,7 +3434,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_distilled_image_edit-2.webp"
    ],
    "title": "FLUX 3 Image Klein Distilled: Image Edit",
-   "usage": 274,
+   "usage": 221,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_distilled_image_edit.json"
   },
@@ -3528,7 +3528,7 @@
    ],
    "title": "Flux.1 Inpaint",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-fill-dev",
-   "usage": 303,
+   "usage": 353,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_fill_inpaint_example.json"
   },
@@ -3582,7 +3582,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_25_sunburst_t2i-1.webp"
    ],
    "title": "GPT Image 2.5 Sunburst: Text to Image",
-   "usage": 347,
+   "usage": 238,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_25_sunburst_t2i.json"
   },
@@ -3636,7 +3636,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_26_flare_image_edit-1.webp"
    ],
    "title": "GPT Image 2.6 Flare: Image Edit",
-   "usage": 479,
+   "usage": 491,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_26_flare_image_edit.json"
   },
@@ -3689,7 +3689,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_26_sunburst_image_edit-1.webp"
    ],
    "title": "GPT Image 2.6 Sunburst: Image Edit",
-   "usage": 647,
+   "usage": 629,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_26_sunburst_image_edit.json"
   },
@@ -3743,7 +3743,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_26_flare_t2i-1.webp"
    ],
    "title": "GPT Image 2.6 Flare: Text to Image",
-   "usage": 143,
+   "usage": 150,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_26_flare_t2i.json"
   },
@@ -3809,7 +3809,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_image_2_image_edit-1.webp"
    ],
    "title": "Grok Imagine Image 2.0: Image Edit",
-   "usage": 678,
+   "usage": 666,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_image_2_image_edit.json"
   },
@@ -3893,7 +3893,7 @@
    ],
    "title": "Anima Base v1: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/anima/anima",
-   "usage": 358,
+   "usage": 353,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_anima_base_v1.json"
   },
@@ -3966,7 +3966,7 @@
    ],
    "title": "Anima Anime Text-to-Image Generation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/anima/anima",
-   "usage": 216,
+   "usage": 209,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_anima_preview.json"
   },
@@ -4062,7 +4062,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_firered_image_edit1_1-2.webp"
    ],
    "title": "FireRed Image Edit 1.1: Image Edit",
-   "usage": 176,
+   "usage": 175,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_firered_image_edit1_1.json"
   },
@@ -4150,7 +4150,7 @@
    ],
    "title": "FLUX.2 Dev Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-   "usage": 260,
+   "usage": 231,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_text_to_image.json"
   },
@@ -4196,7 +4196,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_t2i-1.webp"
    ],
    "title": "FLUX 3 Image: Text to Image",
-   "usage": 183,
+   "usage": 194,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_t2i.json"
   },
@@ -4265,7 +4265,7 @@
    ],
    "title": "FLUX.2 [Klein] 9B: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-   "usage": 207,
+   "usage": 130,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_text_to_image_9b.json"
   },
@@ -4411,7 +4411,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_sdxl_simple-1.webp"
    ],
    "title": "SDXL1.0: Text to Image (Simple)",
-   "usage": 184,
+   "usage": 197,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_sdxl_simple.json"
   },
@@ -4465,7 +4465,7 @@
    ],
    "title": "SDXL Simple",
    "tutorialUrl": "https://comfyanonymous.github.io/ComfyUI_examples/sdxl/",
-   "usage": 224,
+   "usage": 51,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sdxl_simple_example.json"
   },
@@ -4540,7 +4540,7 @@
    ],
    "title": "Z-Image: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/z-image/z-image",
-   "usage": 310,
+   "usage": 299,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image.json"
   },
@@ -4626,7 +4626,7 @@
    ],
    "title": "Z-Image-Turbo Fun Union ControlNet",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/z-image/z-image-turbo",
-   "usage": 680,
+   "usage": 606,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_turbo_fun_union_controlnet.json"
   },
@@ -4700,7 +4700,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_turbo_int8-1.webp"
    ],
    "title": "Z-Image-Turbo Int8: Text to Image",
-   "usage": 45,
+   "usage": 67,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_turbo_int8.json"
   },
@@ -4785,7 +4785,7 @@
    ],
    "title": "Qwen Image 2512",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-2512",
-   "usage": 258,
+   "usage": 207,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_Image_2512.json"
   },
@@ -4883,7 +4883,7 @@
    ],
    "title": "Qwen-Image InstantX Inpainting ControlNet",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image",
-   "usage": 190,
+   "usage": 186,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_instantx_inpainting_controlnet.json"
   },
@@ -4939,7 +4939,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_qwen3_t2i-1.webp"
    ],
    "title": "Qwen Image 3.0 Pro: Text to Image",
-   "usage": 52,
+   "usage": 50,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_qwen3_t2i.json"
   },
@@ -5002,7 +5002,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_qwen3_image_edit-1.webp"
    ],
    "title": "Qwen Image 3.0 Pro: Image Edit",
-   "usage": 100,
+   "usage": 107,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_qwen3_image_edit.json"
   },
@@ -5059,7 +5059,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_6_image_edit-1.webp"
    ],
    "title": "Ideogram 4.6: Image Edit",
-   "usage": 93,
+   "usage": 113,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_6_image_edit.json"
   },
@@ -5116,7 +5116,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_5_image_edit-1.webp"
    ],
    "title": "Ideogram 4.5: Image Edit",
-   "usage": 40,
+   "usage": 53,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_5_image_edit.json"
   },
@@ -5175,7 +5175,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_6_precise_image_edit-2.webp"
    ],
    "title": "Ideogram 4.6 Precise Edit",
-   "usage": 50,
+   "usage": 64,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_6_precise_image_edit.json"
   },
@@ -5232,7 +5232,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_5_precise_image_edit-1.webp"
    ],
    "title": "Ideogram 4.5 Precise Edit",
-   "usage": 119,
+   "usage": 77,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_5_precise_image_edit.json"
   },
@@ -5337,7 +5337,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_color_depth_control-2.webp"
    ],
    "title": "MOSS-Image: Color & Depth Control",
-   "usage": 190,
+   "usage": 172,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_color_depth_control.json"
   },
@@ -5414,7 +5414,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_t2i_bboxes-1.webp"
    ],
    "title": "MOSS-Image: Layout-Guided Text to Image",
-   "usage": 56,
+   "usage": 45,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_moss_image_t2i_bboxes.json"
   },
@@ -5505,7 +5505,7 @@
    ],
    "title": "Flux Kontext Dev Image Edit",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-kontext-dev",
-   "usage": 255,
+   "usage": 324,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_kontext_dev_basic.json"
   },
@@ -5602,7 +5602,7 @@
    ],
    "title": "Flux.1 Dev USO Reference Image Generation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-uso",
-   "usage": 104,
+   "usage": 131,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux1_dev_uso_reference_image_gen.json"
   },
@@ -5682,7 +5682,7 @@
    ],
    "title": "Flux.1 Dev: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-text-to-image",
-   "usage": 182,
+   "usage": 150,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_dev_full_text_to_image.json"
   },
@@ -5762,7 +5762,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_distilled_t2i-1.webp"
    ],
    "title": "FLUX 3 Image Klein Distilled: Text to Image",
-   "usage": 61,
+   "usage": 84,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux3_klein_distilled_t2i.json"
   },
@@ -5818,7 +5818,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_flash_image_edit-1.webp"
    ],
    "title": "Seedream 5.0 Flash: Image Edit",
-   "usage": 186,
+   "usage": 202,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_flash_image_edit.json"
   },
@@ -5872,7 +5872,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_lite_t2i-1.webp"
    ],
    "title": "Seedream 5.0 Lite: Text to Image",
-   "usage": 59,
+   "usage": 28,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_lite_t2i.json"
   },
@@ -5926,7 +5926,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_image_2_t2i-1.webp"
    ],
    "title": "Grok Imagine Image 2.0: Text to Image",
-   "usage": 72,
+   "usage": 52,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_image_2_t2i.json"
   },
@@ -5980,7 +5980,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_text_to_image-1.webp"
    ],
    "title": "Grok: Text to Image",
-   "usage": 68,
+   "usage": 77,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_text_to_image.json"
   },
@@ -6051,7 +6051,7 @@
    ],
    "title": "SD3.5 Large Canny ControlNet",
    "tutorialUrl": "https://comfyanonymous.github.io/ComfyUI_examples/sd3/#sd35-controlnets",
-   "usage": 20,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sd3.5_large_canny_controlnet_example.json"
   },
@@ -6107,7 +6107,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_image_bboxes-1.webp"
    ],
    "title": "FLUX 3 Image: Bounding Box Edit",
-   "usage": 63,
+   "usage": 53,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_image_bboxes.json"
   },
@@ -6192,7 +6192,7 @@
    ],
    "title": "Flux.1 Outpaint",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-fill-dev",
-   "usage": 90,
+   "usage": 76,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_fill_outpaint_example.json"
   },
@@ -6297,7 +6297,7 @@
    ],
    "title": "Product Mockup(FLUX.2 Dev FP8)",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-   "usage": 34,
+   "usage": 50,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_fp8.json"
   },
@@ -6373,7 +6373,7 @@
    ],
    "title": "FLUX.2 [Klein] 4B: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-   "usage": 78,
+   "usage": 74,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux2_klein_text_to_image.json"
   },
@@ -6436,7 +6436,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_2_image_edit-1.webp"
    ],
    "title": "GPT Image 2: Image Edit",
-   "usage": 64,
+   "usage": 97,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_2_image_edit.json"
   },
@@ -6490,7 +6490,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_2_t2i-1.webp"
    ],
    "title": "GPT Image 2: Text to Image",
-   "usage": 97,
+   "usage": 88,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_gpt_image_2_t2i.json"
   },
@@ -6543,7 +6543,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_nano_banana_create_turnaround_sheet-1.webp"
    ],
    "title": "Character Turnaround Sheet Generator",
-   "usage": 108,
+   "usage": 107,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_nano_banana_create_turnaround_sheet.json"
   },
@@ -6594,7 +6594,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_nano_banana2_text_to_image-1.webp"
    ],
    "title": "Nano Banana 2: Text to Image",
-   "usage": 111,
+   "usage": 129,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_nano_banana2_text_to_image.json"
   },
@@ -6653,7 +6653,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_lite_image_edit-2.webp"
    ],
    "title": "Nano Banana 2 Lite: Image Edit",
-   "usage": 46,
+   "usage": 47,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_nano_banana_2_lite_image_edit.json"
   },
@@ -6733,7 +6733,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_chroma_text_to_image-1.webp"
    ],
    "title": "Chroma: Text to Image",
-   "usage": 198,
+   "usage": 206,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_chroma_text_to_image.json"
   },
@@ -6781,7 +6781,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tencent_hy_image_3_5_preview_image_edit-1.webp"
    ],
    "title": "HY Image 3.5 Preview: Image Edit",
-   "usage": 210,
+   "usage": 152,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tencent_hy_image_3_5_preview_image_edit.json"
   },
@@ -6907,7 +6907,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_mage_flow_t2i_int8-1.webp"
    ],
    "title": "Mage-Flow: Text to Image",
-   "usage": 29,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_mage_flow_t2i_int8.json"
   },
@@ -6983,7 +6983,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_mage_flow_edit_int8-2.webp"
    ],
    "title": "Mage-Flow-Edit: Image Edit",
-   "usage": 30,
+   "usage": 16,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_mage_flow_edit_int8.json"
   },
@@ -7051,7 +7051,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_image_edit-2.webp"
    ],
    "title": "Bria: FIBO 2.0 Image Edit",
-   "usage": 52,
+   "usage": 78,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_image_edit.json"
   },
@@ -7127,7 +7127,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_virtual_try_on-2.webp"
    ],
    "title": "Bria: Virtual Try-On",
-   "usage": 70,
+   "usage": 94,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_virtual_try_on.json"
   },
@@ -7168,7 +7168,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_fibo2_t2i-1.webp"
    ],
    "title": "Bria: FIBO 2.0 Text to Image",
-   "usage": 47,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_fibo2_t2i.json"
   },
@@ -7276,7 +7276,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_image_to_real.app-2.webp"
    ],
    "title": "Illustration to Realism",
-   "usage": 76,
+   "usage": 68,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_image_to_real.app.json"
   },
@@ -7356,7 +7356,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_image_illustration_lora-1.webp"
    ],
    "title": "Qwen Image: Illustration LoRA",
-   "usage": 54,
+   "usage": 66,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_image_illustration_lora.json"
   },
@@ -7438,7 +7438,7 @@
    ],
    "title": "Qwen-Image 2512 Turbo",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-2512",
-   "usage": 106,
+   "usage": 109,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2512_with_2steps_lora.json"
   },
@@ -7605,7 +7605,7 @@
    ],
    "title": "Flux.1 Dev fp8: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-text-to-image",
-   "usage": 47,
+   "usage": 46,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_dev_checkpoint_example.json"
   },
@@ -7686,7 +7686,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux2_max_sofa_swap-2.webp"
    ],
    "title": "FLUX.2 [max]: Object Swap",
-   "usage": 20,
+   "usage": 19,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux2_max_sofa_swap.json"
   },
@@ -7782,7 +7782,7 @@
    ],
    "title": "Flux.1 Dev OneReward",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-fill-dev",
-   "usage": 18,
+   "usage": 25,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_flux.1_fill_dev_OneReward.json"
   },
@@ -7862,7 +7862,7 @@
    ],
    "title": "Flux.1 Krea Dev",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux1-krea-dev",
-   "usage": 87,
+   "usage": 90,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux1_krea_dev.json"
   },
@@ -7927,7 +7927,7 @@
    ],
    "title": "NetaYume Lumina Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/newbie-image/newbie-image-exp-0-1",
-   "usage": 41,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_netayume_lumina_t2i.json"
   },
@@ -8167,7 +8167,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_o3_image-1.webp"
    ],
    "title": "Kling O3: Image Generation",
-   "usage": 28,
+   "usage": 37,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_o3_image.json"
   },
@@ -8333,7 +8333,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_bernini_r_image_editing-2.webp"
    ],
    "title": "Bernini-R: Image Edit",
-   "usage": 43,
+   "usage": 53,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_bernini_r_image_editing.json"
   },
@@ -8404,7 +8404,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_int8-1.webp"
    ],
    "title": "Z-Image Int8: Text to Image",
-   "usage": 19,
+   "usage": 21,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_z_image_int8.json"
   },
@@ -8458,7 +8458,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_flash_t2i-1.webp"
    ],
    "title": "Seedream 5.0 Flash: Text to Image",
-   "usage": 43,
+   "usage": 44,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_flash_t2i.json"
   },
@@ -8562,7 +8562,7 @@
    ],
    "title": "Qwen-Image 2512: Fun Union ControlNet",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-2512",
-   "usage": 21,
+   "usage": 32,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_Image_2512_controlnet.json"
   },
@@ -8657,7 +8657,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image-qwen_image_edit_2511_lora_inflation-2.webp"
    ],
    "title": "Image Inflation Effect with INFL8 LoRA",
-   "usage": 19,
+   "usage": 20,
    "username": "PurzBeats",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image-qwen_image_edit_2511_lora_inflation.json"
   },
@@ -8744,7 +8744,7 @@
    ],
    "title": "Image Relight",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-edit",
-   "usage": 56,
+   "usage": 51,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_edit_2509_relight.json"
   },
@@ -8841,7 +8841,7 @@
    ],
    "title": "Qwen Image Edit",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-edit",
-   "usage": 30,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_edit.json"
   },
@@ -9106,7 +9106,7 @@
    ],
    "title": "Flux.1 Canny Model",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-controlnet",
-   "usage": 16,
+   "usage": 46,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_canny_model_example.json"
   },
@@ -9177,7 +9177,7 @@
    ],
    "title": "Flux.1 Kontext Pro",
    "tutorialUrl": "https://docs.comfy.org/tutorials/partner-nodes/black-forest-labs/flux-1-kontext",
-   "usage": 29,
+   "usage": 26,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux_1_kontext_pro_image.json"
   },
@@ -9291,7 +9291,7 @@
    ],
    "title": "SDXL Turbo",
    "tutorialUrl": "https://comfyanonymous.github.io/ComfyUI_examples/sdturbo/",
-   "usage": 62,
+   "usage": 59,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/sdxlturbo_example.json"
   },
@@ -9626,7 +9626,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_anima_lllite_image_inpainting-2.webp"
    ],
    "title": "Anima Lllite: Image Inpainting",
-   "usage": 35,
+   "usage": 101,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_anima_lllite_image_inpainting.json"
   },
@@ -9995,7 +9995,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_joyai_image_edit-2.webp"
    ],
    "title": "JoyAI Image Edit",
-   "usage": 57,
+   "usage": 21,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_joyai_image_edit.json"
   },
@@ -10049,7 +10049,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea2_t2i-1.webp"
    ],
    "title": "Krea2: Text to Image",
-   "usage": 37,
+   "usage": 16,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea2_t2i.json"
   },
@@ -10117,7 +10117,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea2_style_reference-1.webp"
    ],
    "title": "Krea 2: Style Reference",
-   "usage": 16,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_krea2_style_reference.json"
   },
@@ -10335,7 +10335,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_6_t2i-1.webp"
    ],
    "title": "Ideogram 4.6: Text to Image",
-   "usage": 77,
+   "usage": 117,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_6_t2i.json"
   },
@@ -10389,7 +10389,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_5_t2i-1.webp"
    ],
    "title": "Ideogram 4.5: Text to Image",
-   "usage": 25,
+   "usage": 26,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_v4_5_t2i.json"
   },
@@ -10480,7 +10480,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ideogram4_t2i-1.webp"
    ],
    "title": "Ideogram v4: Text to Image",
-   "usage": 15,
+   "usage": 16,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ideogram4_t2i.json"
   },
@@ -10629,7 +10629,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ideogram4_t2i_int8-1.webp"
    ],
    "title": "Ideogram v4 Int8: Text to Image",
-   "usage": 15,
+   "usage": 70,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ideogram4_t2i_int8.json"
   },
@@ -10788,7 +10788,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_rob_realistic_2k_images_quick_variations-2.webp"
    ],
    "title": "Realistic 2k Images - Quick Variations",
-   "usage": 15,
+   "usage": 19,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_rob_realistic_2k_images_quick_variations.json"
   },
@@ -11034,7 +11034,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_v4_1_t2i-1.webp"
    ],
    "title": "Recraft 4.1: Text to Image",
-   "usage": 29,
+   "usage": 52,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_v4_1_t2i.json"
   },
@@ -11202,7 +11202,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_v4_style_reference-1.webp"
    ],
    "title": "Recraft V4: Style-Reference Image Generation",
-   "usage": 66,
+   "usage": 65,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_v4_style_reference.json"
   },
@@ -11365,7 +11365,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_boogu_image_0_1_edit-2.webp"
    ],
    "title": "Boogu image 0.1 Edit",
-   "usage": 17,
+   "usage": 22,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_boogu_image_0_1_edit.json"
   },
@@ -11436,7 +11436,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_boogu_image_0_1_turbo_t2i-1.webp"
    ],
    "title": "Boogu Turbo: Text to Image",
-   "usage": 24,
+   "usage": 40,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_boogu_image_0_1_turbo_t2i.json"
   },
@@ -11590,7 +11590,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_image_style_transfer-2.webp"
    ],
    "title": "Magnific: Style Reference",
-   "usage": 22,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_image_style_transfer.json"
   },
@@ -11780,7 +11780,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_t2i-1.webp"
    ],
    "title": "Ming Image 0.2 Design: Text to Image",
-   "usage": 15,
+   "usage": 16,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ming_image_01_design_t2i.json"
   },
@@ -11862,7 +11862,7 @@
    ],
    "title": "NewBie Exp0.1: Anime Generation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/newbie-image/newbie-image-exp-0-1",
-   "usage": 28,
+   "usage": 32,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_newbieimage_exp0_1-t2i.json"
   },
@@ -12110,7 +12110,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_image-1.webp"
    ],
    "title": "Nano Banana",
-   "usage": 22,
+   "usage": 27,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_image.json"
   },
@@ -12391,7 +12391,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-image_to_real-2.webp"
    ],
    "title": "Illustration to Realism",
-   "usage": 51,
+   "usage": 58,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-image_to_real.json"
   },
@@ -12573,7 +12573,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_Image_2512_360_lora-1.webp"
    ],
    "title": "Qwen Image 2512: 360 Panorama Image",
-   "usage": 15,
+   "usage": 13,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_Image_2512_360_lora.json"
   },
@@ -12675,7 +12675,7 @@
    ],
    "title": "Qwen-Image Union Control",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image",
-   "usage": 19,
+   "usage": 18,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_union_control_lora.json"
   },
@@ -12771,7 +12771,7 @@
    ],
    "title": "HiDream E1.1 Image Editing",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/hidream/hidream-e1",
-   "usage": 26,
+   "usage": 18,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/hidream_e1_1.json"
   },
@@ -13066,7 +13066,7 @@
    ],
    "title": "HiDream O1 Full: Image generation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/hidream/hidream-o1",
-   "usage": 16,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_hidream_o1.json"
   },
@@ -13397,7 +13397,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_guided_remove_background-2.webp"
    ],
    "title": "Bria: Guided Background Removal",
-   "usage": 14,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_guided_remove_background.json"
   },
@@ -13445,7 +13445,7 @@
    ],
    "title": "Flux.1 Schnell FP8",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-text-to-image",
-   "usage": 18,
+   "usage": 12,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_schnell.json"
   },
@@ -13513,7 +13513,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux2-1.webp"
    ],
    "title": "FLUX.2 Pro",
-   "usage": 44,
+   "usage": 41,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux2.json"
   },
@@ -13823,7 +13823,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_mage_flow_turbo_t2i_int8-1.webp"
    ],
    "title": "Mage-Flow Turbo: Text to Image",
-   "usage": 23,
+   "usage": 49,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_mage_flow_turbo_t2i_int8.json"
   },
@@ -13921,7 +13921,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_runway_reference_to_image-2.webp"
    ],
    "title": "Runway: Reference to Image",
-   "usage": 15,
+   "usage": 12,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_runway_reference_to_image.json"
   },
@@ -14050,7 +14050,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_omni_image-1.webp"
    ],
    "title": "Kling O1: Image",
-   "usage": 15,
+   "usage": 13,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_omni_image.json"
   },
@@ -14162,7 +14162,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_image_t2i-1.webp"
    ],
    "title": "Kling 4.0: Text to Image",
-   "usage": 385,
+   "usage": 446,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_image_t2i.json"
   },
@@ -14220,7 +14220,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_image_edit-1.webp"
    ],
    "title": "Kling 4.0: Image Edit",
-   "usage": 548,
+   "usage": 629,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_image_edit.json"
   },
@@ -14484,7 +14484,7 @@
    ],
    "title": "Flux.1 Kontext Multiple Image Input",
    "tutorialUrl": "https://docs.comfy.org/tutorials/partner-nodes/black-forest-labs/flux-1-kontext",
-   "usage": 14,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux_1_kontext_multiple_images_input.json"
   },
@@ -14690,7 +14690,7 @@
    ],
    "title": "Flux.1 Redux Model",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-1-controlnet",
-   "usage": 28,
+   "usage": 26,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/flux_redux_model_example.json"
   },
@@ -14829,7 +14829,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-all_in_one-image_edit_models-1.webp"
    ],
    "title": "1 input and multiple editing model comparison",
-   "usage": 16,
+   "usage": 23,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-all_in_one-image_edit_models.json"
   },
@@ -15708,7 +15708,7 @@
    ],
    "title": "Qwen-Image: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image",
-   "usage": 67,
+   "usage": 64,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image.json"
   },
@@ -16029,7 +16029,7 @@
    ],
    "title": "Flux.1 [Pro]: Text to Image",
    "tutorialUrl": "https://docs.comfy.org/tutorials/partner-nodes/black-forest-labs/flux-1-1-pro-ultra-image",
-   "usage": 17,
+   "usage": 13,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux_pro_t2i.json"
   },
@@ -16401,7 +16401,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_mai_image_26_image_edit-1.webp"
    ],
    "title": "MAI Image 2.6: Image Edit",
-   "usage": 13,
+   "usage": 12,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_mai_image_26_image_edit.json"
   },
@@ -16625,10 +16625,10 @@
    },
    "mediaSubtype": "webp",
    "mediaType": "image",
-   "minComfyUIVersion": "0.21.1",
+   "minComfyUIVersion": "0.44.1",
    "modelFiles": [],
    "models": [
-    "GPT-Image-1.5",
+    "GPT Image 2.6",
     "OpenAI"
    ],
    "name": "api_openai_fashion_billboard_generator",
@@ -16982,7 +16982,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_image_image_edit-1.webp"
    ],
    "title": "MiniMax-H3-Image: Image Edit (API)",
-   "usage": 338,
+   "usage": 293,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_image_image_edit.json"
   },
@@ -17033,7 +17033,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_image_t2i-1.webp"
    ],
    "title": "MiniMax-H3-Image: Text to Image (API)",
-   "usage": 143,
+   "usage": 145,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_image_t2i.json"
   },
@@ -17127,7 +17127,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_fibo2_edit_turbo_pe-2.webp"
    ],
    "title": "Fibo 2.0 Turbo: Image Edit",
-   "usage": 126,
+   "usage": 205,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_fibo2_edit_turbo_pe.json"
   },
@@ -17221,7 +17221,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_fibo2_edit_dev_pe-2.webp"
    ],
    "title": "Fibo 2.0 Dev: Image Edit",
-   "usage": 152,
+   "usage": 174,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_fibo2_edit_dev_pe.json"
   },
@@ -17479,7 +17479,7 @@
    ],
    "title": "Image Upscale: SeedVR2",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/image-upscale",
-   "usage": 1012,
+   "usage": 988,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_image_upscale.json"
   },
@@ -17562,7 +17562,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_7b_int8_upscale_image-2.webp"
    ],
    "title": "Image Upscale: SeedVR2 7B Int8",
-   "usage": 576,
+   "usage": 623,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_7b_int8_upscale_image.json"
   },
@@ -17658,7 +17658,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_rmbg3_remove_background-2.webp"
    ],
    "title": "Remove Background: RMBG 3.0",
-   "usage": 63,
+   "usage": 114,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_rmbg3_remove_background.json"
   },
@@ -17760,7 +17760,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_multiangle.app-1.webp"
    ],
    "title": "Generate Multiple Angles with 3D Camera Node",
-   "usage": 1412,
+   "usage": 1378,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_qwen_multiangle.app.json"
   },
@@ -17856,7 +17856,7 @@
    ],
    "title": "Image Upscale: Z-Image-Turbo 2K",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/image-upscale",
-   "usage": 240,
+   "usage": 256,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_z_image_turbo_2k_upscaler.app.json"
   },
@@ -18012,7 +18012,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_hellorob_facegen_skindetail_upscale-2.webp"
    ],
    "title": "Skin Enhancer + Upscaler",
-   "usage": 198,
+   "usage": 199,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_hellorob_facegen_skindetail_upscale.json"
   },
@@ -18071,7 +18071,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance_wonder3_5-2.webp"
    ],
    "title": "Image Upscale: Topaz Wonder 3.5",
-   "usage": 67,
+   "usage": 66,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance_wonder3_5.json"
   },
@@ -18130,7 +18130,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance_wonder4-1.webp"
    ],
    "title": "Image Upscale: Topaz Wonder 4",
-   "usage": 215,
+   "usage": 239,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance_wonder4.json"
   },
@@ -18197,7 +18197,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_image_upscale_creative-2.webp"
    ],
    "title": "Image Upscale: Magnific Creative",
-   "usage": 253,
+   "usage": 226,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_image_upscale_creative.json"
   },
@@ -18264,7 +18264,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_skin_enhancer-2.webp"
    ],
    "title": "Portrait Enhancement: Magnific",
-   "usage": 160,
+   "usage": 146,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_skin_enhancer.json"
   },
@@ -18331,7 +18331,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_image_upscale_precise-2.webp"
    ],
    "title": "Image Upscale: Magnific Precise",
-   "usage": 88,
+   "usage": 77,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magnific_image_upscale_precise.json"
   },
@@ -18410,7 +18410,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_background_removal-2.webp"
    ],
    "title": "Remove Background: Qwen Image 2.1",
-   "usage": 158,
+   "usage": 156,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_2_1_background_removal.json"
   },
@@ -18516,7 +18516,7 @@
    ],
    "title": "Image Outpainting: FLUX.2 Klein 9B",
    "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-   "usage": 264,
+   "usage": 253,
    "username": "Doc_workBox",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_doc_workbox_klein_9b_image_extend.json"
   },
@@ -18583,7 +18583,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_ai_image_fix-2.webp"
    ],
    "title": "Image Upscale: Nano Banana Pro",
-   "usage": 160,
+   "usage": 142,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_ai_image_fix.json"
   },
@@ -18633,7 +18633,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_clarity_ai_crystal_upscale-2.webp"
    ],
    "title": "Clarity AI: Crystal Upscaler",
-   "usage": 142,
+   "usage": 172,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_clarity_ai_crystal_upscale.json"
   },
@@ -18716,7 +18716,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_3b_int8_upscale_image-2.webp"
    ],
    "title": "Image Upscale: SeedVR2 3B Int8",
-   "usage": 147,
+   "usage": 153,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_3b_int8_upscale_image.json"
   },
@@ -18778,7 +18778,7 @@
    ],
    "title": "Image Segmentation: SAM3",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/video-segment-sam3",
-   "usage": 69,
+   "usage": 64,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_image_segment_sam3.json"
   },
@@ -18837,7 +18837,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_image_segment_wevisone_vl-1.webp"
    ],
    "title": "Image Segmentation: WeVisOne-VL",
-   "usage": 131,
+   "usage": 158,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_image_segment_wevisone_vl.json"
   },
@@ -18897,7 +18897,7 @@
    ],
    "title": "Remove Background: BiRefNet",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/remove-background-birefnet",
-   "usage": 91,
+   "usage": 85,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_birefnet_remove_background.json"
   },
@@ -18951,7 +18951,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_product_upscale-2.webp"
    ],
    "title": "Image Upscale: Nano Banana Pro Product",
-   "usage": 63,
+   "usage": 53,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_product_upscale.json"
   },
@@ -19099,7 +19099,7 @@
    ],
    "title": "Layer Decomposition: Qwen-Image-Layered",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-layered",
-   "usage": 85,
+   "usage": 100,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_layered.json"
   },
@@ -19174,7 +19174,7 @@
    ],
    "title": "Layer Decomposition: Qwen-Image-Layered Control",
    "tutorialUrl": "https://docs.comfy.org/tutorials/image/qwen/qwen-image-layered",
-   "usage": 13,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_qwen_image_layered_control.json"
   },
@@ -19235,7 +19235,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_layer_separation-1.webp"
    ],
    "title": "Layer Decomposition: Seedream 5.0 Pro",
-   "usage": 93,
+   "usage": 80,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedream_5_0_layer_separation.json"
   },
@@ -19323,7 +19323,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_marigold_v2_depth_estimation-2.webp"
    ],
    "title": "Depth Estimation: Marigold V2",
-   "usage": 50,
+   "usage": 49,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_marigold_v2_depth_estimation.json"
   },
@@ -19411,7 +19411,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_marigold_v2_surface_normal_estimation-2.webp"
    ],
    "title": "Surface Normal Estimation: Marigold V2",
-   "usage": 22,
+   "usage": 20,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_marigold_v2_surface_normal_estimation.json"
   },
@@ -19557,7 +19557,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance-2.webp"
    ],
    "title": "Image Upscale: Topaz Reimagine",
-   "usage": 26,
+   "usage": 30,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance.json"
   },
@@ -19617,7 +19617,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance_bloom2-2.webp"
    ],
    "title": "Image Upscale: Topaz Bloom 2",
-   "usage": 34,
+   "usage": 26,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_image_enhance_bloom2.json"
   },
@@ -19675,7 +19675,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_moge3_geometry_estimation-2.webp"
    ],
    "title": "Geometry Estimation: MoGe 3",
-   "usage": 23,
+   "usage": 34,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_moge3_geometry_estimation.json"
   },
@@ -19743,7 +19743,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_illustration_upscale-2.webp"
    ],
    "title": "Image Upscale: Nano Banana Pro Illustration",
-   "usage": 33,
+   "usage": 22,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nanobanana_pro_illustration_upscale.json"
   },
@@ -19802,7 +19802,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_expand_image-2.webp"
    ],
    "title": "Image Outpainting: Bria",
-   "usage": 163,
+   "usage": 171,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_expand_image.json"
   },
@@ -19863,7 +19863,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_genfill-2.webp"
    ],
    "title": "Inpainting: Bria Generative Fill",
-   "usage": 32,
+   "usage": 25,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_genfill.json"
   },
@@ -19990,7 +19990,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_bria_remove_image_background-2.webp"
    ],
    "title": "Remove Background: Bria",
-   "usage": 17,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_bria_remove_image_background.json"
   },
@@ -20120,7 +20120,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux1_expand_image-2.webp"
    ],
    "title": "Image Outpainting: Flux.1",
-   "usage": 30,
+   "usage": 28,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux1_expand_image.json"
   },
@@ -20380,7 +20380,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-topaz_landscape_upscaler-2.webp"
    ],
    "title": "Image Upscale: Topaz Reimagine Landscape",
-   "usage": 22,
+   "usage": 29,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-topaz_landscape_upscaler.json"
   },
@@ -20439,7 +20439,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_topaz_illustration_upscale-2.webp"
    ],
    "title": "Image Upscale: Topaz Illustration",
-   "usage": 22,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_topaz_illustration_upscale.json"
   },
@@ -20626,7 +20626,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_eraser-2.webp"
    ],
    "title": "Object Removal: Bria Eraser",
-   "usage": 20,
+   "usage": 24,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_eraser.json"
   },
@@ -21210,7 +21210,7 @@
    ],
    "title": "Image Upscale: Traditional Interpolation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/image-upscale",
-   "usage": 20,
+   "usage": 18,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_interpolation_image_upscale.json"
   },
@@ -21273,7 +21273,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_beeble_switchx_image_edit-1.webp"
    ],
    "title": "Relight: Beeble SwitchX",
-   "usage": 13,
+   "usage": 27,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_beeble_switchx_image_edit.json"
   },
@@ -21717,7 +21717,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_i2v-1.webp"
    ],
    "title": "MiniMax H3: Image to Video",
-   "usage": 14791,
+   "usage": 14087,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_i2v.json"
   },
@@ -21824,9 +21824,182 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_i2v-1.webp"
    ],
    "title": "LTX-2.3: Image to Video",
-   "usage": 14822,
+   "usage": 14661,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_i2v.json"
+  },
+  {
+   "category": "Video",
+   "categoryGroup": "Foundation",
+   "categoryType": "video",
+   "customNodes": [],
+   "date": "2026-11-28",
+   "description": "Animate a first frame, or a first and last frame, into a 1080p video of 4 to 30 seconds with native audio using MAGI-2, Sand.ai's 480B video model. Keeps a supplied composition exactly where you put it while the camera, subject motion and sound all follow the prompt.",
+   "io": {
+    "inputs": [
+     {
+      "file": "forest_rhino_ukiyoe.png",
+      "mediaType": "image",
+      "nodeId": 3,
+      "nodeType": "LoadImage"
+     }
+    ],
+    "outputs": [
+     {
+      "file": "api_magi2_i2v.mp4",
+      "mediaType": "video",
+      "nodeId": 2,
+      "nodeType": "SaveVideo"
+     }
+    ]
+   },
+   "mediaSubtype": "webp",
+   "mediaType": "image",
+   "minComfyUIVersion": "0.46.4",
+   "modelFiles": [],
+   "models": [
+    "MAGI-2"
+   ],
+   "name": "api_magi2_i2v",
+   "nodeTypes": {
+    "LoadImage": 1,
+    "Magi2ImageToVideoApi": 1,
+    "MarkdownNote": 1,
+    "SaveVideo": 1
+   },
+   "openSource": false,
+   "outputType": "video",
+   "page": "catalog/video/api_magi2_i2v.md",
+   "searchRank": 0,
+   "size": 0,
+   "tags": [
+    "API",
+    "Image to Video"
+   ],
+   "thumbnail": [
+    "output/api_magi2_i2v.mp4"
+   ],
+   "thumbnails": [
+    "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_i2v-1.webp"
+   ],
+   "title": "MAGI-2: Image to Video",
+   "usage": 0,
+   "username": "ComfyUI",
+   "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_i2v.json"
+  },
+  {
+   "category": "Video",
+   "categoryGroup": "Foundation",
+   "categoryType": "video",
+   "customNodes": [],
+   "date": "2026-11-28",
+   "description": "Generate a 1080p video of 4 to 30 seconds with native audio from a text prompt using MAGI-2, Sand.ai's 480B video model. Strong instruction following, complex composition and long-shot stability, with dialogue, foley and score generated in the same pass.",
+   "io": {
+    "outputs": [
+     {
+      "file": "api_magi2_t2v.mp4",
+      "mediaType": "video",
+      "nodeId": 2,
+      "nodeType": "SaveVideo"
+     }
+    ]
+   },
+   "mediaSubtype": "webp",
+   "mediaType": "image",
+   "minComfyUIVersion": "0.46.4",
+   "modelFiles": [],
+   "models": [
+    "MAGI-2"
+   ],
+   "name": "api_magi2_t2v",
+   "nodeTypes": {
+    "Magi2TextToVideoApi": 1,
+    "SaveVideo": 1
+   },
+   "openSource": false,
+   "outputType": "video",
+   "page": "catalog/video/api_magi2_t2v.md",
+   "searchRank": 0,
+   "size": 0,
+   "tags": [
+    "API",
+    "Text to Video"
+   ],
+   "thumbnail": [
+    "output/api_magi2_t2v.mp4"
+   ],
+   "thumbnails": [
+    "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_t2v-1.webp"
+   ],
+   "title": "MAGI-2: Text to Video",
+   "usage": 0,
+   "username": "ComfyUI",
+   "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_t2v.json"
+  },
+  {
+   "category": "Video",
+   "categoryGroup": "Foundation",
+   "categoryType": "video",
+   "customNodes": [],
+   "date": "2026-11-28",
+   "description": "Generate a 1080p video of 4 to 30 seconds with native audio from up to ten reference images, five reference videos and five reference audio clips using MAGI-2, Sand.ai's 480B video model. Use it to hold a character, a location, a camera move or a voice consistent across shots - reference them in the prompt as @Image1, @Video1 and @Audio1.",
+   "io": {
+    "inputs": [
+     {
+      "file": "alien_scout_character_sheet.png",
+      "mediaType": "image",
+      "nodeId": 3,
+      "nodeType": "LoadImage"
+     },
+     {
+      "file": "alien_canyon_fog_plate.png",
+      "mediaType": "image",
+      "nodeId": 17,
+      "nodeType": "LoadImage"
+     }
+    ],
+    "outputs": [
+     {
+      "file": "api_magi2_r2v.mp4",
+      "mediaType": "video",
+      "nodeId": 5,
+      "nodeType": "SaveVideo"
+     }
+    ]
+   },
+   "mediaSubtype": "webp",
+   "mediaType": "image",
+   "minComfyUIVersion": "0.46.4",
+   "modelFiles": [],
+   "models": [
+    "MAGI-2"
+   ],
+   "name": "api_magi2_r2v",
+   "nodeTypes": {
+    "LoadImage": 2,
+    "Magi2ReferenceToVideoApi": 1,
+    "MarkdownNote": 1,
+    "SaveVideo": 1
+   },
+   "openSource": false,
+   "outputType": "video",
+   "page": "catalog/video/api_magi2_r2v.md",
+   "searchRank": 0,
+   "size": 0,
+   "tags": [
+    "API",
+    "Reference to Video"
+   ],
+   "thumbnail": [
+    "output/api_magi2_r2v.mp4"
+   ],
+   "thumbnails": [
+    "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_r2v-1.webp"
+   ],
+   "title": "MAGI-2: Reference to Video",
+   "usage": 0,
+   "username": "ComfyUI",
+   "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_r2v.json"
   },
   {
    "category": "Video",
@@ -21932,7 +22105,7 @@
    ],
    "title": "Wan 2.2 14B Image to Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan2_2",
-   "usage": 8147,
+   "usage": 8136,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_i2v.json"
   },
@@ -22043,7 +22216,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_r2v-1.webp"
    ],
    "title": "MiniMax H3: Reference to Video",
-   "usage": 5759,
+   "usage": 5793,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_r2v.json"
   },
@@ -22113,7 +22286,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan3_0_r2v-1.webp"
    ],
    "title": "Wan3.0: Reference to Video",
-   "usage": 534,
+   "usage": 590,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan3_0_r2v.json"
   },
@@ -22177,7 +22350,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan3_0_i2v-1.webp"
    ],
    "title": "Wan3.0: Image to Video",
-   "usage": 357,
+   "usage": 389,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan3_0_i2v.json"
   },
@@ -22272,7 +22445,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_t2v-1.webp"
    ],
    "title": "MiniMax H3: Text to Video",
-   "usage": 3133,
+   "usage": 2996,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_t2v.json"
   },
@@ -22392,7 +22565,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_5_i2v-1.webp"
    ],
    "title": "LTX-2.5: Image to Video",
-   "usage": 3679,
+   "usage": 3730,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_5_i2v.json"
   },
@@ -22501,7 +22674,7 @@
    ],
    "title": "Pika H3 Flex: Reference to Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/pika/pika-h3-flex",
-   "usage": 2170,
+   "usage": 1967,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_pika_h3_flex_ref2va.json"
   },
@@ -22594,7 +22767,7 @@
    ],
    "title": "Pika H3 Flex: Text to Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/pika/pika-h3-flex",
-   "usage": 2424,
+   "usage": 2113,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_pika_h3_flex_t2v.json"
   },
@@ -22654,7 +22827,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_r2v-1.webp"
    ],
    "title": "Seedance 2.5: Reference to Video",
-   "usage": 1887,
+   "usage": 1876,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_r2v.json"
   },
@@ -22714,7 +22887,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_i2v_1080p-1.webp"
    ],
    "title": "Seedance2.5 1080P: Image to Video",
-   "usage": 1598,
+   "usage": 1534,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_i2v_1080p.json"
   },
@@ -22775,7 +22948,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_draft_r2v-1.webp"
    ],
    "title": "Seedance2.5 Draft: Reference to Video",
-   "usage": 879,
+   "usage": 795,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_draft_r2v.json"
   },
@@ -22873,7 +23046,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_fastvideo_fasth3_i2v-1.webp"
    ],
    "title": "FastVideo FastH3: Image to Video",
-   "usage": 2511,
+   "usage": 2323,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_fastvideo_fasth3_i2v.json"
   },
@@ -22960,7 +23133,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_fasth3_ominiref_r2v-1.webp"
    ],
    "title": "FastH3 OmniRef: Reference to Video",
-   "usage": 990,
+   "usage": 924,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_fasth3_ominiref_r2v.json"
   },
@@ -23081,7 +23254,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_animate2-1.webp"
    ],
    "title": "Wan Animate 2: Motion Transfer",
-   "usage": 1682,
+   "usage": 1799,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_animate2.json"
   },
@@ -23202,7 +23375,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan21_scail2_character_replacement-2.webp"
    ],
    "title": "SCAIL-2: Character Replacement",
-   "usage": 687,
+   "usage": 640,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan21_scail2_character_replacement.json"
   },
@@ -23336,7 +23509,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan21_scail2_character_replacement_int8-2.webp"
    ],
    "title": "SCAIL-2 Int8: Character Replacement",
-   "usage": 447,
+   "usage": 436,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan21_scail2_character_replacement_int8.json"
   },
@@ -23441,7 +23614,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_5_t2v-1.webp"
    ],
    "title": "LTX-2.5: Text to Video",
-   "usage": 919,
+   "usage": 821,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_5_t2v.json"
   },
@@ -23571,7 +23744,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_ia2v-1.webp"
    ],
    "title": "LTX-2.3: Image Audio to Video",
-   "usage": 789,
+   "usage": 761,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_ia2v.json"
   },
@@ -23688,7 +23861,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_5_flf2v-1.webp"
    ],
    "title": "LTX-2.5: FLF2V",
-   "usage": 584,
+   "usage": 622,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_5_flf2v.json"
   },
@@ -23797,7 +23970,7 @@
    ],
    "title": "Pika H3 Flex: FL2VA",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/pika/pika-h3-flex",
-   "usage": 706,
+   "usage": 809,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_pika_h3_flex_fl2va.json"
   },
@@ -23864,7 +24037,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_video_editing-2.webp"
    ],
    "title": "Seedance2.5: Video Editing",
-   "usage": 622,
+   "usage": 573,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_video_editing.json"
   },
@@ -23920,7 +24093,7 @@
    ],
    "title": "Seedance 1.0 Pro: Image to Video",
    "tutorialUrl": "",
-   "usage": 697,
+   "usage": 765,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_image_to_video.json"
   },
@@ -23985,7 +24158,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_r2v-1.webp"
    ],
    "title": "Seedance 2.0: Reference to Video",
-   "usage": 444,
+   "usage": 466,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_r2v.json"
   },
@@ -24039,7 +24212,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_t2v-1.webp"
    ],
    "title": "Seedance 2.5: Text to Video",
-   "usage": 196,
+   "usage": 181,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_t2v.json"
   },
@@ -24093,7 +24266,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_t2v-1.webp"
    ],
    "title": "Seedance 2.5 Flash: Text to Video",
-   "usage": 210,
+   "usage": 249,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_t2v.json"
   },
@@ -24157,7 +24330,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_i2v-1.webp"
    ],
    "title": "Seedance 2.5 Flash: Image to Video",
-   "usage": 567,
+   "usage": 713,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_i2v.json"
   },
@@ -24233,7 +24406,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_r2v-1.webp"
    ],
    "title": "Seedance 2.5 Flash: Reference to Video",
-   "usage": 399,
+   "usage": 484,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seedance2_5_flash_r2v.json"
   },
@@ -24330,7 +24503,7 @@
    ],
    "title": "Wan 2.2 14B First-Last Frame to Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan2_2",
-   "usage": 213,
+   "usage": 192,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_flf2v.json"
   },
@@ -24401,7 +24574,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_5B_ti2v-1.webp"
    ],
    "title": "Wan 2.2 5B Video Generation",
-   "usage": 363,
+   "usage": 377,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_5B_ti2v.json"
   },
@@ -24483,7 +24656,7 @@
    ],
    "title": "Wan 2.2 14B Text to Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan2_2",
-   "usage": 322,
+   "usage": 329,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_t2v.json"
   },
@@ -24593,7 +24766,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_t2v-1.webp"
    ],
    "title": "LTX-2.3: Text to Video",
-   "usage": 349,
+   "usage": 280,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_t2v.json"
   },
@@ -24741,7 +24914,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_5_dfr_i2v-1.webp"
    ],
    "title": "LTX-2.5 DFR: Image to Video",
-   "usage": 131,
+   "usage": 142,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_5_dfr_i2v.json"
   },
@@ -24865,7 +25038,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_id_lora-1.webp"
    ],
    "title": "LTX-2.3: ID LoRA",
-   "usage": 115,
+   "usage": 96,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_id_lora.json"
   },
@@ -24964,7 +25137,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_flf2v-1.webp"
    ],
    "title": "LTX-2.3: FLF2V",
-   "usage": 102,
+   "usage": 103,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_flf2v.json"
   },
@@ -25052,7 +25225,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_fastvideo_fasth3_t2v-1.webp"
    ],
    "title": "FastVideo FastH3: Text to Video",
-   "usage": 316,
+   "usage": 309,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_fastvideo_fasth3_t2v.json"
   },
@@ -25148,7 +25321,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_i2v_continuation-1.webp"
    ],
    "title": "Image to Video",
-   "usage": 473,
+   "usage": 486,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_i2v_continuation.json"
   },
@@ -25218,7 +25391,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_r2v-1.webp"
    ],
    "title": "MiniMax H3 Max: Reference to Video",
-   "usage": 230,
+   "usage": 213,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_r2v.json"
   },
@@ -25330,7 +25503,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_multiframe_reference-1.webp"
    ],
    "title": "MiniMax H3: Multiframe Reference",
-   "usage": 162,
+   "usage": 165,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_multiframe_reference.json"
   },
@@ -25394,7 +25567,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_v3_video-1.webp"
    ],
    "title": "Kling 3.0: Video Generation",
-   "usage": 203,
+   "usage": 207,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_v3_video.json"
   },
@@ -25464,7 +25637,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_r2v-1.webp"
    ],
    "title": "Kling 4.0: Reference to Video",
-   "usage": 292,
+   "usage": 387,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_r2v.json"
   },
@@ -25528,7 +25701,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_i2v-1.webp"
    ],
    "title": "Kling 4.0: Image to Video",
-   "usage": 558,
+   "usage": 571,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_i2v.json"
   },
@@ -25598,7 +25771,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_v3_flf2v-1.webp"
    ],
    "title": "Kling 3.0: First Last Frame to Video",
-   "usage": 215,
+   "usage": 240,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_v3_flf2v.json"
   },
@@ -25659,7 +25832,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_i2v-1.webp"
    ],
    "title": "Gemini Omni 1.2 Flash: Image to Video",
-   "usage": 285,
+   "usage": 225,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_i2v.json"
   },
@@ -25726,7 +25899,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_edit-2.webp"
    ],
    "title": "Gemini Omni 1.1 Flash: Video Edit",
-   "usage": 124,
+   "usage": 117,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_edit.json"
   },
@@ -25793,7 +25966,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_r2v-1.webp"
    ],
    "title": "Gemini Omni 1.2 Flash: Reference to Video",
-   "usage": 205,
+   "usage": 191,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_r2v.json"
   },
@@ -25898,7 +26071,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_bernini_r_video_editing-1.webp"
    ],
    "title": "Bernini-R: Video Edit",
-   "usage": 212,
+   "usage": 216,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_bernini_r_video_editing.json"
   },
@@ -25951,7 +26124,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_video_1_5_lite_i2v-1.webp"
    ],
    "title": "Grok Imagine Video 1.5 Lite: Image to Video",
-   "usage": 272,
+   "usage": 245,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_video_1_5_lite_i2v.json"
   },
@@ -26009,7 +26182,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_video-1.webp"
    ],
    "title": "Grok: Video generation",
-   "usage": 407,
+   "usage": 425,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_video.json"
   },
@@ -26056,7 +26229,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_video_1_5-1.webp"
    ],
    "title": "Grok Imagine Video 1.5: Image to Video",
-   "usage": 102,
+   "usage": 92,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_video_1_5.json"
   },
@@ -26117,7 +26290,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux3_max_i2v-1.webp"
    ],
    "title": "FLUX 3 Max: Image to Video",
-   "usage": 89,
+   "usage": 83,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux3_max_i2v.json"
   },
@@ -26187,7 +26360,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_flf2v-1.webp"
    ],
    "title": "Seedance2.0: First-Last-Frame to Video",
-   "usage": 226,
+   "usage": 234,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_flf2v.json"
   },
@@ -26245,7 +26418,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_draft_i2v-1.webp"
    ],
    "title": "Seedance2.5 Draft: Image to Video",
-   "usage": 104,
+   "usage": 99,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_draft_i2v.json"
   },
@@ -26316,7 +26489,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_mini_r2v-1.webp"
    ],
    "title": "Seedance 2.0 Mini: Reference to Video",
-   "usage": 42,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_mini_r2v.json"
   },
@@ -26382,7 +26555,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_flf2v-1.webp"
    ],
    "title": "Seedance 2.5: FLF2V",
-   "usage": 146,
+   "usage": 113,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_flf2v.json"
   },
@@ -26446,7 +26619,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_o3_video_edit-2.webp"
    ],
    "title": "Kling O3: Video Edit",
-   "usage": 174,
+   "usage": 158,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_o3_video_edit.json"
   },
@@ -26512,7 +26685,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_video_edit-2.webp"
    ],
    "title": "Kling 4.0: Video Edit",
-   "usage": 269,
+   "usage": 273,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_video_edit.json"
   },
@@ -26573,7 +26746,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_motion_control3-2.webp"
    ],
    "title": "Kling 3.0: Motion Control",
-   "usage": 121,
+   "usage": 113,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_motion_control3.json"
   },
@@ -26649,7 +26822,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_higgsfield_genjutsu_motion_transfer-1.webp"
    ],
    "title": "Higgsfield Genjutsu: Motion Transfer",
-   "usage": 161,
+   "usage": 157,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_higgsfield_genjutsu_motion_transfer.json"
   },
@@ -26761,7 +26934,7 @@
    ],
    "title": "Wan2.1 VACE Inpainting",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/vace",
-   "usage": 131,
+   "usage": 151,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_vace_inpainting.json"
   },
@@ -26876,7 +27049,7 @@
    ],
    "title": "Wan2.1 VACE Control Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/vace",
-   "usage": 135,
+   "usage": 120,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_vace_14B_v2v.json"
   },
@@ -27080,7 +27253,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_animate2_distilled-1.webp"
    ],
    "title": "Wan Animate 2 Distilled: Motion Transfer",
-   "usage": 92,
+   "usage": 95,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_animate2_distilled.json"
   },
@@ -27142,7 +27315,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_i2v-1.webp"
    ],
    "title": "MiniMax H3 Max: Image to Video",
-   "usage": 122,
+   "usage": 124,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_i2v.json"
   },
@@ -27206,7 +27379,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_r2v-1.webp"
    ],
    "title": "MiniMax H3: Reference to Video",
-   "usage": 66,
+   "usage": 73,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_r2v.json"
   },
@@ -27267,7 +27440,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_t2v-1.webp"
    ],
    "title": "MiniMax H3 Max: Text to Video",
-   "usage": 64,
+   "usage": 72,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_t2v.json"
   },
@@ -27391,7 +27564,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_fun_controlnet_union-2.webp"
    ],
    "title": "MiniMax H3 Fun ControlNet Union",
-   "usage": 71,
+   "usage": 68,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_fun_controlnet_union.json"
   },
@@ -27442,7 +27615,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_t2v-1.webp"
    ],
    "title": "Gemini Omni 1.2 Flash: Text to Video",
-   "usage": 88,
+   "usage": 85,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_t2v.json"
   },
@@ -27506,7 +27679,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_i2v-1.webp"
    ],
    "title": "Gemini Omni 1.1 Flash: Image to Video",
-   "usage": 43,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_i2v.json"
   },
@@ -27755,7 +27928,7 @@
    ],
    "title": "Wan2.2 Animate, Character Animation and Replacement",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan2-2-animate",
-   "usage": 200,
+   "usage": 206,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_animate.json"
   },
@@ -27809,7 +27982,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan3_0_t2v-1.webp"
    ],
    "title": "Wan3.0: Text to Video",
-   "usage": 98,
+   "usage": 90,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan3_0_t2v.json"
   },
@@ -27908,7 +28081,7 @@
    ],
    "title": "Wan2.2-S2V Audio-Driven Video Generation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan2-2-s2v",
-   "usage": 95,
+   "usage": 99,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_s2v.json"
   },
@@ -28084,7 +28257,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q2_flf2v-1.webp"
    ],
    "title": "Vidu Q2: FLF2V",
-   "usage": 73,
+   "usage": 23,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q2_flf2v.json"
   },
@@ -28137,7 +28310,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q2_r2v-1.webp"
    ],
    "title": "Vidu Q2: Reference to Video",
-   "usage": 44,
+   "usage": 43,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q2_r2v.json"
   },
@@ -28251,7 +28424,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_i2v-1.webp"
    ],
    "title": "LTX-2: Image to Video",
-   "usage": 45,
+   "usage": 41,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_i2v.json"
   },
@@ -28367,7 +28540,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_ic_lora-2.webp"
    ],
    "title": "LTX 2.3 IC-LoRA Union Control",
-   "usage": 73,
+   "usage": 66,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_ic_lora.json"
   },
@@ -28491,7 +28664,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx_2_audio_to_video-1.webp"
    ],
    "title": "LTX-2: Audio to Video",
-   "usage": 21,
+   "usage": 16,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx_2_audio_to_video.json"
   },
@@ -28551,7 +28724,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx2_5_i2v-1.webp"
    ],
    "title": "LTX-2.5 (Pro): Image to Video",
-   "usage": 29,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx2_5_i2v.json"
   },
@@ -28655,7 +28828,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_hunyuan_video_1.5_720p_i2v-1.webp"
    ],
    "title": "Hunyuan Video 1.5 Image to Video",
-   "usage": 61,
+   "usage": 60,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_hunyuan_video_1.5_720p_i2v.json"
   },
@@ -28724,7 +28897,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_veed_lipsync_2_0-1.webp"
    ],
    "title": "VEED Lipsync 2.0: Lip Sync",
-   "usage": 45,
+   "usage": 31,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_veed_lipsync_2_0.json"
   },
@@ -28857,7 +29030,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pruna_p_video_i2v-1.webp"
    ],
    "title": "Pruna P-Video 2: Image to Video",
-   "usage": 29,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pruna_p_video_i2v.json"
   },
@@ -28927,7 +29100,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_turbo_i2v-1.webp"
    ],
    "title": "MiniMax H3 Max Turbo: Image to Video",
-   "usage": 208,
+   "usage": 211,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_turbo_i2v.json"
   },
@@ -28997,7 +29170,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_flf2v-1.webp"
    ],
    "title": "MiniMax H3: FLF2V",
-   "usage": 70,
+   "usage": 73,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_flf2v.json"
   },
@@ -29073,7 +29246,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_flf2v-1.webp"
    ],
    "title": "MiniMax H3 Max: FLF2V",
-   "usage": 46,
+   "usage": 37,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_flf2v.json"
   },
@@ -29134,7 +29307,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan2_7_i2v-1.webp"
    ],
    "title": "Wan2.7: Image to Video",
-   "usage": 71,
+   "usage": 73,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan2_7_i2v.json"
   },
@@ -29210,7 +29383,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_causal_forcing_i2v-1.webp"
    ],
    "title": "Causal Forcing: Image to Video",
-   "usage": 29,
+   "usage": 35,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_causal_forcing_i2v.json"
   },
@@ -29289,7 +29462,7 @@
    ],
    "title": "Wan 2.1 Image to Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan-video",
-   "usage": 42,
+   "usage": 51,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_to_video_wan.json"
   },
@@ -29349,7 +29522,7 @@
    ],
    "title": "Wan 2.1 Text to Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan-video",
-   "usage": 39,
+   "usage": 51,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/text_to_video_wan.json"
   },
@@ -29416,7 +29589,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux_video_edit-2.webp"
    ],
    "title": "Flux Video Edit",
-   "usage": 21,
+   "usage": 20,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux_video_edit.json"
   },
@@ -29467,7 +29640,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux3_max_t2v-1.webp"
    ],
    "title": "FLUX 3 Max: Text to Video",
-   "usage": 18,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux3_max_t2v.json"
   },
@@ -29521,7 +29694,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_t2v-1.webp"
    ],
    "title": "FLUX 3 Video: Text to Video",
-   "usage": 20,
+   "usage": 22,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bfl_flux3_t2v.json"
   },
@@ -29707,7 +29880,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-6-key-frames-1.webp"
    ],
    "title": "Multi-Keyframe Video Stitching",
-   "usage": 103,
+   "usage": 81,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-6-key-frames.json"
   },
@@ -29807,7 +29980,7 @@
    ],
    "title": "Wan 2.2 14B Fun Control",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan2-2-fun-control",
-   "usage": 80,
+   "usage": 68,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_fun_control.json"
   },
@@ -29883,7 +30056,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan2_7_video_edit-2.webp"
    ],
    "title": "Wan2.7: Video Edit",
-   "usage": 53,
+   "usage": 52,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan2_7_video_edit.json"
   },
@@ -29992,7 +30165,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_wan_ati_motion_control-1.webp"
    ],
    "title": "Wan ATI Motion Control",
-   "usage": 51,
+   "usage": 32,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_wan_ati_motion_control.json"
   },
@@ -30058,7 +30231,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_o3_i2v-1.webp"
    ],
    "title": "Kling O3: Reference to Video",
-   "usage": 28,
+   "usage": 36,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_o3_i2v.json"
   },
@@ -30120,7 +30293,7 @@
    ],
    "title": "Kling O1: Video Edit",
    "tutorialUrl": "",
-   "usage": 59,
+   "usage": 47,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_omni_edit_video.json"
   },
@@ -30175,7 +30348,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_motion_control-1.webp"
    ],
    "title": "Kling2.6: Motion Control",
-   "usage": 45,
+   "usage": 35,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling_motion_control.json"
   },
@@ -30299,7 +30472,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_r2v_4k-1.webp"
    ],
    "title": "Seedance2.0 4K: Reference to Video",
-   "usage": 29,
+   "usage": 20,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_r2v_4k.json"
   },
@@ -30544,7 +30717,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sync_so_lip_sync_video-1.webp"
    ],
    "title": "Sync 3: Video Lip-Sync",
-   "usage": 31,
+   "usage": 34,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sync_so_lip_sync_video.json"
   },
@@ -30780,7 +30953,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_runway_aleph2_video_edit-2.webp"
    ],
    "title": "Runway Aleph2: Video Edit",
-   "usage": 33,
+   "usage": 32,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_runway_aleph2_video_edit.json"
   },
@@ -30887,7 +31060,7 @@
    ],
    "title": "Wan2.5: Image to Video",
    "tutorialUrl": "",
-   "usage": 47,
+   "usage": 41,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan_image_to_video.json"
   },
@@ -30989,7 +31162,7 @@
    ],
    "title": "Wan2.1 VACE Reference to Video",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/vace",
-   "usage": 26,
+   "usage": 24,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_vace_14B_ref2v.json"
   },
@@ -31071,7 +31244,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_5B_fun_control-1.webp"
    ],
    "title": "Wan 2.2 5B Fun Control",
-   "usage": 20,
+   "usage": 26,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_5B_fun_control.json"
   },
@@ -31192,7 +31365,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_dancer-1.webp"
    ],
    "title": "Wan Dancer: Music to Dance",
-   "usage": 25,
+   "usage": 27,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_dancer.json"
   },
@@ -31266,7 +31439,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_i2v-1.webp"
    ],
    "title": "Gemini Omni Flash: Image to Video",
-   "usage": 23,
+   "usage": 44,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_i2v.json"
   },
@@ -31521,7 +31694,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pixverse_v6_max_i2v-1.webp"
    ],
    "title": "PixVerse V6 Max: Image to Video",
-   "usage": 22,
+   "usage": 23,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pixverse_v6_max_i2v.json"
   },
@@ -31710,7 +31883,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_happyhorse1_0_video_edit-2.webp"
    ],
    "title": "HappyHorse: Video Edit",
-   "usage": 20,
+   "usage": 21,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_happyhorse1_0_video_edit.json"
   },
@@ -31884,7 +32057,7 @@
    ],
    "title": "Seedance1.0 Pro: Start End to Video",
    "tutorialUrl": "",
-   "usage": 58,
+   "usage": 48,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_flf2v.json"
   },
@@ -32047,7 +32220,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_t2v-1.webp"
    ],
    "title": "Seedance 2.0: Text to Video",
-   "usage": 13,
+   "usage": 21,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_0_t2v.json"
   },
@@ -32243,7 +32416,7 @@
    ],
    "title": "Wan2.1 VACE Outpainting",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/vace",
-   "usage": 36,
+   "usage": 24,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_vace_outpainting.json"
   },
@@ -32375,7 +32548,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_t2v-1.webp"
    ],
    "title": "Kling 4.0: Text to Video",
-   "usage": 17,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_kling4_t2v.json"
   },
@@ -32592,7 +32765,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q4_preview_i2v-1.webp"
    ],
    "title": "Vidu Q4 Preview: Image to Video",
-   "usage": 26,
+   "usage": 27,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q4_preview_i2v.json"
   },
@@ -32662,7 +32835,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q4_preview_r2v-1.webp"
    ],
    "title": "Vidu Q4 Preview: Reference to Video",
-   "usage": 32,
+   "usage": 31,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q4_preview_r2v.json"
   },
@@ -33483,7 +33656,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_t2v-1.webp"
    ],
    "title": "MiniMax H3: Text to Video",
-   "usage": 26,
+   "usage": 13,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_t2v.json"
   },
@@ -34001,7 +34174,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_t2v_distilled-1.webp"
    ],
    "title": "LTX-2 Text to Video (Distilled)",
-   "usage": 41,
+   "usage": 40,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_t2v_distilled.json"
   },
@@ -34350,7 +34523,7 @@
    ],
    "title": "Wan2.1 VACE First-Last Frame",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/vace",
-   "usage": 15,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan_vace_flf2v.json"
   },
@@ -34535,7 +34708,7 @@
    ],
    "title": "Wan 2.1 Fun Camera 14B",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/fun-control",
-   "usage": 14,
+   "usage": 19,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2.1_fun_camera_v1.1_14B.json"
   },
@@ -34625,7 +34798,7 @@
    ],
    "title": "Wan 2.2 14B Fun Camera Control",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan2-2-fun-camera",
-   "usage": 17,
+   "usage": 19,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_fun_camera.json"
   },
@@ -35048,7 +35221,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_luma_ray3_3_i2v-1.webp"
    ],
    "title": "Luma Ray 3.2: Image to Video",
-   "usage": 14,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_luma_ray3_3_i2v.json"
   },
@@ -35105,7 +35278,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_luma_ray3_2_video_edit-2.webp"
    ],
    "title": "Luma Ray 3.2: Video Edit",
-   "usage": 9,
+   "usage": 17,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_luma_ray3_2_video_edit.json"
   },
@@ -35979,7 +36152,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q2_i2v-1.webp"
    ],
    "title": "Vidu Q2: Image to Video",
-   "usage": 71,
+   "usage": 104,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_vidu_q2_i2v.json"
   },
@@ -36137,7 +36310,7 @@
    ],
    "title": "Wan 2.2 14B Fun Inpaint",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan2-2-fun-inp",
-   "usage": 14,
+   "usage": 13,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_fun_inpaint.json"
   },
@@ -36424,7 +36597,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_animatediff_simple_weighted_ipadapters_looping_animation-1.webp"
    ],
    "title": "AnimateDiff - IPAdapters Looping Animation",
-   "usage": 14,
+   "usage": 17,
    "username": "PurzBeats",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_animatediff_simple_weighted_ipadapters_looping_animation.json"
   },
@@ -37517,7 +37690,7 @@
    ],
    "title": "Wan 2.1 Fun Camera 1.3B",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/fun-control",
-   "usage": 10,
+   "usage": 17,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2.1_fun_camera_v1.1_1.3B.json"
   },
@@ -37880,7 +38053,7 @@
    ],
    "title": "Wan 2.1 FLF2V 720p F16",
    "tutorialUrl": "https://docs.comfy.org/tutorials/video/wan/wan-flf",
-   "usage": 15,
+   "usage": 16,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/wan2.1_flf2v_720_f16.json"
   },
@@ -38783,7 +38956,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nvidia_rtx_video_enhance-2.webp"
    ],
    "title": "RTX Video Enhance: HDR",
-   "usage": 446,
+   "usage": 475,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_nvidia_rtx_video_enhance.json"
   },
@@ -38871,7 +39044,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_3b_int8_upscale_video-2.webp"
    ],
    "title": "Video Upscale: SeedVR2 3B Int8",
-   "usage": 450,
+   "usage": 454,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_3b_int8_upscale_video.json"
   },
@@ -38932,7 +39105,7 @@
    ],
    "title": "Video Upscale: SeedVR2",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/video-upscale",
-   "usage": 164,
+   "usage": 191,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_seedvr2_video_upscale.json"
   },
@@ -39002,7 +39175,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_recast-2.webp"
    ],
    "title": "Cast Swap: MiniMax H3 Max",
-   "usage": 283,
+   "usage": 291,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_recast.json"
   },
@@ -39065,7 +39238,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_starlight_precise25-1.webp"
    ],
    "title": "Video Upscale: Topaz Starlight Precise 2.5",
-   "usage": 207,
+   "usage": 194,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_starlight_precise25.json"
   },
@@ -39119,7 +39292,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_astra2-2.webp"
    ],
    "title": "Video Upscale: Topaz Astra 2 Creative",
-   "usage": 101,
+   "usage": 97,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_astra2.json"
   },
@@ -39180,7 +39353,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_depth_anything3_video_depth_estimation-2.webp"
    ],
    "title": "Depth Map: Depth Anything 3",
-   "usage": 113,
+   "usage": 141,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_depth_anything3_video_depth_estimation.json"
   },
@@ -39258,7 +39431,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_relayvsr_video_x2_upscale-1.webp"
    ],
    "title": "Video Upscale: RelayVSR 2x",
-   "usage": 154,
+   "usage": 137,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_relayvsr_video_x2_upscale.json"
   },
@@ -39336,7 +39509,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_relayvsr_video_x4_upscale-1.webp"
    ],
    "title": "Video Upscale: RelayVSR 4x",
-   "usage": 197,
+   "usage": 247,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_relayvsr_video_x4_upscale.json"
   },
@@ -39435,7 +39608,7 @@
    ],
    "title": "Video Upscale: Wan 2.2 Creative",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/video-upscale",
-   "usage": 104,
+   "usage": 89,
    "username": "sirolim",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_video_upscale.json"
   },
@@ -39556,7 +39729,7 @@
    ],
    "title": "Video Inpainting: VOID",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/void-video-inpainting",
-   "usage": 146,
+   "usage": 136,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_void_video_inpainting.json"
   },
@@ -39617,7 +39790,7 @@
    ],
    "title": "Video Segmentation: SAM3",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/video-segment-sam3",
-   "usage": 170,
+   "usage": 169,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_video_segment_sam3.json"
   },
@@ -39680,7 +39853,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_edit-2.webp"
    ],
    "title": "Gemini Omni 1.2 Flash: Video Edit",
-   "usage": 161,
+   "usage": 124,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_2_edit.json"
   },
@@ -39914,7 +40087,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_obscura_remova_lora_remove_object_from_video-1.webp"
    ],
    "title": "Remove Object from Video - LTX 2.3 Obscura Remova LoRA",
-   "usage": 89,
+   "usage": 92,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_obscura_remova_lora_remove_object_from_video.json"
   },
@@ -40020,7 +40193,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_lora_remove_subtitles_from_video-1.webp"
    ],
    "title": "Remove Subtitles from Video - LTX 2.3 LoRA",
-   "usage": 19,
+   "usage": 23,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_lora_remove_subtitles_from_video.json"
   },
@@ -40124,7 +40297,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_remove_watermark_from_video-1.webp"
    ],
    "title": "Remove Watermark from Video - LTX 2.3 LoRA",
-   "usage": 23,
+   "usage": 25,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_remove_watermark_from_video.json"
   },
@@ -40195,7 +40368,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_camera_control-1.webp"
    ],
    "title": "Camera Control: MiniMax H3 Max",
-   "usage": 37,
+   "usage": 32,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_camera_control.json"
   },
@@ -40257,7 +40430,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_video_extend-1.webp"
    ],
    "title": "Video Extend: Seedance 2.5",
-   "usage": 52,
+   "usage": 64,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_seedance2_5_video_extend.json"
   },
@@ -40347,7 +40520,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_horizontal_vertical_extension-2.webp"
    ],
    "title": "Aspect Ratio Extend: Kling O3",
-   "usage": 52,
+   "usage": 43,
    "username": "shane",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_horizontal_vertical_extension.json"
   },
@@ -40405,7 +40578,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_vcube_video_enhance-1.webp"
    ],
    "title": "Video Upscale: ByteDance vCube",
-   "usage": 46,
+   "usage": 50,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_vcube_video_enhance.json"
   },
@@ -40454,7 +40627,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_video_enhance-2.webp"
    ],
    "title": "Video Upscale: Topaz Astra Fast",
-   "usage": 82,
+   "usage": 79,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_topaz_video_enhance.json"
   },
@@ -40512,7 +40685,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_clarity_ai_crystal_video_upscale-2.webp"
    ],
    "title": "Clarity AI: Crystal Video Upscaler",
-   "usage": 51,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_clarity_ai_crystal_video_upscale.json"
   },
@@ -40578,7 +40751,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_beeble_switchx_video_edit-2.webp"
    ],
    "title": "Video Edit: Beeble SwitchX",
-   "usage": 97,
+   "usage": 149,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_beeble_switchx_video_edit.json"
   },
@@ -40654,7 +40827,7 @@
    ],
    "title": "Frame Interpolation: FILM or RIFE",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/frame-interpolation",
-   "usage": 49,
+   "usage": 55,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_video_frame_interpolation.json"
   },
@@ -40757,7 +40930,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_veed_remove_video_background-1.webp"
    ],
    "title": "VEED Remove Video Background: Matte Export",
-   "usage": 20,
+   "usage": 23,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_veed_remove_video_background.json"
   },
@@ -40811,7 +40984,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_video_green_screen-2.webp"
    ],
    "title": "Green Screen: Bria",
-   "usage": 21,
+   "usage": 24,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_video_green_screen.json"
   },
@@ -40921,7 +41094,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_remove_video_background_transparent-2.webp"
    ],
    "title": "Remove Background: Bria Transparent",
-   "usage": 32,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_remove_video_background_transparent.json"
   },
@@ -41032,7 +41205,7 @@
    ],
    "title": "Pose Map: DWPose OpenPose",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/preprocessors",
-   "usage": 36,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-openpose-video.json"
   },
@@ -41087,7 +41260,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wavespeed_flshvsr_video_upscale-2.webp"
    ],
    "title": "Video Upscale: WaveSpeed FlashVSR",
-   "usage": 57,
+   "usage": 50,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wavespeed_flshvsr_video_upscale.json"
   },
@@ -41145,7 +41318,7 @@
    ],
    "title": "Video Upscale: Real-ESRGAN",
    "tutorialUrl": "https://docs.comfy.org/tutorials/utility/image-upscale",
-   "usage": 43,
+   "usage": 39,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-gan_upscaler.json"
   },
@@ -41217,7 +41390,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_lipsync-1.webp"
    ],
    "title": "Lip Sync: MiniMax H3 Max",
-   "usage": 105,
+   "usage": 94,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_minimax_h3_max_lipsync.json"
   },
@@ -41450,7 +41623,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_extend-1.webp"
    ],
    "title": "Video Extend: Gemini Omni 1.1 Flash",
-   "usage": 16,
+   "usage": 20,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_omni_flash_1_1_extend.json"
   },
@@ -41706,7 +41879,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_lora_video_outpainting-1.webp"
    ],
    "title": "LTX2.3 LoRA: Video Outpainting",
-   "usage": 83,
+   "usage": 89,
    "username": "PurzBeats",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_lora_video_outpainting.json"
   },
@@ -41809,7 +41982,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_lora_restore_archival_footage-1.webp"
    ],
    "title": "Restore Archival Footage - LTX 2.3 Dearchive LoRA",
-   "usage": 27,
+   "usage": 25,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_lora_restore_archival_footage.json"
   },
@@ -42330,7 +42503,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sirolim_seamless_loop-1.webp"
    ],
    "title": "Video to Seamless Loop Converter",
-   "usage": 16,
+   "usage": 17,
    "username": "sirolim",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sirolim_seamless_loop.json"
   },
@@ -42448,7 +42621,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_video_replace_background-2.webp"
    ],
    "title": "Replace Background: Bria",
-   "usage": 20,
+   "usage": 21,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bria_video_replace_background.json"
   },
@@ -42705,7 +42878,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_reframe-1.webp"
    ],
    "title": "Reframe: LTX VFX",
-   "usage": 56,
+   "usage": 65,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_reframe.json"
   },
@@ -42770,7 +42943,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_upscale-1.webp"
    ],
    "title": "Upscale: LTX VFX",
-   "usage": 143,
+   "usage": 152,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_upscale.json"
   },
@@ -42841,7 +43014,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_sdr2hdr-2.webp"
    ],
    "title": "SDR to HDR: LTX VFX",
-   "usage": 27,
+   "usage": 28,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ltx_video_sdr2hdr.json"
   },
@@ -42960,7 +43133,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_v4_text_to_speech-1.webp"
    ],
    "title": "Eleven v4: Text to Speech",
-   "usage": 436,
+   "usage": 466,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_v4_text_to_speech.json"
   },
@@ -43026,7 +43199,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_minimax_music_3-1.webp"
    ],
    "title": "MiniMax Music 3: Text to Music",
-   "usage": 403,
+   "usage": 366,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_minimax_music_3.json"
   },
@@ -43083,7 +43256,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_voice_clone_tts-1.webp"
    ],
    "title": "Fish Audio: Voice Clone to Speech",
-   "usage": 178,
+   "usage": 170,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_voice_clone_tts.json"
   },
@@ -43138,7 +43311,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_drama3_directed-1.webp"
    ],
    "title": "Fish Audio Drama 3: Directed Performance",
-   "usage": 91,
+   "usage": 108,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_drama3_directed.json"
   },
@@ -43206,7 +43379,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_mirelo_video_to_sfx-1.webp"
    ],
    "title": "Mirelo SFX 2.0: Video to SFX",
-   "usage": 154,
+   "usage": 149,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_mirelo_video_to_sfx.json"
   },
@@ -43249,7 +43422,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_mirelo_text_to_sfx-1.webp"
    ],
    "title": "Mirelo SFX 2.0: Text to SFX",
-   "usage": 177,
+   "usage": 139,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_mirelo_text_to_sfx.json"
   },
@@ -43316,7 +43489,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_stable_audio_3_medium-1.webp"
    ],
    "title": "Stable Audio 3.0 Medium",
-   "usage": 128,
+   "usage": 98,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_stable_audio_3_medium.json"
   },
@@ -43383,7 +43556,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_stable_audio_3_medium_base-1.webp"
    ],
    "title": "Stable Audio 3.0 Medium Base",
-   "usage": 112,
+   "usage": 62,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_stable_audio_3_medium_base.json"
   },
@@ -43451,7 +43624,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step1_5_xl_turbo-1.webp"
    ],
    "title": "ACE-Step 1.5XL Turbo: Text to Music",
-   "usage": 98,
+   "usage": 119,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step1_5_xl_turbo.json"
   },
@@ -43502,7 +43675,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_5_checkpoint-1.mp3"
    ],
    "title": "ACE-Step 1.5 Music Generation AIO",
-   "usage": 54,
+   "usage": 74,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_5_checkpoint.json"
   },
@@ -43570,7 +43743,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_5_split-1.mp3"
    ],
    "title": "ACE-Step 1.5 Music Generation Workflow",
-   "usage": 29,
+   "usage": 26,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_5_split.json"
   },
@@ -43624,7 +43797,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_voice_1-1.webp"
    ],
    "title": "HeyGen Voice 1.0: Voice Clone to Speech",
-   "usage": 25,
+   "usage": 21,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_voice_1.json"
   },
@@ -43678,7 +43851,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_voice_1_turbo-1.webp"
    ],
    "title": "HeyGen Voice 1.0 Turbo: Voice Clone to Speech",
-   "usage": 20,
+   "usage": 43,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_voice_1_turbo.json"
   },
@@ -43723,7 +43896,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_text_to_sound_effects-1.webp"
    ],
    "title": "ElevenLabs: Text to Sound Effects",
-   "usage": 74,
+   "usage": 86,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_text_to_sound_effects.json"
   },
@@ -43784,7 +43957,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_text_to_speech-1.webp"
    ],
    "title": "ElevenLabs: Text to Speech",
-   "usage": 60,
+   "usage": 53,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_text_to_speech.json"
   },
@@ -43836,7 +44009,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pika_music-1.webp"
    ],
    "title": "Pika Music: Text to Music",
-   "usage": 106,
+   "usage": 93,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pika_music.json"
   },
@@ -43888,7 +44061,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pika_sfx-1.webp"
    ],
    "title": "Pika: Text to Sound Effects",
-   "usage": 76,
+   "usage": 69,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_pika_sfx.json"
   },
@@ -43943,7 +44116,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_text_to_speech-1.webp"
    ],
    "title": "Fish Audio: Text to Speech",
-   "usage": 54,
+   "usage": 65,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_text_to_speech.json"
   },
@@ -44008,7 +44181,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/breeze_tts2_tts-1.webp"
    ],
    "title": "Breeze TTS 2: Text to Speech",
-   "usage": 80,
+   "usage": 139,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/breeze_tts2_tts.json"
   },
@@ -44056,7 +44229,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_music1_5-1.webp"
    ],
    "title": "Sonilo Music 1.5: Lyrics to Song",
-   "usage": 44,
+   "usage": 50,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_music1_5.json"
   },
@@ -44098,7 +44271,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_t2m-1.webp"
    ],
    "title": "Sonilo: Text to Music Generation",
-   "usage": 26,
+   "usage": 32,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_t2m.json"
   },
@@ -44157,7 +44330,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_v2m-1.webp"
    ],
    "title": "Sonilo: Video Soundtrack Generation",
-   "usage": 67,
+   "usage": 71,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_sonilo_v2m.json"
   },
@@ -44209,7 +44382,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio-chatterbox_tts_multilingual-1.mp3"
    ],
    "title": "Chatter Box: Multilingual Text-to-Speech with Voice Cloning",
-   "usage": 57,
+   "usage": 64,
    "username": "PurzBeats",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio-chatterbox_tts_multilingual.json"
   },
@@ -44308,7 +44481,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seed_audio1_0_t2a-1.webp"
    ],
    "title": "Seed Audio 1.0: Text to Audio",
-   "usage": 52,
+   "usage": 49,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seed_audio1_0_t2a.json"
   },
@@ -44365,7 +44538,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seed_audio1_0_ta2a-1.webp"
    ],
    "title": "Seed Audio 1.0: Text + Audio to Audio",
-   "usage": 76,
+   "usage": 85,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seed_audio1_0_ta2a.json"
   },
@@ -44419,7 +44592,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_melbandroformer_audio_separation-1.webp"
    ],
    "title": "MelBandRoFormer Audio Separation",
-   "usage": 23,
+   "usage": 22,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_melbandroformer_audio_separation.json"
   },
@@ -44469,7 +44642,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-audioseparation-1.webp"
    ],
    "title": "Audio Separation",
-   "usage": 36,
+   "usage": 41,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility-audioseparation.json"
   },
@@ -44529,7 +44702,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_text_to_dialogue-1.webp"
    ],
    "title": "ElevenLabs: Text to Dialogue",
-   "usage": 29,
+   "usage": 25,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_text_to_dialogue.json"
   },
@@ -44587,7 +44760,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_v4_text_to_dialogue-1.webp"
    ],
    "title": "Eleven v4: Text to Dialogue",
-   "usage": 30,
+   "usage": 33,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_v4_text_to_dialogue.json"
   },
@@ -44652,7 +44825,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_speech_to_speech-1.webp"
    ],
    "title": "ElevenLabs: Speech to Speech",
-   "usage": 49,
+   "usage": 56,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_speech_to_speech.json"
   },
@@ -44711,7 +44884,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_voice_isolation-2.webp"
    ],
    "title": "ElevenLabs: Voice Isolation",
-   "usage": 18,
+   "usage": 17,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenlabs_voice_isolation.json"
   },
@@ -44767,7 +44940,7 @@
    ],
    "title": "Stable Audio 1.0: Text to Audio",
    "tutorialUrl": "https://comfyanonymous.github.io/ComfyUI_examples/audio/",
-   "usage": 17,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_stable_audio_example.json"
   },
@@ -44903,7 +45076,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step1_5_xl_sft-1.webp"
    ],
    "title": "ACE-Step 1.5XL SFT: Text to Music",
-   "usage": 69,
+   "usage": 76,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step1_5_xl_sft.json"
   },
@@ -45058,7 +45231,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_5_split_4b-1.mp3"
    ],
    "title": "ACE-Step 1.5 Music Generation (4B LLM )",
-   "usage": 30,
+   "usage": 44,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_5_split_4b.json"
   },
@@ -45230,7 +45403,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_text_to_speech-1.webp"
    ],
    "title": "HeyGen: Text to Speech",
-   "usage": 25,
+   "usage": 23,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_text_to_speech.json"
   },
@@ -45352,7 +45525,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio-chatterbox_vc-1.mp3"
    ],
    "title": "Chatter Box: Voice Cloning Audio Conversion",
-   "usage": 20,
+   "usage": 23,
    "username": "PurzBeats",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio-chatterbox_vc.json"
   },
@@ -45407,7 +45580,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_drama3_dialogue-1.webp"
    ],
    "title": "Fish Audio Drama 3: Two-Speaker Dialogue",
-   "usage": 26,
+   "usage": 25,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_fishaudio_drama3_dialogue.json"
   },
@@ -45521,7 +45694,7 @@
    ],
    "title": "ACE Step v1 M2M Editing",
    "tutorialUrl": "https://docs.comfy.org/tutorials/audio/ace-step/ace-step-v1",
-   "usage": 26,
+   "usage": 15,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/audio_ace_step_1_m2m_editing.json"
   },
@@ -45678,7 +45851,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seed_audio1_0_ti2a-1.webp"
    ],
    "title": "Seed Audio 1.0: Text + Image to Audio",
-   "usage": 16,
+   "usage": 17,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_bytedance_seed_audio1_0_ti2a.json"
   },
@@ -45734,7 +45907,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenLabs_speech_to_text-1.webp"
    ],
    "title": "ElevenLabs: Speech to text",
-   "usage": 14,
+   "usage": 18,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_elevenLabs_speech_to_text.json"
   },
@@ -45922,7 +46095,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_pixal3d_trellis2_image_to_model-1.webp"
    ],
    "title": "Pixal3D & TRELLIS.2: Image to Model",
-   "usage": 671,
+   "usage": 670,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_pixal3d_trellis2_image_to_model.json"
   },
@@ -46016,7 +46189,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_idol_image_to_gaussian_splat-1.webp"
    ],
    "title": "Idol: Image to Gaussian Splat",
-   "usage": 208,
+   "usage": 210,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_idol_image_to_gaussian_splat.json"
   },
@@ -46127,7 +46300,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_pixal3d_multi_views-1.webp"
    ],
    "title": "Pixal3D: Multi Views to 3D",
-   "usage": 292,
+   "usage": 282,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_pixal3d_multi_views.json"
   },
@@ -46220,7 +46393,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_triposplat_image_to_gaussian_splat-1.webp"
    ],
    "title": "TripoSplat: Image to Gaussian Splat",
-   "usage": 125,
+   "usage": 99,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_triposplat_image_to_gaussian_splat.json"
   },
@@ -46285,7 +46458,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_multiview_to_model-2.webp"
    ],
    "title": "Tripo P2: Multiview to Model",
-   "usage": 135,
+   "usage": 107,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_multiview_to_model.json"
   },
@@ -46345,7 +46518,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_image_to_model-2.webp"
    ],
    "title": "Tripo P2: Image to Model",
-   "usage": 113,
+   "usage": 96,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_image_to_model.json"
   },
@@ -46402,7 +46575,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_1_image_to_model-1.webp"
    ],
    "title": "Tripo H3.1: Image to Model",
-   "usage": 68,
+   "usage": 62,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_1_image_to_model.json"
   },
@@ -46488,7 +46661,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_sam3d_body-1.webp"
    ],
    "title": "SAM 3D Body: 3D Human Mesh Extraction From Video",
-   "usage": 168,
+   "usage": 151,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/utility_sam3d_body.json"
   },
@@ -46551,7 +46724,7 @@
    ],
    "title": "HY 3D 2.1: Single View to Model",
    "tutorialUrl": "",
-   "usage": 164,
+   "usage": 174,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_hunyuan3d-v2.1.json"
   },
@@ -46632,7 +46805,7 @@
    ],
    "title": "HY 3D 2.0 MV",
    "tutorialUrl": "",
-   "usage": 67,
+   "usage": 64,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_hunyuan3d_multiview_to_model.json"
   },
@@ -46695,7 +46868,7 @@
    ],
    "title": "HY 3D 2.0",
    "tutorialUrl": "",
-   "usage": 15,
+   "usage": 16,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_hunyuan3d_image_to_model.json"
   },
@@ -46758,7 +46931,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy7_1_image_to_model-2.webp"
    ],
    "title": "Meshy 7.1: Image to 3D",
-   "usage": 104,
+   "usage": 102,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy7_1_image_to_model.json"
   },
@@ -46888,7 +47061,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy7_image_to_model-1.webp"
    ],
    "title": "Meshy 7: Image to 3D",
-   "usage": 41,
+   "usage": 48,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy7_image_to_model.json"
   },
@@ -46943,7 +47116,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_t2_5_smart_topology_i2m-2.webp"
    ],
    "title": "Meshy T2.5: Image to Model (Smart Topology)",
-   "usage": 49,
+   "usage": 54,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_t2_5_smart_topology_i2m.json"
   },
@@ -47012,7 +47185,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_1_multiview_to_model-1.webp"
    ],
    "title": "Tripo H3.1: Multiview to Model",
-   "usage": 87,
+   "usage": 84,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_1_multiview_to_model.json"
   },
@@ -47077,7 +47250,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_0_image_to_model-1.webp"
    ],
    "title": "Tripo3.0: Image to Model",
-   "usage": 24,
+   "usage": 13,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo3_0_image_to_model.json"
   },
@@ -47139,7 +47312,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_moge_perspective_to_mesh-1.webp"
    ],
    "title": "MoGe: Perspective Geometry Estimation",
-   "usage": 55,
+   "usage": 54,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_moge_perspective_to_mesh.json"
   },
@@ -47192,7 +47365,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_rodin3d_gen2_5_image_to_3d-1.webp"
    ],
    "title": "Rodin Gen2.5: Image to Model",
-   "usage": 23,
+   "usage": 22,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_rodin3d_gen2_5_image_to_3d.json"
   },
@@ -47248,7 +47421,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_hunyuan3d_image_to_model-1.webp"
    ],
    "title": "HY 3D: Image to Model",
-   "usage": 32,
+   "usage": 34,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_hunyuan3d_image_to_model.json"
   },
@@ -47330,7 +47503,7 @@
    ],
    "title": "HY 3D 2.0 MV Turbo",
    "tutorialUrl": "",
-   "usage": 22,
+   "usage": 21,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_hunyuan3d_multiview_to_model_turbo.json"
   },
@@ -47691,7 +47864,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_multi_image_to_model-1.webp"
    ],
    "title": "Meshy 6: Multi-Image to Model",
-   "usage": 32,
+   "usage": 37,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_multi_image_to_model.json"
   },
@@ -47795,7 +47968,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_t2_5_smart_topology_t2m-2.webp"
    ],
    "title": "Meshy T2.5: Text to Model (Smart Topology)",
-   "usage": 15,
+   "usage": 12,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_t2_5_smart_topology_t2m.json"
   },
@@ -47846,7 +48019,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_image_to_model-1.webp"
    ],
    "title": "Meshy 6: Image to Model",
-   "usage": 41,
+   "usage": 44,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_meshy_image_to_model.json"
   },
@@ -47906,7 +48079,7 @@
    ],
    "title": "Tripo 2.5: Multiview to Model",
    "tutorialUrl": "",
-   "usage": 14,
+   "usage": 19,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_multiview_to_model.json"
   },
@@ -47955,7 +48128,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_text_to_model-2.webp"
    ],
    "title": "Tripo P2: Text to Model",
-   "usage": 16,
+   "usage": 13,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tripo_p2_text_to_model.json"
   },
@@ -48196,7 +48369,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_mjm_image_to_3d-2.webp"
    ],
    "title": "Generate 3D Model From Single Image",
-   "usage": 32,
+   "usage": 40,
    "username": "Julien | MJM",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_mjm_image_to_3d.json"
   },
@@ -48307,7 +48480,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_moge_panorama_to_mesh-1.webp"
    ],
    "title": "MoGe: Panorama to Mesh",
-   "usage": 19,
+   "usage": 12,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_moge_panorama_to_mesh.json"
   },
@@ -48372,7 +48545,7 @@
    ],
    "title": "Rodin: Multiview to Model",
    "tutorialUrl": "",
-   "usage": 16,
+   "usage": 17,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_rodin_multiview_to_model.json"
   },
@@ -49224,7 +49397,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_ultratex_texture_3d_model-2.webp"
    ],
    "title": "UltraTex: Texture a 3D Model",
-   "usage": 27,
+   "usage": 97,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/3d_ultratex_texture_3d_model.json"
   },
@@ -49277,7 +49450,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_vector_1_image_to_svg-1.webp"
    ],
    "title": "Ideogram Vector 1: Image to SVG",
-   "usage": 50,
+   "usage": 61,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_ideogram_vector_1_image_to_svg.json"
   },
@@ -49321,7 +49494,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_v4_1_text_to_vector-1.webp"
    ],
    "title": "Recraft 4.1: Text to Vector",
-   "usage": 29,
+   "usage": 44,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_recraft_v4_1_text_to_vector.json"
   },
@@ -49461,7 +49634,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_quiver_arrow2_image_to_svg-2.webp"
    ],
    "title": "Arrow2: Image to SVG",
-   "usage": 17,
+   "usage": 14,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_quiver_arrow2_image_to_svg.json"
   },
@@ -49725,7 +49898,7 @@
    ],
    "title": "Qwen3.5: Text Generation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/llm/qwen/qwen3_5",
-   "usage": 226,
+   "usage": 206,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_qwen3_5_text_gen.json"
   },
@@ -49780,7 +49953,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_qwen3vl_text_gen-1.webp"
    ],
    "title": "Qwen3-VL: Text Generation",
-   "usage": 119,
+   "usage": 112,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_qwen3vl_text_gen.json"
   },
@@ -49835,7 +50008,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_grok4_5-1.webp"
    ],
    "title": "Grok: Grok 4.5",
-   "usage": 91,
+   "usage": 72,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_grok4_5.json"
   },
@@ -49890,7 +50063,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_anthropic_claude_opus_5_5-1.webp"
    ],
    "title": "Claude: Opus 5.5",
-   "usage": 20,
+   "usage": 12,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_anthropic_claude_opus_5_5.json"
   },
@@ -49946,7 +50119,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tencent_hy4-1.webp"
    ],
    "title": "Tencent: Hy4",
-   "usage": 17,
+   "usage": 12,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_tencent_hy4.json"
   },
@@ -50086,7 +50259,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_decision_1-1.webp"
    ],
    "title": "HeyGen Decision 1: Gate and Pick",
-   "usage": 21,
+   "usage": 25,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_decision_1.json"
   },
@@ -50236,7 +50409,7 @@
    ],
    "title": "Gemma4: Text Generation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/llm/gemma4/gemma4",
-   "usage": 47,
+   "usage": 32,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_gemma4_text_gen.json"
   },
@@ -50348,7 +50521,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_4_hydrogen-1.webp"
    ],
    "title": "Google: Gemini 4 Hydrogen",
-   "usage": 67,
+   "usage": 74,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini_4_hydrogen.json"
   },
@@ -50513,7 +50686,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_gpt5_6_sol-1.webp"
    ],
    "title": "GPT-5.6: Sol",
-   "usage": 38,
+   "usage": 36,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_gpt5_6_sol.json"
   },
@@ -50622,7 +50795,7 @@
    ],
    "title": "OpenAI: ChatGPT",
    "tutorialUrl": "",
-   "usage": 19,
+   "usage": 22,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_chat.json"
   },
@@ -50778,7 +50951,7 @@
    ],
    "title": "Qwen3.0: Text Generation",
    "tutorialUrl": "https://docs.comfy.org/tutorials/llm/qwen/qwen3",
-   "usage": 16,
+   "usage": 17,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/llm_qwen3_text_gen.json"
   },
@@ -51050,7 +51223,7 @@
    ],
    "title": "Google Gemini",
    "tutorialUrl": "",
-   "usage": 14,
+   "usage": 20,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_google_gemini.json"
   },
@@ -51618,7 +51791,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-9grid_social_media-v2.0-1.webp"
    ],
    "title": "3x3 Grid For Product Ads",
-   "usage": 30,
+   "usage": 31,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-9grid_social_media-v2.0.json"
   },
@@ -51716,7 +51889,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_kling3_0_multishot_llm_product-1.webp"
    ],
    "title": "Kling 3.0: 1 Click Multishot",
-   "usage": 16,
+   "usage": 17,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_kling3_0_multishot_llm_product.json"
   },
@@ -51777,7 +51950,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-car_product-1.webp"
    ],
    "title": "1 Image to Car Product Shots",
-   "usage": 23,
+   "usage": 21,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-car_product.json"
   },
@@ -51996,7 +52169,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-assemble_dieline-2.webp"
    ],
    "title": "Generate Brand Packaging from Dieline",
-   "usage": 20,
+   "usage": 23,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-assemble_dieline.json"
   },
@@ -52052,7 +52225,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-photo_to_product_vid-1.webp"
    ],
    "title": "Phone Image to Product Video: Shoe",
-   "usage": 27,
+   "usage": 24,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-photo_to_product_vid.json"
   },
@@ -52222,7 +52395,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-product_scene_relight-2.webp"
    ],
    "title": "Composite your Product + Scene and Relight",
-   "usage": 75,
+   "usage": 84,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-product_scene_relight.json"
   },
@@ -52918,7 +53091,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sferro21_product_ad.app-1.webp"
    ],
    "title": "Product Ad Cinematic Sequence Generator",
-   "usage": 29,
+   "usage": 37,
    "username": "sferro21",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_sferro21_product_ad.app.json"
   },
@@ -53015,7 +53188,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-wan2_1_infinitetalk_music-1.webp"
    ],
    "title": "Audio-Driven Character Lip Sync Video",
-   "usage": 282,
+   "usage": 300,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-wan2_1_infinitetalk_music.json"
   },
@@ -53152,7 +53325,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_purz_wan22_animate_auto_character_replace-2.webp"
    ],
    "title": "Wan2.2 Animate: Automatic Character Replacement",
-   "usage": 424,
+   "usage": 491,
    "username": "PurzBeats",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_purz_wan22_animate_auto_character_replace.json"
   },
@@ -53244,7 +53417,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-1_click_multiple_character_angles-v1.0-1.webp"
    ],
    "title": "1 Click Multiple Character Angles",
-   "usage": 292,
+   "usage": 278,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-1_click_multiple_character_angles-v1.0.json"
   },
@@ -53303,7 +53476,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-character_sheet-1.webp"
    ],
    "title": "360 Full-body Turnaround",
-   "usage": 118,
+   "usage": 116,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-character_sheet.json"
   },
@@ -53388,7 +53561,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-fashion_shoot_vton-1.webp"
    ],
    "title": "Character + Clothing (OOTD) Flat Lay to Studio Photoshoot",
-   "usage": 67,
+   "usage": 63,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-fashion_shoot_vton.json"
   },
@@ -53493,7 +53666,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_ic_lora_ingredients-1.webp"
    ],
    "title": "LTX-2.3 IC-LoRA: Reference Sheet Control",
-   "usage": 57,
+   "usage": 59,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_ltx2_3_ic_lora_ingredients.json"
   },
@@ -53581,7 +53754,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-1_click_multiple_scene_angles-v1.0-1.webp"
    ],
    "title": "1 click Multiple Scene Angles",
-   "usage": 64,
+   "usage": 63,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-1_click_multiple_scene_angles-v1.0.json"
   },
@@ -53692,7 +53865,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_portrait_light_migration.app-2.webp"
    ],
    "title": "Portrait Relight",
-   "usage": 41,
+   "usage": 31,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_rob_portrait_light_migration.app.json"
   },
@@ -53917,7 +54090,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-multiple_consistent_shots-nb_pro-1.webp"
    ],
    "title": "Single Image to Multiple Consistent Shots",
-   "usage": 34,
+   "usage": 38,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-multiple_consistent_shots-nb_pro.json"
   },
@@ -54124,7 +54297,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_character_portrait_relighting-1.webp"
    ],
    "title": "Character Portrait Relighting",
-   "usage": 23,
+   "usage": 26,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_character_portrait_relighting.json"
   },
@@ -54201,7 +54374,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_seedance2_0_viral_videos_character_swap-2.webp"
    ],
    "title": "Seedance 2.0: Viral Videos Character Swap",
-   "usage": 21,
+   "usage": 23,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_seedance2_0_viral_videos_character_swap.json"
   },
@@ -54487,7 +54660,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux_vto-2.webp"
    ],
    "title": "Virtual Try-On: Flux",
-   "usage": 17,
+   "usage": 29,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_flux_vto.json"
   },
@@ -54553,7 +54726,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_3x3_contact_sheet-1.webp"
    ],
    "title": "3x3 Contact Sheet",
-   "usage": 74,
+   "usage": 76,
    "username": "enigmatic_e",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_3x3_contact_sheet.json"
   },
@@ -54728,7 +54901,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-portrait_light_migration-1.webp"
    ],
    "title": "Light Migration for Character Portrait",
-   "usage": 17,
+   "usage": 16,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-portrait_light_migration.json"
   },
@@ -55103,7 +55276,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_eric_seedance_5_subject_and_outfit_combine-1.webp"
    ],
    "title": "Outfit Application for Character Portraits",
-   "usage": 25,
+   "usage": 27,
    "username": "enigmatic_e",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/template_eric_seedance_5_subject_and_outfit_combine.json"
   },
@@ -55518,7 +55691,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_character_swap-2.webp"
    ],
    "title": "MiniMax-H3-Image: Character Swap",
-   "usage": 618,
+   "usage": 1226,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_minimax_h3_image_character_swap.json"
   },
@@ -55591,7 +55764,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_id2v-1.webp"
    ],
    "title": "HeyGen Avatar 6: Identity to Video",
-   "usage": 30,
+   "usage": 45,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_id2v.json"
   },
@@ -55663,7 +55836,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_i2v-1.webp"
    ],
    "title": "HeyGen Avatar 6: Photo to Video",
-   "usage": 219,
+   "usage": 295,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_avatar_6_i2v.json"
   },
@@ -55983,7 +56156,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_r2v-1.webp"
    ],
    "title": "HeyGen Video 1.0: Reference to Video",
-   "usage": 63,
+   "usage": 74,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_r2v.json"
   },
@@ -56044,7 +56217,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_i2v-1.webp"
    ],
    "title": "HeyGen Video 1.0: Image to Video",
-   "usage": 168,
+   "usage": 210,
    "username": "ComfyUI",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_heygen_video_1_i2v.json"
   },
@@ -56130,7 +56303,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_text_prompt_to_360hdr.app-1.webp"
    ],
    "title": "Equirectangular HDR Skybox Generator",
-   "usage": 14,
+   "usage": 17,
    "username": "shane",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_text_prompt_to_360hdr.app.json"
   },
@@ -56200,7 +56373,7 @@
     "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_graphic_design_recomposer-1.webp"
    ],
    "title": "Graphic Design Recomposer",
-   "usage": 79,
+   "usage": 81,
    "username": "hellorob",
    "workflowUrl": "https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_graphic_design_recomposer.json"
   },

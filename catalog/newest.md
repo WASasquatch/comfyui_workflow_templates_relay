@@ -2,10 +2,13 @@
 
 [← Catalog](README.md)
 
-786 templates.
+789 templates.
 
 | Template | Category | Output | Models | Tags | Date | Type |
 |---|---|---|---|---|---|---|
+| [MAGI-2: Text to Video](video/api_magi2_t2v.md) | Video | video | MAGI-2 | API, Text to Video | 2026-11-28 | API |
+| [MAGI-2: Reference to Video](video/api_magi2_r2v.md) | Video | video | MAGI-2 | API, Reference to Video | 2026-11-28 | API |
+| [MAGI-2: Image to Video](video/api_magi2_i2v.md) | Video | video | MAGI-2 | API, Image to Video | 2026-11-28 | API |
 | [Ming Image 0.2 Design: Text to Image](image/image_ming_image_01_design_t2i.md) | Image | image | Ming Image | Int8, Text to Image | 2026-11-26 | open source |
 | [Ming Image 0.2 Design: Image Edit](image/image_ming_image_01_design_image_edit.md) | Image | image | Ming Image | Image Edit | 2026-11-26 | open source |
 | [Gemini Decision 1: Gate, Score, Classify, Pick](llm/api_gemini_decision.md) | LLM | llm | Gemini Decision 1, Google | API, Image, LLM | 2026-11-25 | API |
@@ -639,7 +642,7 @@
 | [Phone Image to Product Video: Shoe](product-ads/templates-photo_to_product_vid.md) | Product & Ads | image | Seedream, MiniMax | Image to Video, API | 2025-12-18 | API |
 | [1 Image to Car Product Shots](product-ads/templates-car_product.md) | Product & Ads | image | Kling, Seedream | API, FLF2V, Image to Video | 2025-12-18 | API |
 | [Profile Picture Stylized Variations](character-fashion/templates-8x8_grid-pfp.md) | Character & Fashion | image | Nano Banana Pro, Google, Gemini3 Pro Image Preview | API, Image Edit | 2025-12-18 | API |
-| [Fashion Billboard Generator](image/api_openai_fashion_billboard_generator.md) | Image | image | GPT-Image-1.5, OpenAI | Image Edit, Image, API | 2025-12-18 | API |
+| [Fashion Billboard Generator](image/api_openai_fashion_billboard_generator.md) | Image | image | GPT Image 2.6, OpenAI | Image Edit, Image, API | 2025-12-18 | API |
 | [WanMove: Daydream Illusion](video/video_wanmove_480p_hallucination.md) | Video | video | Wan2.1, Wan | Image to Video, Motion Control, Video | 2025-12-15 | open source |
 | [Wan-Move Motion-Control Image to Video](video/video_wanmove_480p.md) | Video | video | Wan, Wan2.1 | Image to Video, Motion Control, Video | 2025-12-15 | open source |
 | [Composite your Product + Scene and Relight](product-ads/templates-product_scene_relight.md) | Product & Ads | image | ByteDance, Seedream | API, Image Edit, Relight | 2025-12-15 | API |

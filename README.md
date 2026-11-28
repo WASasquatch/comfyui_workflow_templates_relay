@@ -2,15 +2,15 @@
 
 A Markdown mirror of every template in [Comfy-Org/workflow_templates](https://github.com/Comfy-Org/workflow_templates/tree/main/templates), regenerated automatically by a scheduled GitHub Action. GitHub's web UI truncates that folder (it holds well over 1,000 files), so this repo gives each template its own page, grouped by category, with thumbnails, models, required custom nodes, model download links and the notes embedded in the workflow.
 
-Generated from [`Comfy-Org/workflow_templates@80cc275`](https://github.com/Comfy-Org/workflow_templates/tree/80cc2752a4b090d823b007baff8e242998f1bce6/templates) (upstream commit 2026-11-27).
+Generated from [`Comfy-Org/workflow_templates@5a0d3d5`](https://github.com/Comfy-Org/workflow_templates/tree/5a0d3d5fe921e72d3dfcaa6627f45ee95bacd150/templates) (upstream commit 2026-11-28).
 
 ### [🔎 Open the interactive template browser →](https://wasasquatch.github.io/comfyui_workflow_templates_relay/)
 
 Search, filter by model / tag / media type, preview, and download any workflow in one click.
 
-**786 templates** in 12 categories (328 open source, 458 API).
+**789 templates** in 12 categories (328 open source, 461 API).
 
-> **Nothing is truncated here.** Upstream `templates/` holds 1814 files (workflow JSONs plus their thumbnails, previews and index files), so GitHub's folder view stops at 1,000 and hides the rest. This README lists every one of the 786 workflow JSONs in that folder.
+> **Nothing is truncated here.** Upstream `templates/` holds 1820 files (workflow JSONs plus their thumbnails, previews and index files), so GitHub's folder view stops at 1,000 and hides the rest. This README lists every one of the 789 workflow JSONs in that folder.
 
 ## Categories
 
@@ -18,7 +18,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 |---|---|---|---|---|
 | Foundation | [Image](#dir-image) | 234 | image | [thumbnails](catalog/image/README.md) |
 | Foundation | [Image Tools](#dir-image-tools) | 58 | image | [thumbnails](catalog/image-tools/README.md) |
-| Foundation | [Video](#dir-video) | 222 | video | [thumbnails](catalog/video/README.md) |
+| Foundation | [Video](#dir-video) | 225 | video | [thumbnails](catalog/video/README.md) |
 | Foundation | [Video Tools](#dir-video-tools) | 59 | video | [thumbnails](catalog/video-tools/README.md) |
 | Foundation | [Audio](#dir-audio) | 51 | audio | [thumbnails](catalog/audio/README.md) |
 | Foundation | [3D Model](#dir-3d-model) | 53 | 3d | [thumbnails](catalog/3d-model/README.md) |
@@ -271,7 +271,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 | [MAI Image 2.6 Flash: Image Edit](catalog/image/api_openrouter_mai_image_26_flash_image_edit.md) | Mai Image 2.6 | image | API | 2026-09-10 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openrouter_mai_image_26_flash_image_edit.json) |
 | [LongCat Image: Text to Image](catalog/image/image_longcat_text_to_image.md) | LongCat | image | open source | 2026-03-02 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_longcat_text_to_image.json) |
 | [Pixel Sort Glitch Effect Image Transformation](catalog/image/templates_purz_pixel_sort_image.md) | None | image | open source | 2026-03-21 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates_purz_pixel_sort_image.json) |
-| [Fashion Billboard Generator](catalog/image/api_openai_fashion_billboard_generator.md) | GPT-Image-1.5, OpenAI | image | API | 2025-12-18 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_fashion_billboard_generator.json) |
+| [Fashion Billboard Generator](catalog/image/api_openai_fashion_billboard_generator.md) | GPT Image 2.6, OpenAI | image | API | 2025-12-18 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_openai_fashion_billboard_generator.json) |
 | [Grok Imagine Image Quality: Edit](catalog/image/api_grok_imagine_image_quality_image_edit.md) | Grok | image | API | 2026-05-06 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_grok_imagine_image_quality_image_edit.json) |
 | [1 input multiple styles from prompt](catalog/image/templates-1_input-multiple_styles_prompt.app.md) | Grok | image | API | 2026-02-19 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/templates-1_input-multiple_styles_prompt.app.json) |
 | [Ovis-Image Text to Image](catalog/image/image_ovis_text_to_image.md) | Ovis-Image | image | open source | 2025-12-02 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/image_ovis_text_to_image.json) |
@@ -357,7 +357,7 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 
 <a id="dir-video"></a>
 
-### Video (222)
+### Video (225)
 
 [Gallery with thumbnails](catalog/video/README.md)
 
@@ -365,6 +365,9 @@ Search, filter by model / tag / media type, preview, and download any workflow i
 |---|---|---|---|---|---|
 | [MiniMax H3: Image to Video](catalog/video/video_minimax_h3_i2v.md) | MiniMax H3 | video | open source | 2026-08-02 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_i2v.json) |
 | [LTX-2.3: Image to Video](catalog/video/video_ltx2_3_i2v.md) | LTX-2.3, Lightricks | video | open source | 2026-03-05 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_ltx2_3_i2v.json) |
+| [MAGI-2: Image to Video](catalog/video/api_magi2_i2v.md) | MAGI-2 | video | API | 2026-11-28 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_i2v.json) |
+| [MAGI-2: Text to Video](catalog/video/api_magi2_t2v.md) | MAGI-2 | video | API | 2026-11-28 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_t2v.json) |
+| [MAGI-2: Reference to Video](catalog/video/api_magi2_r2v.md) | MAGI-2 | video | API | 2026-11-28 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_magi2_r2v.json) |
 | [Wan 2.2 14B Image to Video](catalog/video/video_wan2_2_14B_i2v.md) | Wan, Wan2.2 | video | open source | 2025-07-29 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_wan2_2_14B_i2v.json) |
 | [MiniMax H3: Reference to Video](catalog/video/video_minimax_h3_r2v.md) | MiniMax H3 | video | open source | 2026-08-02 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/video_minimax_h3_r2v.json) |
 | [Wan3.0: Reference to Video](catalog/video/api_wan3_0_r2v.md) | Wan3.0 | video | API | 2026-08-24 | [json](https://raw.githubusercontent.com/Comfy-Org/workflow_templates/main/templates/api_wan3_0_r2v.json) |

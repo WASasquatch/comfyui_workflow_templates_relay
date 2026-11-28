@@ -6,13 +6,13 @@ Tags as declared in `index.json`.
 
 | | Templates |
 |---|---|
-| [API](#api) | 454 |
+| [API](#api) | 457 |
 | [Video](#video) | 152 |
 | [Image Edit](#image-edit) | 127 |
 | [Text to Image](#text-to-image) | 119 |
 | [Image](#image) | 118 |
-| [Image to Video](#image-to-video) | 89 |
-| [Text to Video](#text-to-video) | 59 |
+| [Image to Video](#image-to-video) | 90 |
+| [Text to Video](#text-to-video) | 60 |
 | [Int8](#int8) | 51 |
 | [3D](#3d) | 49 |
 | [Audio](#audio) | 31 |
@@ -21,7 +21,7 @@ Tags as declared in `index.json`.
 | [FLF2V](#flf2v) | 29 |
 | [Image Upscale](#image-upscale) | 29 |
 | [ControlNet](#controlnet) | 26 |
-| [Reference to Video](#reference-to-video) | 25 |
+| [Reference to Video](#reference-to-video) | 26 |
 | [Text Generation](#text-generation) | 19 |
 | [Lip Sync](#lip-sync) | 17 |
 | [LoRA](#lora) | 17 |
@@ -317,6 +317,9 @@ Tags as declared in `index.json`.
 - [Luma UNI-1: Image Creation](image/api_luma_uni_1_image_create.md) — Image
 - [Luma UNI-1: Image Edit](image/api_luma_uni_1_image_edit.md) — Image
 - [Magazine Cover & Package Design](brand-design/template-multistyle-magazine-cover-nanobananapro.md) — Brand & Design
+- [MAGI-2: Image to Video](video/api_magi2_i2v.md) — Video
+- [MAGI-2: Reference to Video](video/api_magi2_r2v.md) — Video
+- [MAGI-2: Text to Video](video/api_magi2_t2v.md) — Video
 - [Magnific: Style Reference](image/api_magnific_image_style_transfer.md) — Image
 - [MAI Image 2.6 Flash: Image Edit](image/api_openrouter_mai_image_26_flash_image_edit.md) — Image
 - [Mai Image 2.6 Flash: Text to Image](image/api_openrouter_mai_image_26_flash.md) — Image
@@ -1123,6 +1126,7 @@ Tags as declared in `index.json`.
 - [LTX-2: Image to Video](video/video_ltx2_i2v.md) — Video
 - [LTXV Image to Video](video/ltxv_image_to_video.md) — Video
 - [Luma Ray 3.2: Image to Video](video/api_luma_ray3_3_i2v.md) — Video
+- [MAGI-2: Image to Video](video/api_magi2_i2v.md) — Video
 - [MiniMax H3 Max: Image to Video](video/api_minimax_h3_max_i2v.md) — Video
 - [MiniMax H3: Image to Video](video/video_minimax_h3_i2v.md) — Video
 - [MiniMax H3: Reference to Video](video/api_minimax_h3_r2v.md) — Video
@@ -1201,6 +1205,7 @@ Tags as declared in `index.json`.
 - [LTX-2.5: Text to Video](video/video_ltx2_5_t2v.md) — Video
 - [LTXV Text to Video](video/ltxv_text_to_video.md) — Video
 - [Luma Ray 3.2: Text to Video](video/api_luma_ray3_3_t2v.md) — Video
+- [MAGI-2: Text to Video](video/api_magi2_t2v.md) — Video
 - [MiniMax H3 Max: Text to Video](video/api_minimax_h3_max_t2v.md) — Video
 - [MiniMax H3: Text to Video](video/api_minimax_h3_t2v.md) — Video
 - [MiniMax H3: Text to Video](video/video_minimax_h3_t2v.md) — Video
@@ -1561,6 +1566,7 @@ Tags as declared in `index.json`.
 - [HeyGen Video 1.0: Reference to Video](character-fashion/api_heygen_video_1_r2v.md) — Character & Fashion
 - [Kling 4.0: Reference to Video](video/api_kling4_r2v.md) — Video
 - [LTX-2.3 IC-LoRA: Reference Sheet Control](character-fashion/template_ltx2_3_ic_lora_ingredients.md) — Character & Fashion
+- [MAGI-2: Reference to Video](video/api_magi2_r2v.md) — Video
 - [MiniMax H3 Max Turbo: Image to Video](video/api_minimax_h3_max_turbo_i2v.md) — Video
 - [MiniMax H3 Max: Reference to Video](video/api_minimax_h3_max_r2v.md) — Video
 - [MiniMax H3: Multiframe Reference](video/video_minimax_h3_multiframe_reference.md) — Video

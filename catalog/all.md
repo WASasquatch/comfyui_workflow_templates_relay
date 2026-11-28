@@ -2,7 +2,7 @@
 
 [← Catalog](README.md)
 
-786 templates.
+789 templates.
 
 | Template | Category | Output | Models | Tags | Date | Type |
 |---|---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Ernie Image: Text to Image](image/image_ernie_image.md) | Image | image | ERNIE-Image | Text to Image | 2026-04-14 | open source |
 | [Exploded View Animation](product-ads/template_eric_exploded_view.md) | Product & Ads | video | Nano Banana 2, Seedance 2.0 | API, FLF2V, Video | 2026-03-06 | API |
 | [Face Detection: MediaPipe](image-tools/utility_face_detection_mediapipe.md) | Image Tools | image | Mediapipe | Element Segmentation | 2026-05-24 | open source |
-| [Fashion Billboard Generator](image/api_openai_fashion_billboard_generator.md) | Image | image | GPT-Image-1.5, OpenAI | Image Edit, Image, API | 2025-12-18 | API |
+| [Fashion Billboard Generator](image/api_openai_fashion_billboard_generator.md) | Image | image | GPT Image 2.6, OpenAI | Image Edit, Image, API | 2025-12-18 | API |
 | [Fashion Editorial Shots](character-fashion/templates-2x2_grid-character_bg_product.md) | Character & Fashion | image | Nano Banana Pro, Google, Google Gemini Image | API, Image Edit | 2026-01-13 | API |
 | [FastH3 OmniRef: Reference to Video](video/video_fasth3_ominiref_r2v.md) | Video | video | MiniMax H3 | Reference to Video, Video | 2026-10-20 | open source |
 | [FastVideo FastH3: Image to Video](video/video_fastvideo_fasth3_i2v.md) | Video | video | MiniMax H3 | Image to Video, Int8 | 2026-09-15 | open source |
@@ -417,6 +417,9 @@
 | [Mage-Flow-Edit Turbo: Image Edit](image/image_mage_flow_edit_turbo_int8.md) | Image | image | Mage-Flow | Image Edit, Int8 | 2026-07-27 | open source |
 | [Mage-Flow-Edit: Image Edit](image/image_mage_flow_edit_int8.md) | Image | image | Mage-Flow | Image Edit, Int8 | 2026-07-27 | open source |
 | [Mage-Flow: Text to Image](image/image_mage_flow_t2i_int8.md) | Image | image | Mage-Flow | Text to Image, Int8 | 2026-07-28 | open source |
+| [MAGI-2: Image to Video](video/api_magi2_i2v.md) | Video | video | MAGI-2 | API, Image to Video | 2026-11-28 | API |
+| [MAGI-2: Reference to Video](video/api_magi2_r2v.md) | Video | video | MAGI-2 | API, Reference to Video | 2026-11-28 | API |
+| [MAGI-2: Text to Video](video/api_magi2_t2v.md) | Video | video | MAGI-2 | API, Text to Video | 2026-11-28 | API |
 | [Magnific: Style Reference](image/api_magnific_image_style_transfer.md) | Image | image | Magnific | API, Style Reference | 2026-01-26 | API |
 | [MAI Image 2.6 Flash: Image Edit](image/api_openrouter_mai_image_26_flash_image_edit.md) | Image | image | Mai Image 2.6 | API, Image Edit | 2026-09-10 | API |
 | [Mai Image 2.6 Flash: Text to Image](image/api_openrouter_mai_image_26_flash.md) | Image | image | Mai Image 2.6 | API, Text to Image | 2026-09-09 | API |

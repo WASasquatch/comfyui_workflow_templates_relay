@@ -25,7 +25,7 @@
 | Author | PurzBeats |
 | Download size | 47.3 GB |
 | Min ComfyUI version | 0.5.0 |
-| Usage | 19 |
+| Usage | 20 |
 | Nodes | 19 |
 
 ## Inputs & outputs

@@ -24,7 +24,7 @@
 | Date | 2026-01-22 |
 | Author | PurzBeats |
 | Min ComfyUI version | 0.25.0 |
-| Usage | 20 |
+| Usage | 23 |
 | Nodes | 6 |
 
 ## Inputs & outputs

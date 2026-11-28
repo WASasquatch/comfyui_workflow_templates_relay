@@ -25,7 +25,7 @@
 | Author | ComfyUI |
 | Min ComfyUI version | 0.40.0 |
 | Distributions | cloud |
-| Usage | 446 |
+| Usage | 475 |
 | Nodes | 10 |
 
 ## Inputs & outputs

@@ -61,6 +61,7 @@ Model families as declared in `index.json`.
 | [Fish Audio](#fish-audio) | 5 |
 | [Gemini Omni 1.1 Flash](#gemini-omni-1-1-flash) | 5 |
 | [Gemini Omni 1.2 Flash](#gemini-omni-1-2-flash) | 5 |
+| [GPT Image 2.6](#gpt-image-2-6) | 5 |
 | [Kling O1](#kling-o1) | 5 |
 | [Krea 2](#krea-2) | 5 |
 | [Luma](#luma) | 5 |
@@ -77,7 +78,6 @@ Model families as declared in `index.json`.
 | [FLUX.1 Kontext](#flux-1-kontext) | 4 |
 | [FLUX.2 Dev](#flux-2-dev) | 4 |
 | [GPT Image 2.5](#gpt-image-2-5) | 4 |
-| [GPT Image 2.6](#gpt-image-2-6) | 4 |
 | [HappyHorse 1.0](#happyhorse-1-0) | 4 |
 | [Kling 2.6](#kling-2-6) | 4 |
 | [Mage-Flow](#mage-flow) | 4 |
@@ -98,6 +98,7 @@ Model families as declared in `index.json`.
 | [HappyHorse 1.1](#happyhorse-1-1) | 3 |
 | [Hunyuan Video](#hunyuan-video) | 3 |
 | [Kandinsky](#kandinsky) | 3 |
+| [MAGI-2](#magi-2) | 3 |
 | [Marigold v2](#marigold-v2) | 3 |
 | [OmniGen](#omnigen) | 3 |
 | [Qwen-Image 2512](#qwen-image-2512) | 3 |
@@ -125,7 +126,6 @@ Model families as declared in `index.json`.
 | [Fibo 2.0](#fibo-2-0) | 2 |
 | [FLUX.2](#flux-2) | 2 |
 | [Gemini-3.1-Pro](#gemini-3-1-pro) | 2 |
-| [GPT-Image-1.5](#gpt-image-1-5) | 2 |
 | [Grok Imagine Image 2.0](#grok-imagine-image-2-0) | 2 |
 | [Grok Imagine Video](#grok-imagine-video) | 2 |
 | [HeyGen Avatar 6](#heygen-avatar-6) | 2 |
@@ -176,6 +176,7 @@ Model families as declared in `index.json`.
 | [Gemini-3.1-flash-lite](#gemini-3-1-flash-lite) | 1 |
 | [Gemma 4](#gemma-4) | 1 |
 | [Genjutsu 1.0](#genjutsu-1-0) | 1 |
+| [GPT-Image-1.5](#gpt-image-1-5) | 1 |
 | [HeyGen Decision 1](#heygen-decision-1) | 1 |
 | [HeyGen Voice 1.0](#heygen-voice-1-0) | 1 |
 | [HuMo](#humo) | 1 |
@@ -1161,6 +1162,16 @@ Model families as declared in `index.json`.
 - [Gemini Omni 1.2 Flash: Video Edit](video-tools/api_google_gemini_omni_flash_1_2_edit.md) — Video Tools
 - [Video Extend: Gemini Omni 1.2 Flash](video-tools/api_google_gemini_omni_flash_1_2_extend.md) — Video Tools
 
+<a id="gpt-image-2-6"></a>
+
+## GPT Image 2.6
+
+- [Fashion Billboard Generator](image/api_openai_fashion_billboard_generator.md) — Image
+- [GPT Image 2.6 Flare: Image Edit](image/api_openai_gpt_image_26_flare_image_edit.md) — Image
+- [GPT Image 2.6 Flare: Text to Image](image/api_openai_gpt_image_26_flare_t2i.md) — Image
+- [GPT Image 2.6 Sunburst: Image Edit](image/api_openai_gpt_image_26_sunburst_image_edit.md) — Image
+- [GPT Image 2.6 Sunburst: Text to Image](image/api_openai_gpt_image_26_sunburst_t2i.md) — Image
+
 <a id="kling-o1"></a>
 
 ## Kling O1
@@ -1314,15 +1325,6 @@ Model families as declared in `index.json`.
 - [GPT Image 2.5 Flare: Text to Image](image/api_openai_gpt_image_25_flare_t2i.md) — Image
 - [GPT Image 2.5 Sunburst: Image Edit](image/api_openai_gpt_image_25_sunburst_image_edit.md) — Image
 - [GPT Image 2.5 Sunburst: Text to Image](image/api_openai_gpt_image_25_sunburst_t2i.md) — Image
-
-<a id="gpt-image-2-6"></a>
-
-## GPT Image 2.6
-
-- [GPT Image 2.6 Flare: Image Edit](image/api_openai_gpt_image_26_flare_image_edit.md) — Image
-- [GPT Image 2.6 Flare: Text to Image](image/api_openai_gpt_image_26_flare_t2i.md) — Image
-- [GPT Image 2.6 Sunburst: Image Edit](image/api_openai_gpt_image_26_sunburst_image_edit.md) — Image
-- [GPT Image 2.6 Sunburst: Text to Image](image/api_openai_gpt_image_26_sunburst_t2i.md) — Image
 
 <a id="happyhorse-1-0"></a>
 
@@ -1497,6 +1499,14 @@ Model families as declared in `index.json`.
 - [Kandinsky 5.0 Image Lite: Text to Image](image/image_kandinsky5_t2i.md) — Image
 - [Kandinsky 5.0 Video Lite Image to Video](video/video_kandinsky5_i2v.md) — Video
 - [Kandinsky 5.0 Video Lite Text to Video](video/video_kandinsky5_t2v.md) — Video
+
+<a id="magi-2"></a>
+
+## MAGI-2
+
+- [MAGI-2: Image to Video](video/api_magi2_i2v.md) — Video
+- [MAGI-2: Reference to Video](video/api_magi2_r2v.md) — Video
+- [MAGI-2: Text to Video](video/api_magi2_t2v.md) — Video
 
 <a id="marigold-v2"></a>
 
@@ -1704,13 +1714,6 @@ Model families as declared in `index.json`.
 
 - [Product Placement](product-ads/template_product_placement.md) — Product & Ads
 - [Seedance 2.0 + LLM Prompt Helper](video/template_seedance_2_0_plus_llm_prompt_helper.md) — Video
-
-<a id="gpt-image-1-5"></a>
-
-## GPT-Image-1.5
-
-- [1 input and multiple editing model comparison](image/templates-all_in_one-image_edit_models.md) — Image
-- [Fashion Billboard Generator](image/api_openai_fashion_billboard_generator.md) — Image
 
 <a id="grok-imagine-image-2-0"></a>
 
@@ -2046,6 +2049,12 @@ Model families as declared in `index.json`.
 ## Genjutsu 1.0
 
 - [Higgsfield Genjutsu: Motion Transfer](video/api_higgsfield_genjutsu_motion_transfer.md) — Video
+
+<a id="gpt-image-1-5"></a>
+
+## GPT-Image-1.5
+
+- [1 input and multiple editing model comparison](image/templates-all_in_one-image_edit_models.md) — Image
 
 <a id="heygen-decision-1"></a>
 

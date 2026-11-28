@@ -24,7 +24,7 @@
 | Date | 2025-12-06 |
 | Author | hellorob |
 | Min ComfyUI version | 0.15.0 |
-| Usage | 30 |
+| Usage | 31 |
 | Nodes | 71 |
 
 ## Inputs & outputs

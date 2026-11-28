@@ -25,7 +25,7 @@
 | Author | shane |
 | Download size | 29.6 GB |
 | Min ComfyUI version | 0.28.0 |
-| Usage | 14 |
+| Usage | 17 |
 | Nodes | 24 |
 
 ## Custom nodes required

@@ -1,6 +1,6 @@
 # ComfyUI workflow template catalog
 
-Generated from [`Comfy-Org/workflow_templates@80cc275`](https://github.com/Comfy-Org/workflow_templates/tree/80cc2752a4b090d823b007baff8e242998f1bce6/templates) (upstream commit 2026-11-27).
+Generated from [`Comfy-Org/workflow_templates@5a0d3d5`](https://github.com/Comfy-Org/workflow_templates/tree/5a0d3d5fe921e72d3dfcaa6627f45ee95bacd150/templates) (upstream commit 2026-11-28).
 
 ## Categories
 
@@ -8,7 +8,7 @@ Generated from [`Comfy-Org/workflow_templates@80cc275`](https://github.com/Comfy
 |---|---|---|---|
 | Foundation | [Image](image/README.md) | 234 | image |
 | Foundation | [Image Tools](image-tools/README.md) | 58 | image |
-| Foundation | [Video](video/README.md) | 222 | video |
+| Foundation | [Video](video/README.md) | 225 | video |
 | Foundation | [Video Tools](video-tools/README.md) | 59 | video |
 | Foundation | [Audio](audio/README.md) | 51 | audio |
 | Foundation | [3D Model](3d-model/README.md) | 53 | 3d |
